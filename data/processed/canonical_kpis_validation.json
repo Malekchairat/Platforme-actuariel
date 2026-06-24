@@ -1,0 +1,21 @@
+{
+  "total_records": 20,
+  "companies": {
+    "AMANA": 1,
+    "ASTREE": 2,
+    "BIAT": 1,
+    "BNA": 2,
+    "CARTE": 1,
+    "COMAR": 1,
+    "ETAT FINANCIER ATIJARI ASSURANCES 2025": 1,
+    "GAT": 1,
+    "HAYETT": 2,
+    "MAGHREBIA": 3,
+    "STAR": 2,
+    "TAKAFULIA": 2,
+    "ZITOUNA": 1
+  },
+  "low_confidence_records": 18,
+  "missing_full_records": 8,
+  "output_csv": "C:\\Users\\msi\\Desktop\\Copilot actuariel\\copilot_actuariel\\data\\processed\\canonical_kpis.csv"
+}

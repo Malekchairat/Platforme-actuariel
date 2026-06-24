@@ -1,0 +1,2737 @@
+Avis des sociétés
+Etats Financiers Selon Les Normes IFRS
+ASSURANCES MAGHREBIA VIE
+Siège Social : 24, Rue du Royaume d’Arabie Saoudite – 1002 Tunis –
+La société ASSURANCES MAGHREBIA VIE publie, ci-dessous, ses états financiers arrêtés
+au 31 Décembre 2025, établis selon les normes IFRS tels qu’ils seront soumis à l’approbation
+de l’Assemblée Générale Ordinaire qui se tiendra en date du 15 Mai 2026. Ces états sont
+accompagnés du rapport du commissaire aux comptes : Mme Emna RACHIKOU
+(F.M.B.Z -KPMG TUNISIE).
+ETAT DE LA SITUATION FINANCIERE (BILAN)
+Exercice Clos au 31 Décembre 2025
+ACTIF
+Notes 31/12/2025 31/12/2024
+Immobilisations incorporelles et goodwill 147 929 125 271
+Total actifs incorporels 147 929 125 271
+Immobilisations corporelles 5 7 650 008 10 938 401
+Immeubles de placement 5 26 880 381 22 720 146
+Placements financier, y compris dérivés 6 748 024 010 663 467 043
+Placements des autres activités - -
+Total placements 774 904 391 686 187 189
+Part des cessionnaires et rétrocessionnaires
+dans les provisions techniques et passifs 7 30 955 314 25 093 101
+financiers
+Créances nées des opérations d'assurance ou de
+8 8 659 423 6 626 185
+réassurance acceptée
+Créances nées des opérations de cession en réassurance 8 17 269 206 11 921 808
+Créances d’impôt exigible et autres créances d’impôt 8 19 770 594 15 462 025
+Autres créances 8 471 324 453 073
+Impôts différés actifs 5 913 923 8 947 384
+Débiteurs divers 4 822 655 5 201 893
+Autres actifs 56 907 126 48 612 368
+Actifs destinés à la vente et abandons
+- -
+d’activités
+Trésorerie et équivalents de trésorerie 11 953 287 5 473 753
+TOTAL ACTIF 882 518 054 776 430 083
+ETAT DE LA SITUATION FINANCIERE (BILAN)
+Exercice Clos au 31 Décembre 2025
+PASSIF
+Notes 31/12/2025 31/12/2024
+Capital 25 000 000 25 000 000
+Primes d’émission 25 400 000 25 400 000
+Réserves 78 737 181 67 635 161
+Résultats reportés 3 270 827 - 3 089 545
+Résultat de la période 30 233 040 26 535 372
+Variations d’actifs et passifs comptabilisées directement en
+3 912 633 1 361 920
+capitaux propres*
+Capitaux propres 4 166 553 680 142 842 908
+Dettes de financement - -
+Provisions techniques brutes - contrats d’assurance hors UC 107 676 303 102 932 535
+Passifs relatifs à des contrats d’assurance 9 107 676 303 102 932 535
+Passifs relatifs à des contrats financiers hors UC avec
+535 216 812 465 590 820
+participation discrétionnaire
+Passifs relatifs à des contrats financiers hors UC sans
+- -
+participation discrétionnaire
+Passifs relatifs à des contrats financiers en UC 17 311 799 14 377 421
+Passifs relatifs à des contrats financiers 9 552 528 612 479 968 241
+Passifs relatifs aux contrats 9 660 204 915 582 900 776
+Provisions pour risques et charges 162 387 39 140
+Dettes pour dépôts en espèces reçues des
+10 30 891 911 25 025 330
+cessionnaires
+Dettes nées des opérations d’assurance ou de réassurance
+4 893 130 3 398 223
+acceptés
+Dettes nées des opérations de réassurance cédée 1 003 355 5 829 790
+Dettes d’impôt exigible et autres dettes d’impôt 2 851 018 1 841 259
+Impôts différés passifs 9 788 722 9 140 418
+Autres dettes 6 168 936 5 412 241
+Autres passifs 24 705 161 25 621 930
+Passifs des activités destinées à être cédées ou
+- -
+abandonnées
+TOTAL PASSIF 882 518 054 776 430 083
+COMPTE DE RESULTAT
+Exercice Clos au 31 Décembre 2025
+Notes 31/12/2025 31/12/2024
+Primes émises et acceptées 136 066 817 127 386 450
+Variation de la provision pour primes non acquises - -
+Primes acquises 11 136 066 817 127 386 450
+Autres produits d’exploitation - -
+Produits des placements nets de charges 52 857 911 49 783 853
+Plus et moins-values de cession des placements 3 655 800 - 623 630
+Variation de juste valeur des placements comptabilisés à
+5 470 709 3 225 013
+la juste valeur par résultat
+Variation des dépréciations sur placements 8 493 190 3 181 394
+Total des produits financiers nets de charges 12 70 477 609 55 566 630
+Total des produits des activités ordinaires 206 544 426 182 953 080
+Prestations payés - 65 849 318 - 63 113 729
+Variation des provisions - 74 369 760 - 58 789 276
+Charges des prestations des contrats 13 - 140 219 078 - 121 903 005
+Produits des cessions en réassurance 12 736 931 9 024 206
+Charges des cessions en réassurance - 13 033 250 - 11 668 276
+Charges ou produits nets des cessions en
+- 296 319 - 2 644 070
+réassurance
+Charges et produits des autres activités - 1 580 503 - 121 546
+Frais d’acquisition des contrats 14 - 16 523 775 - 15 520 335
+Frais d’administration 14 - 8 052 740 - 7 959 285
+Autres produits et charges opérationnels courants 14 - 804 818 - 1 261 694
+Total des autres produits et charges courants - 26 961 836 - 24 862 861
+Résultat opérationnel courant 39 067 193 33 543 143
+Autres produits et charges opérationnels non courants - 1 551 320 - 1 223 500
+Résultat opérationnel 37 515 873 32 319 643
+Charges de financement - -
+Variations de valeurs des immobilisations - 18 109 - 18 109
+Résultat provenant des activités ordinaires 37 497 764 32 301 534
+Impôts sur les résultats 15 - 7 264 724 - 5 766 162
+Résultat après impôt des activités discontinues - -
+Résultat net 30 233 040 26 535 372
+Résultat par action 1,209 1,061
+Résultat dilué par action 1,209 1,061
+Résultat global de la période 32 783 752 22 991 975
+AUTRES ÉLEMENTS DU RESULTAT GLOBAL
+Exercice Clos au 31 Décembre 2025
+31/12/2025 31/12/2024
+Résultat net de la période 30 233 040 26 535 372
+Autres éléments du résultat global de la période
+Éléments recyclables en résultat
+- -
+(Éléments susceptibles d’être reclassés en résultat)
+Actifs disponibles à la vente - -
+Variation de la réserve de réévaluation sur la période
+Reclassement en résultat relatif aux cessions
+Reclassement en résultat des dépréciations
+Sous-total brut de participation et d’impôts différés
+Participation aux bénéfices différée brute d’impôts différés
+Impôts différés
+Dont variation de la réserve de réévaluation des actifs destinés à
+la vente
+Sous-total net de participation et d’impôts différés
+Actifs financier - -
+Instruments de dette à la juste valeur par le biais des autres
+éléments du résultat global –variation nette de la juste valeur
+Instruments de dette à la juste valeur par le biais des autres
+éléments du résultat global –reclassés en résultat
+Impôts différés
+Éléments non recyclables en résultat
+2 550 713 - 3 543 396
+(Éléments qui ne seront pas reclassés ultérieurement en résultat)
+Réévaluation des immobilisations corporelles - -
+Réévaluations du passif (de l’actif) au titre des régimes à
+- 164 106 - 102 991
+prestations définies
+Instruments de capitaux propres à la juste valeur par le biais des
+3 564 204 - 4 289 480
+autres éléments du résultat global – variation nette de juste valeur
+Autres variations - -
+Impôts différés /Réev Immo - 849 386 849 075
+Total des Autres éléments du résultat global de la
+2 550 713 - 3 543 396
+période nets d’impôt
+Résultat global de la période 32 783 752 22 991 975
+ETAT DE FLUX DE TRESORERIE
+Exercice Clos au 31 Décembre 2025
+31/12/2025 31/12/2024
+Flux de trésorerie liés à l'exploitation 10 084 926 12 763 693
+Encaissements des primes reçues des assurés 111 339 328 110 935 999
+Sommes versées pour paiement des sinistres -61 807 327 -54 674 841
+Encaissements des primes reçues (acceptations) 1 500 000 881 195
+Décaissements de primes sur les cessions -5 797 709 -997 354
+Commissions versées aux intermédiaires -4 415 853 -4 426 889
+Sommes versées aux fournisseurs et au personnel -7 879 930 -8 065 675
+Décaissements liés à l'acquisition des placements financiers -351 455 166 -127 201 056
+Encaissements liés à la cession de placements financiers 323 375 889 92 794 058
+Remboursements de prêts 680 441 1 306 822
+Taxes sur les assurances versées au Trésor -6 494 834 -6 387 651
+Produits financiers reçus 10 960 411 8 587 357
+Autres mouvements 79 676 11 728
+Flux de trésorerie liés aux activités d'investissements -268 371 -6 170 884
+Décaissements provenant de l'acquisition d'immo. corporelles et
+-189 439 -87 031
+incorporelles
+Décaissements provenant de l'acquisition de terrains et constructions
+-78 932 -6 083 852
+destinés à l'exploitation
+Flux de trésorerie liés aux activités de financement -9 197 423 -8 136 588
+Dividendes et autres distributions -9 197 423 -8 136 588
+Incidence des variations de taux de change sur les liquidités
+0 0
+ou équivalents de liquidité
+Variation de trésorerie 619 132 - 1 543 778
+Trésorerie de début d'exercice 1 702 300 3 246 078
+Trésorerie de fin d'exercice 2 321 432 1 702 300
+TABLEAU DE VARIATION DES CAPITAUX PROPRES
+EXERCICE CLOS AU 31/12/2025
+Réserves Pour Autres Effets de Total des
+Prime Réserves Réserves pour Autres Résultats Écarts de Résultats de
+Capital Social Réinvestissem Elements du modification capitaux
+d'émissions légales Fonds Socilal Réserves reportés conversion l'exercice
+ents résultat global Comptable
+propres
+CAPITAUX PROPRES AU
+25 000 000 25 400 000 2 500 000 14 832 808 1 036 916 49 265 437 -3 089 545 0 26 535 372 1 361 920 0 142 842 908
+01/01/2025
+■ Distribution de dividendes ‐9 075 000 ‐9 075 000
+■ Mouvements sur fond social 110 000 ‐110 000 0
+■ Mouvements sur les reserves 10 990 000 ‐10 990 000 0
+■ Actions propres nettes d’impôt 0
+■ Autres variations 2 020 6 360 372 ‐6 360 372 2 550 713 2 552 733
+■ Résultat 2024 30 233 040 30 233 040
+CAPITAUX PROPRES AU
+25 000 000 25 400 000 2 500 000 14 832 808 1 148 936 60 255 437 3 270 827 0 30 233 040 3 912 633 0 166 553 680
+31/12/2025
+NOTES AUX ETATS FINANCIERS
+EXERCICE CLOS AU 31/12/2025
+1. Présentation générale
+Fondée en 2009, ASSURANCES MAGHREBIA VIE est un acteur de référence en
+matière d’assurance vie sur le marché Tunisien avec une expertise confirmée.
+Dénomination : Assurances Maghrebia Vie
+Forme juridique : Société anonyme faisant appel public à l’épargne
+Siège Social : 24 Rue d’Arabie Saoudite Tunis Belvédère – Tunis
+Capital social : 25 000 000 de dinars divisés en 25 000 000 actions de valeur
+nominale 1 dinars chacune entièrement libérées.
+Nationalité : Tunisienne
+Président du Conseil d’Administration : Monsieur Mohamed Nabil ESSASSI
+Directeur Général : Monsieur Sébastien SANCHEZ
+Exercice social : du 1er janvier au 31 décembre de chaque année
+Régime fiscal :
+Législation applicable : Loi N° 92-24 du 9 mars 1992 portant promulgation du
+code des assurances
+Branches exploitées : Branche vie
+2. Faits marquants de l’exercice
+Les résultats réalisés par la compagnie au 31-12-2025 sont en ligne avec ses objectifs
+et les actions entreprises s’inscrivent dans la continuité de ses orientations
+stratégiques.
+La société a poursuivi sa croissance en enregistrant les chiffres suivants :
+- Au 31 décembre 2025, la compagnie a réalisé un chiffre d’affaires de
+145 033 234 Dinars contre 129 966 861 DT au 31 décembre 2024, soit une progression
+de 11,59%.
+- Les passifs relatifs aux contrats d’assurance totalisent 107 676 303 Dinars au
+31 Décembre 2025 contre 102 932 535 Dinars au 31 Décembre 2024.
+- Les passifs relatifs aux contrats financiers totalisent 552 528 612 Dinars au 31
+Décembre 2025 contre 479 968 241 Dinars au 31 Décembre 2024.
+- Les produits financiers nets s’élèvent au 31 Décembre 2025 à 70 477 609
+Dinars contre 55 566 630 Dinars au 31 Décembre 2024.
+- Le résultat net a atteint 30 233 040 Dinars au 31 Décembre 2025 contre
+26 535 372 Dinars au 31 Décembre 2024.
+- Le résultat Global de la période s’élève à 32 783 752 Dinars au 31 Décembre 2025.
+3. Présentation des principes et informations significatives sur les1
+méthodes comptables
+Ces états financiers sont élaborés conformément aux conventions, principes et
+méthodes comptables prévus par le cadre conceptuel internationales ainsi que par les
+normes internationales d’information financière2 (« IFRS ») et les interprétations
+IFRIC (« International Financial Reporting Interpretation Committee »).
+En l’absence de modèle imposé par le référentiel IFRS, le format des états de synthèse
+utilisé pour la présentation des données relatives à l’exercice 2025 a été établi en
+cohérence avec celui proposé par les sociétés d’assurance et de réassurance à
+l’échelle internationale.
+1 Selon l’amendement de l’IAS portant sur la limitation des informations
+2 Hors la norme IFRS 17 « Contrats d’assurance »
+Les états financiers comprennent :
+ L’état de la situation financière ;
+ L’état du résultat global présenté sous forme d’un seul état regroupant à la
+fois le résultat net et les autres éléments du résultat global ;
+ Le tableau de variation des capitaux propres ;
+ Le tableau des flux de trésorerie ;
+ Les notes annexes aux états financiers.
+L’état des flux de trésorerie présente les variations de trésorerie sur la période, liées
+aux activités d’exploitation, d’investissement et de financement.
+Les flux de trésorerie provenant des activités d’exploitation sont déterminés en
+utilisant la méthode directe. La répartition des flux de trésorerie entre flux
+d’exploitation, d’investissement et de financement repose sur le modèle économique
+de la compagnie.
+Les informations présentées dans les notes annexes aux états financiers se
+concentrent sur celles qui revêtent un caractère pertinent et matériel au regard des
+états financiers de la compagnie, de ses activités et des circonstances dans lesquelles
+celles-ci se sont réalisées au cours de la période.
+3.1.La continuité d’exploitation
+A la date de l’approbation des présents états financiers, la direction s’attend
+raisonnablement à ce que Assurances Maghrebia Vie dispose des ressources
+adéquates pour poursuivre son exploitation dans un avenir prévisible. La direction
+continue donc d’adopter la base de la continuité de l’exploitation pour établir les états
+financiers annuels.
+3.2. La monnaie fonctionnelle et de présentation
+Les états financiers sont présentés en Dinar Tunisien, qui est la monnaie fonctionnelle
+des sociétés de groupe.
+3.3. Recours aux jugements professionnel
+Afin d’élaborer les états financiers en norme IFRS, la direction a exercé des
+jugements, a fait des estimations et a admis des hypothèses ayant des impacts sur
+l’application des méthodes comptables et sur les montants des actifs et des passifs, et
+des produits et des charges.
+Les estimations et les hypothèses sous-jacentes sont réexaminées de façon continue.
+L’impact des changements d’estimation est comptabilisé d’une manière prospective.
+Ainsi est en particulier le cas :
+ De l’analyse du critère des flux de trésorerie de certains actifs
+financiers ;
+ Les dépréciations pour risque de crédit des actifs financiers au coût
+amorti et les actifs financiers à la juste valeur par autres éléments du
+résultat global dont l’évaluation dépend de modèles et paramètres
+internes basés sur des données historiques, courantes et prospectives.
+L’évaluation concerne plus particulièrement l’appréciation de la
+dégradation du risque de crédit observée depuis la comptabilisation
+initiale des actifs financiers et l’évaluation du montant des pertes de
+crédit attendues sur ces mêmes actifs financiers ;
+ De l’estimation des passifs relatifs à des contrats d’assurance ;
+ De l’évaluation des autres provisions destinées à couvrir les risques de
+pertes et charges. L’estimation de ces provisions est basée sur les
+informations disponibles à la date d’établissement des comptes ;
+ Des justes valeurs des instruments des capitaux propres non cotés ;
+ Des justes valeurs des immeubles de placements ;
+ Des actifs et passifs d’impôts différés comptabilisés.
+Par ailleurs, un degré important de jugement a été utilisé pour déterminer l’adéquation
+de la provision pour sinistres à régler et sinistres encourus mais non déclarés à la date
+du bilan. Le compte de résultat comprend également des estimations de primes, de
+sinistres et de charges qui n’avaient pas été reçues des cédantes à la date de clôture des
+états financiers.
+Ces estimations sont faites sur la base d’informations historiques, d’analyses
+actuariels, des projections macroéconomiques et d’autres techniques analytiques. Les
+résultats réels peuvent différer de ces estimations.
+3.4. Secteurs opérationnels
+Conformément aux critères du regroupement prévus par la norme IFRS 8 « Secteurs
+opérationnels », Assurances Maghrebia Vie est considéré comme une société à un
+secteur opérationnel unique.
+3.5.Les bases de mesures
+Les éléments inscrits en comptabilité sont évalués par référence à la convention du
+coût historique, à l’exception des instruments financiers, des immeubles de
+placements, des immobilisations corporelles
+3.6. La notion de Juste Valeur
+Certaines méthodes comptables et options choisies par le groupe exigent le recours à
+l’évaluation en juste valeur.
+Dans ce cadre Assurances Maghrebia Vie a fait recours à la notion de juste valeur
+principalement lors d’évaluation des instruments financiers, les immeubles de
+placement et les immobilisations corporelles (immeubles et terrains).
+La compagnie utilise les données observables, fiables et disponibles pour la
+détermination de juste valeur, tout en respectant la contrainte avantage coût de
+l’information.
+IFRS 13 définit La juste valeur comme étant le prix qui serait reçu pour la vente d’un
+actif ou payé pour le transfert d’un passif lors d’une transaction conclue à des
+conditions normales entre des participants de marché, sur le marché principal ou sur le
+marché le plus avantageux, à la date d’évaluation.
+La norme IFRS 13 « Juste Valeur » distingue trois niveaux de juste valeur en fonction
+de la pertinence des données utilisées :
+- Niveau 1 : l’utilisation d’un cours observé sur un marché actif des actifs
+ou passifs identiques, et sans faire des ajustements (sauf dans les
+circonstances particulières). Les caractéristiques d’un marché actif
+incluent l’existence d’un volume et d’une fréquence suffisants de
+transactions ainsi qu’une disponibilité continue des prix.
+- Niveau 2 : l’utilisation des données observables, directement ou
+indirectement, autres que celles de marché actif des actifs ou passifs
+identiques, ajustées pour éliminer une éventuelle divergence, telle que
+l’évaluation des immeubles de placement qui est fondée sur les prix de
+transactions récentes des biens similaires.
+- Niveau 3 : l’utilisation des techniques de valorisation reposant sur des
+données non observables. Une donnée observable est définie comme un
+paramètre dont la valeur résulte d’hypothèses et qui ne reposent ni sur des
+prix de transaction, ni sur des données de marché observables sur la même
+date. Exemple des actifs évalués selon le 3éme niveau : les actions non
+cotées.
+Si les données utilisées lors de l’évaluation de la juste valeur d’un actif ou d’un passif
+sont des différents niveaux de la hiérarchie de la juste valeur, la juste valeur obtenue
+est alors classée globalement au même niveau de hiérarchie que la donnée d’entrée du
+plus bas niveau et qui est considérée significative par rapport à l’ensemble des données
+utilisées.
+Principes relatifs aux méthodes d’évaluation des immeubles de placement
+Les placements immobiliers de groupe sont évalués en juste valeur par le biais du
+résultat. Les immeubles adossés aux fonds propres du groupe sont comptabilisés à la
+juste valeur par le biais des autres éléments du résultat global.
+Les immeubles de placement font l’objet d’une expertise chaque 4 ans. Les justes
+valeurs de ces actifs à la date de présentation auxquelles ces derniers n’ont pas fait
+l’objet d’une expertise sont déterminées en se référant à l’indice des prix de
+l’immobilier publié par l’INS (Institut National de Statistique).
+Les techniques de valorisation retenues par les experts sont basées principalement sur
+la comparaison avec les transactions comparables sur le marché, afin de traduire les
+tendances de marché. Le volume de transactions sur le marché reste globalement
+suffisant pour garantir une disponibilité des données sources, ainsi que l’indice des
+prix de l’immobilier est observable sur le marché, ce qui conduit à considérer que les
+justes valeurs des actifs sont des justes valeurs de deuxième niveau.
+Principes relatifs aux méthodes d’évaluation des instruments financiers
+Tous les instruments de capitaux propres sont évalués en juste valeur, que ce soit par
+le biais de résultats nets ou par le biais de résultat net ou par les autres éléments de
+résultat global en fonction de l’objectif de modèle de gestion.
+Assurances Maghrebia Vie distingue trois catégories d’instruments selon le niveau de
+détermination de juste valeur :
+Catégorie 1 : les instruments financiers faisant l’objet de cotations sur un marché
+actif
+Les justes valeurs de la majeure partie des instruments de capitaux propres sont
+déterminées à partir des cours boursiers ou des valeurs liquidatives. Sont ainsi
+concernés :
+- Les actions cotées : le cours boursier
+- Les parts en Fonds communs de placement : La valeur liquidative
+- BTA (Bons de trésor Assimilables) cotés : Le cours boursier
+- Emprunts Obligataires cotés : le cours boursier
+Remarque : en ce qui concerne les BTA et les emprunts obligataires ; le marché
+secondaire des BTA et des emprunts obligataires cotés est caractérisé par la rareté des
+transactions. L’absence des transactions récentes stipule que le marché est considéré
+comme un marché non actif ; d’où Maghrebia Vie fait appel à d’autres techniques
+d’évaluation : les prix selon le marché gré à gré ou la valeur du marché déterminée par
+l’actualisation des flux selon les courbes des taux élaborés par Tunisie clearing (la
+courbe des taux de BTA et de l’emprunt national et la courbe des taux Corporate
+(Leasing)).
+Catégorie 2 : les instruments financiers dont l’évaluation fait appel à l’utilisation
+de techniques de valorisation reposant sur des données observables sur le marché.
+Il s’agit des instruments financiers évalués selon le deuxième niveau de détermination
+de juste valeur selon la norme IFRS 13 « Juste Valeur » Cette catégorie comprend :
+- Les instruments non cotés traités de gré à gré ;
+- Les emprunts obligataires non cotés évalués selon la courbe des taux ;
+- Les actions non cotées évaluées selon la méthode des multiples boursiers
+(permet d’évaluer les participations non cotées en les comparant avec des
+transactions similaires sur le marché s’elles existent).
+Catégorie 3 : les instruments financiers dont l’évaluation fait appel à l’utilisation
+de techniques de valorisation reposant sur des données non observables sur le
+marché
+Les données non observables sont définies comme des paramètres résultant
+d’hypothèses qui ne reposent pas sur des prix observables ni sur des autres paramètres
+observables sur le marché.
+Cette catégorie comprend les participations non cotées détenues par le groupe et les
+parts dans les fonds de placements à risque.
+Les méthodes de valorisation de ces instruments font appel à des informations non
+disponibles sur un marché actif.
+Les principales méthodes utilisées :
+- La méthode d’actualisation des dividendes futurs,
+- La Valeur mathématiques.
+Le tableau suivant représente le classement des instruments financiers par niveau de
+juste valeur :
+Juste Valeur
+Niveau 3: titres valorisés
+Niveau 1: titres négociés Niveau 2: titres valorisés
+selon une technique de
+sur un marché actif , selon une technique de
+valorisation n'utilisant pas
+valorisés selon les valorisation utilisant des
+uniquement des données
+dernières cotations données observables
+de marché observables
+Action cotée 53 473 812 - -
+Action non cotée - 15 035 900 59 019 891
+Fonds Communs de
+Placement 29 785 587 - -
+Fonds Communs de
+Placements à Risque - - 11 258 889
+Total 8 3 259 400 1 5 035 900 7 0 278 781
+3.7.Activités abandonnées
+Au 31 décembre 2025, Assurances Maghrebia Vie ne présente pas aucune activité
+abandonnée.
+3.8.Actifs non courants détenus en vue de la vente
+Les actifs non courants ou les groupes d’actifs et passifs sont classés comme actifs
+détenus en vue de la vente, s'il est hautement probable qu'ils soient recouvrés
+principalement par le biais d’une vente plutôt que par l’utilisation continue. De tels
+actifs (ou groupes destinés à être cédés) sont généralement comptabilisés au montant
+le plus faible entre la valeur comptable et la juste valeur diminuée des coûts de la vente,
+et présentés séparément.
+Assurances Maghrebia Vie ne détient pas au 31 Décembre 2025 des actifs détenus en
+vue de la vente.
+3.9.Immobilisations corporelles et incorporelles
+Les immobilisations inscrites au bilan comprennent les immobilisations corporelles et
+incorporelles d’exploitation ainsi que les immeubles de placement. Les droits
+d’utilisation relatifs aux actifs pris en location sont présentés dans les postes
+d’immobilisations correspondant aux actifs similaires détenus.
+Les immobilisations d’exploitation détenues par Assurances Maghrebia Vie sont
+utilisées à des fin administratives. Les droits d’utilisation relatifs aux actifs pris en
+location incluent les biens immobiliers donnés en location simple.
+Les immeubles de placement sont des biens immobiliers détenus pour valoriser le
+capital investi.
+3.9.1. Immobilisations corporelles
+i. Comptabilisation et évaluation
+Une immobilisation corporelle est évaluée au coût, augmenté des frais directement
+attribuables, et des coûts d’emprunt encourus lorsque la mise en service des
+immobilisations est précédée d’une longue période de construction ou d’adaptation,
+diminué du cumul des amortissements et de cumul des pertes de valeur. Ultérieurement
+les immeubles et les terrains sont réévalués selon le modèle de réévaluation
+conformément à la norme IAS 16 « Immobilisations corporelles »
+Lorsque des composants significatifs des immobilisations corporelles ont des durées
+d’utilité différentes, ils sont comptabilisés en tant qu’immobilisations corporelles
+distinctes (composants majeurs).
+Vu la non-volatilité du marché immobilier en Tunisie, Assurances Maghrebia Vie a
+opté pour une fréquence de 4 ans pour la réévaluation de ses immeubles du
+placement.
+Lorsque la valeur comptable d’un actif est augmentée à la suite d’une réévaluation,
+l’augmentation doit être comptabilisée dans les autres éléments du résultat global et
+cumulée avec les capitaux propres.
+Lorsque, à la suite d’une réévaluation, la valeur comptable d’un actif diminue, cette
+diminution doit être comptabilisée en résultat net. Toutefois, la diminution de la
+réévaluation doit être comptabilisée dans les autres éléments du résultat global dans
+la limite de l’écart de réévaluation créditeur pour ce même actif. La diminution de
+réévaluation comptabilisée dans les autres éléments du résultat global réduit le
+montant accumulé en capitaux propres sous la rubrique écart de réévaluation.
+Toutefois, l’augmentation doit être comptabilisée en résultat net dans la mesure où
+elle compense une diminution de réévaluation du même actif, précédemment
+comptabilisée en résultat net.
+Le profit ou la perte sur cession d’immobilisations corporelles est comptabilisé en
+résultat net.
+ii. Dépenses ultérieures
+Les dépenses ultérieures sont activées uniquement s'il est probable que les avantages
+économiques futurs associés à cet élément iront à la Société.
+iii. Amortissement
+L'amortissement est calculé de manière à répartir intégralement le coût de
+l’immobilisation corporelle, après déduction de sa valeur résiduelle, selon un mode
+linéaire sur la durée d'utilité estimée, et est généralement comptabilisé en résultat. Les
+terrains ne sont pas amortis. Les taux d’amortissement appliqués pour les
+immobilisations corporelles pour la période en cours et la période comparative sont les
+suivantes :
+Matériel de transport 20%
+Agencement & Aménagement 10%
+Equipement de bureau 10%
+Equipement informatique 15%
+Assurances Maghrebia Vie estime que la valeur résiduelle des différents actifs détenus
+est négligeable et donc non significative dans le calcul du montant amortissable.
+Les modes d’amortissement, les durées d’utilité et les valeurs résiduelles sont revus à
+chaque date de clôture et ajustés si nécessaire.
+iv. Reclassement en immeubles de placement
+Lorsqu’un bien immobilier occupé par Assurances Maghrebia Vie devient un
+immeuble de placement, l’immeuble est réévalué à la juste valeur et reclassé en
+conséquence. Tout gain résultant de la réévaluation est comptabilisé en résultat dans
+la mesure où il compense une dépréciation antérieure sur ce bien spécifique, le gain
+additionnel étant comptabilisé en autres éléments du résultat global et présenté dans la
+réserve de réévaluation. Toute perte est comptabilisée en résultat. Si toutefois un
+montant est inscrit dans la réserve de réévaluation au titre de ce bien, alors la perte est
+comptabilisée dans les autres éléments du résultat global et vient réduire la réserve de
+réévaluation dans les capitaux propres.
+3.9.2. Immobilisations incorporelles
+Les immobilisations incorporelles sont des actifs identifiables, contrôlés par
+Assurances Maghrebia Vie du fait d’événements passés et à partir desquels on s’attend
+à ce que des avantages économiques futurs bénéficient à l’entité. Elles comprennent
+principalement les logiciels acquis et crées.
+L'amortissement est calculé de manière à répartir intégralement le coût de
+l’immobilisation incorporelle, après déduction de sa valeur résiduelle, selon un mode
+linéaire sur la durée d'utilité estimée, et est généralement comptabilisé en résultat net.
+Le goodwill n'est pas amorti.
+Les logiciels acquis et créés ont une durée de vie finie et sont amortis en règle générale
+linéairement sur cette durée de vie. Les durées d’utilité estimées pour la période en
+cours et la période comparative est de 3 à 8 ans.
+Les autres immobilisations incorporelles qui n’ont pas de durée de vie finie ne sont
+pas amorties mais font l’objet d’un test systématique de dépréciation.
+Les modes d’amortissement, les durées d’utilité et les valeurs résiduelles sont revus à
+chaque date de clôture et ajustés si nécessaire.
+Les frais d’établissement ne sont pas immobilisés mais comptabilisés en charges.
+3.10. Immeubles de placement
+Les immeubles de placement sont évalués initialement au coût puis ultérieurement à
+la juste valeur, toute variation en résultant étant comptabilisée en résultat net. Le profit
+ou la perte sur cession d'un immeuble de placement (correspondant à la différence
+entre le produit de cession net et la valeur comptable de l’immobilisation) est
+comptabilisé dans le compte de résultat. Lorsqu'un immeuble de placement qui était
+préalablement classé en immobilisation corporelle est vendu, tout montant liée inclus
+dans la réserve de réévaluation est transféré dans le poste « résultats non distribués ».
+Les revenus locatifs provenant des immeubles de placement sont comptabilisés en
+autres produits sur une base linéaire sur toute la durée de location. Les avantages
+consentis au titre d’un contrat de location font partie intégrante du total net des revenus
+locatifs, sur toute la durée du contrat de location.
+3.11. Actifs et passifs financiers
+Les actifs et les passifs financiers sont comptabilisés lorsque Assurances Maghrebia
+Vie devient partie aux dispositions contractuelles de l’instrument financier.
+Les actifs financiers sont décomptabilisés lorsque les droits contractuels sur les flux
+de trésorerie liés à un actif financier arrivent à expiration, ou lorsqu’un actif financier
+et la quasi-totalité des risques et avantages sont transférés.
+Un passif financier est décomptabilisé en cas d’extinction, de résiliation, d’annulation
+ou d’expiration.
+Le classement des actifs financiers
+À l’exception des créances envers les assurés qui sont évaluées dans le cadre de la
+norme IFRS 4 « contrats d’assurance », tous les actifs financiers sont évalués à la juste
+valeur lors de la comptabilisation initiale, et évalués ultérieurement selon l’un des
+modèles suivants :
+o Au coût amorti ;
+o À la juste valeur par le biais du résultat net (JVRN) ;
+o À la juste valeur par le biais des autres éléments du résultat global
+(JVAERG).
+Les actifs financiers ne sont pas reclassés à la suite de leur comptabilisation initiale,
+sauf si une entité change de modèle économique de gestion des actifs financiers. Le
+cas échéant, l’ensemble des actifs financiers concernés est reclassé le premier jour de
+la première période de reporting suivant le changement de modèle économique.
+Le classement dépend à la fois :
+o Du modèle économique que suit l’entité pour la gestion des actifs
+financiers ;
+o Des caractéristiques des flux de trésorerie contractuels de l’actif
+financier.
+Le Conseil d’Administration a décidé, conformément à la stratégie de la société,
+d’adopter les modèles économiques suivants prévus par la norme IFRS 9 «
+Instruments Financiers » :
+o Le modèle économique Held To Collect pour les instruments financiers
+de dettes (BTA, emprunts obligataires, certificats de dépôt et les
+comptes à terme).
+o Le modèle économique Trading et/ou Investissement pour les titres
+cotés hors Groupe.
+o Le modèle économique Investissement pour les titres non cotés hors
+Groupe.
+Toutefois Maghrebia Vie a opté pour le modèle économique
+Investissement pour la participation UIB, bien qu’il s’agisse d’une
+participation cotée.
+o Le modèle économique Trading pour les FCP hors Groupe.
+o Le modèle économique Investissement pour les FCPR hors Groupe.
+o Les titres détenus dans les filiales sont évalués selon la norme IFRS 9
+comme il est permis par le paragraphe 10 de la norme IAS27, en
+adoptant le modèle de juste valeur par capitaux propres.
+3.11.1. Actifs financiers au coût amorti
+Les actifs financiers sont classés au coût amorti si les deux critères suivants sont
+remplis :
+ Le modèle de gestion consiste à détenir l’instrument afin d’en
+collecter les flux de trésorerie contractuels (« collecte ») et
+ Les flux de trésorerie sont uniquement constitués de paiements
+relatifs au principal et d’intérêts sur le principal.
+Critère du modèle de gestion
+Les actifs financiers sont gérés en vue de collecter des flux de trésorerie par la
+perception des paiements contractuels sur la durée de vie de l’instrument. La
+réalisation de cessions proches de l’échéance de l’instrument et pour un montant
+proche des flux de trésorerie contractuels restant dus ou en raison d’une hausse du
+risque de crédit de la contrepartie est compatible avec un modèle de gestion « collecte».
+Les ventes imposées par des contraintes réglementaires ou pour gérer la concentration
+du risque de crédit (sans augmentation du risque de crédit) sont elles aussi compatibles
+avec ce modèle de gestion dès lors qu’elles sont peu fréquentes ou peu significatives
+en valeur.
+Critère des flux de trésorerie
+Le critère des flux de trésorerie est satisfait si les modalités contractuelles de
+l’instrument de dette donnent lieu, à des dates spécifiques à des flux de trésorerie qui
+sont seulement des remboursements du principal et des versements d’intérêts sur le
+principal restant dû.
+Aux fins de cette évaluation, le terme « principal » désigne la juste valeur de l’actif
+financier lors de sa comptabilisation initiale. Les « intérêts » désignent la contrepartie
+pour la valeur temps de l'argent, le risque de crédit associé au principal restant dû pour
+une période donnée et les autres risques et frais qui se rattachent à un prêt de base (par
+exemple, risque de liquidité et charges administratives), ainsi que d'une marge.
+Une entité doit considérer les modalités contractuelles de l’instrument financier
+lorsqu’elle doit déterminer si des flux de trésorerie contractuels correspondent
+uniquement à des remboursements de principal et à des versements d'intérêts sur le
+principal restant dû. Il faut notamment évaluer si l’actif financier comprend une
+modalité contractuelle susceptible de modifier l'échéancier ou le montant des flux de
+trésorerie contractuels de sorte qu’il ne satisfasse plus à cette condition.
+Lors de cette évaluation, chaque entité tient compte des éléments suivants :
+ Les éventualités qui pourraient modifier le montant ou l'échéancier
+des flux de trésorerie ;
+ Les conditions susceptibles d’ajuster le taux contractuel du coupon,
+notamment les caractéristiques de taux variable ;
+ Les clauses de remboursement anticipé et de prolongation ; et
+ Les conditions limitant les recours de Assurances Maghrebia Vie pour
+obtenir les flux de trésorerie d’actifs déterminés (par exemple, dans le
+cas d'un actif financier garanti uniquement par sûreté réelle).
+ Ainsi, lorsque le taux d’intérêt variable de l’actif financier est révisé
+périodiquement, ou lorsqu’un complément variable du taux d’intérêt
+de l’actif financier est révisé périodiquement selon une fréquence qui
+concorde avec la durée pour laquelle le taux d’intérêt est établi, pour
+refléter le rendement requis par les souscripteurs, la valeur temps de
+l’argent ne peut pas être considérée comme altérée, et le critère « SPPI
+» se trouve par conséquent non respecté.
+Comptabilisation initiale
+Les actifs financiers sont comptabilisés initialement au bilan lorsque Assurances
+Maghrebia Vie devient partie aux dispositions contractuelles de l’instrument. Les
+achats et ventes d’actifs financiers effectués dans un délai défini par la règlementation
+(Délais de règlement livraison) ou par une convention sur un marché donné sont
+comptabilisés au bilan en date de règlement. Lors de leur comptabilisation initiale, les
+actifs financiers sont comptabilisés à leur juste valeur, y compris les coûts de
+transaction directement imputables à l’opération.
+Evaluation ultérieure
+Après leur comptabilisation initiale, ils sont évalués au coût amorti en utilisant la
+méthode du taux d’intérêt effectif. L’actualisation est omise si son effet est non
+significatif.
+3.11.2. Actifs financiers à la juste valeur par le biais des autres éléments du
+résultat global
+Instruments de dette
+Les instruments de dette sont classés à la juste valeur par le biais des autres éléments
+du résultat global si les deux critères suivants sont réunis :
+ Critère du modèle de gestion : les actifs financiers sont détenus dans
+un modèle de gestion dont l’objectif est atteint à la fois par la
+perception des flux de trésorerie contractuels et la vente des actifs
+financiers (« collecte et vente »). Cette dernière n’est pas accessoire
+mais fait partie intégrante du modèle de gestion ;
+ Critère des flux de trésorerie : les principes sont identiques à ceux
+applicables aux actifs financiers au coût amorti.
+Peuvent être classés dans cette catégorie les instruments de dettes qui sont détenus en
+vue de collecter les flux contractuels ou d’être vendus et respectent les critères des flux
+de trésorerie.
+Lors de leur comptabilisation initiale, les actifs financiers sont comptabilisés à leur
+valeur de marché, y compris les coûts de transaction directement imputables à
+l’opération. Ils sont évalués ultérieurement à la valeur de marché et les variations de
+valeur de marché sont enregistrées dans une rubrique spécifique des capitaux propres
+intitulée « Variations d’actifs et passifs comptabilisées directement en capitaux propres
+pouvant être reclassées en résultat ».
+De même, les pertes attendues, calculées selon les mêmes modalités que celles
+applicables aux instruments de dette au coût amorti et comptabilisées en coût du risque,
+ont pour contrepartie cette rubrique spécifique des capitaux propres. Lors de la cession,
+les montants précédemment comptabilisés en capitaux propres recyclables sont
+reclassés en compte de résultat.
+Par ailleurs, les intérêts sont comptabilisés au compte de résultat selon la méthode du
+taux d’intérêt effectif déterminé à l’origine du contrat.
+Au 31 Décembre 2025, Assurances Maghrebia Vie ne détient pas d’instruments de
+dettes évalués à la juste valeur par le biais des autres éléments du résultat global.
+Instruments de capitaux propres
+Les instruments de capitaux propres détenus selon un modèle autre que « collecte des
+flux contractuels et la vente » et « collecte des flux contractuels uniquement », peuvent
+être évalués en juste valeur par autres éléments du résultat global classés sur option,
+transaction par transaction, en instruments à la juste valeur par le biais des autres
+éléments du résultat global (sous une rubrique spécifique). Ce choix est irrévocable.
+Seuls les dividendes, dès lors qu’ils représentent une rémunération de l’investissement
+et non pas un remboursement de capital, sont comptabilisés en résultat. Ces
+instruments ne font pas l’objet de dépréciation.
+3.11.3. Actifs financiers à la juste valeur par le résultat
+Cette catégorie comprend les titres de transaction ainsi que les autres actifs financiers
+en juste valeur par résultat.
+Le portefeuille de transaction comprend les instruments détenus à des fins de
+transaction, y compris les instruments dérivés.
+Les autres actifs financiers à la juste valeur par le résultat concernent les instruments
+de dette non détenus à des fins de transaction qui ne remplissent pas le critère du
+modèle de gestion « collecte » ou « collecte et vente », ou celui des flux de trésorerie.
+Entrent également dans cette catégorie les instruments de capitaux propres pour
+lesquels l’option d’un classement en valeur de marché par capitaux propres n’a pas été
+retenue.
+Ces instruments financiers sont comptabilisés à leur juste valeur, les frais de
+transaction initiaux étant directement comptabilisés en compte de résultat. En date
+d’arrêté, les variations de la valeur de marché sont présentées sous la rubrique « Gains
+ou pertes nets sur les instruments financiers à la valeur de marché par résultat » du
+compte de résultat. Il en est de même des revenus, des dividendes et des plus et moins-
+values de cession réalisées du portefeuille de transaction.
+3.11.4. Passifs financiers
+Les passifs financiers sont classés comme étant évalués au coût amorti ou à la juste
+valeur par le biais du compte de résultat. Un passif financier est classé en tant que
+passif financier à la juste valeur par le biais du compte de résultat s’il est classé comme
+détenu à des fins de transactions, qu’il s’agisse d’un dérivé ou qu’il soit désigné
+comme tel lors de sa comptabilisation initiale.
+3.11.5. Décomptabilisation des actifs et passifs financiers
+Actifs financiers
+Assurances Maghrebia Vie décomptabilise un actif financier lorsque :
+ Les droits contractuels aux flux de trésorerie générés par l’actif
+financier expirent, ou
+ Lorsqu’il transfère les droits à recevoir les flux de trésorerie
+contractuels dans une transaction dans laquelle :
+ Soit la quasi-totalité des risques et avantages inhérents à la
+propriété de l’actif financier sont transférés, ou
+ Lorsqu’il ne transfère ni ne conserve la quasi-totalité des
+risques et avantages, et ne conserve pas le contrôle sur l'actif
+financier.
+Passifs financiers
+Assurances Maghrebia Vie décomptabilise un passif financier lorsque ses obligations
+contractuelles sont éteintes, annulées ou arrivent à expiration. Chaque entité doit
+décomptabiliser également un passif financier lorsque ses conditions sont modifiées et
+que les flux de trésorerie du passif modifié sont substantiellement différents, auquel
+cas un nouveau passif financier est comptabilisé à la juste valeur selon les conditions
+modifiées. Lors de la décomptabilisation d’un passif financier, la différence entre la
+valeur comptable attribuée à la partie décomptabilisée et la contrepartie payée (y
+compris, s'il y a lieu, les actifs hors trésorerie transférés et les passifs assumés) doit
+être comptabilisée en résultat net.
+3.12. Passifs relatifs à des contrats d’assurance
+Ces passifs présentent les engagements au titre des contrats purement assurantiels.
+L’évaluation des passifs relatifs à des contrats d’assurance est déterminée selon les
+méthodes prévues par l’arrêté du ministre des Finances du 27-02-2001 fixant la liste,
+le mode de calcul des provisions techniques et les conditions de leur représentation.
+Des provisions techniques suffisantes sont constituées pour permettre à l’entreprise
+d’honorer, dans la mesure de ce qui est raisonnablement prévisible, les engagements
+résultant des contrats d’assurance. Et ce, conformément aux dispositions de la norme
+IFRS 4 ‘Contrat d’assurance ’qui autorise le recours aux règles locales d’évaluation, à
+condition d’effectuer un test de suffisance de passifs ALT.
+Ces passifs sont composés des provisions suivantes :
+Provisions pour sinistres :
+Les provisions pour sinistres correspondent au coût total estimé (y compris les frais de
+gestion) du règlement de tous les sinistres survenus à la clôture de l’exercice, déclarés
+ou non, déduction faite des sommes déjà payées au titre de ces sinistres. Les provisions
+pour sinistres résultent d’un calcul séparé pour chaque sinistre qui exclut tout escompte
+ou déduction et brute de réassurance.
+Provision d’assurance Vie :
+La provision mathématique des contrats d’assurance Vie, comprend la valeur
+actuarielle des engagements de l’entreprise, nets des primes futures (méthodes
+prospectives). Elle est calculée séparément contrat par contrat. Pour chaque année et
+pour chaque produit, les bases techniques utilisées pour le calcul des provisions sont
+celles qui sont utilisées pour la constitution du tarif. La provision mathématique des
+contrats temporaire décès est calculée séparément contrat par contrat sur la base des
+tables de mortalité admises en Tunisie. En application des dispositions de l’Arrêté du
+ministre de Finances du 05-01-2009, Assurances Maghrebia Vie a calculé la provision
+mathématique de tout le portefeuille en fonction de la Table de Mortalité Tunisienne
+TM 99.
+Autres provisions techniques :
+Les autres provisions techniques sont composées de la provision pour risques en cours
+destinée à couvrir les risques à assumer par l’entreprise après la fin de l’exercice, de
+manière à pouvoir faire face à toutes les demandes d’indemnisation et à tous les frais
+liés aux contrats d’assurance / traités de réassurance en cours, excédant le montant des
+primes non acquises et des primes exigibles relatives aux dits contrats.
+3.13. Passifs relatifs à des contrats financiers
+Ces passifs couvrent les engagements futurs de la compagnie au titre des contrats
+commercialisés en tant que des contrats d’assurance alors qu’ils sont classés comme
+des contrats financiers en vertu de la norme IFRS 4, vu l’absence de la notion du
+transfert de risque.
+Ces passifs comportent deux catégories :
+- Passifs techniques relatifs à des contrats financiers avec participation
+discrétionnaire
+- Passifs techniques relatifs à des contrats financiers sans participation
+discrétionnaire (les contrats en UC).
+3.14. Transactions en monnaie étrangère
+La monnaie fonctionnelle de Assurances Maghrebia Vie est le Dinars Tunisien.
+Les transactions en monnaie étrangère sont converties dans la monnaie
+fonctionnelle de Assurances Maghrebia Vie en appliquant le cours de change en
+vigueur à la date des transactions.
+Les actifs et passifs monétaires libellés en monnaie étrangère sont convertis dans
+la monnaie fonctionnelle en utilisant le cours de change à la date de clôture.
+Les actifs et passifs monétaires libellés en monnaie étrangère couvent
+principalement les dépôts en devises, ainsi que les créances et les dettes sur les
+réassureurs libellés en devises étrangères.
+Les actifs et passifs non monétaires qui sont évalués à la juste valeur en monnaie
+étrangère sont convertis dans la monnaie fonctionnelle en utilisant le cours de
+change de la date à laquelle la juste valeur a été déterminée. Les éléments non
+monétaires évalués sur la base du coût historique, libellés en monnaie étrangère,
+sont convertis en utilisant le cours de change à la date de transaction. Les écarts de
+change en résultant sont généralement comptabilisés en résultat et présentés dans
+les frais financiers.
+Cependant, les écarts de change résultant de la conversion des éléments suivants
+sont comptabilisés dans les autres éléments du résultat global :
+Un investissement dans des instruments de capitaux propres
+
+comptabilisés à la juste valeur par le biais des autres éléments du
+résultat global (sauf en cas de dépréciation où les écarts de change
+comptabilisés dans les autres éléments du résultat global sont alors
+reclassés en résultat) ;
+Un passif financier désigné comme couverture d’un investissement net
+
+dans une activité à l’étranger dans la mesure où la couverture est
+efficace ; et
+Les instruments qualifiés de couverture de flux de trésorerie pour leur
+
+partie efficace.
+3.15. Contrats de location
+Assurances Maghrebia Vie applique les dispositions de la norme IFRS 16 pour les
+contrats de location. Les durées de location retenues comprennent les durées fermes
+des contrats et les périodes de renouvellement prévues. Les taux d’actualisation utilisés
+correspondent au taux zéro coupon à la date de la comptabilisation initiale. Les actifs
+détenus en vertu du contrat de location sont amortis sur leur durée d’utilisation.
+3.16. Avantages du personnel
+Avantages du personnel à court terme
+Les avantages à court terme du personnel sont comptabilisés en charges lorsque le
+service correspondant est rendu. Un passif est comptabilisé pour le montant que
+Assurances Maghrebia Vie s’attend à payer s'il a une obligation actuelle juridique
+ou implicite d’effectuer ces paiements en contrepartie de services passés rendus
+par le membre du personnel et que l’obligation peut être estimée de façon fiable.
+Paiements fondés sur des actions
+Au cas où Assurances Maghrebia Vie effectue des paiements fondés sur les
+actions, la juste valeur déterminée à la date d’attribution des droits à paiement
+fondé sur des actions réglées en instruments de capitaux propres accordées aux
+membres du personnel est généralement comptabilisée en charges, en contrepartie
+d’une augmentation des capitaux propres, sur la période d’acquisition des droits.
+Le montant comptabilisé en charges est ajusté pour refléter le nombre des droits
+pour lesquels il est estimé que les conditions de service et de performance hors
+marché seront remplies, de telle sorte que le montant comptabilisé in fine est basé
+sur le nombre réel de droits qui remplissent les conditions de service et les
+conditions de performance hors marché à la date d’acquisition. Pour les droits à
+paiement fondé sur des actions assortis d’autres conditions, l’évaluation de la juste
+valeur à la date d’attribution reflète ces conditions et les écarts entre l’estimation
+et la réalisation ne donnent lieu à aucun ajustement ultérieur.
+La juste valeur du montant dû à un membre du personnel au titre des droits à
+l’appréciation d’actions, qui sont réglés en trésorerie, est comptabilisée en charges
+en contrepartie d’une augmentation de passif, sur la période au cours de laquelle
+les membres du personnel acquièrent le droit au règlement de manière définitive.
+Le passif est réévalué à chaque date de clôture ainsi qu’à la date de règlement en
+fonction de la juste valeur des droits à l’appréciation d’actions. Toute variation du
+passif est comptabilisée en résultat net.
+Régimes à cotisations définies
+Les cotisations à payer à un régime à cotisations définies sont comptabilisées en
+charges lorsque le service correspondant est rendu. Les cotisations payées
+d’avance sont comptabilisées à l’actif dans la mesure où un remboursement en
+trésorerie ou une diminution des paiements futurs est possible.
+Les cotisations à payer à un régime à cotisations définies payées par Assurances
+Maghrebia Vie se rapportent principalement aux cotisations sociales à la CNSS.
+Régimes à prestations définies
+L’obligation nette de Assurances Maghrebia Vie au titre de régimes à prestations
+définies est évaluée séparément pour chaque régime en estimant le montant des
+avantages futurs acquis par le personnel au cours de la période actuelle et des
+périodes antérieures. Ce montant est ensuite actualisé et la juste valeur des actifs
+du régime est déduite.
+Les calculs des obligations au titre des prestations définies sont effectués tous les
+ans par l’équipe Actuariat de Assurances Maghrebia Vie en utilisant la méthode
+des unités de crédit projetées. Lorsque les calculs conduisent à un éventuel actif
+pour Assurances Maghrebia Vie, le montant comptabilisé au titre de cet actif ne
+peut pas excéder la valeur actualisée de tout avantage économique disponible sous
+forme de remboursement futur du régime ou de diminutions des cotisations futures
+du régime. Toutes les exigences de financement minimal applicables sont prises
+en compte pour calculer la valeur actuelle des avantages économiques.
+Les réévaluations du passif net au titre des prestations définies, qui comprennent
+les écarts actuariels, le rendement des actifs du régime (à l'exclusion des montants
+pris en compte dans le calcul des intérêts nets sur le passif net) et, le cas échéant,
+la variation de l'effet du plafonnement de l'actif (à l'exclusion des montants pris en
+compte dans le calcul des intérêts nets sur le passif net), sont comptabilisées
+immédiatement en autres éléments du résultat global.
+Assurance Maghrebia Vie détermine la charge (le produit) d’intérêts net sur le
+passif (l’actif) net au titre des prestations définies de la période, en appliquant le
+taux d’actualisation utilisé pour évaluer les obligations au titre des prestations
+définies, au passif (à l'actif) net, tous deux déterminés au début de l'exercice. Ce
+passif (actif) net est ajusté le cas échéant de toute variation résultant du paiement
+de cotisations et du règlement de prestations au cours de la période. Les charges
+d'intérêt net et les autres charges au titre des régimes à prestations définies sont
+comptabilisées en résultat.
+Lorsque les avantages du régime sont modifiés, ou en cas de réduction de régime,
+l’impact associé aux services passés rendus par le personnel ou le profit (perte)
+lié(e) à la réduction de régime, est comptabilisé immédiatement en résultat.
+Assurances Maghrebia Vie comptabilise des profits et pertes au titre de la
+liquidation d'un régime à prestations définies au moment où la liquidation se
+produit.
+Autres avantages à long terme du personnel
+L’obligation nette de Assurances Maghrebia Vie au titre des avantages à long
+terme du personnel est égale à la valeur des avantages futurs acquis par le
+personnel en échange des services rendus au cours de la période actuelle et des
+périodes antérieures. Ce montant est actualisé pour déterminer sa valeur actuelle.
+Les réévaluations sont comptabilisées en résultat de la période au cours de laquelle
+elles surviennent.
+3.17. Impôt sur le résultat
+L’impôt sur le résultat comprend l’impôt exigible et l’impôt différé. Il est
+comptabilisé en résultat sauf s’il se rattache à des éléments qui sont comptabilisés
+directement en capitaux propres ou en autres éléments du résultat global.
+Assurance Maghrebia Vie a estimé que les intérêts et pénalités associés à l’impôt
+sur les sociétés, y compris lorsque leur traitement fiscal restait incertain, ne
+correspondaient pas à la définition des impôts sur les sociétés et a donc décidé de
+les comptabiliser conformément aux dispositions d’IAS 37 « Provisions, actifs
+éventuels et passifs éventuels ».
+Les actifs et passifs d’impôt exigible sont évalués en utilisant les taux d’impôt (et les
+lois fiscales) qui ont été adoptés ou quasi adoptés à la fin de la période de présentation
+de l’information financière.
+L’impôt exigible est comptabilisé en charges et compris dans le résultat net de la
+période sauf dans la mesure où l’impôt est généré par une transaction ou un événement
+comptabilisé hors résultat net, soit dans les autres éléments du résultat global soit
+directement en capitaux propres, dans la même période ou une période différente ou
+par un regroupement d’entreprises.
+L’impôt différé est comptabilisé sur la base des différences temporelles entre la
+valeur comptable des actifs et passifs et leurs bases fiscales. Les éléments suivants
+ne donnent pas lieu à la constatation d’impôt différé :
+ Les différences temporelles liées à la comptabilisation initiale d’un actif
+ou d’un passif dans une transaction qui n’est pas un regroupement
+d’entreprises et qui n’affecte ni le bénéfice comptable ni le bénéfice
+imposable ;
+ Les différences temporelles liées à des participations dans des filiales,
+entreprises associées et partenariats dans la mesure où la Société est
+capable de contrôler la date du renversement des différences
+temporelles et il est probable qu’elles ne s’inverseront pas dans un
+avenir prévisible ; et
+ Les différences temporelles imposables générées par la
+comptabilisation initiale d’un goodwill.
+Les actifs d’impôt différé ne sont comptabilisés au titre des différences temporelles
+déductibles et des pertes fiscales et crédits d’impôt non utilisés que dans la mesure
+où il est probable que la Société disposera de bénéfices futurs imposables sur
+lesquels ceux-ci pourront être imputés. Les bénéfices futurs imposables sont
+évalués par rapport au renversement des différences temporelles imposables.
+Si le montant des différences temporelles ne suffit pas à comptabiliser l’intégralité
+d’un actif d'impôt différé, les bénéfices futurs imposables, ajustés du renversement
+des différences temporelles, sont évalués par rapport au plan d’activité de
+l’entreprise. Les actifs d’impôt différé sont examinés à chaque date de clôture et
+sont réduits dans la mesure où il n’est désormais plus probable qu’un bénéfice
+imposable suffisant sera disponible. Ces réductions sont reprises lorsque la
+probabilité de bénéfices futurs imposables augmente.
+Les actifs d’impôt différé non reconnus sont réévalués à chaque date de clôture et
+sont comptabilisés, s’il devient probable que la société disposera de bénéfices
+futurs imposables sur lesquels ceux-ci pourront être imputés.
+Les actifs et passifs d’impôt différé sont évalués aux taux d’impôt dont
+l’application est attendue sur la période au cours de laquelle l’actif sera réalisé et
+le passif réglé, sur la base des taux d’impôts qui ont été adoptés ou quasi adoptés
+à la date de clôture, et rend compte, le cas échéant, de l’incertitude relative aux
+impôts sur le résultat.
+L’évaluation de l’impôt différé doit refléter les conséquences fiscales qui
+résulteraient de la façon dont la Société s’attend, à la date de clôture, à recouvrer
+ou régler la valeur comptable de ses actifs et passifs. À ces fins, la présomption
+que la valeur comptable des immeubles de placement évalués à la juste valeur sera
+recouvrée par le biais d'une vente n'a pas été réfutée.
+Les actifs et les passifs d'impôt différé sont compensés à condition qu’ils
+remplissent certains critères.
+3.18. Dépréciation
+3.18.1. Instruments financiers et actifs sur contrats
+Actifs financiers au coût amorti
+La norme IFRS 9 prévoit un modèle de dépréciation fondé sur un objectif de
+comptabilisation des pertes de crédit attendues ECL (Expected Credit Losses) aux
+titres des actifs financiers, selon leurs classements en termes de qualité de crédit
+et selon leurs probabilités de défaut.
+Le risque de crédit découle principalement du risque de défaut de l’émetteur des
+instruments de dette détenus par le groupe.
+Assurances Maghrebia Vie comptabilise une correction de valeur pour les pertes
+de crédit attendues sur les placements en instruments de dette évalués au coût
+amorti.
+Aucune dépréciation n’est constatée sur les actifs financiers à la juste valeur par
+résultat, dans la mesure où la juste valeur doit tenir compte du risque de crédit
+conformément à la norme IFRS 13.
+L’horizon de regard de la probabilité de défaut, ainsi que la base de
+comptabilisation du produit d’intérêt relatif à l’actif en question dépend de la phase
+à laquelle l’actif financier est appartenu :
+-Phase 1 (actif sain) Pertes de crédit attendues à 12 mois : la dépréciation
+est égale à l’estimation des pertes de crédits attendues dans les 12 mois à
+venir et le produit d’intérêts déterminé sur la base de la valeur comptable
+brute de l’actif.
+-Phase 2 (actif subi une dégradation significative de risque de crédit depuis
+la comptabilisation initiale) Pertes de crédit attendues à maturité pour les
+actifs financiers non dépréciés : la dépréciation est égale à l’estimation des
+pertes de crédits attendues à maturité et le produit d’intérêts déterminé sur
+la base de la valeur comptable brute de l’actif.
+-Phase 3 (actif défaillant) Pertes de crédit attendues à maturité pour les
+actifs financiers dépréciés ou douteux : la dépréciation est égale à
+l’estimation des pertes de crédits attendues à maturité et le produit
+d’intérêts déterminé sur la base de la valeur comptable nette de la
+dépréciation.
+Ce modèle général est appliqué à l’ensemble des instruments dans le champ de la
+dépréciation d’IFRS 9.
+L’approche des pertes de crédit attendues sous IFRS 9 est symétrique, c’est-à-dire
+que si des pertes de crédit attendues à maturité ont été comptabilisées lors d’une
+précédente période d’arrêté, et s’il s’avère qu’il n’y a plus, pour l’instrument
+financier et pour la période d’arrêté en cours, d’augmentation significative du
+risque de crédit depuis sa comptabilisation initiale, la provision est à nouveau
+calculée sur la base d’une perte de crédit attendue à 12 mois.
+S’agissant des produits d’intérêts, pour les encours des « Stages » 1 et 2, ils sont
+calculés sur la valeur brute comptable. Pour les encours du « Stage 3 », les produits
+d’intérêts sont calculés sur la base du coût amorti des créances (c’est-à-dire la
+valeur brute comptable nette de la provision pour dépréciation).
+En ce qui concerne l’allocation des instruments de dette selon le modèle de staging
+décrit ci-dessus, Maghrebia Vie exerce son jugement pour estimer lorsqu’un
+instrument de dette présente une dégradation significative du risque de crédit, à
+chaque date de clôture, afin de mettre à jour l’allocation de l’instrument en
+question. Cette approche implique donc de pouvoir suivre l’évolution de la qualité
+de crédit dans le temps.
+Pour identifier l’existence de dégradation significative de risque de crédit par
+rapport à la date de clôture par rapport à la date de comptabilisation initiale,
+Maghrebia Vie s’appuie principalement sur les données des agences de notation.
+Si la notation de l’instrument de dette ou de l’émetteur de cet instrument à la date
+de clôture dégrade plus que 3 échelons par rapport à la notation observée à la date
+de comptabilisation initiale, Maghrebia Vie estime que cet instrument présente une
+dégradation significative du risque de crédit, et en conséquence, est considéré
+comme un actif en stage 2.
+Une supervision des actifs financiers par Maghrebia Vie doit être effectuée à
+chaque date clôture, sur la base des informations disponibles, pour s’assurer de
+l’absence du risque de défaut avéré. Des études qualitatives reposant sur des
+jugements professionnels amènent à affiner l’attribution du Stage voire à
+considérer l’actif en Stage 3. Le passage par le Stage 2 n’est pas obligatoire, si
+l’actif est considéré défaillant.
+Maghrebia Vie considère un actif financier comme étant déprécié lorsqu’ un ou
+plusieurs événements ayant un impact néfaste sur les flux de trésorerie futurs
+estimés de cet actif financier se sont produits. Les indicateurs de dépréciation d’un
+actif financier comprennent les données observables portant sur les événements
+suivants :
+• Des difficultés financières importantes de l’émetteur ou de l’emprunteur;
+• Un manquement à un contrat, tel qu’une défaillance ou un paiement en
+souffrance ;
+• L’octroi, par le ou les prêteurs à l’emprunteur, pour des raisons
+économiques ou contractuelles liées aux difficultés financières de
+l’emprunteur, d’une ou de plusieurs faveurs que le ou les prêteurs
+n’auraient pas envisagées dans d’autres circonstances ;
+• La probabilité croissante de faillite ou de restructuration financière de
+l’emprunteur ;
+• La disparition d’un marché actif pour cet actif financier en raison de
+difficultés financières ;
+• L’achat ou la création d’un actif financier avec une forte décote, qui reflète
+les pertes de crédit subies.
+Indépendamment des études décrites ci-dessus, Assurance Maghrebia Vie
+considère qu'un évènement de défaut s'est produit lorsqu'un actif financier est en
+souffrance depuis plus de 90 jours, à moins que Maghrebia Vie ne dispose
+d'informations raisonnables et justifiables (tels que les retards pour des raisons
+administratives…) pour démontrer qu'un critère de défaut plus tardif est plus
+approprié.
+Informations prospectives
+Maghrebia Vie prend en compte des informations prospectives telle que des
+paramètres macroéconomiques sectoriels et géographiques, susceptibles
+d’augmenter le risque de crédit de certaines expositions à la fois dans l’estimation
+de l’augmentation significative du risque de crédit et dans la mesure des pertes de
+crédit attendues (Expected Credit Loss – « ECL »).
+S’agissant de la mesure des pertes de crédit attendues, la compagnie a fait le choix
+de retenir 3 scénarios macroéconomiques, couvrant un large panel de conditions
+économiques futures potentielles :
+- Un scénario central, en ligne avec le scénario utilisé dans le cadre du
+processus budgétaire ;
+- Un scénario adverse, correspondant au scénario utilisé trimestriellement
+dans le cadre des exercices de test de résistance réalisés par Maghrebia Vie ;
+- Un scénario favorable, permettant de prendre en compte des situations où
+les performances économiques sont meilleures que prévues.
+Les probabilités de défaut ainsi déterminées par les scénarios macroéconomiques
+permettent de mesurer les pertes attendues pour chaque scénario.
+Maturité
+Tous les termes contractuels de l’instrument financier (y compris les
+remboursements anticipés, les prorogations et options similaires) sur la durée de
+vie sont pris en compte. Dans les rares cas où la durée de vie attendue de
+l’instrument financier ne peut pas être estimée de façon fiable, la durée
+contractuelle résiduelle doit être utilisée. La norme précise que la période
+maximale à considérer pour le calcul des pertes de crédit attendues est la période
+contractuelle maximale.
+Risque de crédit faible
+Comme il est permis par la norme IFRS 9, Assurance Maghrebia Vie prévoit que
+les instruments de dette, qui présentent un risque de crédit faible à la date de
+clôture, sont retenus comme des actifs financiers qui n’ont pas connu une
+détérioration significative depuis leurs comptabilisations initiales. Maghrebia Vie
+considère que les actifs dont la notation à la date de clôture est supérieure ou égale
+à BBB- (selon la classification des agences de notation).
+Evaluation
+La perte de crédit attendue correspond à la perte attendue pondérée probabiliste et
+actualisée en principal et intérêt. Il s’agit d'évaluer la probabilité de survenance
+d'une perte de crédit et l’ampleur de l’éventuelle perte, même s'il est plus probable
+qu'aucune perte de crédit ne sera subie.
+Pour ce faire Maghrebia Vie doit estimer une probabilité de défaut (PD :
+Probability of Default), l’exposition en cas de perte (EAD : Exposure At Default)
+et le taux de la perte en cas de défaut (LGD :Loss Given Default).
+La Perte de crédit attendue est évaluée comme suit :
+ECL= EAD*PD*LGD
+Probabilité de défaut :
+La Probabilité de Défaut est une estimation de la probabilité de survenance d’un
+défaut sur un horizon de temps donné, pour estimer la probabilité de défaut
+Maghrebia Vie s’appuie sur les notations des agences externes indépendantes.
+Conformément à la norme IFRS 9, Maghrebia Vie utilise les données historiques
+ainsi que les prévisions économiques disponibles à la date de clôture pour
+déterminer une probabilité de défaut basée sur une approche dite « Forward-
+looking ».
+Les données historiques sont essentiellement les probabilités de défaut historiques
+déterminées par les agences de notation. Quant ’aux données prévisionnelles,
+Maghrebia Vie utilise les prévisions des croissances économiques comme un
+facteur économique pour refléter les scénarii macro-économiques actuels et futurs
+dans le cadre de modèle Vasicek Single Factor.
+La mesure des pertes de crédit attendues requiert l’estimation à la fois des
+probabilités de défaut à 1 an et des probabilités de défaut à maturité.
+Taux de perte en cas de Défaut :
+La perte en cas de défaut est la différence entre les flux de trésorerie contractuels
+et les flux de trésorerie attendus, actualisés au taux d’intérêt effectif (ou une
+approximation de celui-ci) en date de défaut.
+La LGD est exprimée en pourcentage de l’EAD.
+L’estimation des flux de trésorerie attendus tient compte des flux de trésorerie
+résultant de la vente d’une sûreté détenue ou d’autres rehaussements de crédit si
+ceux-ci sont inclus dans les conditions contractuelles et ne sont pas comptabilisés
+séparément par l’entité (par exemple, une garantie hypothécaire associée à un prêt
+immobilier), nette des coûts d’obtention et de vente de ces sûretés.
+Maghrebia Vie a choisi de se référer aux normes baloises pour estimer un taux de
+perte en cas de défaut de 45%.
+Actifs sur contrats d’assurance
+Pour les créances nées d’opérations d’assurance et de réassurance, Maghrebia Vie
+a choisi de comptabiliser une dépréciation selon le modèle de la perte de crédit
+attendue à maturité, déterminée selon l’historique des défauts de paiements global,
+ajusté pour refléter les projections macro-économiques comme indiqué ci-dessus.
+3.18.2. Actifs non financiers
+À chaque date de clôture, les valeurs comptables des actifs non financiers de
+Assurances Maghrebia Vie (autres que les immeubles de placement, et les actifs
+d’impôt différé) sont examinées afin d’apprécier s’il existe une quelconque
+indication qu’un actif a subi une perte de valeur. S’il existe une telle indication, la
+valeur recouvrable de l’actif est estimée. Au cas où un goodwill est comptabilisé,
+sa valeur doit être testée chaque année.
+Pour qu’ils soient testés, les actifs sont regroupés dans le plus petit groupe d’actifs
+qui génère des entrées de trésorerie résultant de leur utilisation continue, largement
+indépendantes des entrées de trésorerie générées par d’autres actifs ou UGT. Le
+goodwill issu d'un regroupement d’entreprises est affecté aux UGT ou groupes
+d’UGT susceptibles de bénéficier des synergies du regroupement d’entreprises.
+La valeur recouvrable d’un actif ou d’une UGT est la valeur la plus élevée entre
+valeur d’utilité et juste valeur diminuée des coûts de cession. La valeur d’utilité
+est évaluée par rapport aux flux de trésorerie futurs estimés, actualisés au taux,
+avant impôt, qui reflète l’appréciation courante du marché de la valeur temps de
+l’argent et des risques spécifiques à l’actif ou à l’UGT.
+Une perte de valeur est comptabilisée si la valeur comptable d’un actif ou de
+l’UGT est supérieure à sa valeur recouvrable estimée.
+Les pertes de valeur sont comptabilisées en résultat net. Elles sont affectées
+d’abord à la réduction de la valeur comptable de tout goodwill affecté à l’UGT,
+puis à la réduction des valeurs comptables des autres actifs de l’UGT au prorata
+de la valeur comptable de chaque actif de l’UGT.
+Une perte de valeur comptabilisée au titre d’un goodwill ne peut pas être reprise.
+Pour les autres actifs, la valeur comptable, augmentée en raison de la reprise d’une
+perte de valeur, ne doit pas être supérieure à la valeur comptable qui aurait été
+déterminée, nette des amortissements, si aucune perte de valeur n’avait été
+comptabilisée.
+3.19. Capital social
+Le capital social de la société Assurances Maghrebia Vie est composé au 31
+décembre 2025 uniquement d’actions ordinaires.
+Lors de l’émission de nouvelles actions, les coûts accessoires directement
+attribuables à l’émission d’actions ordinaires sont comptabilisés en déduction des
+capitaux propres. L'impôt sur le résultat lié aux coûts de transaction d'une
+opération portant sur les capitaux propres est comptabilisé conformément aux
+dispositions d'IAS 12.
+3.20. Provisions
+Le montant des provisions est déterminé en actualisant les flux de trésorerie futurs
+attendus au taux, avant impôt, reflétant les appréciations actuelles par le marché
+de la valeur temps de l’argent et les risques spécifiques à ce passif. L’effet de la
+désactualisation est comptabilisé dans les charges financières.
+Une provision pour garantie est
+comptabilisée au moment de la
+vente des biens ou services
+correspondants sur la base de
+Garanties
+données historiques des garanties
+et en pondérant les sorties
+possibles en fonction de leur
+probabilité.
+Une provision pour restructuration
+est comptabilisée lorsque la
+Société a approuvé un plan
+formalisé et détaillé de
+Restructuration restructuration et a, soit commencé
+à exécuter le plan, soit rendu le
+plan public. Les pertes
+d’exploitation futures ne sont
+pas provisionnées.
+Conformément à la politique de
+préservation de l’environnement
+affichée par la Société et à la
+législation applicable, une
+Remise en état
+provision pour remise en état des
+des sites
+terrains pollués est comptabilisée,
+avec une charge correspondante,
+dès que les terrains deviennent
+pollués.
+Une provision pour contrat
+déficitaire est évaluée à la valeur
+Contrats actuelle du plus faible du coût
+déficitaires
+attendu de la résiliation ou de
+l’exécution du contrat, ce dernier
+étant déterminé sur la base des
+coûts complémentaires
+nécessaires pour remplir les
+obligations prévues au contrat.
+Préalablement à la détermination
+d’une provision, Assurances
+Maghrebia Vie comptabilise toute
+perte de valeur survenue sur les
+actifs dédiés à ce contrat.
+3.21. Principales normes, amendements et interprétations publiées
+mais non encore en application
+La norme IFRS 17 « Contrats d’assurance » :
+La norme IFRS 17 « Contrats d’assurance » a été publiée le 18 mai 2017 puis
+amendée en 25 juin 2020. L’objectif de ce nouveau standard est de prescrire les
+principes de traitements comptables, d’évaluations et de présentations des
+contrats d’assurance entrant dans son champ d’application. Cette norme n’est pas
+encore applicable en Tunisie et le projet de l’implémentation est en cours.
+La norme IFRS 17 s’applique :
+ Aux contrats d’assurance et de réassurance émis ;
+ À l’ensemble des traités de réassurance comportant un risque d’assurance
+significatif ;
+ Ainsi qu’aux contrats d’investissement émis avec un élément de
+participation discrétionnaire.
+Par ailleurs, la norme IFRS 17 prescrit la distinction entre le contrat d’assurance
+et les autres composantes :
+ Certains dérivés incorporés ;
+ Les composantes d’investissement distinctes ;
+ Les obligations de performance autres, telles que l’obligation de fournir un
+service ou un produit non assurantiel.
+Par conséquent, ces composantes doivent dorénavant faire l’objet d’une
+comptabilisation distincte en fonction des normes qui leur sont applicables.
+Selon la nouvelle norme, à la souscription, le passif est désormais valorisé selon
+une approche « building blocks » composée de :
+ Un premier bloc égal à la valeur actuelle des flux futurs ;
+ Une marge pour risque, afin de tenir compte de l’incertitude relative à ces
+flux futurs ;
+ Une marge de service contractuelle (Contractual Service Margin – CSM).
+La CSM représente, à la souscription, le profit attendu sur les contrats, non encore
+acquis par la société, pour un groupe de contrats d’assurance. Elle est
+comptabilisée en compte d’attente au passif, puis constatée en résultat au fil du
+temps, sur la durée de couverture résiduelle des contrats, selon le rythme de
+prestation de service. Dans le cas où une perte est attendue, celle-ci ne fait pas
+l’objet d’une CSM négative mais est immédiatement comptabilisée en résultat
+lors de la souscription du contrat.
+Un deuxième modèle « Variable Fee Approach » (VFA) est prescrit
+obligatoirement pour les contrats participatifs directs, qui répondent aux trois
+critères suivants :
+ Les clauses contractuelles précisent que le titulaire du contrat possède une
+participation dans un portefeuille d’actifs spécifiques ;
+ L’assureur prévoit de verser à l’assuré un montant égal à une part
+significative de la juste valeur des rendements du portefeuille d’actifs
+spécifiques ;
+ Une part significative des prestations que l’entité s’attend à payer à l’assuré
+devrait varier avec la juste valeur du portefeuille d’actifs spécifiques
+Par ailleurs, l’approche générale « building blocks » est simplifié par un modèle
+optionnel ; basé sur l’allocation des primes (« Premium Allocation Approach »
+(PAA).
+Ce modèle est applicable :
+ À l’ensemble des contrats hormis aux contrats participatifs directs, dans la
+mesure où cette méthode aboutit à un résultat proche de l’approche
+générale ;
+ Aux contrats à déroulement court (i.e. sur une période inférieure à 12 mois).
+Le passif initial comptabilisé est égal aux primes reçues. Aucune CSM n’est ainsi
+calculée. Les frais d’acquisition peuvent être activés ou comptabilisés en charges.
+La norme IFRS 17 prévoit une nouvelle granularité pour l’évaluation des passifs
+des contrats d’assurance. Ceux-ci doivent désormais être regroupés de la manière
+suivante :
+ En premier lieu, la définition d’un portefeuille des contrats constituant un
+groupe de contrats gérés ensemble et garantissant les mêmes risques. Celui-
+ci ne peut contenir des contrats émis à plus d’un an d’intervalle.
+ En second lieu, chaque portefeuille est divisé en trois groupes comptables :
+o Les contrats onéreux ;
+o Les contrats qui au moment de la comptabilisation initiale n’ont
+pas de possibilité importante de devenir déficitaires par la suite;
+o Les autres contrats du portefeuille.
+L’adoption de la norme IFRS 17 a un impact significatif :
+ Elle modifiera la présentation du bilan ainsi que les annexes et les
+informations à fournir ;
+ Elle définira une nouvelle présentation du résultat, en distinguant :
+o Une marge d’assurance, résultante de l’amortissement de la
+CSM, de l’amortissement de l’ajustement pour risques, de l’écart
+d’expérience et des charges de contrats onéreux,
+o Un résultat financier, résultant des produits des placements et
+des charges financières d’assurance.
+ Elle impliquera également une réorganisation majeure des processus de
+gestion, et notamment les outils de comptabilité, d’inventaire, de gestion,
+de pilotage et de Reporting ;
+ De même, les outils de modélisation actuariels seront impactés ;
+ Enfin, l’organisation interne du processus d’établissement des comptes
+devra être ajustée. De nouveaux processus de valorisation, de consolidation
+et de reporting devront être mis en place.
+L’entrée en vigueur de la norme IFRS est le 1er janvier 2023, toutefois
+l’application de la norme en Tunisie est reportée à une date ultérieure non encore
+publiée.
+La publication de la nouvelle norme IFRS 18 « Présentation et informations à
+fournir dans les états financiers » :
+La norme IFRS 18 publiée par l’IASB en avril 2024, afin d’améliorer la présentation
+des états financiers. Remplaçant la norme IAS1, cette nouvelle norme doit être
+adoptée au plus tard le 1er janvier 2027.
+L’impact de l’adaptation cette nouvelle norme est significative en termes de
+présentation des états financiers, particulièrement l’état du résultat.
+Sous le cadre de la norme IAS 1, aucune structure n’est actuellement spécifiée pour
+la présentation du compte de résultat. Les entités choisissent elles-mêmes les sous-
+totaux à présenter et leurs modalités de calcul, ce qui rend la comparaison difficile.
+Afin d’améliorer la structure du compte de résultat, la norme IFRS 18 introduit trois
+catégories distinctes de produits et de charges (Exploitation, Investissement et
+Financement), et impose à toutes les entreprises de fournir de nouveaux sous-totaux,
+en particulier le résultat d’exploitation. Partant de cette base cohérente, il sera alors
+plus facile pour les investisseurs d’analyser et de comparer la performance des
+entreprises.
+Quant aux compagnies d’assurance, La norme IFRS 18 précise que les produits et les
+charges découlant des contrats d’assurance, ainsi que les produits et les charges des
+contrats d’investissement avec clause de participation et entrant dans le champ
+d’application de la norme IFRS 9, sont inclus dans la catégorie « Exploitation ».
+3.22. Note sur la gestion de risque
+Les contrats d’assurance et de réassurance exposent Assurances Maghrebia Vie aux
+divers risques techniques découlant de la nature des contrats d’assurance
+commercialisés, tels que le risque de rachat, le risque de longévité…
+Maghrebia Vie est également exposée aux risques financiers et opérationnels liés aux
+contrats d’assurance et de réassurance et aux instruments financiers. Les risques
+financiers comprennent le risque de crédit, le risque de liquidité et les risques de
+marché.
+Le risque de marché comprend le risque de change, le risque de taux d’intérêt et les
+autres risques de prix.
+Cette note présente des informations sur les expositions au risque de Maghrebia Vie,
+ainsi que sur les objectifs, les politiques et les processus en matière de mesure et de
+gestion des risques et de gestion du capital.
+3.22.1. Le cadre de gestion de risque
+Le conseil d’administration de la société est le responsable de l’élaboration et de
+la supervision du cadre de gestion des risques des entités du groupe. Le comité
+des risques est chargé d’approuver et de surveiller les politiques de gestion des
+risques et rend compte régulièrement de ses activités au conseil d’administration.
+Les politiques de gestion des risques de la société sont établies pour identifier et
+analyser les risques auxquels le Groupe est confronté, fixer des limites et des
+contrôles de risque appropriés et surveiller le respect de son appétence au risque.
+Les politiques de gestion des risques sont revues régulièrement pour refléter les
+changements des conditions du marché et des activités de la compagnie. Le
+Groupe, par le biais de ses procédures de formation et de gestion, vise à
+développer un environnement de contrôle discipliné et constructif dans lequel
+tous les employés comprennent leurs rôles et obligations. Dans ce cadre, le
+Groupe utilise des programmes de gestion des risques, notamment des processus
+de mise en correspondance actif-passif (ALM), et des programmes de
+réassurance.
+Le comité d’audit supervise la manière dont la direction surveille le respect des
+politiques et procédures de gestion des risques du Groupe et examine
+l’adéquation du cadre de gestion des risques par rapport aux risques auxquels le
+Groupe est confronté. Le Groupe est assisté dans son rôle de surveillance par
+une cellule d’audit interne, qui procède à des examens réguliers et ponctuels des
+contrôles et des procédures de gestion des risques, dont les résultats sont
+rapportés au comité d’audit du Groupe.
+3.22.2. Principaux risques découlant des contrats d’assurance
+Risque de Rachat ou résiliation
+Le risque de rachat est défini comme étant le risque de changement défavorable
+de la valeur des engagements d’assurance résultant d’une modification du
+comportement des assurés en matière de rachat de contrats (cessation,
+renouvellement, rachats).
+Ce risque comprend le changement permanent des taux de rachat constatés, les
+rachat massifs et ponctuels, ainsi que la mauvaise estimation des taux de rachat,
+ce risque déclenchent souvent le risque de liquidité (évoqué ci-dessous).
+Nous distinguons entre deux typologies de rachat : les rachats structurels (les
+rachats qui dépendent des situations financières et de comportement de l’assuré)
+et les rachats conjoncturels (les rachats qui dépendent de l’environnement
+économique ou réglementaire).
+Les produits d’épargne proposent une option de rachat par les assurés à une
+valeur fixée contractuellement avant l’échéance du contrat. Ces rachats
+dépendent de la performance des marchés financiers, du rendement offert par
+d'autres placements financiers concurrents, du comportement et de la confiance
+des clients, de l’oscillation du pouvoir d’achat des ménages et de la fiscalité
+applicable à ces opérations.
+Sur le périmètre des contrats en unités de compte, les rachats sont également
+défavorables dans la mesure où ils entrainent une diminution des marges futures.
+Pour les contrats de retraite collective, le risque de rachat se matérialise comme
+un risque de transfert demandé par le souscripteur.
+Pour l’assurance des emprunteurs, il existe un risque de rachat des contrats, soit
+dans le cadre du rachat anticipé ou de la renégociation du crédit, soit dans le cadre
+d’une résiliation du contrat d’assurance. L’existence de rachats dans des
+proportions non anticipées vient modifier la duration des contrats et peut
+pénaliser leur rentabilité.
+Risque de morbidité (incapacité / invalidité, dépendance)
+Le risque de morbidité est défini comme étant le risque de changement défavorable
+de la valeur des engagements d'assurance, résultant de fluctuations affectant le
+niveau, l'évolution tendancielle ou la volatilité des taux d'invalidité, de maladie et de
+morbidité.
+Les contrats de prévoyance ou d’assurance des emprunteurs regroupent différents
+types de garanties attachées à l’incapacité, l’invalidité et la dépendance. Ces garanties
+exposent le Groupe à des risques de morbidité. Le risque de morbidité se matérialise
+par une augmentation de l’incidence ou du maintien en arrêt de travail ou en
+dépendance ; ou bien l’augmentation des frais de soin de santé.
+Risque de mortalité
+Le risque de mortalité est défini comme étant le risque de changement défavorable
+de la valeur des engagements d’assurance résultant d’une augmentation des taux de
+mortalité par rapport à ceux anticipés.
+Les contrats de prévoyance et d’assurance emprunteur intègrent généralement une
+garantie en cas de décès des assurés et exposent en conséquence le Groupe à ce
+risque.
+Pour les contrats d'épargne, une augmentation de la mortalité entrainerait notamment
+une diminution des marges futures et pourrait avoir des impacts sur la situation
+financière du Groupe.
+Risque de longévité
+Le risque de longévité est un risque de perte à long terme, qui correspond au risque
+financier sur les engagements d'assurance associées au fait que les individus vivent
+en moyenne significativement plus longtemps que prévu.
+Le groupe est exposé au risque de longévité notamment au travers son portefeuille
+de rentiers.
+Risque de dépense (frais)
+Le risque de dépense est défini comme étant le risque de changement défavorable de
+la valeur des engagements liés à la variation des dépenses encourues ou à encourir
+pour la gestion des contrats d’assurance ou de réassurance. Le risque de frais peut se
+matérialiser en cas de dérive des frais réalisées par rapport aux celles initialement
+budgétisées.
+Risque de catastrophe
+Le risque de catastrophe est le risque de changement défavorable de la valeur des
+engagements d’assurance suite à la survenance d’évènements extrêmes, incertains et
+irréguliers, provoquant des atteintes graves aux personnes assurées et / ou aux biens
+assurés, et dont l’origine peut être un phénomène naturel, une intervention humaine
+ou une combinaison des deux.
+Des scénarios catastrophe (notamment le risque pandémique) peuvent toucher les
+garanties décès de l’ensemble des contrats du Groupe et les garanties d’invalidité des
+contrats emprunteurs et prévoyance.
+Aussi les engagements au titre des contrats relatifs à l’assurance des biens et de
+dommage peuvent être impactés à la suite de la survenance d’une catastrophe
+naturelle, si une garantie au titre des catastrophes naturelles est souscrite.
+Risques de primes et de réserves
+Les risques de primes et de réserves correspondent au risque de changement
+défavorable de la valeur des engagements d’assurance résultant de la fluctuation
+affectant la date de survenance, la fréquence, la gravité des évènements assurés ainsi
+que le montant des règlements de sinistres. Ces risques sont liés aux garanties des
+contrats non-vie et les contrats prévoyances.
+3.22.3. Les risques financiers
+Les risques de marché
+Les risques de marché résident dans les éventuelles variations des indicateurs du
+marché affectant les flux de trésorerie des contrats d’assurance et de réassurance,
+ainsi que la juste valeur ou les flux de trésorerie futurs des instruments financiers.
+L’objectif de la gestion des risques de marché est de contrôler les expositions du
+groupe aux tels risques dans des paramètres acceptables tout en optimisant le
+rendement du risque.
+Les risques de marché auxquels le groupe est exposé résultent principalement des
+investissements en actions, fonds d’investissement, des instruments de dette, des
+immeubles de placements….
+• Risque de taux
+Le risque de baisse des taux :
+En période de baisse des taux d’intérêt, Assurances Maghrebia Vie subit une baisse
+des rendements de ses réinvestissements, entraînant une baisse progressive du taux
+de rendement de son portefeuille obligataire. Dans des scénarios plus extrêmes,
+Maghrebia Vie pourrait courir le risque de ne pas atteindre sur ses actifs le niveau de
+rendement exigé.
+Le risque de hausse des taux :
+Dans le scénario de remontée rapide des taux d’intérêt, la situation est favorable en
+ce qui concerne le rendement des instruments de dettes à taux variable. Néanmoins
+en cas de besoin de liquidité et le recours vers la mobilisation des fonds, la vente des
+instruments de dette à taux fixe génèrera des moins-values, d’où la baisse de leurs
+rendements.
+Les instruments de dette à taux variable en Tunisie sont indexés au taux moyen du
+marché monétaire (TMM).
+Tableau d’analyse de la sensibilité au TMM
+Le tableau suivant mesure la sensibilité du résultat net des capitaux propres aux
+variation de TMM, à la date de présentation de l’information financière.
+Résultat Net Capitaux Propres Hors Résultat
+Hausse 1% Baisse 1% Hausse 1% Baisse 1%
+Instruments financiers 198 323 ‐197 187 0 0
+Contrats d'assurance 0 0 0 0
+Hypothèses du test de sensibilité (Ces Hypothèses sont valables pour tous les
+tests de sensibilité)
+Les sensibilités financières mesurent la réaction des variables de pilotage
+financier (résultats, montant des capitaux propres) aux variations des conditions
+de marché, telles que les taux d'intérêt, le niveau des indices actions.
+Il est primordial de prendre conscience des limites de ces indicateurs de
+sensibilité :
+1. Une hypothèse simplificatrice inhérente à ces calculs, autorisée par la
+norme, est de recueillir les effets d'un choc (par exemple des marchés
+d'actions) en supposant que l'ensemble des autres conditions de marché
+sont stables (taux, change, etc.), Or cette hypothèse n'est que rarement
+respectée dans la réalité : les conditions de marché évoluent
+simultanément, et souvent de manière corrélée.
+2. Les sensibilités sont elles-mêmes variables en fonction des niveaux du
+marché. Une sensibilité calculée à un instant donné peut n'être pas
+représentative des expositions calculées à un autre moment, sur des
+niveaux de marché différents.
+3. Assurances Maghrebia Vie ajuste ses positions en fonction des
+développements du marché et de l'état de l'économie. Les sensibilités, qui
+représentent l'impact d'un choc instantané, ne tiennent pas compte des
+actions de gestion que le Groupe pourrait déployer.
+ Risque de change
+Les portefeuilles d’actifs sont principalement investis dans leur devise fonctionnelle
+et en représentation de fonds assurés, c’est pourquoi le risque de change est limité.
+ Risque de Prix
+Risque d’action
+Le risque action mesure la sensibilité de la valeur des actions à un changement de
+valeur sur les marchés boursiers. La volatilité mesure l’ampleur des variations du
+cours des actions. Elle sert de paramètre de quantification du risque de rendement et
+de prix d’une action. Lorsque la volatilité est élevée, la possibilité de gain est plus
+importante, mais le risque de perte l’est aussi.
+La volatilité de résultat induite par les instruments de capitaux propres est
+significative mais, contenue en partie, par l’option prise par la compagnie de
+comptabiliser une partie de ses actions en contrepartie des autres éléments du résultat
+global. Par ailleurs, en cas de décomptabilisation des actions concernées, la variation
+de juste valeur accumulée dans les autres éléments du résultat global n’est pas
+recyclée en résultat mais considérée comme des capitaux propres réalisés sur les
+exercices antérieurs. Les plus-values sur investissements actions permettent à
+l’assureur de dégager un excédent de rendement pour l’assuré, notamment en
+situation où le rendement obligataire serait insuffisant. Une baisse des marchés
+actions priverait l’assureur de cette marge de manœuvre, voire pourrait diminuer la
+rentabilité de ses produits.
+À noter que la prise de participation au capital de sociétés non cotées en bourse
+expose également la compagnie à un risque de liquidité, ainsi que le risque lié à la
+baisse de rentabilité de ces sociétés, qui requièrent des durées d’immobilisation à
+moyen et à long terme.
+Tableau d’analyse de la sensibilité au prix d’action
+Le tableau suivant mesure la sensibilité du résultat net et des capitaux propres aux
+variation des cours boursiers, à la date de présentation de l’information financière.
+Impact sur les Capitaux
+Impact sur le Résultat
+Propres Hors Résultat
+Hausse de 5% 651 262 1 407 480
+Baisse de 5% ‐ 651 262 ‐ 1 407 480
+Risque de concentration
+Le risque de concentration est le risque d'exposition excessive à un type de risque,
+une contrepartie, une classe d'actifs, un secteur ou une région en raison des risques
+de crédit, de prix, ou de chiffres d’affaires.
+Cette partie traite l’exposition de Maghrebia Vie au risque de concentration des
+actions par secteur :
+Secteur d'activité Juste Valeur
+Financier 42 497 614
+Industrie manufacturière 2 497 611
+Industrie Agroalimentaire 1 562 652
+Télécommunications 1 969 159
+Services 3 260 791
+Holding 1 685 985
+Total 53 473 812
+Risque immobilier :
+Le risque immobilier découle de la volatilité du marché immobilier. En effet, au
+même titre que les actions, les immeubles de placement ont des prix fluctuants selon
+divers facteurs, tels que les conditions économiques, l'offre et la demande du marché
+local, ainsi que des événements géopolitiques. Ces variations peuvent influencer
+positivement ou négativement la valeur des biens immobiliers détenus, ainsi que le
+résultat de la période, vu que le groupe comptabilise toute variation des prix des
+immeubles de placement au niveau de l’état de résultat.
+La sensibilité du résultat net et du total des capitaux propres à une variation de
+1% des prix des immeubles en Tunisie est de 268 804Dinars.
+Risque de crédit
+Le risque de crédit est le risque que Maghrebia Vie subit une perte si une contrepartie
+d’un contrat d’assurance ou réassurance ou d’un instrument financier ne parvient pas
+à respecter ses obligations contractuelles. Il résulte principalement des actifs du
+contrat de réassurance et des instruments de dette.
+Ventilation du portefeuille des instruments de dette par notation
+Notation Exposition
+AA‐ 1 496 886
+B 65 573
+B‐ 347 630 182
+BB 8 697 768
+BB+ 1 279 804
+BBB 20 030 258
+BBB‐ 4 501 673
+BBB+ 15 070 013
+CCC+ 167 490 500
+Total 566 262 656
+Concentration de risque de crédit :
+Le risque de concentration est le risque d'exposition excessive à un type de risque,
+une contrepartie, une classe d'actifs, un secteur ou une région en raison des risques
+de crédit, de prix, de chiffres d’affaires.
+Cette partie traite l’exposition d’Assurances Maghrebia Vie au risque de
+concentration des instruments de dette par type d’émetteur :
+Exposition Perte de crédit attendue
+Etablissement de Leasing 40 570 636 20 594
+Etat 306 889 733 253 565
+Institution Bancaire 202 486 282 10 330 629
+Institution de Microcrédit 16 316 005 33 232
+Total 566 262 656 10 638 020
+Risque de liquidité
+Le risque de liquidité est le risque qu’Assurances Maghrebia Vie rencontre des
+difficultés à honorer ses engagements liés à ses contrats d'assurance et de réassurance
+et à ses passifs financiers réglés par la remise d'espèces ou d'un autre actif financier.
+Bien que la nature relativement illiquide des contrats d'assurance permette au
+Assurances Maghrebia Vie d’investir dans des actifs moins liquides mais à
+rendement plus élevé, le risque de liquidité découle des fonds composés d'actifs
+illiquides et résulte de l'inadéquation du profil de liquidité des actifs et des passifs.
+La responsabilité de gestion de liquidité incombe le conseil d’administration, qui
+détermine la stratégie de la compagnie en termes de gestion de risque de liquidité. Le
+comité de gestion de risque supervise la mise en place de cette stratégie.
+L’objectif est de s’assurer, dans la mesure du possible, qu’il disposera de liquidités
+suffisantes pour faire face à ses engagements à l’échéance, dans des conditions
+normales et de crise, sans encourir de pertes inacceptables ni risquer de nuire à la
+réputation du Groupe.
+La stratégie de gestion de risque de liquidité s’articule autour des points suivants :
+– Maintenir un portefeuille d’actifs hautement liquides, diversifiés, avec des
+cadences dispersées, et qui peuvent être facilement convertis en liquidités pour se
+protéger contre les interruptions imprévues à court terme des flux de trésorerie.
+– Assurer une dynamique, dans la mesure du possible, entre les flux de trésorerie des
+actifs financiers de la compagnie avec les flux de trésorerie des contrats d’assurance
+et d’investissement et d’autres passifs financiers, dans le cadre d’un modèle ALM.
+Note 4 : Capitaux propres
+Éléments inclus dans les capitaux propres
+Les capitaux propres comprennent notamment, outre le capital social, les
+réserves légales, les réserves de réinvestissement et les résultats mis en réserve,
+les variations d'actifs et passifs comptabilisés directement en capitaux propres
+nettes de l’impôt et de l’impact éventuel de la comptabilité reflet, les Autres
+éléments du résultat global accumulés en réserves, ainsi que les participations ne
+donnant pas du contrôle.
+Gestion des capitaux propres
+Assurances Maghrebia Vie est soumise à la réglementation Tunisienne en
+matière de solvabilité,
+Au 31 décembre 2025, Assurances Maghrebia Vie, est en conformité avec les
+obligations de solvabilité qui lui sont applicables.
+4.1. Capital social par détenteur
+Actionnaires Nombre d’actions Taux de détention
+Assurances Maghrebia 14 674 600 58,70%
+Autres Actionnaires 10 325 400 41,30%
+TOTAL 25 000 000 100%
+4.2. Nombre d’actions
+Actions ordinaires
+Nombre d’actions émises 31/12/2025 31/12/2024
+Nombre d’actions émises à l’ouverture 25 000 000 25 000 000
+Émissions des nouvelles actions - -
+Nombre d’actions émises à la clôture 25 000 000 25 000 000
+4.3. Résultat par action / Résultat dilué
+Le résultat dilué attribuable est calculé en divisant le résultat attribuable aux
+actionnaires par le nombre moyen pondéré d’actions ordinaires à la clôture.
+31/12/2025 31/12/2024
+Résultat de la période 30 233 040 2 6 535 372
+Charge des titres super-subordonnés nette d’impôt
+Résultat attribuable aux actions ordinaires 30 233 040 2 6 535 372
+Nombre moyen d’actions ordinaires à l’ouverture 25 000 000 2 5 000 000
+Émissions d’actions (nombre pondéré) - -
+Nombre moyen pondéré d’actions ordinaires à la clôture 25 000 000 2 5 000 000
+Effet des actions propres détenues - -
+Nombre moyen pondéré d’actions ordinaires à la clôture 25 000 000 2 5 000 000
+Effet des instruments potentiellement dilutifs - -
+Résultatattribuableauxactions ordinaires (en dinar par
+1,209 1,061
+action)
+Le résultat dilué attribuable est calculé en divisant le résultat attribuable aux
+actionnaires par le nombre moyen pondéré d’actions ordinaires à la clôture.
+4.4. Dividendes au titre de l’exercice 2024
+En 2025, le dividende décidé par l’assemblée générale Ordinaire du 30 Mai 2025
+est de 0,363 dinars par action, soit un total de 9 075 000 dinars.
+Note 5 : Immeubles d’exploitation et autres immobilisations
+corporelles
+Conformément à l’option proposée par IAS 16, Assurances Maghrebia Vie a
+opté pour :
+Le modèle de réévaluation pour les immeubles et les
+
+terrains,
+Le modèle d’évaluation au coût pour les autres
+
+immobilisations corporelles.
+Après leurs comptabilisations en tant qu’actif, les immeubles et les terrains dont
+la juste valeur peut être évaluée de manière fiable, doivent être comptabilisées à
+leurs juste valeur à la date de la réévaluation nette des amortissements ultérieurs
+et des pertes de valeur ultérieures
+Les autres immobilisations corporelles évalués selon le modèle du coût, sont
+évalués à leurs coût d’acquisition diminué du cumul des amortissements et du
+cumul des pertes de valeur.
+Les coûts postérieurs à l’acquisition sont immobilisés, sous réserve que des
+avantages économiques futurs en soient attendus et qu’ils puissent être estimés
+de façon fiable et sont intégrés dans le composant qu’ils concernent.
+Les frais directement attribuables à l’acquisition des immeubles sont inclus dans
+le coût historique de l’immeuble et intégralement affectés au composant gros
+œuvre.
+Fréquence de réévaluation des immeubles et des terrains
+La fréquence de réévaluation des immeubles d’exploitation et des terrains est de
+4 Ans.
+Amortissement des immobilisations corporelles
+L’amortissement est calculé suivant la méthode linéaire sur la base du coût
+d’acquisition ou du montant réévaluée, sous déduction, le cas échéant, d’une
+valeur résiduelle.
+Pour les immeubles d’exploitation, les valeurs résiduelles sont considérées
+comme nulles en raison de la difficulté pour un bien immobilier de déterminer
+de manière fiable une valeur résiduelle.
+La durée d’amortissement est fondée sur la durée d’utilité estimée des différents
+composants, à l’exception des terrains qui ne sont pas amortissables :
+- Agenc, Aménag&Installat° : 10%
+- Matériel de transport : 20%
+- Matériel informatique : 15%
+- Equipement de bureau : 10%
+- Construction d’exploitation :2.5%
+Autres Immobilisations corporelles
+Les autres immobilisations corporelles sont principalement constituées de
+matériel bureautique et d’installations diverses.
+Note 6 : Placements en instruments financiers
+Le portefeuille de placement financier d’Assurances Maghrebia Vie se présente
+comme suit :
+31/12/2025 31/12/2024
+rep c P r o é l n a s t c e r e n a m t t a s e n n e t n t p s a U n s C e d es P su la p d c p ( e e R o s m r i t c s e é q o n u n p t e t a s r r f a r i e l t n e s p a s r e n é a n c s s i e U s e n u C r t r a é n s) t Total rep c P r o é l n a s t c e r e n a m t t a s e n e n t n t p s U a n s C e d es Pl f a i c n c o e a n m n t c r e i a n e t t r s a s s s e r u s n e u p p U r p r é o C é s r s ) t ( e é R n p i t s a a q n r u t l e e d s e s Total
+Participation dans les sociétés du groupe 5 666 893 0 5 666 893 5 938 281 0 5 938 281
+Instruments de dette au coût amorti 566 244 489 0 566 244 489 517 007 654 0 517 007 654
+Instruments de dette à la juste valeur par le biais
+0 0 0 0 0 0
+des autres éléments du résultat global
+Instruments de capitaux propres à la juste valeur
+47 970 942 17 210 192 65 181 134 30 078 013 14 291 672 44 369 685
+par le biais du résultat
+Instruments de capitaux propres à la juste valeur
+114 778 123 0 114 778 123 109 946 933 0 109 946 933
+par le biais des autres éléments du résultat global
+Instruments dérivés 0 0 0 0 0 0
+Prêts et créances 4 303 737 0 4 303 737 3 601 113 0 3 601 113
+TOTAL 738 964 185 17 210 192 756 174 377 666 571 994 14 291 672 680 863 666
+Créances pour espèces déposées auprès des
+2 487 652 0 2 487 652 1 421 493 0 1 421 493
+entreprises cédantes
+PLACEMENTS DES ACTIVITÉS
+D’ASSURANCE
+741 451 837 17 210 192 758 662 030 667 993 486 14 291 672 682 285 159
+Instruments de dette au coût amorti
+Les actifs financiers dont le modèle économique a pour objectif unique de détenir
+ces derniers pour encaisser des flux de trésorerie contractuels, et dont les flux de
+trésorerie sont uniquement des remboursements de principal et paiement d’intérêts
+sont classés en comme des actifs financiers évalués au coût amorti.
+Au 31 décembre 2025, Assurances Maghrebia Vie classe l’ensemble de ces
+instruments de dette comme étant des actifs financiers évalués au coût amorti.
+La valeur de ces actifs s’élève à 566 244 489 DT au 31 décembre 2025, contre
+517 018 140 DT au 31 décembre 2024.
+Le détail de ces instruments par nature de titre se détaille comme suit :
+31/12/2025 31/12/2024
+Placements
+représentant des Placements représentant
+Placements ne contrats en UC Placements ne des contrats en UC
+représentant pas des (Risque financier Total représentant pas (Risque financier Total
+contrats en UC supporté par les des contrats en UC supporté par les assurés)
+assurés)
+Obligations et autres titres à revenu fixe 198 538 069 0 198 538 069 185 554 721 0 185 554 721
+Bon de trésor Assimilables 140 250 009 0 140 250 009 166 794 920 0 166 794 920
+Dépôts auprès des établissements bancaires,
+227 456 412 0 227 456 412 164 658 013 0 164 658 013
+financiers et de microfinance
+TOTAL 566 244 489 0 566 244 489 517 007 654 0 517 007 654
+Le détail de ces instruments par strate se détaille comme suit :
+31/12/2025 31/12/2024
+Valeur brute avant Valeur brute avant
+Dépréciation Valeur nette Dépréciation Valeur nette
+dépréciation dépréciation
+Obligations et autres titres à revenu fixe 198 538 069 4 421 220 194 116 849 185 554 721 6 508 944 179 045 777
+Stage 1 197 965 070 4 400 277 193 564 793 184 869 096 6 305 039 178 564 057
+Stage 2 572 998 20 943 552 056 685 625 203 905 481 720
+Stage 3 0 0 0 0 0
+Bon de trésor Assimilables 140 250 009 201 700 140 048 309 166 794 920 5 002 748 161 792 172
+Stage 1 140 250 009 201 700 140 048 309 166 794 920 5 002 748 161 792 172
+Stage 2 0 0 0 0 0
+Stage 3 0 0 0 0 0
+Dépôts auprès des établissements bancaires,
+227 456 412 6 015 100 221 441 312 164 658 013 7 306 424 157 351 589
+financiers et de microfinance
+Stage 1 227 456 412 6 015 100 221 441 312 164 658 013 7 306 424 157 351 589
+Stage 2 0 0 0 0 0
+Stage 3 0 0 0 0 0
+Total Instruments de dettes au cout amorti 566 244 489 10 638 020 555 606 469 517 007 654 18 818 116 498 189 538
+ACTIFS FINANCIERS EN JUSTE VALEUR PAR CAPITAUX
+PROPRES
+L’option de comptabilisation en valeur de marché par capitaux propres est adoptée
+pour des titres de capitaux propres détenus à des fins autres que transaction (Hors
+Trading), il s’agit principalement des participations dans les sociétés non cotées
+les titres détenus dans les FCPR, les participations liées et les participations
+stratégiques.
+Le tableau suivant détail les valeurs des instruments financiers évalués en juste
+valeur par capitaux propres :
+Dont variation de
+Dont variation de
+valeur
+valeur comptabilisée
+Juste Valeur Juste Valeur comptabilisée
+directement en
+directement en
+capitaux propres
+capitaux propres
+Titres de dette 0 0 0 0
+États 0 0 0 0
+Établissements financiers 0 0 0 0
+Sociétés privés 0 0 0 0
+Autres 0 0 0 0
+Titres de capitaux propres 120 445 017 4 984 052 115 885 213 1 419 848
+Sociétés du groupe 5 666 893 1 183 966 5 938 281 1 455 353
+Sociétés Hors groupe 114 778 123 3 800 087 109 946 933 -35 505
+TOTAL DES ACTIFS FINANCIERS EN
+VALEUR DE MARCHÉ PAR CAPITAUX 120 445 017 4 984 052 115 885 213 1 419 848
+PROPRES
+Note 7 : Part des réassureurs dans les provisions techniques
+La part des réassureurs dans les provisions techniques totalise au 31 décembre
+2025 un 30 955 314 DT contre 25 093 101 DT au 31 décembre 2024. Cette
+rubrique est détaillée comme suit :
+31/12/2025 31/12/2024 Variation
+Provisions d'assurances vie 17 480 403 14 363 238 3 117 165
+Provisions pour sinistres 13 474 941 10 737 396 2 737 545
+Total avant perte de crédit
+30 955 344 25 100 634 5 854 710
+attendue
+Perte de crédit attendue sur les
+parts des réassureurs dans les -29 -7 533 7 503
+provisions techniques
+Total 30 955 314 25 093 101 5 862 213
+Note 8 : Créances nées d’opérations d’assurance et de réassurance
+et autres créances
+L’objectif est de présenter le détail des créances avec un comparatif sur deux
+périodes.
+31/12/2025 31/12/2024
+Créances nées des opérations
+d'assurance ou de réassurance 11 840 329 9 726 919
+acceptée
+Primes acquises non émises - 109 699 152 355
+Créances nées d’opération d’assurances
+11 950 029 9 574 564
+directe
+Créances indemnisées subrogées à
+- -
+l’entreprise d’assurances
+Autres créances nées d’opérations
+- -
+d’assurance
+Créances nées des opérations de
+17 269 206 11 921 808
+cession en réassurance
+Créances d’impôt exigible et autres
+19 770 594 15 462 025
+créances d’impôt
+Autres créances 471 324 453 073
+Sous Total 49 351 454 37 563 824
+Provisions sur créances nées des opérations
+- 3 180 907 - 3 100 733
+d'assurance et de réassurance
+Total 46 170 547 34 463 091
+Le tableau suivant détaille les autres créances :
+31/12/2025 31/12/2024
+Créances sur le personnel 469 710 451 459
+Assurances Maghrebia 1 614 1 614
+TOTAL 471 324 453 073
+Note 9 : passifs relatifs aux contrats
+9.1. Classifications des contrats
+Les contrats dont les principes de comptabilisation et d’évaluation relèvent de la
+norme IFRS 4 incluent :
+ Les contrats d’assurance comportant un aléa pour l’assuré. Cette catégorie
+recouvre les contrats dommages aux biens, IRDS, de prévoyance et
+Temporaire décès ;
+ Les contrats financiers émis par l’assureur comportant un élément de
+participation aux bénéfices (PB) discrétionnaire.
+Les contrats financiers relevant de la norme IFRS 9 correspondent aux contrats
+d’investissement sans participation aux bénéfices discrétionnaire.
+Les contrats qui ne répondent pas à la définition d’un contrat d’assurance et qui ne
+sont pas non plus des contrats financiers relèvent :
+ Soit de la norme IFRS 15 s’ils correspondent à une prestation de services,
+principalement dans le cadre de contrats d’assistance ;
+ Soit de la norme IAS 19 pour les contrats souscrits dans le cadre d’un
+engagement social de Assurances Maghrebia Vie envers ses salariés,
+principalement pour le contrat IDR et AGR au profit du personnel.
+9.2. Contrats d’assurance et contrats financiers avec PB discrétionnaire
+Les contrats d’assurance et les contrats financiers avec participation aux bénéfices
+discrétionnaire sont comptabilisés selon les principes comptables appliqués par
+Assurances Maghrebia Vie, à l’exception des dispositions spécifiques introduites par la
+norme IFRS 4 et relatives à la comptabilité reflet et au test de suffisance des passifs. Les
+engagements font l’objet de ce test pour vérifier si les passifs d’assurance, nets d’actifs
+d’assurance (participation aux bénéfices différées active, et autres actifs incorporels liées
+à l’assurance) sont suffisants, par comparaison avec la valeur estimée des flux de
+trésorerie futurs générés par les contrats d’assurance et d’investissement avec
+participation aux bénéfices discrétionnaire.
+9.2.1. Contrats d’assurance
+Les contrats en vertu desquels Assurances Maghrebia Vie accepte un risque
+d’assurance significatif de la part d’un tiers (l’assuré) en acceptant d’indemniser
+l’assuré ou un autre bénéfice, si un événement futur incertain déterminé (l’événement
+assuré) a des conséquences défavorables pour le titulaire ou un autre bénéficiaire,
+sont classés dans la catégorie des contrats d’assurance.
+Un risque d’assurance est un risque autre qu’un risque financier. Un risque financier
+se définit comme un risque de variation potentielle future d’une ou de plusieurs des
+variables suivantes : taux d’intérêt, cours d’une valeur mobilière, cours d’une matière
+première, taux de change ou une variable similaire. Si la variable n’est pas une
+variable financière, le risque est un risque financier si la variable n’est pas spécifique
+à l’une des parties au contrat ; dans le cas contraire, il s’agit d’un risque d’assurance.
+Le risque de rachat, le risque de prorogation ou le risque de dérive des frais généraux
+ne sont pas des risques d’assurance sauf s’il s’agit de risques initialement supportés
+par l’assuré auquel l’assureur est exposé en vertu d’un contrat d’assurance.
+Pour chaque portefeuille homogène de contrats, le caractère significatif du risque
+d’assurance est apprécié sur la base d’un contrat individuel représentatif. Le risque
+d’assurance peut ainsi être significatif alors que la mutualisation des risques au sein
+d’un portefeuille rend négligeable la probabilité d’une perte significative par rapport
+aux états financiers sur l’ensemble du portefeuille.
+Les passifs techniques liées aux contrats d’assurances s’élèvent au 31/12/2025 à
+107 676 303 DT et se détaillent comme suit :
+Passifs
+techniques
+Nom du contrat Classement du contrat relatifs à des
+contrats
+d'assurance
+Temporaire en couverture de prêt Contrat d'assurance (IFRS 4) 85 933 311
+Temporaire décès capital constant Contrat d'assurance (IFRS 4) 18 028 424
+Pour la garantie Epargne en
+UC: Contrat d'investissement 0
+PROSPERITE (Anciens contrats) sans EPD (IFRS 9)
+Pour la garantie décès et IAD :
+6 403
+Contrat d'assurance (IFRS 4)
+Pour la Garantie Epargne :
+Contrat d'investissement avec 0
+NGM EPD (IFRS 4)
+Pour les autres garanties :
+1 030 822
+Contrat d'assurance (IFRS 4)
+Sacre prévoyance Contrat d'assurance (IFRS 4) 158 779
+Pour la garantie Epargne :
+Contrat d'investissement avec 0
+RETRAITE DOREE EPD (IFRS 4)
+Pour les autres garanties :
+14 028
+contrat d'assurance (IFRS 4)
+Pour la Garantie Epargne :
+Eagle et M3/ PRODUIT MIXTE EN Contrat d'investissement avec 0
+LIQUIDATION (IDENTIQUE A EPD (IFRS 4)
+NGM) Pour les autres garanties :
+107
+Contrat d'assurance (IFRS 4)
+Groupe Décès (Acceptation) Contrat assurance IFRS 4 2 504 429
+Total 107 676 303
+9.2.2. Contrats financiers avec participation aux bénéfices
+discrétionnaire
+Les contrats qui n’exposent pas l’assureur à un risque d’assurance ou l’exposent à un
+risque d’assurance non significatif sont classés dans la catégorie des contrats
+financiers lorsqu’ils créent un actif ou un passif financier. Ils sont qualifiés de contrat
+financier avec participation aux bénéfices discrétionnaire dès lors qu’il existe un droit
+pour le titulaire d’un contrat d’obtenir en raison de dispositions contractuelles et/ou
+de dispositions réglementaires, en supplément des éléments garantis, des bénéfices
+additionnels :
+Dont il est probable qu’ils représentent une part significative du total des
+•
+bénéfices contractuels ;
+Dont le montant ou le rythme d’émergence est contractuellement à la
+•
+discrétion de l’émetteur ; et
+Qui sont contractuellement basés sur la performance d’un pool de contrats ou
+•
+d’un type de contrats déterminé, les produits des placements réalisés et/ou
+latents sur un ensemble d’actifs déterminé détenu par l’émetteur ou le résultat
+de la compagnie, le fonds ou l’entité qui émet le contrat.
+Les passifs techniques liées aux contrats financiers avec EPD s’élèvent au 31/12/2025
+à 535 216 812 DT et se détaillent comme suit :
+Passifs techniques
+Nom du contrat Classement du contrat relatifs à des contrats
+financiers avec EPD
+Pour la Garantie Epargne en
+dinars : Contrat
+10 448 442
+d'investissement avec EPD
+(IFRS 4)
+MULTISUPPORT MAGHREBIA Pour la garantie Epargne en
+UC : Contrat d'investissement 0
+sans EPD (IFRS 9)
+Pour la garantie décès et IAD :
+0
+Contrat d'assurance (IFRS 4)
+Pour la Garantie Epargne :
+Contrat d'investissement avec 346 335 897
+NGM EPD (IFRS 4)
+Pour les autres garanties :
+0
+Contrat d'assurance (IFRS 4)
+Contrat d'investissement avec
+Sacre capitalisation 65 135 565
+EPD (IFRS 4)
+Pour la garantie Epargne :
+Contrat d'investissement avec 113 089 457
+RETRAITE DOREE EPD (IFRS 4)
+Pour les autres garanties :
+0
+contrat d'assurance (IFRS 4)
+Pour la Garantie Epargne :
+Eagle et M3/ PRODUIT MIXTE EN Contrat d'investissement avec 207 451
+LIQUIDATION (IDENTIQUE A EPD (IFRS 4)
+NGM) Pour les autres garanties :
+0
+Contrat d'assurance (IFRS 4)
+Total 535 216 812
+9.2.3. Contrats hybrides
+Certains contrats émis par Assurances Maghrebia Vie comportent à la fois une
+composante dépôt et une composante d’assurance. Ces deux composantes ne sont
+séparées et évaluées de façon distincte que lorsque la composante dépôt peut être
+évaluée séparément et que les droits et obligations qui en résultent ne seraient pas
+comptabilisés en l’absence de séparation. En cas de séparation, la composante
+assurance est comptabilisée comme un contrat d’assurance, tandis que la composante
+dépôt est comptabilisée comme un instrument financier. Les contrats présentant une
+composantes dépôts détenus par Assurances Maghrebia Vie sont tous traités par
+référence à la norme IFRS 4 étant donné qu’ils sont émis avec EPD.
+9.3. Contrats d’investissement sans EPD (IFRS 9)
+Les contrats financiers en unités de compte sont évalués à l’origine à leur juste valeur.
+Les chargements sur primes sont comptabilisés dans le poste chiffre d’affaires ou
+produits des autres activités.
+Les contrats financiers en unités de compte sont valorisés ultérieurement à la juste
+valeur, avec comptabilisation des variations de juste valeur en résultat. La juste valeur
+correspond généralement à la valeur de rachat par le souscripteur.
+Au 31 décembre 2025, Assurances Maghrebia Vie dispose le contrat prospérité
+(Contrat UC). L’engagement au titre de ces contrats est de 17 311 799 DT présenté
+par la provision pour contrats en unités de compte.
+9.4. Participation aux bénéfices différée
+Assurances Maghrebia Vie a opté pour la non constatation des participations aux
+bénéfices différée pour les contrats comportant une clause de participation aux
+bénéfices, étant donnée le choix de ne pas appliquer la comptabilité reflet.
+9.5. Test de suffisance des passifs d’assurance
+Lors des arrêtés annuel, Assurances Maghrebia Vie s’assure que les passifs
+d’assurance comptabilisés nets d’actifs d’assurance (participation aux bénéfices
+différée, coûts d’acquisition différés et actifs incorporels liés à l’assurance) sont
+suffisants en utilisant les estimations actuelles de flux de trésorerie futurs issus des
+contrats d’assurance et des contrats financiers avec participation aux bénéfices
+discrétionnaire. La réalisation de ce test repose sur les outils de modélisation, et permet
+d’évaluer les engagements dans un grand nombre de scenarii économiques après prise
+en compte notamment des dérivés incorporés (options de rachat des assurés, taux
+garantis…), des frais de gestion et des décisions prises par le management en fonction
+du contexte économique et financier.
+Ce test permet de déterminer la valeur économique des passifs qui correspond à la
+moyenne des trajectoires stochastiques. Pour la réalisation de ce test, Assurances
+Maghrebia Vie procède à un regroupement de ses contrats similaires. Les résultats du
+test sont analysés. Si la somme de la valeur de rachat et de la participation aux
+bénéfices différée (active ou passive), nette des coûts d’acquisition différés et d’actifs
+incorporels liés, est inférieure aux provisions d’assurance évaluées à la juste valeur,
+l’insuffisance est enregistrée en contrepartie du résultat.
+9.6. Comptabilité reflet
+La comptabilité reflet est une comptabilité optionnelle.
+La comptabilité reflet permet de répondre comptablement au risque de déséquilibre
+actif/passif généré par des modes différents de valorisation de l’actif et du passif.
+Lorsque l’évaluation des passifs, des frais d’acquisition reportés ou des portefeuilles
+de contrats figurant à l’actif est directement affectée par la réalisation des plus ou
+moins-values des actifs, une provision pour participation aux bénéfices différée est
+comptabilisée en contrepartie des plus ou moins-values latentes reconnues dans les
+placements. Cette participation aux bénéfices différée est comptabilisée selon les
+mêmes modalités que le sous-jacent : en contrepartie du résultat ou de la réserve de
+réévaluation.
+La provision pour participation aux bénéfices différée est déterminée en appliquant
+aux montants des réévaluations de l’actif les taux de participation estimés sur la base
+des obligations contractuelles attachées à chaque portefeuille. L’estimation de ces taux
+prend notamment en compte les éléments suivants : clauses de participation aux
+bénéfices réglementaires et contractuelles, programme de réalisation des plus ou
+moins-values et politique de distribution de l’assureur. Les taux de participation
+appliqués aux plus et moins-values latentes lors de la mise en œuvre de la comptabilité
+reflet sont identiques à ceux appliqués aux retraitements de consolidation pour
+déterminer les participations différées.
+La détermination de la quote-part de plus ou moins-values revenant aux assurés est
+déterminée selon les caractéristiques des contrats susceptibles de bénéficier de ces plus
+ou moins-values. Les contrats ne comportant aucune clause de participation aux
+bénéfices et ne rentrant pas dans les règles de participation minimum réglementaire ne
+sont pas compris dans le périmètre de la comptabilité reflet.
+Le montant de la participation aux bénéfices différée nette issue de la comptabilité
+reflet est comptabilisé, soit au passif (participation aux bénéfices différée passive
+nette), soit à l’actif du bilan (participation aux bénéfices différée active nette), suivant
+la situation de l’entité juridique considérée.
+Assurances Maghrebia Vie a opté pour ne pas tenir compte de la comptabilité reflet
+étant donné que le portefeuille placement d’Assurances Maghrebia Vie est en majorité
+évaluée au cout amorti.
+9.7. Réassurance
+Cessions
+Les primes, sinistres et provisions sont enregistrés bruts de cession en réassurance.
+La quote-part cédée est incluse dans le résultat de la réassurance.
+La part des cessionnaires dans les provisions techniques fait l’objet d’un test de
+dépréciation à chaque arrêté. S’il existe des preuves tangibles, par suite d’un
+événement survenu après la comptabilisation initiale, que la provision à charge d’un
+réassureur doit être dépréciée, Assurances Maghrebia Vie réduit la valeur comptable
+de cet actif en conséquence et comptabilise la perte qui en résulte dans le compte de
+résultat. Lorsque l’actif de réassurance est garanti par des titres reçus en nantissement,
+la valeur actualisée des flux de trésorerie futurs estimés de l’actif reflète les flux de
+trésorerie qui pourraient résulter de la réalisation du gage après déduction des coûts
+liés à la mise en œuvre de cette garantie, que la réalisation soit probable ou non.
+Acceptations
+Les contrats d’acceptation en réassurance comportent un risque d’assurance
+significatif et sont donc comptabilisés comme des contrats d’assurance.
+Note 10 : Dettes nées d’opérations d’assurance et de réassurance
+10.1. Dettes nées d’opérations d’assurance et de réassurance
+L’objectif est de présenter le détail des dettes nées d’opérations d’assurance et de
+réassurance avec un comparatif sur deux périodes.
+31/12/2024 31/12/2023
+Dettes pour dépôts en espèces reçus des
+30 891 911 25 025 330
+cessionnaires
+Dettes nées d’opérations d’assurance directe 4 893 130 3 398 223
+Dettes nées d’opérations de réassurance 1 003 355 5 829 790
+TOTAL 36 788 396 34 253 342
+Note 11 : Chiffre d’affaires
+Le chiffre d’affaires est constitué :
+• Des primes émises ;
+• Des chargements sur primes des contrats d’investissement
+sans EPD traités par référence à la norme IFRS 9,
+correspondant à un des éléments constitutifs de la ligne «
+chiffre d’affaires et produits des autres activités » du compte
+de résultat.
+ Contrats de prestations de service
+Les contrats qui n’exposent pas Assurances Maghrebia Vie à aucun risque
+d’assurance ou l’exposent à un risque d’assurance non significatif et qui ne créent ni
+actif ou ni passif financier sont classés dans la catégorie des contrats de service.
+Conformément à la norme IFRS 15, le produit lié à une transaction impliquant une
+prestation de service est comptabilisé par référence au degré d’avancement de la
+transaction si le résultat de celle-ci peut être estimé de façon fiable, les produits et les
+charges sont constatés au niveau du rubrique « Prestations des contrats de service »
+du résultat net.
+ Primes émises par catégorie
+Activité et type de contrat 31/12/2025 31/12/2024
+Contrats d’assurance 34 488 105 32 218 433
+■ Vie
+Primes émises en affaires directes 24 616 762 22 405 361
+Primes émises en acceptation 11 865 136 11 408 690
+Annulations et ristournes -1 876 708 -1 657 430
+Variation des primes acquises -117 085 61 812
+■ Non-vie
+Primes émises en affaires directes 0 0
+Primes émises en acceptation 0 0
+Annulations et ristournes 0 0
+Variation des primes acquises et non émises 0 0
+Variation de la provision pour primes non acquises 0 0
+Contrats financiers avec PB discrétionnaire 101 578 711 95 168 017
+Primes émises en affaires directes 101 578 711 95 168 017
+Primes émises en acceptation 0 0
+Variation des primes acquises non émises 0 0
+Total Primes Emises 136 066 817 127 386 450
+Note 12 : Produits de placements
+Ventilation des produits et charges de placements
+31/12/2025 31/12/2024
+Résultats sur titres de créances 0 0
+Produits d’intérêts 47 600 516 44 082 755
+Autres produits et charges 0 0
+Portefeuille des actifs au cout amorti
+Dépréciations 8 493 190 3 181 394
+Totaldesrevenus surle portefeuilledes
+56 093 706 47 264 149
+actifs au cout amorti
+Résultat sur titres de capitaux et assimilés
+5 574 860 2 515 756
+(dividende + plus et moins-value latente)
+Résultat sur instruments dérivés de
+0 0
+Portefeuille des actifs à la juste valeur par transaction et de couverture
+résultat Plus et moins-values de cession 2 617 706 -718 266
+Totaldesrevenus surle portefeuilledes
+actifs àlajuste valeuravec variationde 8 192 566 1 797 491
+juste valeur en résultat
+Résultat sur titres de capitaux et assimilés 3 786 441 4 298 141
+Résultat sur instruments dérivés de
+0 0
+transaction et de couverture
+Portefeuille des actifs à la juste valeur par
+Plus et moins-values de cession 1 039 286 143 377
+OCI
+Totaldesrevenus surle portefeuilledes
+actifs àlajuste valeuravec variationde 4 825 728 4 441 518
+juste valeur en résultat
+Produits d’intérêts sur prêts et créances -363 152 -73 638
+Autres produits -108 176 -105 999
+Portefeuille des actifs - Prêts et créances Dépréciations 0 0
+Totaldesrevenus surle portefeuilledes
+-471 328 -179 637
+actifs – Prêts et créances
+Loyers et autres produits 833 631 821 670
+Variation de juste valeur immeuble de
+1 003 308 1 421 439
+placement
+Immeubles de placement
+Plus et moins-values de cession 0 0
+Total des revenus des immeubles de
+1 836 939 2 243 109
+placement
+Charges liées aux placements 0 0
+Plus-values de dilution 0 0
+TOTAL DES REVENUS DES
+70 477 609 55 566 630
+PLACEMENTS
+Dettes au coût amorti 0 0
+Dettes à la juste valeur par résultat 0 0
+Opérations de couverture de cash-flow
+0 0
+hedge
+Total des charges de financement 0 0
+TOTAL DES REVENUS DES ACTIFS
+NETS DE CHARGES DE 70 477 609 55 566 630
+FINANCEMENT
+Note 13 : Prestations
+L’objectif est de présenter les charges comptabilisées générés par les contrats
+d’assurance.
+Contrats IFRS 4 et IFRS 9 rattachés à IFRS 4 31/12/2025 31/12/2024
+Sinistres survenus -10 197 451 -15 160 183
+Capitaux échus -13 235 456 -10 329 744
+Arrérages -22 787 -23 253
+Rachats -40 128 733 -35 459 762
+Recours et sauvetages encaissés 0 0
+Intérêts techniques et participation aux bénéfices
+0 0
+inclus dans les sinistres de l’année
+Frais de gestion des sinistres et des prestations -2 264 891 -2 140 787
+Prestations -65 849 318 -63 113 729
+Variation des provisions des contrats d’assurance -4 690 155 2 451 446
+Variation des provisions des contrats financiers
+-66 456 672 -60 600 358
+avec PB discrétionnaire
+Variation des provisions pour participation aux
+-3 222 933 -640 365
+bénéfices
+Variation des provisions -74 369 760 -58 789 276
+Charges de prestations d’assurance - 140 219 078 - 121 903 005
+Note 14 : Charges de gestion et de commissions
+Les charges de gestion et de commissions s’élèvent au 31 décembre 2025 à
+25 381 333 DT, et se détaillent comme suit :
+31/12/2025 31/12/2024
+Commissions -13 246 703 -12 447 542
+Frais ventilés par destination -3 277 073 -3 072 793
+Variation des frais d'acquisition reportés 0 0
+Frais d’acquisition -16 523 775 -15 520 335
+Frais d’administration -8 052 740 -7 959 285
+Autres produits et charges opérationnels courants -804 818 -1 261 694
+Autres charges opérationnels courants -804 818 -1 261 694
+TOTAL - 25 381 333 - 24 741 315
+14.1. Frais d’acquisition
+Les frais d’acquisition comprennent les frais internes et les frais externes supportés
+par la société lors des conclusions des contrats d’assurances. Ils englobent les frais
+directement imputables tels que les commissions d’acquisition ainsi que les frais
+indirectement imputables tels que les frais de publicités, les frais de personnel et les
+amortissements des biens mobiliers et immobiliers.
+Cette rubrique présente au 31 Décembre 2025 un solde net de 16 523 775 DT, qui
+se détaille comme suit :
+31/12/2025 31/12/2024
+Commissions - 13 246 703 - 12 447 542
+Frais ventilés par destination - 3 277 073 - 3 072 793
+Frais d’acquisition - 16 523 775 - 15 520 335
+14.2. Frais d’administration
+Les frais d’administration des contrats correspondent aux frais internes et externes
+occasionnés par la gestion des contrats en portefeuille. Ils comprennent en
+particulier les frais de personnel, la quote- part des loyers et les amortissements.
+Le solde de cette rubrique arrêté au 31 décembre 2025 est de 8 052 740 DT.
+31/12/2025 31/12/2024
+Frais d'administration - Frais interne -3 783 883 -3 162 749
+Frais d'administration - Frais externe -4 268 858 -4 796 536
+Total - 8 052 740 - 7 959 285
+Note 15 : Impôts sur les bénéfices
+Les impôts sur le bénéfice regroupent tous les impôts, qu’ils soient exigibles ou
+différés.
+Assurances Maghrebia Vie est assujettie à l’IS au taux de 40 %, en tant qu’une
+compagnie d’assurance. Toutefois, Assurances Maghrebia est en train de bénéficier
+d’un avantage fiscal de réduction ce taux d’impôt à 20%, suite à son introduction en
+bourse en décembre 2022. Cet avantage prendra fin au décembre 2027.
+En plus de l’impôt sur les bénéfices Assurances Maghrebia est tenu de payer deux
+sortes de contributions déterminées sur la base de bénéfices imposables, ces
+contributions sont les suivantes :
+ Contribution sociale de solidarité de 3%
+ Contribution Conjoncturelle spécifique aux banques, institutions financières,
+et compagnies d’assurance et réassurance de 4%.
+Les charges et les produits d’impôts différé sont déterminés en appliquant le taux
+d’impôts d’impôt en vigueur et en tenant compte des contributions citées ci-dessus.
+Une différence temporaire, source d’impôt différé, apparaît dès lors que la valeur
+comptable d’un actif ou d’un passif est différente de sa valeur fiscale. Conformément
+à la norme IAS 12, Assurances Maghrebia comptabilise un passif d’impôt différé
+pour toutes les différences temporaires imposables liées à ses opérations, excepté
+dans le cas où les deux conditions suivantes sont remplies :
+ Assurances Maghrebia Vie est capable de contrôler la date à laquelle la
+différence temporaire s’inversera ; et
+ Il est probable que la différence temporaire ne s’inversera pas dans un
+avenir prévisible.
+L’économie potentielle d’impôts liée aux pertes fiscales reportables est prise en
+compte si leur imputation sur les bénéfices futurs est fortement probable à un horizon
+de cinq ans. Lorsque la compensation entre impôts différés actifs et impôts différés
+passifs détermine un solde net actif d’impôt différé, celui-ci est constaté lorsque son
+imputation sur des bénéfices imposables futurs paraît probable. Les actifs et passifs
+d’impôts différés ne sont pas actualisés.
+Charge d’impôts comptabilisée en résultat net de la période
+31/12/2025 31/12/2024
+Charge d'impôts courants 4 432 344 3 495 714
+Charge d'impôts différés 2 832 380 2 270 448
+Charge d'impôts 7 264 724 5 766 162
+Note 16 : Note sur les parties liées
+16.1. Nature de la relation entre la société Assurances Maghrebia Vie et les
+autres parties liées
+La société Assurances Maghrebia Vie est une société dépendante du groupe
+MAGHREBIA. En effet, le périmètre de consolidation du groupe MAGHREBIA est
+comme suit :
+- La Société mère : Assurances Maghrebia S.A.
+Les sociétés dépendantes du Groupe : Assurances Maghrebia Vie S.A, Assurances
+Maghrebia Immobilière S.A, Maghrebia Financière Sicar S.A , Codway S.A. et les fonds
+communs de placement ; Select, Modéré, Prudence et Dynamique.
+La Société ASSURANCES MAGHREBIA S.A détient :
+- 56 % du capital de la Société ASSURANCES MAGHREBIA IMMOBILIERE
+S.A,
+- 58,70 % du capital de la Société ASSURANCES MAGHREBIA VIE S.A,
+- 82,37 % du capital de la Société MAGHREBIA FINANCIERE SICAR S.A et
+- 85,25% du capital de la société CODWAY S.A.
+- 21,40% du capital du FCP SELECT.
+- 21,60% du capital du FCP MODERE.
+- 20,56% du capital du FCP DYNAMIQUE.
+La Société ASSURANCES MAGHREBIA VIE détient :
+- 17,63 % du capital de la Société MAGHREBIA FINANCIERE SICAR,
+- 14,75% du capital de la société CODWAY et
+- 44% de la société ASSURANCES MAGHREBIA IMMOBILIERE SA.
+- 52,76% du capital du FCP SELECT.
+- 66,58% du capital du FCP MODERE.
+- 70,82% du capital du FCP DYNAMIQUE.
+- 80,30% du capital du FCP Prudence
+16.2. Politique de fixation des montants de transactions entre les parties liées
+Pour la fixation des montants de transactions communes, la société se réfère au prix de
+marché appliqué dans les mêmes conditions économiques.
+16.3. Note 2-7-3 : Conventions conclus entre la société ASSURANCES
+MAGHREBIA VIE SA et les parties liées
+16.3.1. Conventions conclus entre la société ASSURANCES MAGHREBIA VIE SA
+et la société ASSURANCES MAGHREBIA SA
+Convention de prestation de service conclue entre ASSURANCES MAGHREBIA VIE SA et
+ASSURANCES MAGHREBIA SA
+La société ASSURANCES MAGHREBIA VIE a confié à la société ASSURANCES MAGHREBIA
+la gestion des activités ci-dessous :
+ La gestion des ressources humaines ;
+ La comptabilité de la réassurance ;
+ La gestion comptable et financière ;
+ La gestion des prestations en matière juridique ;
+ Le contrôle de la conformité ;
+ La gestion des risques ;
+ L’audit interne ; et
+ L’informatique.
+Cette convention a pris effet à partir du 03 janvier 2011, elle est conclue pour une durée de
+12 mois, renouvelable par tacite reconduction pour la même durée.
+En contrepartie de ces prestations, ASSURANCES MAGHREBIA VIE s’engage à régler à
+ASSURANCES MAGHREBIA à la fin de chaque exercice un montant forfaitaire annuel de
+120 000 DT hors taxes, sur présentation de facture.
+Convention de délégation de gestion de produits conclue entre Assurances Maghrebia Vie
+SA et Assurances Maghrebia SA
+La Société ASSURANCES MAGHREBIA a confié par délégation à la Société ASSURANCES
+MAGHREBIA VIE la gestion des produits santé. Cette convention a pris effet à partir du 1er
+janvier 2011, elle est conclue pour une durée de 12 mois renouvelable par tacite
+reconduction pour la même durée.
+En 2019, la société ASSURANCES MAGHREBIA propose d’intégrer de nouvelles
+dispositions à ladite convention :
+ Des travaux liés aux missions de contrôle interne ; et
+ Des travaux liés au marketing.
+L’avenant est entré en vigueur à partir du 1er juin 2019.
+En contrepartie, la Société ASSURANCES MAGHREBIA s’engage à régler à la Société
+ASSURANCES MAGHREBIA VIE un montant forfaitaire annuel de 50.000 DT HT, sur
+présentation de facture.
+Contrats de location entre Assurances Maghrebia Vie SA et Assurances Maghrebia SA
+La société ASSURANCES MAGHREBIA donne en location à la société ASSURANCES
+MAGHREBIA VIE une partie du RDC de l’immeuble sis au 24, Rue du Royaume d’Arabie
+Saoudite d’une surface totale de 250M2. Le loyer au 31-12-2025 est fixé à 32 966 DT HT.
+16.3.2. Conventions conclus entre la société Assurances Maghrebia Vie SA et
+la société Assurances Maghrebia Immobiliere SA
+Contrat de location entre Assurances Maghrebia Vie SA et Assurances Maghrebia
+Immobilière SA
+La société ASSURANCES MAGHREBIA IMMOBILIERE donne en location à la société
+ASSURANCES MAGHREBIA VIE le local de l’immeuble sis à Sousse au 1, rue Salah SAAD
+à usage de bureaux. Cette location est consentie pour la durée d’une année renouvelable
+par tacite reconduction. Au 31-12-2025, le loyer est fixé à 41 980 DT HT.
+Convention de gestion du patrimoine immobilier entre la Société Assurances Maghrebia
+Vie SA et la Société Assurances Maghrebia Immobilière SA
+La Société ASSURANCES MAGHREBIA VIE a confié à la Société ASSURANCES MAGHREBIA
+IMMOBILIERE la gestion de son patrimoine immobilier. Ce contrat de gérance a pris effet
+à partir du 1 janvier 2010 pour une durée de 12 mois renouvelable par tacite reconduction.
+En 2025, la société ASSURANCES MAGHREBIA VIE propose d’intégrer de nouvelles
+dispositions à ladite convention. L’avenant est entré en vigueur à partir du 1er juillet 2025.
+En contrepartie de ces prestations, la Société ASSURANCES MAGHREBIA IMMOBILIERE a
+facturé au 31-12-2025 à la société ASSURANCES MAGHREBIA VIE la somme de 140 911
+DT HT.
+16.3.3. Conventions conclus entre la société Assurances Maghrebia Vie SA et
+la société Codway SA
+Convention d’assistance conclue entre la Société Assurances Maghrebia Vie SA et la
+Société Codway SA
+La Société ASSURANCES MAGHREBIA VIE a conclu une convention Assistance Système
+d’Information et Business Process Outsourcing avec la Société CODWAY avec date d’effet
+du 1er janvier 2018 et ayant pour principal objet :
+ Système d’Information ;
+ Assistance et Développement Logiciel ;
+ Audit Informatique ;
+ Business Process Outsourcing (BPO).
+Au 31-12-2025, en contrepartie de ces prestations, la Société CODWAY a facturé à la société
+ASSURANCES MAGHREBIA VIE un montant de 78 597 DT HT.
+16.3.4. Conventions conclus entre la société Assurances Maghrebia Vie SA et
+la société l’Union Financière Holding SA
+En vertu des conventions de prestations de services, la société UNION FINANCIERE
+HOLDING a facturé en 2025 à la société ASSURANCE MAGHREBIA VIE la somme
+de 725 166 DT HT en contre partie des prestations servies en matière de conseils et
+d’assistances.
+Note 17 : : Note sur les informations financières liées à la durabilité
+Selon la norme IFRS S1 « Obligations générales en matière d’informations financières liées à la
+durabilité », Assurances Maghrebia Vie doit fournir des informations significatives sur les
+Opportunités et Risques liés à la durabilité dont on peut raisonnablement s’attendre à ce qu’ils aient
+une incidence sur ses perspectives, et qui sont jugées utiles les principaux utilisateurs des rapports
+financiers aux fins de la prise de décisions sur la fourniture de ressources à l’entité.
+Assurances Maghrebia Vie doit fournir des informations concernant :
+- La Gouvernance et la gestion des opportunités et risques liés à la durabilité
+- La Stratégie suivie par la société pour gérer les opportunités et les risques liés à la
+durabilité
+- Le processus de Gestion de risque afin d’identifier et surveiller les opportunités et les
+risques liés à la durabilité.
+- Les Indicateurs et Cibles de la performance de la société en lien avec les opportunités et
+les risques liés à la durabilité.
+17.1. La gouvernance
+L’objectif des informations financières à fournir sur la gouvernance est de permettre aux utilisateurs
+des rapports financiers de comprendre les processus, les contrôles et les procédures en matière de
+gouvernance utilisés par l’entité pour assurer le suivi, la gestion et la surveillance des opportunités
+et risques liés à la durabilité.
+Le cadre apporté par la gouvernance d’Assurances Maghrebia Vie constitue l’un de ses facteurs
+clés de succès sur le long terme. Cette gouvernance fixe des standards à appliquer, souvent plus
+exigeants que le cadre réglementaire, et définit les règles de conduite à respecter pour les dirigeants,
+cadres et employés de la société. Une attention particulière est aussi apportée à la qualité de la
+composition et des travaux des organes de supervision de la société, principalement représentées
+par leur Conseil d’Administration et par les Comités spécialisés mandatés par ces Conseils.
+Le rôle du conseil d’administration en matière de gouvernance et de gestion des opportunités et
+risques liés à la durabilité consiste à déterminer les orientations stratégiques des activités de la
+société et à superviser leur mise en œuvre, notamment les orientations stratégiques pluriannuelles
+relatives à la responsabilité sociale et environnementale. Il suit régulièrement les opportunités et
+risques liés à la durabilité, tels que les risques financiers, juridiques, opérationnels, sociaux et
+environnementaux, ainsi que les mesures mises en place pour y faire face.
+En complément des états financiers et des rapports de gestion, le conseil approuve également un
+rapport extra-financier présentant les politiques, les actions, les indicateurs de performance ainsi
+que les résultats liés aux enjeux environnementaux, sociaux, sociétaux et de gouvernance. Ce
+rapport permet d’apprécier le niveau de responsabilité de la société, sa démarche de durabilité et sa
+capacité à maîtriser les risques non financiers, dans une optique de transparence à l’égard des parties
+prenantes.
+Afin d’assurer une disponibilité de supervision suffisante, le Conseil d’Administration de
+Assurances Maghrebia Vie a mandaté certains de ses Administrateurs afin de constituer des
+Comités du Conseil qui superviseront plus en détail certaines activités critiques. En particulier, le
+Comité des Risques a validé en 2025 une liste d’indicateurs métriques, définis pour chacun des 8
+enjeux RSE retenus par la société, afin de pouvoir mesurer à court, moyen et long terme l’impact
+des actions entreprises sur chacun de ces enjeux.
+Activités du Conseil d’Administration et de ses Comités en matière de durabilité :
+- Révision périodique de la politique d'investissement responsable, sa mise en œuvre et son
+impact sur le portefeuille et le plan d'investissement de la compagnie ;
+- Révision périodique du Code de déontologie professionnelle ;
+- Approbation du rapport extra-financier ;
+- Désignation d’un auditeur indépendant afin d’émettre une opinion d’assurance limitée sur
+le rapport extra-financier ;
+- Présentation d’états financiers certifiés par les Commissaires aux Comptes selon les
+normes financières internationales afin d’apporter davantage de transparence dans
+l’information financière communiquée aux actionnaires et au public en général.
+17.2. La Stratégie
+Assurances Maghrebia Vie, faisant partie d’UFI Group, est membre du Pacte Mondial des Nations
+Unies et adhère rigoureusement à cette initiative depuis 2009. Cet engagement volontaire en
+matière de durabilité a été consolidé par la mise en place de notre démarche de Responsabilité
+Sociétale de l’Entreprise (RSE) initiée au début des années 2020 et pensée comme une évolution
+rendue logique et nécessaire par la croissance de l’activité du Groupe Maghrebia et de son impact
+sur la société dans son ensemble. La participation dès 2021 à un programme pilote proposé par le
+Centre International des Technologies de l’Environnement de Tunis (CITET) a apporté les bases
+méthodologiques nécessaires pour former les parties prenantes à cette démarche. Ces concertations
+ont permis de convenir des 8 enjeux RSE prioritaires qui structurent les plans d’actions, en
+concordance avec les Objectifs de Développement Durable (ODD) définis par les Nations Unies.
+La publication en décembre 2023 de la Politique RSE a permis d’assurer son ancrage dans la culture
+d’entreprise et d’articuler notre démarche autour de 4 axes : l’axe Sociétal, l’axe Social, l’axe
+Environnemental et l’axe Ethique et Gouvernance. Dès 2023, une revue des politiques, chartes et
+procédures de l’entreprise a été assurée afin d’intégrer les enjeux de durabilité dans les différents
+processus de gouvernance, de prise de décision et de gestion opérationnelle. En complément, des
+ateliers ont été organisés afin de proposer, pour chacun des enjeux prioritaires, des cibles
+mesurables à court, moyen et long terme permettant de structurer une feuille de route efficace,
+aboutissant à une sélection de métriques approuvés en 2025 par le Comité des Risques du Conseil
+d’Administration.
+ Le modèle économique d’Assurances Maghrebia Vie :
+Le modèle économique d’une compagnie d’assurance vie repose sur la mutualisation des risques
+liés à la longévité, au décès et à l’épargne. En tant qu’assureur, la société collecte des primes ou
+des versements auprès d’un grand nombre d’assurés afin de verser des prestations en cas de
+réalisation du risque assuré (décès, survie) ou à l’échéance des contrats d’épargne.
+Sa rentabilité dépend à la fois de son résultat technique (équilibre entre primes, provisions
+mathématiques et prestations versées) et de son résultat financier, issu de l’investissement des fonds
+collectés sur des horizons généralement longs. La gestion actif-passif (ALM) y occupe une place
+centrale afin d’assurer l’adéquation entre les engagements à long terme envers les assurés et les
+placements réalisés.
+La chaîne de valeur s’étend de la conception des produits (assurance décès, assurance vie mixte,
+contrats d’épargne, retraite, unités de compte) et la tarification actuarielle, jusqu’à la gestion des
+prestations et rachats, en passant par la distribution, la gestion administrative des contrats et la
+gestion des placements. L’ensemble est soutenu par des fonctions clés telles que l’actuariat, la
+gestion des risques, la réassurance vie, la conformité réglementaire et la gestion d’actifs.
+Principales parties prenantes :
+ Les souscripteurs, assurés et bénéficiaires ;
+ Les intermédiaires (agents, courtiers, réseaux bancaires) ;
+ Les gestionnaires d’actifs et émetteurs des supports d’investissement ;
+ L’État et les autorités de régulation ;
+ Les salariés ;
+ Les réassureurs vie ;
+ Les partenaires institutionnels (banques, dépositaires, fournisseurs de services).
+ Définition et identification des Opportunités et risques liés à la durabilité
+En lien avec le modèle économique et la chaîne de valeur, les opportunités et les risques analysés,
+ayant impact sur la durabilité de la société et dont on peut raisonnablement s’attendre à ce qu’ils
+aient une incidence à court, moyen ou long terme sur sa situation, sa performance et ses flux de
+trésorerie, sont les suivant :
+Principaux postes impactés
+Risques et Opportunités Etat de flux de Etendue
+Impact Etat de résultat Bilan
+trésorerie
+- La hausse de la fréquence et de la gravité des sinistres
++/‐ ‐ ‐ ‐/+
+climatiques est susceptible de rendre certains risques
+progressivement inassurables. La hausse de la sinistralité court,
+peut affecter le secteur soit directement, en pesant sur les Part des réassureurs moyen et
+assureurs, soit indirectement, par le désengagement des Poste Charges de sinistres Flux de trésorerie dans les provisions long terme
+liés à l'exploitation techniques/Provisions
+réassureurs ou même leur défaillance, ce qui fragiliserait
+techniques/Placements
+l’ensemble de la chaîne assurantielle
++/‐ ‐ ‐ ‐
+- Un risque de sous-tarification de certains produits
+d’assurance résultant de la non-prise en compte des enjeux moyen et
+liés au changement climatique dans l’évaluation et la Flux de trésorerie long terme
+Poste Primes acquises Placements
+tarification des risques liés à l'exploitation
+- Un risque de dépréciation des placements financiers dans
++/‐ ‐ ‐ ‐
+les capitaux des sociétés impactées, directement ou
+indirectement, par l’entrée en vigueur de la réglementation
+moyen et
+européenne sur l’exportation et la taxation des produits à
+Produits et charges Flux de trésorerie long terme
+forte intensité carbone, en perdant leurs compétitivités et Poste Placements
+des placements liés à l'exploitation
+leurs performances financières, en particulier pour les
+sociétés tunisiennes exportatrices vers l’Union Européenne
+L’opportunité de concevoir des produits d’épargne durable +/‐ + + +
+repose sur l’évolution des attentes des épargnants, de plus en moyen et
+plus sensibles aux enjeux environnementaux, sociaux et de Primes acquises/ Flux de trésorerie long terme
+Poste Placements
+gouvernance (ESG). Charges de sinistres liés à l'exploitation
+17.3. La gestion de risque
+L’objectif des informations financières à fournir en lien avec la durabilité, concernant la gestion
+des risques, est de permettre aux utilisateurs des rapports financiers de comprendre les processus
+suivis par l’entité pour identifier, évaluer, hiérarchiser et surveiller les opportunités et risques liés
+à la durabilité.
+L’appréciation et l’évaluation des risques et opportunités se font selon le principe de double
+matérialité, en identifiant d’une part les enjeux de durabilité susceptibles d’affecter la performance
+financière de l’entreprise, et d’autre part les impacts, positifs et négatifs, de ses activités sur la
+durabilité et sur leur environnement économique et social.
+La matérialité financière est appréciée en fonction de l’importance et de la probabilité des risques
+associés aux enjeux de durabilité, afin d’identifier ceux susceptibles d’affecter significativement la
+performance économique de l’entreprise.
+La matérialité liée à la durabilité, ainsi qu’aux exigences sociales et environnementales, est évaluée
+en fonction de la gravité, de l’étendue des impacts sociaux et environnementaux, et de la probabilité
+des risques.
+17.4. Indicateurs et Cibles
+L’objectif des informations financières à fournir en lien avec la durabilité qui concernent
+les indicateurs est de permettre aux utilisateurs des rapports financiers de comprendre la
+performance de l’entité par rapport aux opportunités et risques liés à la durabilité qui se
+présentent à elle, notamment ses progrès vers l’atteinte des cibles liées à la durabilité
+qu’elle a établies et de toute cible qu’elle est tenue d’atteindre.
+Dans ce cadre, Le Comité de Gestion des Risques du Conseil d’Administration a approuvé
+en 2025 une sélection de métriques dédiés à chacun des 8 enjeux qui structurent la politique
+RSE du Groupe Maghrebia. Les cibles à court, moyen et long terme restent à établir pour
+chacun de ces métriques.
+Le tableau suivant présente les réalisations d’Assurances Maghrebia Vie en matière de
+durabilité pour les exercices 2023, 2024 et 2025.
+Indicateur 2025 2024 2023
+Investissement Montant des investissements durables
+46 817 858 46 817 858 21 192 865
+Responsable engagés en DT
+Nombre de clients de micro(cid:0)assurance 555 297 524 582 495 677
+Inclusion financière Montant des emprunts obligataires
+souscrits auprès des institutions de 35 220 000 42 860 000 50 800 000
+micro(cid:0)crédit en DT
+Financement de Montants desemprunts obligataireset
+285 099 284 223 024 508 207 744 708
+l’État emprunts national souscrits en DT
+Analyse des risques liés à la santé et à la
+sécurité au travail (SST) et mise en place
+Santé et sécurité au
+d’unpland’atténuationdesrisquesSST Oui Oui Oui
+travail
+y compris les risques psychosociaux
+(Oui/Non)
+Oui Oui Oui
+Intégrée dans le Code Intégrée dans le Code Intégrée dans le Code
+L’existence d’une politiqueaux seinde d'Ethique et au d'Ethique et au d'Ethique et au
+l’entreprise relative aux droits de niveau de niveau de niveau de
+Droit de l'Homme l’Homme (Oui/ Non) l'engagement RSE l'engagement RSE l'engagement RSE
+pour les relations pour les relations pour les relations
+avec les fournisseurs avec les fournisseurs avec les fournisseurs
+SiOui,est‐cequecettepolitiquecouvre
+Oui Oui Oui
+les fournisseurs (Oui/ non)
+Changements Émissions directes de GES (Scope 1)
+64 T CO2 92 TCO2 68 TCO2
+climatiques
+Émissions directes de GES (Scope 2)
+Nombre d’arbres implantés dans le
+cadreduprojetdedécarbonisationpar
+3750 ‐ ‐
+le reboisement et les investissements
+forestiers durables
+Actions
+Montant investi dans des projets
+d’atténuation des ‐ ‐ ‐
+d’énergie renouvelable.
+changements
+Non* Non*
+climatiques
+Existence d’une politique générale Mais nous menons Mais nous menons
+d’atténuation des risques liés aux une campagne une campagne Non
+changements climatiques (Oui/Non) annuelle de annuelle de
+reboisement reboisement
+Ratio d’intensité énergétique de
+l’entreprise : la consommation
+Intensité
+énergétique absolue (numérateur) 1,059 Kwh/kDT de CA 1,674 Kwh/kDT de CA 1,419 Kwh/kDT de CA
+énergétique
+divisé par le paramètre spécifique de
+l’organisation (dénominateur)
+Volume total d’eau prélevé par source 876 m3 1284 m3 1119 m3
+Eau et effluent Pourcentage et volume total d'eau
+0% 0% 0%
+recyclée et réutilisée
+Lepourcentagedefemmesauseindes
+instances de gouvernance et de 50% 50% 50%
+Diversité des direction de l’organisation.
+organes de direction
+Lepourcentagedesfemmesauseindes
+40% 40% 40%
+comités du Conseil d’Administration.
+Le ratio entre la rémunération Cadre : 93,2% Cadre : 96,7% Cadre : 99,5%
+Diversité et Egalité moyenne des hommes et la Maîtrise : 99,3% Maîtrise : 99,8% Maîtrise : 101,0%
+des Chances rémunérationmoyennedesfemmeset Agent d'exécution : Agent d'exécution : Agent d'exécution :
+ce par catégorie professionnelle. 100% 100,0% 100,0%
+*Comme indiqué dans son Rapport Extra-Financier de l’année 2024, le Groupe Assurances
+Maghrebia a pour ambition d’intensifier son programme de reboisement afin d’avoir
+planté, dès la fin de l’année 2026, un nombre d’arbres permettant, à maturité, l’absorption
+de l’équivalent du total des émissions de gaz à effet de serre du Groupe d’Assurance.
+MESSIEURS LES ACTIONNAIRES DE LA
+SOCIETE « ASSURANCES MAGHREBIA VIE SA »
+24, Rue d’Arabie Saoudite. 1002 Tunis.
+RAPPORT DU COMMISSAIRE AUX COMPTES SUR LES ETATS FINANCIERS DE
+L’EXERCICE CLOS LE 31 DECEMBRE 2025 ETABLIS SELON LE
+REFETENTIEL IFRS
+Messieurs,
+I-Rapport sur l’audit des états financiers établis selon le référentiel IFRS
+Opinion
+Nous avons effectué l’audit des états financiers de la société ASSURANCES MAGHREBIA
+VIE SA établis selon le référentiel IFRS, qui comprennent l’état de la situation financière au
+31 Décembre 2025, l’état de résultat global, l’état des flux de trésorerie, l’état de variation des
+capitaux propres ainsi que les notes annexes, y compris le résumé des principales méthodes
+comptables. Ces états financiers font ressortir un total net du bilan de 882 518 054 Dinars et un
+résultat global de l’exercice de 32 783 752 Dinars.
+A notre avis, les états financiers ci-joints présentent sincèrement, dans tous leurs aspects
+significatifs, la situation financière de la société au 31 décembre 2025, ainsi que de sa
+performance financière et de ses flux de trésorerie pour l'exercice clos à cette date,
+conformément au référentiel IFRS.
+Fondement de l’opinion
+Nous avons effectué notre audit selon les Normes professionnelles applicables en Tunisie. Les
+responsabilités qui nous incombent en vertu de ces normes sont plus amplement décrites dans
+la section « Responsabilités de l’auditeur pour l’audit des états financiers » du présent rapport.
+Nous sommes indépendants de la société conformément aux règles de déontologie qui
+s’appliquent à l’audit des états financiers en Tunisie, et nous nous sommes acquittés des autres
+responsabilités déontologiques qui nous incombent selon ces règles.
+Nous estimons que les éléments probants que nous avons obtenus sont suffisants et appropriés
+pour fonder notre opinion d’audit.
+Question clés de l’audit
+Les questions clés de l’audit sont les questions qui, selon notre jugement professionnel, ont été
+les plus importantes dans l’audit des états financiers de la période considérée. Ces questions ont
+été traitées dans le contexte de notre audit des états financiers pris dans leur ensemble, arrêtés
+dans les conditions rappelées précédemment, et aux fins de la formation de notre opinion sur
+ceux-ci et nous n’exprimons pas une opinion distincte sur ces questions.
+Nous avons déterminé que les questions décrites ci-après constituent les questions clés de
+l’audit qui doivent être communiquées dans notre rapport.
+I. Evaluation des provisions techniques :
+Risque identifié
+A la date de clôture annuelle, un test de suffisance du passif est réalisé conformément à la norme
+IFRS 4. Ce test revient à comparer les provisions techniques comptabilisées au bilan avec une
+projection des flux nets de trésorerie futurs issus des contrats d’assurance et de contrats
+financiers avec participation aux bénéfices discrétionnaire. Dans le cas théorique où une
+insuffisance serait constatée, un passif complémentaire devrait être comptabilisé.
+Au 31 décembre 2025, le montant total des provisions techniques d’assurance s’élève à
+642 893 115 DT. Le test réalisé au 31 décembre 2025 a conclu au caractère suffisant des
+provisions.
+Nous avons considéré que la mise en œuvre du test de suffisance des passifs d’assurance
+constitue un point clé de notre audit car il fait intervenir des modèles actuariels et requiert une
+part importante de jugement dans le choix des hypothèses, les scénarios retenus, les décisions
+de gestion futures et la durée des projections.
+Synthèses de nos réponses :
+Nous avons mis en œuvre les procédures suivantes :
+‐ Prise de connaissance de la méthodologie retenue et appréciation de la cohérence des
+hypothèses économiques et financières retenues ;
+‐ Appréciation de la validité des données relatives aux contrats utilisées comme point de
+départ pour la modélisation ;
+‐ Examen des données en sortie du modèle de projection servant au test de suffisance des
+passifs
+‐ Examen de l’information produite au sein des notes aux états financiers.
+II. Valorisation des actifs financiers :
+Risque identifié :
+Les placements financiers figurent à l’actif du bilan pour un montant net de 748 024 010 DT
+au 31 décembre 2025. Les placements financiers sont évalués à la juste valeur à la clôture de
+l’exercice.
+En raison du caractère significatif des encours et du fait de la sensibilité de la valorisation de
+des actifs financiers aux choix de la direction quant aux méthodologies et paramètres de calcul,
+nous avons considéré la correcte évaluation des actifs financiers comme un point clé d’audit.
+Synthèses de nos réponses :
+Nous avons réalisé les diligences suivantes :
+‐ Vérifier que l’estimation de ces valeurs, déterminée par la direction, est fondée sur une
+justification appropriée de la méthode d’évaluation et des chiffres utilisés ;
+‐ Obtenir, sur un échantillon, les dernières valorisations disponibles provenant d’experts
+et de gestionnaires de fonds afin d’apprécier la valorisation retenue par la société ;
+‐ Procéder aux vérifications arithmétiques des calculs effectués ;
+‐ Examiner les informations relatives à la valorisation des instruments financiers et
+présentées en annexe ;
+Responsabilités de la direction et des responsables de la gouvernance pour les états financiers
+La direction est responsable de la préparation et de la présentation fidèle des états financiers,
+conformément au référentiel IFRS, ainsi que du contrôle interne qu’elle considère comme
+nécessaire pour permettre la préparation d’états financiers exempts d’anomalies significatives,
+que celle-ci résultent de fraudes ou d’erreurs.
+Lors de la préparation des états financiers, c’est à la direction qu’il incombe d’évaluer la
+capacité de la société à poursuivre son exploitation, de communiquer, le cas échéant, les
+questions relatives à la continuité de l’exploitation et d’appliquer le principe comptable de
+continuité d’exploitation, sauf si la direction a l’intention de liquider la société ou de cesser son
+activité ou si aucune autre solution réaliste ne s’offre à elle.
+Il incombe aux responsables de la gouvernance de surveiller le processus d’information
+financière de la société.
+Responsabilités de l’auditeur pour l’audit des états financiers
+Nos objectifs sont d’obtenir l’assurance raisonnable que les états financiers pris dans leur
+ensemble sont exempts d’anomalies significatives, que celles-ci résultent de fraudes ou
+d’erreurs, et de délivrer un rapport de l’auditeur contenant notre opinion.
+L’assurance raisonnable correspond à un niveau élevé d’assurance, qui ne garantit toutefois pas
+qu’un audit, réalisé conformément aux normes internationales d’audit applicables en Tunisie,
+permettra toujours de détecter toute anomalie significative qui pourrait exister.
+Les anomalies peuvent résulter de fraudes ou d’erreurs et elles sont considérées comme
+significatives lorsqu’il est raisonnable de s’attendre à ce que, individuellement ou
+collectivement, elles puissent influer sur les décisions économiques que les utilisateurs des états
+financiers prennent en se fondant sur ceux-ci.
+Dans le cadre d’un audit réalisé conformément aux normes internationales d’audit applicables
+en Tunisie, nous exerçons notre jugement professionnel et faisons preuve d’esprit critique tout
+au long de cet audit.
+En outre :
+ Nous identifions et évaluons les risques que les états financiers comportent des
+anomalies significatives, que celles-ci résultent de fraudes ou d’erreurs, concevons et
+mettons en œuvre des procédures d’audit en réponse à ces risques, et réunissons des
+éléments probants suffisants et appropriés pour fonder notre opinion. Le risque de non-
+détection d’une anomalie significative résultant d’une fraude est plus élevé que celui
+d’une anomalie significative résultant d’une erreur, car la fraude peut impliquer la
+collusion, la falsification, les omissions volontaires, les fausses déclarations ou le
+contournement du contrôle interne ;
+ Nous acquérons une compréhension des éléments du contrôle interne pertinents pour
+l’audit afin de concevoir des procédures d’audit appropriées dans les circonstances ;
+ Nous apprécions le caractère approprié des méthodes comptables retenues et le caractère
+raisonnable des estimations comptables faites par la direction, de même que des
+informations y afférentes fournies par cette dernière ;
+ Nous tirons une conclusion quant au caractère approprié de l’utilisation par la direction
+du principe comptable de continuité d’exploitation et, selon les éléments probants
+obtenus, quant à l’existence ou non d’une incertitude significative liée à des événements
+ou situations susceptibles de jeter un doute important sur la capacité de la société à
+poursuivre son exploitation. Si nous concluons à l’existence d’une incertitude
+significative, nous sommes tenus d’attirer l’attention des lecteurs de notre rapport sur
+les informations fournies dans les états financiers au sujet de cette incertitude ou, si ces
+informations ne sont pas adéquates, d’exprimer une opinion modifiée. Nos conclusions
+s’appuient sur les éléments probants obtenus jusqu’à la date de notre rapport. Des
+événements ou situations futurs pourraient par ailleurs amener la société à cesser son
+exploitation ;
+ Nous évaluons la présentation d’ensemble, la forme et le contenu des états financiers, y
+compris les informations fournies dans les notes, et apprécions si les états financiers
+représentent les opérations et les évènements sous-jacents d’une manière propre à
+donner une image fidèle ;
+ Nous communiquons aux responsables de la gouvernance notamment l’étendue et le
+calendrier prévus des travaux d’audit et nos constatations importantes, y compris toute
+déficience importante du contrôle interne que nous aurions relevée au cours de notre
+audit.
+ Nous fournissons également aux responsables de la gouvernance une déclaration
+précisant que nous nous sommes conformés aux règles de déontologie pertinentes
+concernant l’indépendance et, leur communiquons toutes les relations et les autres
+facteurs qui peuvent raisonnablement être considérés comme susceptibles d’avoir des
+incidences sur notre indépendance ainsi que les sauvegardes connexes s’il y a lieu.
+ Parmi les questions communiquées aux responsables de la gouvernance, nous
+déterminons quelles ont été les plus importantes dans l’audit des états financiers de la
+période considérée : ce sont les questions clés de l’audit. Nous décrivons ces questions
+dans notre rapport, sauf si les textes légaux ou réglementaires en empêchent la
+publication ou si, dans des circonstances extrêmement rares, nous déterminons que nous
+ne devrions pas communiquer une question dans notre rapport parce que l’on peut
+raisonnablement s’attendre à ce que les conséquences néfastes de la communication de
+cette question dépassent les avantages pour l’intérêt public.
+Tunis, le 24 avril 2026
+LE COMMISSAIRE AUX COMPTES
+Emna RACHIKOU
+FMBZ KPMG TUNISIE

@@ -1,0 +1,1711 @@
+AVIS DES SOCIETES
+ETATS FINANCIERS
+COMPANIE D’ASSURANCES ET DE EASSURANCES
+- ASTREE
+Siège social : 45, Avenue Kheireddine Pacha BP 780 - 1080 – Cedex
+La Compagnie d’Assurances et de Réassurances -ASTREE-, publie ci-dessous, ses états financiers
+arrêtés au 31 décembre 2025 tels qu’ils seront soumis à l’approbation de l’Assemblée Générale
+Ordinaire statuant sur l’exercice 2025.Ces états financiers sont accompagnés des rapports général et
+spécial des commissaires aux comptes M. Ahmed SAHNOUN (Les Commissaires aux Comptes
+Associés MTBF) & M. Karim DEROUICHE (FINOR).
+(Chiffres en dinars tunisien)
+Annexe n°1 Au 31 Décembre 2025 Au 31 décembre 2024
+Actif du bilan Amortissements
+Brut Net Net
+Notes et provisions
+AC1 Actifs incorporels A 1 8 923 548 2 667 126 6 256 422 4 865 540
+AC11,12,13Investissements de recherche et développement/Fonds commercial 2 901 031 2 667 126 233 905 351 792
+AC14Acomptes versés 6 022 517 6 022 517 4 513 747
+AC2 Actifs corporels d'exploitation A 2 10 794 634 8 840 570 1 954 065 2 135 365
+AC21Installations techniques et machines 9 257 868 7 626 324 1 631 544 1 788 725
+AC22Autres installations, outillages et mobiliers 1 527 038 1 214 246 312 792 296 815
+AC23Acomptes versés et immobilisations corporelles en cours 9 728 9 728 49 825
+AC3 Placements A 3 715 302 109 22 118 613 693 183 497 632 057 823
+AC31Terrains, constructions et actions de sociétés immobilières non cotées A 3.1 31 346 924 6 872 864 24 474 060 24 689 542
+AC311 Terrains et constructions d'exploitation 3 855 502 3 032 518 822 984 914 238
+AC312 Terrains et constructions hors exploitation 18 395 604 3 840 346 14 555 258 14 679 486
+AC313 Parts et actions de sociétés immobilères non cotées 9 095 818 0 9 095 818 9 095 818
+AC32Placements dans les entreprises liées et participations A 3.2 25 781 365 0 25 781 365 25 781 365
+AC33Autres placements financiers A 3.3 655 636 600 15 245 748 640 390 852 579 154 751
+AC331 Actions,autres titres à revenu variable et parts dans les FCP 121 049 313 15 102 420 105 946 893 104 119 561
+AC332 Obligations et autres titres à revenu fixe 418 393 505 416 418 393 088 346 696 392
+AC333 Prêts hypothécaires 1 627 883 1 627 883 1 514 515
+AC334 Autres Prêts 1 544 942 142 912 1 402 030 1 112 231
+AC335 Dépôts auprès des établissements bancaires et financiers 113 020 956 113 020 956 65 652 000
+AC336 Autres 0 0 60 060 052
+AC34Créances pour espèces déposées auprès des Entreprises cédantes A 3.4 2 537 221 2 537 221 2 432 165
+AC5 Part des réassureurs dans les provisions techniques A 4 52 466 208 52 466 208 55 529 163
+AC510Provisions pour primes non acquises 16 300 565 16 300 565 15 104 554
+AC520Provision d’assurance vie 1 987 548 1 987 548 2 399 890
+AC530Provisions pour sinistres Vie 123 268 123 268 339 342
+AC531Provisions pour sinistres Non Vie 34 054 827 34 054 827 37 685 376
+AC550Provisions d'égalisation et d'équilibrage Non Vie 0 0
+AC6 Créances A 5 91 991 441 25 598 253 66 393 188 68 398 306
+AC61Créances nées d'opérations d'Assurance directe A 5.1 73 836 737 23 594 173 50 242 564 53 092 886
+AC611Primes acquises et non émises A 5.1.1 10 046 332 10 046 332 9 046 353
+AC612Autres créances nées d'opération d'assurance directe A 5.1.2 55 542 126 21 181 338 34 360 788 34 712 508
+AC613Créances indemnisées subrogées à l'Entreprise d'assurance A 5.1.3 8 248 280 2 412 836 5 835 444 9 334 024
+AC62Créances nées d'opérations de réassurance A 5.2 5 733 127 875 912 4 857 215 3 592 220
+AC63Autres Créances A 5.3 12 421 577 1 128 168 11 293 409 11 713 200
+AC631Personnel A 5.3.1 227 962 227 962 220 808
+AC632Etat, organismes de sécurité sociale, collectivités publiques A 5.3.2 10 223 683 10 223 683 10 470 316
+AC633Débiteurs divers A 5.3.3 1 969 932 1 128 168 841 764 1 022 075
+AC7 Autres éléments d'Actif A 6 60 822 044 60 822 044 54 844 419
+AC71Avoirs en banques, CCP, chèques et caisse A 6.1 21 808 324 21 808 324 19 144 719
+AC72Frais d'acquisition reportés A 6.2 6 075 281 6 075 281 5 599 275
+AC73Comptes de régularisation Actif A 6.3 32 938 440 32 938 440 30 100 425
+AC731Intérêts et loyers acquis non échus A 6.3.1 22 343 368 22 343 368 18 353 489
+AC733Autres comptes de régularisation A 6.3.2 10 595 072 10 595 072 11 746 936
+Total de l'Actif : 940 299 985 59 224 561 881 075 424 817 830 616
+(Chiffres en dinars tunisien)
+Annexe n°2
+Capitaux propres et passif du Bilan Au 31/12/2025 Au 31/12/2024
+Notes
+Capitaux propres P 1
+CP1Capital social ou fonds équivalent P 1.1 30 000 000 30 000 000
+CP2Réserves et primes liées au capital P 1.2 95 745 873 87 245 873
+CP4Autres capitaux propres P 1.3 42 526 315 37 026 315
+CP5Résultats reportés P 1.4 1 089 353 1 103 601
+Total capitaux propres avant résultat : 169 361 541 155 375 789
+CP6Résultat de l'exercice P 1.5 34 769 144 28 985 751
+Total capitaux propres avant affectation : 204 130 685 184 361 541
+Passif P 2
+PA2 Provisions pour autres risques et charges P 2.1 16 817 855 18 073 572
+PA23Autres provisions 16 817 855 18 073 572
+PA3 Provisions techniques brutes P 2.2 572 421 482 525 954 551
+PA310 Provisions pour primes non acquises Non Vie 56 564 275 54 438 930
+PA320 Provisions d'assurances Vie 272 642 642 235 452 142
+PA330 Provisions pour sinistres Vie 5 309 556 5 536 238
+PA331 Provisions pour sinistres Non Vie 220 787 830 215 318 880
+PA340 Provisions pour participation aux bénéfices et ristournes Vie 3 444 063 2 650 406
+PA341 Provisions pour participation aux bénéfices et ristournes Non Vie 7 819 777 7 016 512
+PA350 Provision pour égalisation et équilibrage Non Vie 1 505 484 1 505 484
+PA360 Autres provisions techniques Vie 0 238 597
+PA361 Autres provisions techniques Non Vie 4 347 855 3 797 360
+PA5 Dettes pour dépôts en espèces reçus des cessionnaires P 2.3 15 271 410 17 872 396
+PA6 Autres dettes P 2.4 66 061 668 64 203 700
+PA61Dettes nées d'opérations d'assurance directe P 2.4.1 14 100 562 15 382 622
+PA611Autres dettes nées d'opérations d'assurance directe P 2.4.1.1 11 608 850 11 638 987
+PA612Dettes indemnisées subrogées à l'Entreprise d'assurance P 2.4.1.2 2 491 712 3 743 635
+PA62Dettes nées d'opérations de réassurance P 2.4.2 26 609 979 25 043 331
+PA63Autres dettes P 2.5 25 351 127 23 777 747
+PA631 Dépôts et cautionnements reçus P 2.5.1 535 034 484 846
+PA632 Personnel P 2.5.2 1 438 252 1 295 645
+PA633 Etat, organismes de sécurité sociale, collectivités publiques P 2.5.3 21 548 103 20 503 348
+PA634 Créditeurs divers P 2.5.4 1 829 738 1 493 909
+PA7 Autres passifs 2.6 6 372 325 7 364 857
+PA71Comptes de régularisation passif P 2.6.1 6 372 325 7 364 857
+Total des capitaux propres et du Passif : 881 075 424 817 830 616
+(Chiffres en dinars tunisiens)
+Annexe n°3 Opérations Opérations Opérations
+Cessions
+Etat de résultat technique de l'Assurance Non Vie brutes nettes nettes
+Notes Au 31/12/2025 Au 31/12/2025 Au 31/12/2025 Au 31/12/2024
+PRNV1 Primes acquises 1 88 812 376 <53 945 881> 1 34 866 495 129 421 579
+PRNV11 Primes émises et acceptées 6.1 1 90 937 720 <55 141 892> 1 35 795 829 129 492 844
+PRNV12 Variation de la provision pour primes non acquises < 2 125 344> 1 196 011 <929 334> <71 265>
+PRNT3 Produits de placements alloués, transférés de l'état de résultat 24 200 935 24 200 935 21 344 326
+PRNV2 Autres produits techniques 152 288 152 288 16 581
+CHNV1 Charges de sinistres <125 159 049> 1 0 413 261 <114 745 788> <112 685 892>
+CHNV11 Montants payés <119 690 100> 1 3 034 001 <106 656 099> <91 757 398>
+Sinistre Régles < 105 487 826> 1 3 034 001 <92 453 825> <78 411 061>
+Frais de Gestion < 14 202 274> <14 202 274> <13 346 338>
+CHNV12 Variation de la provision pour sinistres < 5 468 950> <2 620 739> < 8 089 689> <20 928 494>
+CHNV2 Variation des autres provisions techniques < 550 495> <550 495> <4 636>
+CHNV3 Participation aux bénéfices et ristournes < 5 001 163> 1 046 656 <3 954 507> <1 915 671>
+CHNV4 Frais d'exploitation <30 434 358> 1 2 128 578 <18 305 780> <16 029 696>
+CHNV41 Frais d'acquisition <11 644 566> <11 644 566> <11 031 661>
+CHNV42 Variation du montant des frais d'acquisition reportés 179 881 179 881 502 768
+CHNV43 Frais d'administration <18 969 673> <18 969 673> <17 424 690>
+CHNV44 Commissions reçues des réassureurs 1 2 128 578 12 128 578 11 923 886
+CHNV5 Autres charges techniques < 4 752 617> <4 752 617> <4 604 881>
+CHNV6 Variation de la provision pour égalisation & équilibrage - - -
+RTNV Sous Total : Résultat technique de l'assurance Non Vie 47 267 917 <30 357 386> 16 910 531 15 541 709
+(Chiffres en dinars tunisiens)
+Annexe n°4 Opérations Opérations Opérations
+Cessions
+Etat de résultat technique de l'Assurance VIE Brutes nettes nettes
+Notes Au 31/12/2025 Au 31/12/2025 Au 31/12/2025 Au 31/12/2024
+PRV1 Primes 8 6 777 149 <420 555> 8 6 356 595 76 303 157
+PRV11Primes émises et acceptées 6.1 8 6 777 149 <420 555> 8 6 356 595 76 303 157
+PRV2 Produits de placements 2 3 557 544 2 3 557 544 24 917 084
+PRV21Revenus des placements 2 0 287 089 2 0 287 089 22 850 180
+PRV23Reprise de correction de valeurs sur placements 1 215 910 1 215 910 1 215 283
+PRV24Profits provenant de la réalisation des placements 2 054 545 2 054 545 851 621
+PRV4 Autres produits techniques
+CHV1 Charge de sinistres <43 056 905> 2 21 833 < 42 835 072> <163 651 462>
+CHV11Montants payés <43 283 588> 4 40 342 < 42 843 245> <163 420 948>
+Sinistre Réglés <42 565 901> 4 40 342 < 42 125 558> <163 021 135>
+Frais de Gestion < 717 687> < 717 687> <658 394>
+CHV12Variation de la provision pour sinistres 2 26 683 <218 509> 8 173 <230 514>
+CHV2 Variation des autres provisions techniques <37 425 356> < 412 342> < 37 837 699> 88 557 393
+CHV21Provisions d'assurance vie <37 663 954> < 412 342> < 38 076 296> 88 500 747
+CHV22Autres provisions techniques 2 38 597 238 597 56 646
+CHV3 Participation aux bénéfices et ristournes <1 023 888> 1 221 <1 022 667> 1 268 889
+CHV4 Frais d'exploitation <8 696 823> <13 909> <8 710 732> <8 090 910>
+CHV41Frais d'acquisition <7 794 334> <7 794 334> <7 383 692>
+CHV42Variation du montant des frais d'acquisition reportés 2 96 125 296 125 360 357
+CHV43Frais d'Administration <1 198 615> <1 198 615> <1 073 210>
+CHV44Commissions reçues des réassureurs <13 909> <13 909> 5 636
+CHV5 Autres charges techniques <1 360 251> <1 360 251> <787 774>
+CHV9 Charges des placements <1 376 318> <1 376 318> <1 565 514>
+CHV91Charges de gestion des placements, y compris les charges d'intérêts <1 138 382> <1 138 382> <854 699>
+CHV92Correction de valeur sur placements < 183 023> < 183 023> <316 494>
+CHV93Pertes provenant de la réalisation des placements <54 913> <54 913> <394 322>
+RTV Sous Total : Résultat technique de l'assurance Vie 1 7 395 152 <623 753> 1 6 771 399 16 950 863
+(Chiffres en dinars tunisiens)
+Annexe n°5
+Etat de Résultat Au 31/12/2025 Au 31/12/2024
+Notes
+RTNV Résultat Technique de l'Assurance Non Vie 16 910 531 15 541 709
+RTV Résultat Technique de l'Assurance Vie 16 771 399 16 950 863
+PRNT1 Produits des placements Assurance Non Vie 40 266 438 35 701 976
+PRNT11Revenus des placements 34 676 315 32 606 800
+PRNT13Reprise de correction de valeurs sur placements 2 078 330 2 088 439
+PRNT14Profits provenant de la réalisation des placements 3 511 793 1 006 737
+CHNT1 Charges des placements de l'Assurance Non Vie <2 352 513> <2 155 734>
+CHNT11Charges de gestion des placements, y compris les charges d'intérêts <1 945 814> <1 265 357>
+CHNT12Correction de valeurs sur placements <312 838> <396 557>
+CHNT13Pertes provenant de la réalisation des placements <93 861> <493 820>
+CHNT2 Produits des placements alloués, transférés à l'état de résultat
+technique de l'Assurance Non Vie < 24 200 935> <21 344 326>
+PRNT2 Autres produits non techniques 2 347 067 616 360
+CHNT3 Autres charges non techniques <2 061 595> <3 096 455>
+Résultats provenant des activités ordinaires 47 680 393 42 214 395
+CHNT4 Impôts sur le Résultat < 10 703 626> <10 966 751>
+Résultats provenant des activités ordinaires après impôts 36 976 767 31 247 644
+CHNT5 Pertes extraordinaires <2 207 623> <2 261 892>
+Résultat net après modifications comptables : 34 769 144 28 985 751
+Annexe n° 6 : Tableau des engagements reçus et donnés
+Intitulé Notes 31/12/2025 31/12/2024
+HB1 Engagements reçus 8 592 380 7 664 122
+Engagements hypothécaires reçues sur Prêts octroyés 7 846 528 6 951 246
+Avals, cautions de garanties 745 853 712 876
+HB2 Engagements donnés 2 301 935 1 944 324
+HB21 Avals, cautions de garanties octroyés au titre d'appel d'offres 2 301 935 1 944 324
+HB22 Titres et actifs acquis avec engagements de revente
+HB23 Autres engagements sur titres, actifs ou revenus
+HB24 Autres engagements donnés
+HB3 Valeurs reçues en nantissement des cessionnaires
+et des rétrocessionnires
+HB4 Valeurs remises par des organismes réassurés avec
+caution solidaire ou de substitution
+HB5 Valeurs appartenant à des institutions de prévoyance
+HB6 Autres valeurs détenues pour compte de tiers
+Annexe N° 7
+État de flux de trésorerie (méthode directe) GENERAL Notes 31/12/2025 31/12/2024
+Flux de trésorerie liés à l'exploitation
+E1 Encaissements des primes reçues des assurés E1 2 90 120 093 266 154 763
+E2 Sommes versées pour paiement des sinistres E2 < 153 092 618> <257 023 382>
+E3 Encaissements des primes reçues (acceptations) E3 2 356 898 1 717 154
+E4 Sommes versées pour les sinistres (acceptations) E4 < 686 181> < 133 342>
+E5 Commissions versées sur les acceptations E5 < 761 076> < 495 392>
+E6 Décaissements de primes pour les cessions E6 < 56 094 468> < 53 735 961>
+E7 Encaissements des sinistres pour les cessions E7 1 3 935 986 10 575 611
+E8 Commissions reçues sur les cessions E8 1 3 548 261 13 898 818
+E9 Commissions versées aux intermédiaires E9 < 27 552 022> < 25 328 964>
+E10 Sommes versées aux fournisseurs et au personnel E10 < 17 295 074> < 15 654 945>
+E11 Variation des dépôts auprès des cédantes E11
+E12 Variation des espèces reçues des cessionnaires E12 < 186 511> 2 934 674
+E13 Décaissements liés à l'acquisition de placements financiers E13 < 456 712 649> <481 276 273>
+E14 Encaissements liés à la cession de placements financiers E14 4 00 036 594 545 358 383
+E15 Taxes sur les assurances versées au Trésor E15 < 27 209 045> < 23 144 604>
+E16 Produit financiers reçus E16 4 6 536 928 45 300 338
+E17 Impôts sur les bénéfices payés E17 < 5 266 497> < 2 488 397>
+E18 Autres mouvements E18 < 3 069 324> < 6 649 972>
+Flux de trésorerie provenant de l'exploitation 18 609 295 20 008 510
+Flux de trésorerie liés aux activités d'investissement
+V1 Décaissements provenant de l'acquisition
+d'immobilisations incorporelles et corporelles V1 < 657 574> <4 590 850>
+V2 Encaissements provenant de la cession
+d'immobilisations incorporelles et corporelles V2 6 4 000
+V3 Décaissements provenant de l'acquisition de terrains et
+constructions destinées à l'exploitation V3
+V4 Encaissements provenant de la cession de terrains et
+constructions destinées à l'exploitation V4
+V5 Décaissements provenant de l'acquisition de placements
+auprès d'entreprises liées ou avec un lien de participation V5
+V6 Encaissements provenant de la cession de placements
+auprès d'entreprises liées ou avec un lien de participation V6
+Flux de trésorerie provenant des activités d'investissement < 593 574> <4 590 850>
+Flux de trésorerie liés aux activités de financement
+F1 Encaissements suite à l'émission d'actions F1
+F2 Dividendes et autres distributions F2 < 15 318 352> < 13 167 909>
+F3 Encaissements provenant d'emprunts F3
+F4 Remboursements d'emprunts F4
+F5 Augmentation/Diminutions des ressources spéciales F5
+Flux de trésorerie provenant des activités de financement < 15 318 352> <13 167 909>
+Incidence des variations de taux de change sur les liquidités
+ou équivalents de liquidités L1 < 33 765> <33 107>
+Variations de trésorerie 2 663 604,806 2 216 645
+Trésorerie de début d'exercice 19 144 719 16 928 074
+Trésorerie de fin d'exercice 21 808 324 19 144 719
+NOTES AUX ETATS FINANCIERS
+ARRETES AU 31/12/2025
+1. Présentation de l’entreprise, de ses opérations et de ses activités
+ Dénomination sociale : Compagnie d’Assurances et de Réassurances « ASTREE »
+ Date de constitution : 22/10/1949
+ Forme juridique : S.A faisant appel public à l’épargne
+ Siège social : 45, Avenue Kheireddine Pacha – Tunis, B.P. 780 TUNIS Cedex
+ Capital Social : 30 000 000 DT
+ Branches exploitées : Toutes branches
+ Principaux Réassureurs :
+o HANOVER RE
+o ODYSSEY RE
+o ARONDO RE
+o PARTNER RE
+o AFRICA RE
+o MAPFRE
+o TUNIS RE
+o EULER
+o EUROPE ASSISTANCE
+ Le Président du Conseil d’Administration.
+o M. Hichem REBAI
+o Le Directeur Général
+o M. Moez DIMASSI
+ Les membres du Conseil d’Administration
+o M. Zouheir HASSEN
+o M. Ahmed KAMMOUN
+o M. Mohamed TRIFA (administrateur indépendant/ Président Comité d’Audit)
+o M. Sami ZGHAL (administrateur indépendant/ Président Comité des Risques)
+o La Banque de Tunisie représentée par Mme Maha ZOUAOUI
+o La Banque Fédérative du Crédit Mutuel (BFCM) représenté par M. Éric CHARPENTIER
+o Le Groupe des Assurances du Crédit Mutuel (GACM) représenté par M. Loic GUYOT
+o M. Hafedh KHLIFI (administrateur représentant les actionnaires minoritaires)
+ Comités rattachés au Conseil d'Administration :
+o Comité Permanant d'Audit Interne
+o Comité des Risques
+o Comité de Nomination et de Rémunération
+ Notre réseau commercial :
+o 01 Bureau Direct
+o 72 Agences d’assurances
+o 43 Courtiers
+ La Société mère qui publie les comptes consolidés :
+o La Banque de Tunisie, 2 Rue de Turquie 1001‐ Tunis.
+2. Faits marquants de l’exercice
+A/ Le secteur des assurances :
+Les faits saillants ayant marqué l’activité du secteur des assurances en 2025 :
+1. La mise en place d’un cadre réglementaire relatif aux pratiques commerciales au niveau du secteur
+des assurances (réf : règlement n°01/2025 du 14/03/2025), avec la création d’une Direction Générale
+de protection des assurés au sein du Comité Général des Assurances (CGA).
+2. L’adoption d’un cadre réglementaire organisant l’échange des informations entre le Comité Général
+des Assurances (CGA) et les compagnies d’assurances, à travers un système de collecte automatisé de
+toutes les informations/données à communiquer au Comité Général des Assurances (CGA) par les
+compagnies d’assurances conformément à la réglementation en vigueur (réf : règlement n°02/2025)
+via une nouvelle plateforme d’échange électronique.
+3. L’institution d’une nouvelle réglementation portant sur l’externalisation des services en lien avec
+l’exécution des contrats d’assurances, plus précisément les prestations d’assistance et de gestion des
+indemnisations (réf : règlement n°03/2025).
+4. L’amendement du règlement n°01/2021 du Comité Général des Assurances (CGA) relatif aux
+obligations d’information et au rapport annuel Comité Général des Assurances (CGA), plus
+particulièrement l’article 08 nouveau « rapport de solvabilité » avec l’instauration d’un nouvel axe
+d’analyse prospective.
+5. Les nouveaux impératifs réglementaires en matière de lutte contre le blanchiment d’argent et le
+financement du terrorisme, dont notamment :
+o L’avenant au règlement n°02/2019 du Comité Général des Assurances (CGA) relatif aux
+mesures de vigilance requises en matière de lutte contre le financement du terrorisme, la
+prolifération des armes et la répression du blanchiment d’argent dans le secteur des
+assurances
+o Les lignes directrices du Comité Général des Assurances (CGA) relatives à l'identification, à la
+vérification de I 'identité et à la connaissance des relations d’affaires dans le secteur des
+assurances.
+o Les lignes directrices conjointes du Comité Général des Assurances (CGA) et de la Commission
+Nationale de Lutte Contre le Terrorisme sur la mise en œuvre des mesures de gel des avoirs
+dans le secteur des assurances.
+6. La loi n°2025‐9 du 21 Mai 2025 portant réglementation des contrats de travail et interdiction de la
+sous‐traitance de main‐d’œuvre.
+7. La création d’un nouveau fonds de promotion des personnes handicapées (article 32 de la loi de
+finances 2026) qui sera financé notamment par un prélèvement de 1% opéré par les compagnies
+d’assurances sur les indemnités d’accidents de la circulation et du travail.
+8. L’introduction du paiement électronique des vignettes Automobile (réf : Arrêté conjoint de la ministre
+des Finances, du ministre de l’Intérieur, du ministre des Transports et du ministre des Technologies
+de la communication du 19 décembre 2025, fixant les modalités de paiement des taxes de circulation),
+à effet du 1er janvier 2026. Des interfaces de vérification ont été mises à la disposition des structures
+de contrôle leur permettant de vérifier en temps réel le paiement des taxes de circulation exigibles,
+dont les compagnies d’assurances.
+Pour ce qui est du suivi des projets sectoriels :
+ L’entrée en exploitation du constat digital Auto : l’application mobile E‐Constat a été lancée
+officiellement par la FTUSA le 1er novembre 2025 permettant de déclarer les sinistres automobiles
+d’une manière fluide et sécurisée.
+ La finalisation du projet de mise en place d’un référentiel Automobile à travers l’exploitation d’un
+plateforme informatique sectorielle qui permet de calculer la valeur à neuf et la valeur vénale d’un
+véhicule sur le marché local, et ce à compter du 1er décembre 2025.
+ La mise en place par la FTUSA d’un guide d’utilisation du module vignettes permettant aux compagnies
+d’assurer la diligence de vérification du paiement des vignettes Automobile par les assurés.
+ Le projet de digitalisation de l’attestation d’assurance Auto : Projet en cours
+B/ Activité de la Compagnie en 2025 :
+ Production :
+Situation comparative des primes émises au 31/12/2025 (y compris acceptation) : En DT
+Branche 31/12/2025 Part % 31/12/2024 Part %
+Automobile 89 808 236 32,22 85 956 763 33,61
+Vie 87 066 252 31,24 77 225 742 30,2
+Maladie 36 258 056 13,01 31 768 741 12,42
+Transport et aviation 13 727 544 4,92 12 236 497 4,78
+Multirisques 15 626 595 5,61 14 978 255 5,86
+Incendie 10 931 098 3,92 10 442 568 4,08
+Individuelle 1 273 899 0,46 1 055 189 0,41
+Responsabilité Civile 6 899 601 2,48 6 645 910 2,6
+Risques Spéciaux 6 986 743 2,51 6 413 632 2,51
+Risques Agricoles 638 373 0,23 809 506 0,32
+Invalidité 3 220 884 1,16 2 818 241 1,1
+Assistance 883 121 0,32 654 939 0,26
+Assurance‐Crédit 2 102 428 0,75 2 471 282 0,97
+Vol 506 184 0,18 500 437 0,2
+Bris de glaces et dégâts des eaux 16 126 0,01 19 615 0,01
+Pertes pécuniaires 111 664 0,04 116 265 0,05
+Primes acceptées 2 681 110 0,96 1 623 172 0,63
+278 737 914 100% 255 736 754 100%
+Source : Etats de production au 31/12/2025
+Au terme de l’exercice 2025, le chiffre d’affaires de la Compagnie a atteint un montant de 278,738 MD contre
+255,737 MD à la même période en 2024, soit une enveloppe en primes additionnelles d’environ 23,001 MD
+qui correspond à une progression de 9 %.
+ Structure du portefeuille
+La croissance du niveau d’activité de la compagnie, en 2025, s’est accompagnée d’une certaine modification
+de la structure de son portefeuille, dont les plus importantes sont :
+ La branche Auto se positionne au 1er rang dans le portefeuille de la Compagnie, malgré la
+diminution de sa part de 1,39 point (32,22% contre 33,61% en 2024).
+ La branche Vie occupe le second rang dans le portefeuille de la Compagnie, avec une part
+en croissance de 1,04 point en s’établissant à 31,24% au 31/12/2025.
+ La branche Maladie maintient son 3ème rang dans le portefeuille de la Compagnie,
+avec une croissance de sa part de 0,63 points (13,01% contre 12,42% au
+31/12/2024).
+ Sinistres :
+La sinistralité globale de la Compagnie en amélioration de 4,95 points (48,29% contre 53,24% en 2024).
+ Encaissements :
+Au 31 décembre 2025, le ratio d’encaissement s’est établi à 90 % contre 85,75% en 2024.
+ Placements :
+o L’ensemble des placements nets de la Compagnie totalise, au 31 décembre 2025, un montant
+net de 693 183 497 DT contre 632 057 823 DT à la même date une année auparavant, soit une
+augmentation de 9,67%.
+o Le revenu total des placements de la Compagnie totalise, au 31/12/2025, un montant de
+63 823 982 DT contre 60 619 060 DT en 2024.
+ Réassurance & Acceptation :
+o Les soldes de la réassurance Non‐Vie & Vie se sont établis au 31/12/2025 respectivement à
+30 357 446 DT et 623 753 DT contre 20 852 504 DT et <454 376> DT au 31/12/2024. Quant aux
+Acceptations, le résultat s’est établi à 1 103 515 DT en 2025 contre un résultat de 327 083 DT
+en 2024.
+ Les autres produits & charges techniques :
+o Au 31/12/2025, les autres produits techniques Non‐Vie se sont établis 152 288 DT contre
+16 581 DT en 2024.
+o Les autres charges techniques Non‐Vie & Vie se sont élevées respectivement à 4 752 617 DT et
+1 360 251 DT contre 4 604 881 DT et 787 774 DT, une année auparavant.
+3. Référentiel comptable
+ Les états financiers sont établis par référence aux dispositions de la loi 96‐112 du 30 décembre 1996,
+portant promulgation du système comptable des entreprises et conformément aux principes et
+méthodes comptables définis par le décret 96‐2459, portant promulgation du cadre conceptuel
+comptable.
+ Les divers postes de bilan et des états de résultats sont déterminés à partir des regroupements des
+comptes principaux. Ces mêmes comptes sont alimentés par les comptes imputables ayant fait l’objet
+des écritures d’origine et ce conformément aux tableaux de rattachement des comptes aux états
+financiers.
+ L’évaluation, la comptabilisation et la présentation des divers postes des états financiers ont été
+effectuées conformément aux normes suivantes :
+o Norme comptable n°26 relative à la présentation des états financiers des entreprises
+d’assurances et/ou de réassurance ;
+o Norme comptable n°27 relative au contrôle interne et à l’organisation comptable dans les
+entreprises d’assurances et/ou de réassurance ;
+o Norme comptable n°28 relative aux revenus dans les entreprises d’assurances et/ou de
+réassurance ;
+o Norme comptable n°29 relative aux provisions techniques dans les entreprises d’assurances
+et/ou de réassurance ;
+o Norme comptable n°30 relative aux charges techniques dans les entreprises d’assurances
+et/ou de réassurance ;
+o Norme comptable n°31 relative aux placements dans les entreprises d’assurances et/ou de
+réassurance.
+4. Principes comptables et méthodes d’évaluation appliqués aux divers postes
+du bilan et des comptes de résultats
+4.1 / Primes émises et acceptées :
+Les primes correspondent aux primes émises et acceptées, hors taxes, brutes de réassurance et nettes
+d’annulations et de ristournes. Elles comprennent une estimation des primes à émettre pour la part acquise à
+l’exercice et une estimation des primes à annuler postérieurement à la date d’arrêté des comptes.
+4.2 / Opérations techniques d’assurance Non‐Vie :
+ Provision pour primes non acquises :
+Les provisions pour primes non acquises sont des provisions destinées à constater, pour l’ensemble des
+contrats en cours, la part des primes émises et des primes restant à émettre se rapportant à la période
+comprise entre la date d’inventaire et la date de la prochaine échéance de prime ou, à défaut, du terme du
+contrat. Ces provisions sont calculées, séparément pour chaque contrat d’assurance, sur la base de la méthode
+du « prorata temporis » et portent sur la prime commerciale ; c’est à dire la prime du risque, majorée des
+différents chargements.
+Le calcul est réalisé sur la base des primes nettes de cessions dans une première phase, puis dans une seconde
+phase sur la base de la partie des primes cédées. La provision pour primes non acquises relative aux cessions
+ne doit en aucun cas être portée au passif du bilan pour un montant inférieur à celui pour lequel la part du
+réassureur dans la provision pour primes non acquises figurant à l’actif.
+ Frais d’acquisition reportés :
+Les frais d’acquisition des contrats, incluant notamment les commissions d’acquisition et les frais internes liés
+à l’établissement des contrats, sont répartis sur la durée de vie des contrats selon les mêmes règles que la
+provision pour primes non acquises.
+La part des frais d’acquisition relative à la période comprise entre la date de clôture de l’exercice et la date
+d’échéance de la prime est constatée à l’actif du bilan dans le poste « frais d’acquisition reportés » inclus dans
+les autres éléments d’actif. La variation des frais d’acquisition reportés est comprise dans les frais
+d’exploitation au compte de résultat.
+Ces frais sont évalués en appliquant au montant des primes non acquises le coefficient des frais d’acquisition
+déterminé par le rapport des frais d’acquisition aux primes émises.
+ Montants payés :
+Ce poste est composé des éléments suivants :
+o Sinistres réglés durant l’exercice relatifs à l’exercice en cours et aux exercices antérieurs nets
+de recours encaissés ;
+o Montant des rentes et des rachats de rentes payés au cours de l’exercice relatifs aux branches
+accident du travail et invalidité ;
+o Frais de règlement des sinistres notamment les frais relatifs aux services régleurs de sinistres
+et les commissions affectées à la gestion des sinistres.
+ Provisions pour sinistres à payer :
+Les provisions pour sinistres à payer correspondent au coût total estimé que représentera pour l’entreprise
+d’assurances le paiement de tous les sinistres survenus jusqu’à la fin de l’exercice, déclarés ou non, déduction
+faite des sommes déjà payées au titre de ces sinistres. La provision pour sinistres à payer est calculée pour son
+montant brut sans tenir compte des recours à encaisser. Elle tient compte également des sinistres survenus
+mais non déclarés à la date de clôture du bilan.
+Ces provisions incluent aussi une provision pour frais de gestion déterminée en fonction des taux de frais réels
+observés.
+ Provision pour participation aux bénéfices et ristournes Non‐Vie :
+La provision pour participation aux bénéfices et ristournes comprend les montants destinés aux assurés ou
+aux bénéficiaires des contrats sous la forme de participations aux bénéfices et ristournes dans la mesure où
+ces derniers n’ont pas été crédités aux assurés.
+Le montant de la participation aux bénéfices est évalué selon les engagements contractuels de la compagnie.
+ Autres provisions techniques :
+o Provision pour risques en cours :
+La provision pour risques en cours représente les montants à provisionner en supplément des primes non
+acquises pour couvrir les risques à assumer. Cette provision est destinée à faire face à toutes les demandes
+d’indemnisation et à tous les frais liés aux contrats d’assurance en cours excédent le montant des primes non
+acquises et des primes exigibles relatives aux dits contrats.
+Le poste « Autres provisions techniques » comprend également une réserve de rente d’invalidité et les
+arrérages de rentes à payer.
+o Provision mathématique de rentes :
+Les provisions mathématiques des rentes sont constituées lorsque les indemnités au titre d’un sinistre seront
+versées sous forme d’annuités. Ces provisions correspondent à la valeur actuelle probable des montants qui
+seront versés, sous forme de rentes et accessoires de rentes, postérieurement à la clôture de l’exercice au
+titre d’évènements qui se sont réalisés antérieurement à la clôture de l’exercice. Elles sont calculées sur la
+base de méthodes actuarielles reconnues. Le montant de la provision mathématique des rentes est majoré de
+5% à titre de chargement de gestion.
+4.3 / Opérations techniques d’assurance vie :
+ Provision mathématique Vie :
+La provision mathématique représente la différence, à la date d’inventaire, entre les valeurs actuelles des
+engagements pris respectivement par l’assureur et par l’assuré.
+La provision mathématique comprend la valeur actuarielle estimée des engagements de l’entreprise
+d’assurance y compris les participations aux bénéfices déjà allouées et déduction faite de la valeur actuarielle
+des primes futures. Le calcul de cette provision se fait sur la base de la prime commerciale en excluant les
+chargements d’acquisition des contrats. La provision mathématique est calculée contrat par contrat sur la
+base des normes techniques telle que définie par l’arrêté du ministre des Finances du 5 janvier 2009 et des
+formules actuarielles figurant au niveau des notes techniques.
+ Provision pour sinistres à payer :
+Les provisions pour sinistres à payer représentent la dette de l’entreprise d’assurance envers ses assurés pour
+les sinistres, rachats arrivés à échéance déclarés mais non encore décaissés par l’entreprise d’assurance ainsi
+que les sinistres survenus mais non encore déclarés (les sinistres tardifs).
+ Provision pour participation aux bénéfices et ristournes Vie :
+La provision pour participation aux bénéfices et ristournes comprend les montants destinés aux assurés ou
+aux bénéficiaires des contrats sous la forme de participations aux bénéfices et ristournes dans la mesure où
+ces derniers n’ont pas été crédités aux assurés.
+ Provision d’égalisation :
+La provision d’égalisation comprend les montants provisionnés pour permettre d’égaliser les fluctuations des
+taux de sinistres pour les années à venir dans le cadre des opérations d’assurance.
+4.4 / Les opérations de réassurance & d’acceptation
+Lors de l’arrêté des comptes, les opérations courantes au titre de la réassurance et de l’acceptation sont
+comptabilisées sur la base des décomptes trimestriels. Les opérations d’inventaire sont comptabilisées sur la
+base d’un bilan de réassurance et d’acceptation consolidé.
+4.5 / Les opérations financières & non techniques :
+ Placements :
+Les placements et les produits y afférents sont comptabilisés conformément à la norme NC31.
+Les revenus de placements (dividendes, intérêts …) sont constatés en produits dès qu'ils sont acquis
+même s'ils ne sont pas encore encaissés.
+ Provision pour dépréciation des placements et des créances :
+L’évaluation des placements est appliquée conformément à la norme des placements NC31.
+La méthode de provisionnement des créances nées d’opérations d’assurance directe est celle instaurée par la
+tutelle (circulaire « CGA » 01/2021 du 01 Décembre 2021) et qui consiste à constater des provisions sur :
+‐ Les créances envers les assurés à concurrence de 20% pour les créances datant de (N‐1) et 100 % pour
+les créances datant de (N‐2 & antérieures) ;
+‐ Les créances envers les intermédiaires : à 100%
+Toutefois, un complément de provision est constaté en plus de la méthode de la tutelle pour permettre de
+couvrir les arriérés présentant un risque supérieur.
+La méthode de provisionnement des autres éléments des créances est calculée au cas par cas relativement à
+l’échéance de l’impayé, la qualité du créancier et de l’avancement de la procédure du contentieux le cas
+échéant.
+4.6 / Ventilation des frais généraux par destination :
+Les frais généraux sont comptabilisés initialement par nature, puis ventilés par destination dans les postes des
+comptes de résultats au moyen de clés de répartition s’appuyant sur des indices d’activité. Les clefs de
+répartition analytique sont objectives et contrôlables. Par ailleurs, la présentation des frais se présentent
+comme suit :
+ Les frais de gestion des placements sont inclus dans les charges des placements ;
+ Les frais de règlement des sinistres sont compris dans les charges de sinistres ;
+ Les frais d’acquisition des contrats, les frais d’administration et les autres charges techniques
+apparaissent au niveau de la rubrique « frais d’exploitation » correspondante aux comptes de
+résultats vie et non vie. Les commissions reçues des réassureurs sont inscrites en déduction de ce
+poste dans la mesure où ces commissions ne sont pas considérées comme un revenu mais comme
+une couverture des frais de gestion engagés par l'assureur.
+5. Notes sur le Bilan
+5.1 / Mouvements sur les éléments de l’actif
+Les mouvements sur les éléments d’actif sont présentés au niveau de l’annexe N°8.
+5.2 / Etat récapitulatif des placements
+L’état récapitulatif des placements reprenant la valeur brute, nette et la juste valeur des placements est
+présenté au niveau de l’annexe N° 9.
+5.3 / Ventilation des créances et dettes selon la durée résiduelle
+Moins 1 an et Plus que
+Créances Total
+d'un an (‐) de 5 ans 5 ans
+Primes acquises et non émises 10 046 332 ‐ ‐ 10 046 332
+Autres créances nées d'opération d'assurance directe 29 284 052 21 000 481 5 257 593 55 542 126
+Créances indemnisées, subrogées à l'entreprise
+d'assurance 3 609 364 2 644 056 1 994 860 8 248 280
+Personnel 227 962 ‐ ‐ 227 962
+Etat, organismes de sécurité sociale, collectivités
+publiques 10 223 683 ‐ ‐ 10 223 683
+Débiteurs divers 70 047 771 717 1 128 168 1 969 932
+Total des créances : 53 461 440 24 416 254 8 380 621 86 258 315
+1 an et
+Moins Plus que
+Dettes (‐) de 5 Total
+d'un an 5 ans
+ans
+Dettes nées d'opération d'assurance directe 2 859 627 3 598 218 5 151 005 11 608 850
+Dettes indemnisées, subrogées à l'entreprise
+968 527 1 237 368 285 817 2 491 712
+d'assurance
+Dépôts et cautionnements reçus 50 188 27 200 457 646 535 034
+Personnel 1 438 252 1 438 252
+Etat, organismes de sécurité sociale, collectivités
+21 548 103 21 548 103
+publiques
+Créditeurs divers 1 189 637 306 957 333 144 1 829 738
+Total des dettes : 25 224 710 4 268 859 10 018 125 39 451 688
+5.4 / Capitaux propres
+Le capital de l’entreprise « Astrée » s’élève à 30 000 000 DT constitué par 6 000 000 actions nominatives de
+5 dinars chacune.
+Le détail des mouvements ayant affecté la composition des fonds propres et la ventilation des réserves
+au 31 décembre 2025 se détaille comme suit :
+Autres
+Résultat de
+Capital Réserves capitaux Dividendes Résultat reporté
+l’exercice
+propres
+Solde au 31/12/2024 30 000 000 87 245 873 37 026 315 1 103 601 28 985 751
+Affectation AGO
+du 23 Juin 2025 ‐ 8 500 000 5 500 000 15 000 000 <14 249> <28 985 751>
+Résultat 2025 ‐ ‐ ‐ ‐ ‐ 34 769 144
+Solde au 31/12/2025 30 000 000 95 745 873 42 526 315 15 000 000 1 089 353 34 769 144
+Conformément à la décision de l’AGO en date du 23 Juin 2025, la répartition du résultat 2024 a été effectuée
+comme suit :
+Résultat au 31/12/2024 : 28 985 751
+Résultats reportés : 1 103 601
+Total à distribuer : 30 089 353
+Réserve pour réinvestissements exonérés <8 000 000>
+Réserve facultatives <6 000 000>
+Dividendes <15 000 000>
+Résultat reporté : 1 089 353
+Par ailleurs, des réserves à régime spécial relatives aux réinvestissements exonérés, constituées au courant
+des exercices antérieurs, sont devenues fiscalement libres suite à la cession des titres y afférents. Elles
+s'élèvent à 2 500 000 TND et affectées aux réserves facultatives.
+La ventilation des réserves est présentée au niveau de la note P dans la rubrique informations diverses sur le
+bilan. Par ailleurs, aucun élément du bilan n’ayant fait l’objet d’une réévaluation durant l’exercice 2025.
+5.5 / Provisions pour sinistres à payer
+Récapitulation de la provision pour Sinistres à payer Vie et Non Vie
+LIBELLE Non Vie Vie 31/12/2025 31/12/2024
+Provision pour sinistres à payer 203 607 895 4 584 554 208 192 449 203 991 854
+Chargement de gestion
+17 531 712 725 002 18 256 714 17 759 817
+Prévision de recours à encaisser <1 416 048> <1 416 048> <2 228 029>
+Provision SAP Acceptations
+1 064 270 1 064 270 1 331 477
+TOTAL 220 787 830 5 309 556 226 097 385 220 855 119
+L’état des règlements et des provisions pour sinistres à payer par exercice de survenance est présenté en
+annexe N°10.
+5.6 / Informations diverses sur le bilan
+A – Actif du bilan
+Note ‐ A 1‐ Actifs incorporels
+VNC VNC
+LIBELLE Montant brut Amorti.
+31/12/2025 31/12/2024
+Logiciels 8 823 548 <2 667 126> 6 156 422 4 765 540
+Fonds Commercial 100 000 ‐ 100 000 100 000
+TOTAL 8 923 548 <2 667 126> 6 256 422 4 865 540
+Note ‐ A 2 ‐ Actifs corporels d’exploitation
+VNC VNC
+LIBELLE Montant brut Amorti.
+31/12/2025 31/12/2024
+AC 21 – Installations techniques et
+9 257 868 <7 626 324> 1 631 544 1 788 725
+machines
+AC 22 – Autres installations, outillages et
+1 527 038 <1 214 246> 312 792 296 815
+mobiliers
+AC 23 – Acomptes versés et
+9 728 9 728 49 825
+immobilisations corporelles en cours
+TOTAL 10 794 634 <8 840 570> 1 954 065 2 135 365
+Note ‐ A 3 ‐ Placements
+A 3.1 – Terrains, constructions et actions des sociétés immobilières non cotées
+VNC VNC
+LIBELLE Montant brut Amorti.
+31/12/2025 31/12/2024
+AC 311‐ Terrains et constructions
+3 855 502 <3 032 518> 822 984 914 238
+d’exploitation
+AC 312 – Terrains et constructions hors
+18 395 604 <3 840 346> 14 555258 14 679 486
+exploitation
+AC 313 – Parts et actions dans des
+9 095 818 ‐ 9 095 818 9 095 818
+sociétés immobilières non cotées
+TOTAL 31 346 924 <6 872 864> 24 474 060 24 689 542
+A 3.2 – Placements dans les entreprises liées & Participations
+VNC VNC
+LIBELLE Montant brut Provision
+31/12/2025 31/12/2024
+AC 321 – Parts dans des entreprises liées 25 781 363 ‐ 25 781 363 25 781 363
+AC 323 – Parts dans les entreprises avec
+2 2 2
+lien de participation
+TOTAL 25 781 365 ‐ 25 781 365 25 781 365
+A 3.3 – Autres placements financiers
+VNC VNC
+LIBELLE Montant brut Provision
+31/12/2025 31/12/2024
+AC 331 – Actions, autres titres à revenu
+121 049 313 <15 102 420> 105 946 893 104 119 561
+variable
+AC 332 – Obligations et autres titres à
+418 393 505 <416> 418 393 088 346 696 392
+revenu fixe
+3 172 826 <142 912> 3 029 914 2 626 746
+AC 333 – 334 Prêts
+113 020 956 ‐ 113 020 956 65 652 000
+AC 335 – Dépôts monétaires
+AC 336 – Autres
+‐ ‐ 60 060 052
+TOTAL 655 636 600 <15 245 748> 640 390 852 579 154 751
+A 3.4 – Créances pour espèces déposés auprès des entreprises cédantes
+LIBELLE 31/12/2025 31/12/2024
+Provisions pour Primes non acquises acceptations 1 472 951 1 100 687
+Provisions pour Sinistres à payer acceptations 1 064 270 1 331 477
+TOTAL 2 537 221 2 432 165
+Note – A 4 – Part des réassureurs dans les provisions techniques
+LIBELLE 31/12/2025 31/12/2024
+AC 510 – Provisions pour primes non acquises 16 300 565 15 104 554
+AC 520‐ Provision d’assurance Vie 1 987 548 2 399 890
+AC 530 – Provisions pour sinistre vie 123 268 339 342
+AC 531 – Provisions pour sinistres non‐vie 34 054 827 37 685 376
+TOTAL 52 466 208 55 529 163
+Note ‐ A 5 – Créances
+A 5.1 – Créances nées d’opérations d’assurances directes
+A 5.1.1 ‐ Primes acquises et non émises
+LIBELLE 31/12/2025 31/12/2024
+Primes acquises et non émises non‐vie 10 237 057 9 315 855
+Primes acquises et non émises vie 1 120 197 1 135 293
+S/Total : 11 357 254 10 451 148
+Primes à annuler <1 310 922> <1 404 795>
+TOTAL 10 046 332 9 046 353
+A 5.1.2 – Autres créances nées d’opérations d’assurances directes
+LIBELLE 31/12/2025 31/12/2024
+Quittances de primes à recevoir 47 518 709 46 951 156
+Primes/Sinistres Affaires en Co‐assureurs 64 615 926 822
+Comptes à régulariser agences, courtiers et Bureau Direct – Débit 4 185 079 5 844 530
+Effets à recevoir et Effets Impayés 3 477 400 3 364 118
+Chèques impayés 296 323 366 533
+S/Total : 55 542 126 57 453 160
+Provisions au titre des arriérés primes <17 694 423> <19 058 064>
+Provision au titre des chèques impayés <296 323> <366 533>
+Provision au titre des effets impayés <3 190 591> <3 316 055>
+TOTAL 34 360 788 34 712 508
+A 5.1.3 – Créances indemnisées, subrogées à l’entreprise d’assurance
+LIBELLE 31/12/2025 31/12/2024
+Avances sur recours matériels 1 590 971 2 839 732
+Avances sur recours corporels 2 541 676 2 140 931
+Indemnisation Directe des Assurés 2 005 679 3 942 119
+Sinistres officieux 1 523 1 523
+Autres créances indemnisées subrogées à l’entreprise d’assurance 2 108 431 2 579 814
+S/Total : 8 248 280 11 504 119
+Provisions pour dépréciation de créances <2 412 836> <2 170 095>
+TOTAL 5 835 444 9 334 024
+A 5.2 – Créances nées d’opération de réassurance
+LIBELLE 31/12/2025 31/12/2024
+Cessionnaires 3 317 160 2 566 143
+Cédantes 2 415 967 1 901 989
+S/Total : 5733 127 4 468 132
+Provision pour dépréciation de créances <875 912> <875 912>
+TOTAL 4 857 215 3 592 220
+5.3 – Autres créances
+A 5.3.1 – Personnel
+LIBELLE 31/12/2025 31/12/2024
+Avances au personnel 57 210 57 295
+Autres avances 170 752 163 513
+TOTAL 227 962 220 808
+A 5.3.2 – Etat, Organismes de Sécurité Sociale, Collectivités Publiques
+LIBELLE 31/12/2025 31/12/2024
+Acomptes provisionnels 9 506 332 5 959 690
+Avances sur impôts/sociétés (y compris Crédit d’impôt) 200 669 4 084 204
+Autres 516 682 426 422
+TOTAL 10 223 683 10 470 316
+A 5.3.3 – Débiteurs divers
+LIBELLE 31/12/2025 31/12/2024
+Compte de liaison avec la délégation Maroc 917 777 907 686
+Autres 1 052 155 1 233 414
+S/Total : 1 969 932 2 141 100
+Provision pour dépréciation <1 128 168> <1 119 025>
+TOTAL 841 764 1 022 075
+Note A 6 – Autres éléments d’actif
+A 6.1 – Avoirs en banques, CCP, chèques et caisse
+LIBELLE 31/12/2025 31/12/2024
+Banques, CCP et chèques à l'encaissement 10 429 205 7 980 541
+Effets remis à l'encaissement 10 902 165 9 973 681
+Autres 476 955 1 190 497
+TOTAL 21 808 324 19 144 719
+A 6.2 – Frais d’acquisition reportés
+Conformément aux principes comptables adoptés par la Compagnie et ci‐dessus évoqués, les frais
+d’acquisition reportés s’élèvent au 31/12/2025 à 6 075 281 DT contre 5 599 275 DT au 31/12/2024.
+A 6.3 – Compte de régularisation Actif
+A 6.3.1 – Intérêts et loyers acquis et non échus
+LIBELLE 31/12/2025 31/12/2024
+Intérêts s/Valeurs Mobilières courus et non échus 22 331 090 18 341 211
+Loyers perçus d’avance 12 278 12 278
+TOTAL 22 343 368 18 353 489
+A 6.3.2 – Autres comptes de régularisation actif
+LIBELLE 31/12/2025 31/12/2024
+Autres comptes de régularisation Actif 10 453 862 11 452 143
+Autres charges constatées ou payées d'avance 135 439 289 022
+Estimation de réassurance et d’acceptation 5 771 5 771
+TOTAL 10 595 072 11 746 936
+Note – P – Capitaux propres et passif du Bilan
+Note ‐P1 ‐ Capitaux propres
+LIBELLE 31/12/2025 31/12/2024
+P 1.1 – Capital social 30 000 000 30 000 000
+P 1.2 – Réserves et primes liées au capital 95 745 873 87 245 873
+Réserve légale 3 000 000 3 000 000
+Réserve facultative 88 019 870 79 519 870
+Primes d’émission 4 206 546 4 206 546
+Primes de fusion 407 974 407 974
+Autres réserves 111 483 111 483
+P 1.3 – Autres capitaux propres 42 526 315 37 026 315
+Réserves spéciales de réévaluation 1 948 685 1 948 685
+Réserves pour réinvestissements exonérés 40 577 630 35 077 630
+P 1.4 – Résultats reportés 1 089 353 1 103 601
+S/Total : 169 361 541 155 375 789
+P 1.5 – Résultat de la période 34 769 144 28 985 751
+TOTAL CAPITAUX PROPRES APRES AFFECTATION : 204 130 685 184 361 541
+Résultat par action
+LIBELLE 31/12/2025 31/12/2024
+Résultat net (en mD) 34 769 28 986
+Nombre d’action (en milliers) 6 000 6 000
+TOTAL 5,795 4,831
+Note ‐ P 2 – Passif
+P 2.1 – Provisions pour autres risques et charges
+Le solde de la provision pour autres risques et charges se présente comme suit :
+LIBELLE 31/12/2025 31/12/2024
+Provision d’ouverture 18 073 572 16 493 524
+Constitution/Reprise <1 255 717> 1 580 048
+Provision de clôture 16 817 855 18 073 572
+P 2.2 – Provisions techniques brutes
+LIBELLE 31/12/2025 31/12/2024
+PA 310‐ Provisions pour primes non acquise Non‐vie 56 564 275 54 438 930
+PA 320‐ Provisions d’assurance Vie 272 642 642 235 452 142
+PA 330‐ Provisions pour Sinistre Vie 5 309 556 5 536 238
+PA 331‐ Provisions pour Sinistre Non‐Vie 220 787 830 215 318 880
+PA 340‐ Provisions pour P.B & Ristournes Vie 3 444 063 2 650 406
+PA 341‐ Provisions pour P.B & Ristournes Non‐Vie 7 819 777 7 016 512
+PA 350‐ Provisions pour Egalisation & Equilibrage Non‐Vie 1 505 484 1 505 484
+PA 360‐ Autres provisions Techniques Vie 0 238 597
+PA 361‐ Autres provisions Techniques Non‐Vie 4 347 855 3 797 360
+‐ Réserve mathématique de rentes 3 767 958 3 687 211
+‐ Réserve d’invalidité 455 012 ‐14 736
+‐ Arrérages à payer 19 644 19 644
+‐ Provision pour risque en cours 105 241 105 241
+TOTAL 572 421 482 525 954 551
+Le détail des provisions pour sinistre à payer est présenté ci‐dessous :
+SAP Non vie Vie
+Provisions pour SAP (y compris tardifs) au 31‐12‐2024 199 261 643 4 730 211
+Provisions pour frais de gestion 16 953 789 806 028
+Prévisions de recours ‐ 2 228 029 ‐
+Provisions SAP Acceptation au 31‐12‐2024 1 331 477 ‐
+Provisions pour Sinistre au 31‐12‐2024 215 318 880 5 536 239
+Règlement des sinistres des exercices 2024 et antérieurs ‐ 58 854 108 ‐ 2 564 243
+Amélioration/Aggravations ‐ 28 299 188 ‐ 1 300 860
+Provisions SAP sur exercices antérieurs au 31‐12‐2025 128 165 584 1 671 136
+Provisions SAP sur exercice en cours 2025 75 442 311 2 913 418
+Provisions pour frais de gestion 17 531 712 725 002
+Prévisions de recours ‐ 1 416 048 ‐
+Provisions SAP Acceptation 1 064 270 ‐
+Provisions pour Sinistre au 31‐12‐2025 220 787 829 5 309 556
+P 2.3 – Dettes pour dépôts en espèces reçus des Cessionnaires :
+LIBELLE 31/12/2025 31/12/2024
+Provisions pour sinistres Non‐vie 12 834 315 15 697 419
+Provisions pour sinistres vie 267 637 164 389
+Provisions pour primes non acquises 2 169 458 2 010 588
+TOTAL 15 271 410 17 872 396
+P 2.4 – Autres Dettes
+P 2.4.1 – Dettes nées d’opérations d’assurance directe
+P 2.4.1.1 – Autres dettes nées d’opérations d’assurance directe
+LIBELLE 31/12/2025 31/12/2024
+Commissions sur arriérés 4 874 861 4 670 942
+Comptes de régularisation 6 425 061 6 796 889
+Primes affaires collectives à payer
+308 928 171 156
+TOTAL 11 608 850 11 638 987
+P 2.4.1.2 – Dettes indemnisées subrogées à l’entreprise d’assurance
+LIBELLE 31/12/2025 31/12/2024
+Comptes intermédiaires Sinistres 1 866 017 3 147 089
+Sinistres officieux 253 426 253 426
+Recours client 372 269 343 120
+TOTAL 2 491 712 3 743 635
+P 2.4.2 – Dettes nées d’opérations de réassurances
+LIBELLE 31/12/2025 31/12/2024
+Cessionnaires 25 011 282 23 791 778
+Cédantes 1 571 025 1 223 881
+Rétrocessionnaires 27 672 27 672
+TOTAL 26 609 979 25 043 331
+2.5 – Autres dettes
+P 2.5.1 – Dépôts et cautionnements reçus
+LIBELLE 31/12/2025 31/12/2024
+Dépôts de Garanties en espèces des Agents /Assurés 416 191 366 003
+Dépôts de Garanties en espèces des locataires
+118 843 118 843
+TOTAL 535 034 484 846
+P 2.5.2 – Personnel
+LIBELLE 31/12/2025 31/12/2024
+Dettes provisionnées pour congés payés 1 331 246 1 196 966
+Autres dettes 107 006 98 679
+TOTAL 1 438 252 1 295 645
+P 2.5.3 – Etats, organismes de sécurité sociale, collectivités publiques
+LIBELLE 31/12/2025 31/12/2024
+Impôts sur les Sociétés et autres charges fiscales à payer 13 693 276 13 750 627
+Cotisations Sociales 5 142 972 4 449 077
+Taxes d'assurance à payer 1 200 706 1 057 236
+Retenues à la source 1 511 149 1 246 408
+TOTAL 21 548 103 20 503 348
+P 2.5.4 – Créditeurs divers
+LIBELLE 31/12/2025 31/12/2024
+Actionnaires, dividendes à payer 179 560 497 912
+Autres créditeurs divers 1 650 178 995 997
+TOTAL 1 829 738 1 493 909
+P 2.6 – Autres passifs
+P 2.6.1 – Comptes de régularisation Passif
+LIBELLE 31/12/2025 31/12/2024
+Report de commissions reçues des réassureurs 2 728 477 2 342 182
+Encaissements en instance d’affectation 128 247 114 180
+Intérêts et loyers perçus ou comptabilisés d’avance 91 849 101 228
+Autres comptes de régularisation Passif 3 423 753 4 807 267
+TOTAL 6 372 325 7 364 857
+6. Informations diverses sur l’état de résultat
+6.1 / Primes émises et acceptées
+La ventilation des primes se présente comme suit :
+LIBELLE Non Vie Vie
+Primes émises et acceptées 210 623 666 89 571 983
+Annulations <14 682 422> <1 836 998>
+Ristournes <6 017 846> <943 492>
+Variation des primes acquises 921 202 <15 096>
+Variation des primes à annuler 93 121 752
+Primes émises et acceptées 190 937 720 86 777 149
+6.2 / Ventilation des produits & charges de placement
+La ventilation des produits et charges de placement est présentée au niveau de l’annexe N°11.
+6.3 / Résultats techniques par catégorie d’assurances
+Les résultats techniques vie et non vie sont présentés respectivement en annexes N°12 et N°13.
+6.4 / Affectation des produits aux différentes catégories
+La méthode de cantonnement des produits et charges de placements est effectuée conformément à la norme
+NC27.
+6.5 / Ventilation des frais généraux par nature
+Les frais généraux par nature se détaille comme suit :
+CHARGES PAR NATURE AU 31‐12‐2025
+Libelle Au 31/12/2025
+Charges de Personnel 22 453 177
+Services Extérieurs 33 797 070
+Charges Diverses Ordinaires 898 986
+Impôts, Taxes et Versements assimilés 7 423 759
+Dotations aux amortissements et aux Provisions Relatives à l'exploitation 1 558 497
+Reprises sur amortissements et Provisions relatives à l'exploitation <2 040 717>
+TOTAL DES CHARGES PAR NATURE 64 090 772
+6.6 / Ventilation des charges de personnel
+L’effectif du personnel se détaille au 31 décembre 2025 comme suit :
+LIBELLE 31/12/2025
+Cadres 144
+Agents d’encadrement 39
+Agents d‘exécution 31
+Personnel Contractuel 6
+Personnel de services 12
+Personnel en détachement 2
+TOTAL 234
+Les frais de personnel s’élèvent au 31/12/2025 à la somme de 22 453 177 DT et sont ventilés comme suit :
+MONTANT
+CATEGORIE
+31/12/2025 31/12/2024
+Salaires 13 915 081 13 601 602
+Charges sociales 4 462 090 3 891 628
+Assurance collective vie 3 598 581 2 700 000
+Personnel en détachement 477 425 378 202
+TOTAL 22 453 177 20 571 432
+6.7 / Charges de commissions
+Le montant total des commissions servies aux intermédiaires, s’élevant à la somme de 28 794 638 DT, se détaille
+comme suit :
+MONTANT
+CATEGORIE
+31/12/2025 31/12/2024
+Agents généraux 12 842 106 12 251 171
+Courtiers 6 922 271 5 693 390
+Autres commissions 8 300 966 7 150 811
+Commissions Acceptations 729 295 673 711
+TOTAL 28 794 638 25 769 083
+6.8 /Ventilation des frais généraux par destination
+Les frais généraux par destination se détaille comme suit :
+CHARGES PAR DESTINATION AU 31‐12‐2025
+Libelle VIE NON VIE
+Frais d'acquisition 7 794 334 11 644 566
+Frais d'administration 1 198 615 18 969 673
+Frais de gestion des sinistres 717 687 14 202 274
+Charges de placements 2 610 710
+Autres charges techniques 1 360 250 4 752 617
+TOTAL DES CHARGES PAR DESTINATION 63 250 726
+6.9 / Ventilation des primes par zone géographique
+La ventilation par zone géographique des primes émises nettes de taxes et d'annulations en cours, s’élevant à
+la somme de 278 737 916 DT au 31 décembre 2025 se détaille comme suit :
+MONTANT
+ZONE
+31/12/2025 31/12/2024
+Nord 239 793 842 216 318 856
+Centre 14 751 340 13 593 315
+Sud 24 192 732 24 201 411
+TOTAL 278 737 914 254 113 582
+6.10 / Ventilation des produits non techniques
+Les produits non techniques se détaillent comme suit :
+LIBELLE MONTANT
+Profits exceptionnels sur exercice en cours 2 347 067
+TOTAL 2 347 067
+6.11 / Ventilation des autres charges non techniques
+Les charges non techniques se détaillent comme suit :
+LIBELLE MONTANT
+Autres charges non techniques 1 221 550
+Divers contribution, Don et subvention 840 045
+TOTAL 2 061 595
+6.12 / Tableau de passage du résultat comptable au résultat fiscal
+LIBELLE 31/12/2025 31/12/2024
+Résultat Comptable 47 680 393 42 214 395
+Réintégration 1 224 827 3 572 454
+Déductions <12 146 155> <10 369 972>
+Résultat Fiscal avant réinvestissements exonérés 36 759 065 35 416 877
+Réinvestissements exonérés 10 000 000 8 000 000
+Résultat Fiscal 26 759 065 27 416 877
+Impôt sur les sociétés <10 703 626> <10 966 751>
+Contributions < 2 207 623> < 2 261 892>
+Bénéfice Comptable 34 769 144 28 985 751
+6.13 / Provisions d’assurance vie
+Les provisions d’assurance vie ont été évaluées conformément aux méthodes comptables décrites dans la
+rubrique principes comptables. La variation entre le montant d’ouverture et de clôture est présentée comme
+suit :
+LIBELLE 31/12/2025
+Provision mathématique vie à l’ouverture 235 452 142
+Charges de provisions au 31/12/2025 79 756 400
+S/Total: 315 208 542
+Capitaux échus, rentes et rachats polices vie payées <42 565 900>
+TOTAL 272 642 642
+6.14 /Tableau de raccordement du résultat techniques par catégorie d’assurance aux états
+financiers
+Les tableaux de raccordement des états de résultat techniques vie et non vie sont présentés au niveau des
+annexes N°15 et N°16.
+6.15 /Note sur les pertes extraordinaires
+LIBELLE 31/12/2025
+Contribution sociale de Solidarité 1 070 363
+Contribution de Sécurité Sociale 1 070 363
+Contribution aux Fonds national de la réforme éducative 66 898
+Total 2 207 623
+7. Note sur l’état des engagements hors bilan
+Le tableau des engagements reçus et donnés est présenté en annexe N° 6. Conformément à la norme
+NC26 § 47, la compagnie ne présente aucun engagement à l'égard des dirigeants.
+8. Note sur l’état de flux de trésorerie
+L’état de flux de trésorerie est présenté en annexe N°7. Les composantes des liquidités ou équivalents de
+liquidités sont déterminées sur la base d’un système de recensement individuel par flux dont l’imputation au
+niveau des rubriques correspondantes se fait systématiquement après comptabilisation du flux.
+9. Comparabilité des comptes
+ Changement de méthodes comptables
+Conformément à la norme NC26, les méthodes d’estimation, d’évaluation et de
+comptabilisation utilisées au 31/12/2025 sont les mêmes que celles adoptées pour l’arrêté des
+comptes de 2024.
+10. Evènements postérieurs à la clôture
+Les présents états financiers ont été autorisés pour publication par le Conseil d'Administration des comptes
+statuant sur les résultats de 2025, et à la date d’arrêté de comptes aucun évènement post bilan n’est survenu.
+11. Transactions avec les parties liées
+Transactions effectuées avec la Banque de Tunisie (société mère)
+DESIGNATION MONTANT HT
+Service financier 49 903
+Personnel en détachement 401 722
+Loyer locaux archives 17 959
+Droit de garde des titres 148 307
+Commissions bancaires 74 222
+Commissions sur contrat temporaire décès 7 787 613
+Jetons de présence 12 667
+Total charges 8 492 393
+Loyer locaux agences bancaires 61 221
+Primes assurance Assistance 231 435
+Primes assurance Auto 102 251
+Primes assurance capitalisation 5 113 480
+Primes assurance Groupe 4 430 969
+Primes assurance Incendie 1 551
+Primes assurance Multirisques 35 682
+Primes assurance RC 1 565
+Primes assurance Risques Spéciaux 25 530
+Primes assurance Vol 73 739
+Primes assurance vie pour le personnel 18 842 000
+Revenue des dépôts 7 689 108
+Total produits 36 608 531
+Dividende payé 7 547 475
+12. Informations relatives aux facteurs Environnementaux, Sociaux et de Gouvernance (ESG)
+Astrée Assurances s’inscrit dans une démarche progressive d’intégration des principes RSE et des critères ESG
+dans sa stratégie opérationnelle.
+Conformément aux communiqués du Conseil du Marché Financier des 25 décembre 2025 et 13 février 2026,
+Astrée assurances présente ci‐après les informations significatives relatives aux facteurs environnementaux,
+sociaux et de gouvernance « ESG », et ce, dans le respect du cadre conceptuel de la comptabilité et en
+s’inspirant des principes des normes IFRS S1 & S2.
+Pour l'exercice clos au 31 décembre 2025, cette information s'inscrit dans une phase transitoire selon une
+logique de « Comply or Explain », conformément aux orientations du CMF.
+Dans ce cadre, les informations sont présentées selon les axes suivants :
+ Gouvernance de la durabilité ;
+ Stratégie ESG ;
+ Gestion des risques et opportunités liés à la durabilité ;
+ Indicateurs ESG et cibles ;
+1. Gouvernance de la durabilité :
+Dans le cadre de son plan stratégique quinquennal 2025‐2029 qui a été validé par le conseil d’administration,
+et dont un projet de mise en place d’une politique RSE‐ESG a été lancé, Astrée a identifié la Responsabilité
+Sociétale de l’Entreprise (RSE) et l’intégration des critères Environnementaux, Sociaux et de gouvernance
+(ESG) comme l’un des axes majeurs de développement et de création de valeur durable. Ces enjeux de
+durabilité sont pris en compte dans le cadre du dispositif global de gouvernance de la Compagnie.
+Le Conseil d'Administration d’Astrée Assurances, directement ou à travers ses divers comités (comité des
+risques, Comité d’audit, …), exerce une supervision globale des risques environnementaux, sociaux et
+climatiques dès lors qu’ils sont susceptibles d’avoir une incidence sur la situation financière, la performance
+et la continuité de l’activité.
+Les organes de gouvernance impliqués dans la supervision des risques et opportunités liés à la durabilité au
+sein de Astrée Assurances sont les suivants :
+Le Comité des Risques : Il rend compte au Conseil d’Administration en matière de gouvernance de la
+surveillance des Risques et oriente le Conseil sur la stratégie globale et l’appétence en matière de risques de
+toute nature, et intègrera les risques liés aux facteurs ESG et climatiques, et suivra l’évolution règlementaire
+pour s’y conformer.
+Le Comité d’audit : Le Comité d’audit projette d’intégrer les enjeux de durabilité dans son programme de
+travail, il abordera également les enjeux ESG susceptibles d’avoir une incidence sur les états financiers de la
+Compagnie et veillera à ce que les informations présentées reflètent de manière fiable les risques et
+opportunités identifiés, dès lors que ces enjeux sont jugés significatifs.
+2. Stratégie ESG
+Astrée Assurances, en tant que compagnie d’assurances et de réassurances multibranches, est exposée aux
+facteurs ESG de façon directe à travers ses activités de souscription et de réassurance et de manière indirecte
+à travers ses investissements liés aux activités des émetteurs et contreparties.
+Dans ce cadre, Astrée Assurances envisage d’intégrer progressivement les critères ESG dans ses divers
+processus afin d’assurer une croissance durable et une maîtrise accrue des impacts de ses activités internes
+(maîtrise de l’énergie, gestion des déchets…).
+Astrée Assurances, à travers une démarche structurée, vise à implémenter ces critères dans les prises de
+décisions liées à la souscription, à la tarification ainsi qu’au niveau du choix des investissements financiers et
+immobiliers.
+Par ailleurs, les risques émergents liés à la durabilité pourraient potentiellement avoir une incidence sur
+certains postes des états financiers de la Compagnie, notamment les primes, les différentes charges
+techniques et non techniques et les placements.
+A la date d’arrêté des états financiers au 31/12/2025, la Compagnie n’a identifié aucun élément présentant
+d’incidence financière significative sur sa situation financière, sa performance ou ses perspectives.
+3. Risques et opportunités liés à la durabilité
+Astrée Assurances adoptera une approche structurée et prospective pour identifier et gérer les risques et
+opportunités ESG les plus pertinents. Les principaux risques incluent :
+ L’évolution constante du cadre réglementaire ESG
+ Les perturbations opérationnelles liées au changement climatique
+ Les risques cyber et de sécurité des données.
+En parallèle, la durabilité représente des opportunités stratégiques majeures. L’intégration des critères ESG
+dans les décisions d’investissement et de souscription renforce la résilience du portefeuille et permet
+d’accompagner les clients dans leur transition.
+4. Indicateurs ESG et approche transitoire
+Au titre de l’exercice 2025, Astrée Assurances adopte une phase transitoire conformément aux
+recommandations du Conseil du Marché Financier. Cette phase repose sur :
+ Une priorité qualitative : en relation avec les processus de gouvernance et la trajectoire de conformité
+aux normes internationales de durabilité ;
+ Indicateurs quantitatifs : En raison du niveau de maturité des données disponibles et des processus de
+quantification des risques liés à l’ESG, la société prévoit de mettre en place progressivement un système
+structuré de suivi et de reporting ESG, incluant la définition d’indicateurs pertinents permettant
+l’intégration des facteurs de durabilité dans la gestion des activités de la compagnie, et ce en lien avec ses
+orientations stratégiques en matière de durabilité inscrites dans son plan stratégique 2025‐2029.
+A noter que Astrée Assurances a élaboré un rapport de durabilité 2025‐2024 intégrant l’ensemble des actions
+RSE‐ESG déjà réalisées. Ce rapport sera soumis au conseil d’administration qui va statuer sur les états
+financiers de l’exercice 2025.
+Annexe n° 8 : Mouvements ayant affecté les éléments de l'actif au 31 DECEMBRE 2025
+Valeur brute Amortissements et provisions
+Désignation A Acquisition Cessions A A l'ouverture Augmentations Diminutions A la clôture V.N.C
+l'ouverture ou constitution ou reprises la clôture Amortissements Provisions Amortissements Provisions Amortissements Provisions Amortissements Provisions A la clôture
+Actifs incorporels 7 369 554 1 599 218 45 224 8 923 548 2 504 015 163 111 2 667 126 6 256 422
+Concessions, brevets, marques 7 369 554 1 599 218 45 224 8 923 548 2 504 015 0 163 111 2 667 126 6 256 422
+Actifs corporels d'exploitation 10 473 669 481 992 161 027 10 794 634 8 338 305 574 066 71 801 8 840 570 1 954 065
+Installations techniques et machines 8 965 129 378 165 85 426 9 257 868 7 176 404 0 521 721 71 801 7 626 324 1 631 544
+Autres installations, outillage et mobilier 1 458 715 68 323 0 1 527 038 1 161 901 52 345 1 214 246 312 792
+Acomptes versés et immobilisations
+corporelles en cours 49 825 35 504 75 601 9 728 9 728
+Placements 655 380 539 462 970 668 403 049 098 715 302 109 6 657 382 16 665 335 215 483 6 172 661 7 592 248 6 872 864 15 245 748 693 183 497
+Terrains et constructions d'exploitation
+& hors exploitation 21 954 495 0 0 21 954 495 6 657 382 0 215 483 6 872 864 15 081 631
+Acomptes aux fournisseurs 296 611 296 611 296 611
+Parts & actions de sociétés immobilières non cotées 9 095 818 9 095 818 9 095 818
+Placements dans les entreprises liées
+- Parts 25 781 365 25 781 365 25 781 365
+- Bons et Obligations
+Placements dans les Entreprises avec un lien
+de participation
+- Parts
+- Bons et Obligations
+Autres placements financiers
+Actions, autres titres à revenu variable 120 641 567 140 922 636 140 514 890 121 049 313 0 16 522 006 0 6 172 661 0 7 592 248 15 102 420 105 946 893
+Obligations et autres titres à revenu fixe 346 696 809 119 934 260 48 237 564 418 393 505 416 416 418 393 088
+Prêts hypothécaires 1 514 515 318 215 204 846 1 627 883 1 627 883
+Autres prêts 1 255 143 717 845 428 046 1 544 942 142 912 0 142 912 1 402 030
+Dépôts auprès des établissements
+bancaires et financiers 65 652 000 66 010 000 18 900 000 112 762 000 112 762 000
+Autres 60 060 052 132 530 491 192 331 587 258 956 258 956
+Créances pour espèces déposées 2 432 165 2 537 221 2 432 165 2 537 221 2 537 221
+Annexe 9: Etat récapitulatif des Placements au 31/12/2025
+Plus ou moins Value
+Valeur Brute Valeur Nette Juste Valeur
+latente
+Placements immobiliers et placements immobiliers en cours 22 251 106 15 378 242 31 146 097 15 767 855
+Parts et actions de Sociétés immobilières non cotées 9 095 818 9 095 818 9 095 818 0
+Actions et autres titres à revenu variable autres que les parts d'OPCVM 77 506 683 62 443 301 70 643 069 8 199 768
+Prêts hypothécaires 1 627 883 1 627 883 1 627 883 0
+Autres prêts 1 544 942 1 402 030 1 402 030 0
+Parts d'OPCVM détenant uniquement des titres à revenu fixe 59 073 772 59 034 734 59 654 520 619 786
+Autres parts d'OPCVM 10 250 224 10 250 224 13 241 443 2 991 219
+Obligations et autres titres à revenu fixe 418 393 505 418 393 088 418 393 088 0
+Créances pour espèces déposées auprès des entreprises cédantes 2 537 221 2 537 221 2 537 221 0
+Autres Dépôts 113 020 956 113 020 956 113 020 956 0
+TOTAL : 715 302 109 693 183 497 720 762 126 27 578 629
+Valeur nette Juste Valeur
+Actions cotées 23 180 980 31 380 748
+Actions non cotées 39 262 321 39 262 321
+Total : 62 443 301 70 643 069
+Obligations cotées 30 084 000 30 084 000
+Obligations non cotées 23 180 000 23 180 000
+Titres de créances négociables et bons du trésor 365 129 088 365 129 088
+Total : 418 393 088 418 393 088
+Annexe n° 10 : Etat des règlements et des provisions pour sinistres à payer
+Exercice de survenance
+Année d'inventaire
+2021 2022 2023 2024 2025
+Inventaire 2023
+Règlements cumulés 67 301 783 58 998 771 43 433 986
+Provisions pour sinistres 20 481 199 33 447 491 74 893 047
+Total charges des sinistres 87 782 983 92 446 262 118 327 033
+Primes acquises 142 746 007 148 506 651 162 304 840
+% sinistres / primes acquises 61,50% 62,25% 72,90%
+Inventaire 2024
+Règlements cumulés 71 964 237 68 569 754 68 899 593 47 242 720
+Provisions pour sinistres 13 446 525 26 156 184 39 085 037 84 889 480
+Total charges des sinistres 85 410 761 94 725 938 107 984 630 132 132 200
+Primes acquises 142 746 007 148 506 651 162 304 840 175 299 754
+% sinistres / primes acquises 59,83% 63,79% 66,53% 75,38%
+Inventaire 2025
+Règlements cumulés 74 083 006 76 420 274 84 489 175 75 103 453 53 630 915
+Provisions pour sinistres 9 531 407 15 546 388 28 261 915 45 909 643 76 455 902
+Total charges des sinistres 83 614 413 91 966 661 112 751 090 121 013 096 130 086 817
+Primes acquises 142 746 007 148 506 651 162 304 840 175 299 754 188 812 379
+% sinistres / primes acquises 58,58% 61,93% 69,47% 69,03% 68,90%
+Annexe n° 11 : Ventilation des charges et produits des placements au 31/12/2025
+Revenus et frais financiers concernant Autres revenus
+les placements dans des Entreprises et frais financiers Total Raccordement
+liées et avec lien de participation
+Revenus des placements immobiliers 1 705 622 1 705 622PRNT11+PRV21
+Revenus des participations 2 857 887 12 632 403 15 490 290PRNT11+PRNT13+PRNT14+PRV21+PRV23+PRV24
+Revenus des autres placements 46 628 070 46 628 070PRNT11+PRV21
+Autres revenus financiers (Honoraires, commissions)
+Total produits des placements 2 857 887 60 966 096 63 823 982
+Intérêts 473 486 473 486CHNT11+CHV91
+Frais externes et internes 600 596 2 654 749 3 255 345CHNT11+CHNT12+CHNT13+CHV91+CHV92+CHV93
+Autres frais
+Total charges des placements 600 596 3 128 235 3 728 831
+Annexe n°12 : Résultat technique de la catégorie Vie au 31/12/2025 Vie Décès Mixte Capitalisation Total
+Primes Acquises 1 510 923 22 697 979 864 662 61 703 585 86 777 149
+Charges de prestations -836 785 -6 504 384 -789 582 -35 152 837 -43 283 588
+Charges des provisions d'assurance Vie et des autres provisions techniques -174 007 -1 356 923 401 518 -34 051 415 -35 180 827
+Solde de souscription : 500 131 14 836 672 476 598 -7 500 666 8 312 734
+Frais d'acquisition -19 785 -7 407 811 -7 977 -62 635 -7 498 209
+Autres charges de gestion nettes -113 129 -779 754 -49 616 -1 616 366 -2 558 865
+Charges d'acquisition et de gestion nettes : -132 914 -8 187 566 -57 593 -1 679 001 -10 057 074
+Produits nets de placements 1 396 402 5 084 772 695 241 15 004 811 22 181 226
+Participation aux résultats -1 637 268 0 -985 053 -419 414 -3 041 734
+Solde Financier : -240 866 5 084 772 -289 812 14 585 398 19 139 492
+Part des réassureurs dans les primes acquises - -420 555 0 - -420 555
+Part des réassureurs dans les prestations payées - 440 342 0 - 440 342
+Part des réassureurs dans les charges de provisions - -630 852 - - -630 852
+Part des réassureurs dans les participations aux résultats - 1 221 0 - 1 221
+Commissions reçues des réassureurs - -13 909 0 - -13 909
+Solde de réassurance : 0 -623 753 0 -623 753
+Résultat technique 2025: 126 350 11 110 125 129 194 5 405 730 16 771 399
+Résultat technique 2024: 981 652 10 918 436 831 826 4 218 950 16 950 864
+- 8 55 302 191 689 - 702 632 1 186 780 - 179 465
+Variation 2025-2024 :
+-87% 2% -84% 28% -1%
+Informations complémentaires :
+Versement périodique de rente Vie 2 6 051 12 988 3 9 039
+Rachats Vie payés 5 27 366 1 2 699 447 959 9 230 398 1 0 218 421
+Capitaux échus Vie 2 99 728 - 324 728 25 642 244 2 6 266 700
+Provisions techniques brutes Vie à la clôture 1 6 926 016 55 647 958 8 105 413 191 963 255 2 72 642 642
+Provisions techniques brutes Vie à l'ouverture 1 5 431 110 53 916 132 7 719 606 158 385 294 2 35 452 142
+Annexe n° 13: Résultat technique par catégorie d'assurance Non Vie au 31/12/2025
+Eléments Auto Transport Aviation Incendie Re D s é p c o e n n s n a a b l i e lité Resp C o i n v s il a e bilité Risques Agricoles Autr a e u s x D b o i m en m s a ges Ass A i . s E t . a A nce As C s r u é r d a i n t ce Maladie Invalidité Individuelle Loi Perte Pécuniaires Total Acceptations Total
+Primes acquises
+PRNV11 Primes émises 89 234 570 13 328 226 410 083 26 285 625 206 376 6 514 695 638 882 7 182 754 882 648 2 292 720 36 590 795 3 313 265 1 265 812 0 111 629 188 258 080 2 679 640 190 937 720
+PRNV12 Variation des primes non acquises -2 271 280 -373 926 53 014 859 603 273 641 -61 556 123 190 -335 368 -738 121 848 -149 815 0 8 306 -1 753 081 -372 263 -2 125 344
+Charges de prestations
+CHNV11 Prestations et frais payés -61 918 255 -1 297 799 -14 772 -10 615 139 -15 750 -1 308 954 -97 795 -2 686 268 -2 957 -389 322 -39 819 652 -528 147 -116 017 -79 685 -2 118 -118 892 630 -797 470 -119 690 100
+CHNV12 Charges des provisions pour prestations diverses -10 490 020 509 619 1 962 1 379 697 -136 400 1 720 460 63 038 153 758 -293 -604 048 -948 132 -127 783 142 948 39 309 -8 295 886 267 207 -8 028 679
+Solde de souscription : 14 555 016 12 166 120 450 287 17 909 786 327 868 6 864 644 727 315 4 314 876 878 660 1 421 197 -4 176 989 2 657 334 1 142 928 -40 376 117 817 59 316 483 1 777 114 61 093 597
+CHNV41, CHNV42 Frais d'acquisition -4 099 752 -1 514 614 -9 332 -2 388 250 109 843 -330 078 -414 542 -934 548 -68 115 -350 764 -1 221 786 -98 143 -135 092 0 -9 510 -11 464 685 -11 464 685
+CHNV43,CHNV5 Autres charges de gestion nettes -13 088 863 -866 092 -81 079 -3 313 652 -36 316 -599 431 -444 522 -965 462 -60 347 -721 569 -2 221 985 -236 166 -271 704 0 -11 546 -22 918 736 -651 266 -23 570 002
+Charges d'acquisition et de gestion nettes : -17 188 615 -2 380 707 -90 411 -5 701 902 73 526 -929 509 -859 065 -1 900 010 -128 463 -1 072 333 -3 443 771 -334 309 -406 796 0 -21 056 -34 383 422 -651 266 -35 034 687
+PRNT3 Produits nets des placements 17 131 473 615 227 67 686 2 187 519 237 702 1 843 804 35 484 906 819 11 121 281 370 433 855 11 137 137 329 80 431 9 075 23 990 033 210 903 24 200 935
+CHNV3 Participation aux résultats -158 876 -1 196 543 0 -1 001 927 0 188 -6 450 -149 015 0 -124 506 -247 358 0 -9 525 -2 894 014 -97 915 -2 991 929
+Solde Financier : 16 972 597 -581 316 67 686 1 185 592 237 702 1 843 992 29 034 757 804 11 121 156 863 186 497 11 137 127 803 80 431 9 075 21 096 019 112 988 21 209 007
+PRNV11 P P a a r r t t d d e e s s r r é é a a s s s s u u r r e e u u r r s s d d a a n n s s l l e e s s p p r r i i m m e e s s a no c n q u a is c e q s uises -6 6 4 9 9 6 2 2 1 3 4 6 9 -8 3 8 5 9 3 4 8 9 6 7 3 3 -4 -1 0 1 4 7 4 6 8 8 4 -24 - 0 4 5 1 0 8 2 5 0 9 0 7 -1 - 9 4 9 3 7 8 5 4 1 9 -4 3 1 7 2 6 1 8 7 9 9 7 6 -5 - 6 1 0 8 7 7 9 6 4 8 -6 4 4 9 9 5 5 7 5 6 8 9 8 -818 5 3 7 6 78 4 -2 - 1 0 2 1 1 6 8 1 4 5 8 8 - 1 8 3 3 7 2 2 0 9 6 5 9 0 -55 1 1 1 4 96 1 8 0 9 1 2 1 -55 1 1 1 4 9 1 6 8 0 9 1 2 1
+CHNV11 Part des réassureurs dans les prestations payées 114 372 1 195 840 1 899 9 821 640 102 249 189 62 696 2 279 023 0 340 632 0 0 15 262 0 14 080 657 14 080 657
+CHNV12, PRNV12 Part des réassureurs dans les charges de provisions -165 213 -112 083 -1 899 -2 210 260 56 583 -2 018 070 -52 699 1 176 601 -9 188 611 118 0 0 104 370 0 -2 620 739 -2 620 739
+CHNV44 Commissions reçues des réassureurs 2 679 837 1 013 271 0 5 088 750 87 627 829 430 153 613 1 510 247 223 461 287 818 254 524 0 12 128 578 12 128 578
+Solde de Réassurance (2025) -3 166 918 -6 444 082 -416 252 -11 768 667 -99 287 -5 194 552 -415 952 -1 034 309 -598 313 -898 437 -320 617 0 0 -30 357 386 0 -30 357 386
+Solde de Réassurance (2024) -2 424 618 -4 187 287 -485 786 -9 534 128 -63 947 -2 163 916 -291 716 -317 838 -565 112 -780 339 0 0 -37 815 0 0 -20 852 504 0 -20 852 504
+Résultat technique (2025) 11 172 080 2 760 016 11 310 1 624 808 539 809 2 584 575 -518 668 2 138 362 163 005 -392 710 -7 434 264 2 334 163 543 318 40 055 105 836 15 671 695 1 238 836 16 910 531
+Résultat technique (2024) 8 630 764 3 531 887 -79 054 4 755 508 635 557 2 603 582 -270 248 -72 630 -41 698 -242 682 -6 652 606 2 005 102 204 414 36 266 79 318 15 123 480 418 229 15 541 709
+Variation : 2025-2024 Aug. 2 B 5 é 4 n 1 é f 3 ic 1 e 6 Dim.B -7 é 7 n 1 é f 8 ic 7 e 1 Aug.Bé 9 n 0 é f 3 ic 6 e 4 Dim - . 3 B 1 é 3 n 0 é f 7 ic 0 e 0 Dim.Bé -9 n 5 é f 7 ic 4 e 8 Dim.Bé -1 n 9 é f 0 ic 0 e 7 Au -2 g 4 .P 8 e 4 r 2 te 0 Aug. 2 B 2 é 1 n 0 é f 9 ic 9 e 2 Aug.B 2 é 0 n 4 é f 7 ic 0 e 3 Au -1 g 5 .P 0 e 0 r 2 te 8 Au -7 g 8 .P 1 e 6 r 5 te 8 Aug.B 3 é 2 n 9 é f 0 ic 6 e 1 Aug.B 3 é 3 n 8 é f 9 ic 0 e 4 Aug.Bén 3 é f 7 ic 9 e 0 Aug.Bé 2 n 6 é f 5 ic 1 e 8 Aug.B 5 é 4 n 8 é f 2 ic 1 e 5 Aug.B 8 é 2 n 0 é f 6 ic 0 e 7 Aug. 1 B 3 é 6 n 8 é f 8 ic 2 e 2
+Informations complémentaires :
+Provisions pour primes non acquises à la clôture 37 057 193 2 003 070 86 476 7 768 412 2 123 840 1 992 068 273 571 2 244 373 137 621 806 463 495 471 102 767 55 091 324 1 472 951 56 564 275
+Provisions pour primes non acquises à l'ouverture 34 785 913 1 629 144 139 490 8 628 015 2 397 481 1 930 512 396 761 1 909 005 136 883 928 311 345 655 111 073 53 338 243 1 100 687 54 438 930
+Provisions pour Sinistres à payer à la clôture 167 143 835 3 209 339 621 131 13 451 485 609 317 18 833 886 35 532 7 648 980 2 406 524 4 429 600 170 415 1 097 783 65 732 219 723 560 1 064 270 220 787 830
+Provisions pour Sinistres à payer à l'ouverture 157 225 077 3 718 958 623 093 15 599 521 472 917 20 572 713 98 570 8 226 674 1 802 476 4 229 261 97 413 1 254 765 65 963 213 987 403 1 331 477 215 318 880
+Provision pour PB et Ristournes à la Clôture 1 130 166 3 065 602 124 661 2 017 209 -2 710 98 819 14 359 614 636 -12 739 656 693 123 831 -30 715 19 967 0 7 819 777 7 819 777
+Provision pour PB et Ristournes à l'Ouverture 1 106 117 2 691 787 124 661 1 314 636 -2 710 97 175 25 202 554 414 -12 768 561 478 568 673 -30 719 18 567 0 7 016 512 7 016 512
+Provision pour Egalisation & Equilibrage à la Clôture 1 505 484 0 0 1 505 484 1 505 484
+Provision pour Egalisation & Equilibrage à l'Ouverture 1 505 484 0 0 1 505 484 1 505 484
+Autres provisions techniques à la clôture : 4 347 855 2 925 410 0 0 0 0 0 0 105 241 0 0 415 003 40 009 862 192 4 347 855 4 347 855
+- Provisions pour risques en cours 105 241 105 241 105 241 105 241
+- Provisions mathématiques de rentes 3 767 958 2 925 410 842 548 3 767 958 3 767 958
+- Arrérages de rentes à payer 19 644 19 644 19 644 19 644
+- Réserve des rentes d'invalidité 4 55 012 415 003 40 009 455 012 455 012
+Autres provisions techniques à l'ouverture : 3 792 786 2 805 585 -14 736 901 270 3 792 786 3 792 786
+- Provisions pour risques en cours 1 00 667 100 667 100 667 100 667
+- Provisions mathématiques de rentes 3 687 211 2 805 585 881 626 3 687 211 3 687 211
+- Arrérages de rentes à payer 1 9 644 19 644 19 644 19 644
+- Réserve des rentes d'invalidité - 1 4 736 -14 736 -14 736 -14 736
+Annexe n° 14 : Tableau récapitulatif des éléments constitutifs
+de la participation des assurés aux résultats techniques et financiers au 31/12/2025
+Exercice
+Année d'inventaire
+2021 2022 2023 2024 2025
+Participation aux résultats
+(état de résultat technique)
+* Participation attribuée à des contrats
+(y compris intérêts techniques)
+* Variation de la provision pour
+participation aux bénéfices 1 935 101 1 863 862 2 683 494 1 267 291 3 041 734
+Participation aux résultats
+des contrats d'assurance vie
+* Provisions mathématiques moyennes 212 382 489 258 681 806 306 318 964 279 714 609 254 047 392
+* Montant minimum de participation
+* Montant effectif de la participation
+dont attribuée (y compris intérêts techniques)
+dont variation de la provision pour PB
+La première partie du tableau correspond à la décomposition du poste participation aux bénéfices et ristournes de l'état de
+résultat technique de l'assurance vie en participation attribuée aux contrats et variation de la provision pour participation aux
+bénéfices. Ces éléments sont obtenus à partir de la nomenclature comptable. La seconde partie du tableau reprend les éléments
+suivants:
+a) Les provisions mathématiques moyennes qui correspondent à la moyenne arithmétique des provisions mathématiques à
+l'ouverture et à la clôture de l'exercice;
+b) Le montant minimum de la PB qui est déterminé sur la base des obligations contractuelles en la matière.
+c) Le montant effectif de la participation aux bénéfices qui reprend le total de la partie (1) du tableau.
+Annexe n°15 : Tableau de raccordement du résultat technique
+par catégorie d'assurance aux états financiers Raccordement Total
+Catégorie : Vie au 31/12/2025
+Primes Acquises PRV11 86 777 149
+Charges de prestations CHV11 <43 283 588>
+Charges des provisions d'assurance Vie et des autres provisions techniques CHV12, CHV21,CHV22 <35 180 827>
+Solde de souscription : 8 312 734
+Frais d'acquisition CHV41, CHV42 <7 498 209>
+Autres charges de gestion nettes PRV4, CHV43,CHV5 <2 558 865>
+Charges d'acquisition et de gestion nettes : <10 057 074>
+Produits nets de placements PRV2, CHV9 22 181 226
+Participation aux Bénéfices CHV3 <3 041 734>
+Solde Financier : 19 139 492
+Primes cédées ou rétrocédées PRV11 2° Colonne <420 555>
+Part des réassureurs dans les prestations payées CHV11 2° Colonne 440 342
+Part des réassureurs dans les charges de provisions CHV12 2° Colonne <630 852>
+Part des réassureurs dans les participations aux résultats CHV3 2° Colonne 1 221
+Commissions reçues des réassureurs CHV44 2° Colonne <13 909>
+Solde de réassurance : <623 753>
+Résultat technique : 16 771 399
+Informations complémentaires :
+Versements périodiques de rentes Vie 39 039
+Montants des rachats Vie 10 218 421
+Capitaux échus Vie 26 266 700
+Provisions techniques brutes Vie à la clôture 272 642 642
+Provisions techniques brutes Vie à l'ouverture 235 452 142
+Annexe n°16 : Tableau de raccordement du résultat technique
+par catégorie d'assurance aux états financiers Raccordement Total
+Catégorie : Non Vie au 31/12/2025
+Primes acquises
+Primes émises PRNV11 190 937 720
+Variation des primes non acquises PRNV12 <2 125 344>
+Charges de prestations
+Prestations et frais payés CHNV11 <119 690 100>
+Charges des provisions pour prestations diverses CHNV12, CHNV2, CHNV3 <8 028 679>
+Solde de souscription : 61 093 597
+Frais d'acquisition CHNV41+CHNV42 <11 464 685>
+Autres charges de gestion nettes CHNV43, CHNV5 et PRNV2 <23 570 002>
+Charges d'acquisition et de gestion nettes : <35 034 687>
+Produits nets de placements PRNT3 24 200 935
+Participation aux Bénéfices CHNV3 <2 991 929>
+Solde Financier : 21 209 007
+Part des réassureurs dans les primes cédées PRNV11, PRNV12 2° Colonne <53 945 881>
+Part des réassureurs dans les prestations payées CHNV11 2° Colonne 14 080 657
+Part des réassureurs dans les charges de provisions CHNV12, CHNV2 2° Colonne <2 620 739>
+Commissions reçues des réassureurs CHNV44 2° Colonne 12 128 578
+Solde de Réassurance : <30 357 386>
+Résultat technique : 16 910 531
+Informations complémentaires :
+Provisions pour primes non acquises à la clôture 56 564 275
+Provisions pour primes non acquises à l'ouverture 54 438 930
+Provisions pour Sinistres à payer à la clôture 220 787 830
+Provisions pour Sinistres à payer à l'ouverture 215 318 880
+Provision pour Egalisation & Equilibrage à la Clôture 1 505 484
+Provision pour Egalisation & Equilibrage à l'Ouverture 1 505 484
+Provision pour participation aux bénéfices et ristournes 7 819 777
+Provision pour participation aux bénéfices et ristournes 7 016 512
+Autres provisions techniques à la clôture 4 347 855
+Autres provisions techniques à l'ouverture 3 792 786
+RAPPORT GENERAL
+Mesdames et Messieurs les Actionnaires,
+Compagnie d’Assurances et de Réassurances « ASTREE »
+45, Avenue Kheireddine Pacha, 1080 Tunis
+I- Rapport sur l’audit des états financiers
+Opinion
+En exécution de la mission qui nous a été confiée par votre Assemblée Générale Ordinaire,
+nous avons effectué l’audit des états financiers de la compagnie d’assurance et de
+réassurance « ASTREE », qui comprennent le bilan au 31 décembre 2025, les états de
+résultats techniques vie et non vie, l’état de résultat et l’état de flux de trésorerie pour
+l’exercice arrêté à cette date, ainsi que les notes annexes, y compris le résumé des
+principales méthodes comptables.
+Ces états financiers font ressortir un total net au bilan de 881 075 424 dinars, des capitaux
+propres positifs de 204 130 685 dinars, y compris le résultat bénéficiaire de l’exercice
+s’élevant à 34 769 144 dinars.
+À notre avis, les états financiers ci-joints présentent sincèrement, dans tous leurs aspects
+significatifs, la situation financière de la compagnie au 31 décembre 2025, ainsi que sa
+performance financière et de ses flux de trésorerie pour l’exercice arrêté à cette date,
+conformément au Système Comptable des Entreprises en Tunisie.
+Fondement de l’opinion
+Nous avons effectué notre audit selon les normes internationales d’audit applicables en
+Tunisie. Les responsabilités qui nous incombent en vertu de ces normes sont plus amplement
+décrites dans la section « Responsabilités de l’auditeur pour l’audit des états financiers » du
+présent rapport. Nous sommes indépendants de la compagnie conformément aux règles de
+déontologie qui s’appliquent à l’audit des états financiers en Tunisie, et nous sommes
+acquittés des autres responsabilités déontologiques qui nous incombent selon ces règles.
+Nous estimons que les éléments probants que nous avons obtenus sont suffisants et
+appropriés pour fonder notre opinion d’audit.
+Questions clés de l’audit
+Les questions clés de l’audit sont les questions qui, selon notre jugement professionnel, ont
+été les plus importantes dans l’audit des états financiers de la période considérée. Ces
+questions ont été traitées dans le contexte de notre audit des états financiers pris dans leur
+ensemble et aux fins de la formation de notre opinion sur ceux-ci, et nous n’exprimons pas
+une opinion distincte sur ces questions.
+Nous avons estimé que les questions décrites ci-après constituent les questions clés de
+l’audit qui doivent être communiquées dans notre rapport.
+ Evaluation des provisions techniques :
+Au 31 décembre 2025, les provisions techniques brutes totalisent un montant de
+572 421 482 dinars au regard d’un total bilan de 881 075 424 dinars, ce qui représente 65 %
+de ce dernier. Cette rubrique est composée essentiellement des provisions d’assurances vie
+pour un montant de 272 642 642 dinars, provisions pour sinistres non vie pour une valeur de
+220 787 830 dinars et d’autres provisions techniques pour un montant total de
+78 991 010 dinars.
+La composition détaillée de ces provisions est présentée au niveau de la note « P2.2 ».
+Leur évaluation repose sur des méthodes actuarielles, l’analyse de données historiques et
+l’utilisation d’hypothèses clés, telles que décrites dans les notes 4.2 et 4.3 aux états
+financiers. Compte tenu de leur importance significative par rapport au total du bilan, de la
+complexité des modèles et des hypothèses retenues, du jugement significatif de la direction
+requis ainsi que de l’influence potentielle sur l’appréciation du respect des ratios
+réglementaires de la compagnie, l’évaluation des provisions techniques a été considérée
+comme un point clé de l’audit.
+Nous avons, à partir des entretiens avec la direction et d’autres techniques de contrôle, pris
+connaissance et évalué les procédures mises en place par la compagnie pour l’évaluation et
+la présentation des provisions techniques.
+Nos travaux ont consisté également à :
+- Nous avons évalué la conception et testé l’efficacité opérationnelle des contrôles que
+nous avons jugés clés pour notre audit, liés :
+ À la gestion des sinistres et en particulier à l’évaluation des provisions dossier par
+dossier ;
+ Aux systèmes d’information contribuant au traitement des données techniques et
+à leur déversement en comptabilité ;
+- Apprécier le respect des dispositions légales et règlementaires applicables à la
+compagnie en matière des provisions techniques notamment l’arrêté du Ministre de
+Finance du 27 février 2001, fixant la liste, le mode de calcul des provisions techniques
+et les conditions de leur représentation,
+- Apprécier le caractère raisonnable et approprié des hypothèses retenues par la
+compagnie pour l’évaluation de ses engagements futurs,
+- Nous avons testé, par sondages, la fiabilité des données servant de base aux
+estimations ;
+- Désigner un actuaire pour l’audit des provisions techniques conformément à la
+circulaire du Comité Général des Assurances (CGA) n°258/2010 et fixant les conditions
+et modalités de rédaction du rapport des commissaires aux comptes des compagnies
+d’assurances et réassurances destiné au CGA ainsi que la circulaire N° 3/2018 du
+11 juillet 2018 relative à l’organisation des travaux de l’actuaire pour le rapport adressé
+au Comité Général des Assurances ;
+- S’assurer de l’exhaustivité et de l’exactitude des provisions techniques ainsi que le bien
+fondé des méthodes d’évaluation appliquées par la compagnie, moyennant le recours
+aux travaux de l’actuaire précité ;
+- Rapprocher les données issues du système d’information avec les chiffres
+comptabilisés.
+Par ailleurs, nous avons également apprécié le caractère approprié des informations
+présentées dans les notes « P2.2 », « 4.2 » et « 4.3 » aux états financiers relatives à la
+composition des provisions techniques et les modalités de leur évaluation.
+ Provisions pour créances douteuses :
+Les créances sur intermédiaires et assurés inscrites à l’actif de la compagnie s’élèvent au
+31 décembre 2025 à 47 518 709 dinars. A cette même date, les provisions pour créances
+douteuses comptabilisées, à ce titre, s’élèvent à 17 694 423 dinars, soit une reprise de
+1 363 641 dinars par rapport à la provision constatée en 2024.
+Compte tenu de la circulaire du Comité Général des Assurances (CGA) n°1 du 01/12/2021,
+fixant la méthodologie de calcul des provisions pour les primes arriérées, nous avons
+considéré l’évaluation des provisions pour créances douteuses comme un point clé de notre
+audit.
+Nous avons examiné les méthodes d’évaluation retenues par la compagnie telles que
+décrites au niveau de la note « 4.5 » des états financiers. En effet, nos travaux ont
+principalement consisté à :
+- S’assurer du respect des dispositions légales et réglementaires en matière
+d’évaluation des provisions pour les primes arriérées,
+- Apprécier les principes retenus pour estimer la provision pour créances douteuses au
+regard des procédures internes applicables par la compagnie,
+- Apprécier l’analyse des risques effectuée par la compagnie en se basant sur les
+rapports d’inspection,
+- Analyser la composition, la nature et l’évolution des arriérés,
+- Etudier le caractère approprié des informations fournis dans les notes « 4.5 » et
+« A.5.1.2 » des états financiers.
+ Evaluation des Placements financiers
+Au 31 Décembre 2025, l’encours des placements financiers s’élève à un montant brut de
+715 302 109 dinars, provisionnés à concurrence de 22 118 613 dinars, soit un montant net
+de 693 183 497 dinars, représentant 79% du total bilan.
+Les placements financiers sont évalués conformément à l’arrêté du Ministre des Finances du
+28 Mars 2005, modifiant l’arrêté du Ministre des Finances du 27 Février 2001 fixant la liste,
+le mode de calcul des provisions techniques et les conditions de leur représentation et comme
+décrit dans la note 4.5 des états financiers.
+Compte tenu de l’importance des placements financiers par rapport au total bilan de la
+compagnie et les risques de dépréciation de leurs valeurs, nous avons considéré l’évaluation
+des placements financiers comme une question clé dans notre audit.
+L’essentiel de nos travaux d’audit des placements financiers a consisté en la mise en œuvre
+des diligences suivantes :
+ L’évaluation du contrôle interne régissant le processus d’évaluation des placements
+financiers afin de s’assurer de la bonne conception et l’efficacité opérationnelle des
+contrôles clés,
+ S’assurer que les placements financiers ont été évaluées conformément aux
+dispositions de l’arrêté du ministre des finances du 27 Février 2001, fixant la liste, le
+mode de calcul des provisions techniques et les conditions de leur représentation tel
+qu’il a été modifié par l’arrêté du Ministre des Finances du 28 Mars 2005, et aux
+dispositions de la NCT 31 « Les placements dans les entreprises d’assurance et /
+ou de réassurance »,
+ Nous avons examiné les informations données par la direction sur l’activité et les
+perspectives d’avenir envisageables ainsi que les critères et hypothèses retenues
+pour déterminer les valeurs d’utilité des différents titres de participations et les
+provisions qui en résultent.
+Rapport de gestion
+La responsabilité du rapport de gestion incombe au conseil d’administration. Notre opinion
+sur les états financiers ne s’étend pas au rapport de gestion et nous n’exprimons aucune
+forme d’assurance que ce soit sur ce rapport.
+En application des dispositions de l’article 266 du Code des Sociétés Commerciales, notre
+responsabilité consiste à vérifier l’exactitude des informations données sur les comptes de la
+compagnie dans le rapport de gestion par référence aux données figurant dans les états
+financiers. Nos travaux consistent à lire le rapport de gestion et, ce faisant, à apprécier s’il
+existe une incohérence significative entre celui-ci et les états financiers ou la connaissance
+que nous avons acquise au cours de l’audit, ou encore si le rapport de gestion semble
+autrement comporter une anomalie significative. Si, à la lumière des travaux que nous avons
+effectués, nous concluons à la présence d’une anomalie significative dans le rapport de
+gestion, nous sommes tenus de signaler ce fait.
+Nous n’avons rien à signaler à cet égard.
+Responsabilités de la direction et des responsables de la gouvernance pour les états
+financiers
+Le Conseil d’Administration est responsable de la préparation et de la présentation fidèle des
+états financiers conformément au Système Comptable des Entreprises en Tunisie, ainsi que
+du contrôle interne qu’il considère comme nécessaire pour permettre la préparation d’états
+financiers exempts d’anomalies significatives, que celles-ci résultent de fraudes ou d’erreurs.
+Lors de la préparation des états financiers, c’est au Conseil qu’il incombe d’évaluer la
+capacité de la compagnie à poursuivre son exploitation, de communiquer, le cas échéant, les
+questions relatives à la continuité de l’exploitation et d’appliquer le principe comptable de
+continuité d’exploitation, sauf si l’Assemblée des actionnaires a l’intention de liquider la
+société ou de cesser son activité ou si aucune autre solution réaliste ne s’offre à elle.
+Il incombe au Conseil de surveiller le processus d’information financière de la compagnie.
+Responsabilités de l’auditeur pour l’audit des états financiers
+Nos objectifs sont d’obtenir l’assurance raisonnable que les états financiers pris dans leur
+ensemble sont exempts d’anomalies significatives, que celles-ci résultent de fraudes ou
+d’erreurs, et de délivrer un rapport de l’auditeur contenant notre opinion. L’assurance
+raisonnable correspond à un niveau élevé d’assurance, qui ne garantit toutefois pas qu’un
+audit, réalisé conformément aux normes internationales d’audit applicables en Tunisie,
+permettra toujours de détecter toute anomalie significative qui pourrait exister. Les anomalies
+peuvent résulter de fraudes ou d’erreurs et elles sont considérées comme significatives
+lorsqu’il est raisonnable de s’attendre à ce que, individuellement ou collectivement, elles
+puissent influer sur les décisions économiques que les utilisateurs des états financiers
+prennent en se fondant sur ceux-ci.
+Dans le cadre d’un audit réalisé conformément aux normes internationales d’audit applicables
+en Tunisie, nous exerçons notre jugement professionnel et faisons preuve d’esprit critique
+tout au long de cet audit. En outre :
+ Nous identifions et évaluons les risques que les états financiers comportent des
+anomalies significatives, que celles-ci résultent de fraudes ou d’erreurs, concevons et
+mettons en œuvre des procédures d’audit en réponse à ces risques, et réunissons des
+éléments probants suffisants et appropriés pour fonder notre opinion. Le risque de non-
+détection d’une anomalie significative résultant d’une fraude est plus élevé que celui
+d’une anomalie significative résultant d’une erreur, car la fraude peut impliquer la
+collusion, la falsification, les omissions volontaires, les fausses déclarations ou le
+contournement du contrôle interne ;
+ Nous acquérons une compréhension des éléments du contrôle interne pertinents pour
+l’audit afin de concevoir des procédures d’audit appropriées dans les circonstances, et
+non dans le but d’exprimer une opinion sur l’efficacité du contrôle interne de la
+compagnie ;
+ Nous apprécions le caractère approprié des méthodes comptables retenues et le
+caractère raisonnable des estimations comptables faites par le Conseil, de même que
+des informations y afférentes fournies par cette dernière ;
+ Nous tirons une conclusion quant au caractère approprié de l’utilisation par le Conseil
+d’Administration du principe comptable de continuité d’exploitation et, selon les éléments
+probants obtenus, quant à l’existence ou non d’une incertitude significative liée à des
+événements ou situations susceptibles de jeter un doute important sur la capacité de la
+compagnie à poursuivre son exploitation. Si nous concluons à l’existence d’une
+incertitude significative, nous sommes tenus d’attirer l’attention des lecteurs de notre
+rapport sur les informations fournies dans les états financiers au sujet de cette incertitude
+ou, si ces informations ne sont pas adéquates, d’exprimer une opinion modifiée. Nos
+conclusions s’appuient sur les éléments probants obtenus jusqu’à la date de notre
+rapport. Des événements ou situations futurs pourraient par ailleurs amener la société à
+cesser son exploitation ;
+ Nous évaluons la présentation d’ensemble, la forme et le contenu des états financiers, y
+compris les informations fournies dans les notes, et apprécions si les états financiers
+représentent les opérations et événements sous-jacents d’une manière propre à donner
+une image fidèle ;
+ Nous fournissons également aux responsables de la gouvernance une déclaration
+précisant que nous nous sommes conformés aux règles de déontologie pertinentes
+concernant l’indépendance, et leur communiquons toutes les relations et les autres
+facteurs qui peuvent raisonnablement être considérés comme susceptibles d’avoir des
+incidences sur notre indépendance ainsi que les sauvegardes connexes s’il y a lieu.
+ Parmi les questions communiquées aux responsables de la gouvernance, nous
+déterminons quelles ont été les plus importantes dans l’audit des états financiers de la
+période considérée : ce sont les questions clés de l’audit. Nous décrivons ces questions
+dans notre rapport, sauf si des textes légaux ou réglementaires en empêchent la
+publication ou si, dans des circonstances extrêmement rares, nous déterminons que
+nous ne devrions pas communiquer une question dans notre rapport parce que l’on peut
+raisonnablement s’attendre à ce que les conséquences néfastes de la communication
+de cette question dépassent les avantages pour l’intérêt public.
+II- Rapport relatif à d’autres obligations légales et réglementaires
+Dans le cadre de notre mission de commissariat aux comptes, nous avons également
+procédé aux vérifications spécifiques prévues par les normes publiées par l’Ordre des
+Experts Comptables de Tunisie et par les textes règlementaires en vigueur en la matière.
+Efficacité du système de contrôle interne
+En application des dispositions de l’article 3 (nouveau) de la loi n° 94 – 117 du 14 novembre
+1994 telle que modifiée par la loi 2005-96 du 18 octobre 2005, et des dispositions de l’article
+266 du Code des Sociétés Commerciales, nous avons procédé aux vérifications portant sur
+l’efficacité du système de contrôle interne de la compagnie. A ce sujet, nous rappelons que
+la responsabilité de la conception et de la mise en place d’un système de contrôle interne
+ainsi que la surveillance périodique de son efficacité et de son efficience incombe à la
+Direction et au Conseil d’Administration.
+Sur la base de notre examen, nous n’avons pas identifié des déficiences importantes du
+contrôle interne susceptibles d’impacter notre opinion sur les états financiers telle
+qu’exprimée ci-dessus. Un rapport traitant des faiblesses et des insuffisances identifiées au
+cours de notre audit a été remis à la Direction Générale de la compagnie.
+Conformité de la tenue des comptes des valeurs mobilières à la règlementation en
+vigueur
+En application des dispositions de l’article 19 du décret n°2001-2728 du 20 novembre 2001,
+nous avons procédé aux vérifications portant sur la conformité de la tenue des comptes des
+valeurs mobilières émises par la société avec la réglementation en vigueur.
+La responsabilité de veiller à la conformité aux prescriptions de la règlementation en vigueur
+incombe à la direction.
+Fait à Tunis, le 30 avril 2026
+Les commissaires aux comptes
+FINOR Les Commissaires aux Comptes Associés
+Karim DEROUICHE MTBF
+Ahmed SAHNOUN
+RAPPORT SPECIAL
+Mesdames et Messieurs les Actionnaires,
+Compagnie d’Assurances et de Réassurances « ASTREE »
+45, Avenue Kheireddine Pacha, 1080 Tunis
+En application des articles 200 et 475, du code des sociétés commerciales, nous reportons ci-
+dessous sur les conventions conclues et opérations réalisées au cours de l'exercice clos le 31
+décembre 2025.
+Notre responsabilité est de nous assurer du respect des procédures légales d’autorisation et
+d’approbation de ces conventions ou opérations et de leur traduction correcte in fine dans les états
+financiers. Il ne nous appartient pas de rechercher spécifiquement et de façon étendue l’existence
+éventuelle de telles conventions ou opérations mais de vous communiquer, sur la base des
+informations qui nous ont été données et celles obtenues à travers nos procédures d’audit, leurs
+caractéristiques et modalités essentielles, sans avoir à nous prononcer sur leur utilité et leur bien
+fondé. Il vous appartient d’apprécier l’intérêt qui s’attachait à la conclusion de ces conventions et la
+réalisation de ces opérations en vue de leur approbation.
+A- Conventions et opérations nouvellement réalisées (autres que les rémunérations des
+dirigeants)
+Votre Conseil d’Administration ne nous a donné avis d’aucune convention nouvelle conclue au cours
+de l’exercice clos le 31 décembre 2025.
+B- Opérations réalisées relatives à des conventions antérieures
+Les conventions et opérations suivantes conclues au cours des exercices antérieurs ont continué à
+produire leurs effets au cours de l’exercice clos le 31 décembre 2025 :
+1- Conformément à la convention cadre pour la réalisation des opérations de pensions livrées
+signée en date du 1er décembre 2020, votre conseil d’administration du 23 avril 2026 a autorisé des
+opérations de pensions livrées réalisées au cours de l’exercice 2025 pour un montant global de
+132 509 002 dinars.
+Les revenus constatés à ce titre en 2025 s’élèvent à 1 254 362 dinars.
+2- Conformément à la convention cadre pour la réalisation des opérations de pensions livrées
+signée en date du 1er décembre 2020, votre conseil d’administration du 25 avril 2025 a autorisé des
+opérations de pensions livrées réalisées au cours de l’exercice 2024 pour un montant global de
+181 230 208 dinars.
+Les revenus constatés à ce titre en 2025 s’élèvent à 542 967 dinars.
+3- La Banque de Tunisie a détaché auprès de votre société deux membres de son personnel.
+La charge supportée à ce titre courant l’exercice 2025 s’élève à 401 722 dinars HT soit 478 051
+dinars TTC et tenant compte d’une marge de 15%.
+4- Une convention de services financiers et administratifs a été signée entre votre compagnie et la
+Banque de Tunisie « BT » le 30 novembre 2007, en vertu de laquelle cette dernière est désignée
+comme intermédiaire agréé mandaté pour la tenue du registre des actions de votre société.
+Banque de Tunisie « BT » assure, en outre, l'organisation des assemblées générales des
+actionnaires et la mise à jour du dossier juridique.
+Cette convention a fait l'objet d'un premier avenant en date du 03 mars 2009, en vertu duquel la
+Banque de Tunisie « BT » , outre les prestations susvisées prévues par ladite convention, assure au
+profit de votre compagnie, la gestion des conventions de rétrocession des participations prises dans
+le cadre de son portefeuille.
+Cette convention a fait l'objet d'un deuxième avenant en date du 23 septembre 2022, prenant effet à
+partir du 1er janvier 2022, en vertu duquel, la rémunération annuelle de la banque a été portée à 41
+900 dinars HT avec une majoration annuelle de 6%.
+Le montant constaté à ce titre en charges de l’exercice s'élève à 49 904 dinars HT soit 59 385 dinars
+TTC.
+5- Une convention de location a été signée en date du 1er juillet 2008 entre la Banque de Tunisie
+« BT » et votre compagnie en vertu de laquelle cette dernière a loué auprès de la Banque un local à
+Mateur pour abriter ses archives, et ce à titre gracieux.
+Cette convention a été annulée et remplacée par une nouvelle convention en date du 27 décembre
+2012, qui a fixé le loyer à un montant de 10 000 dinars HT par an moyennant une augmentation
+annuelle de 5% à compter de la troisième année de location.
+Le montant constaté à ce titre en charges de l’exercice s'élève 17 959 dinars HT soit 21 371 dinars
+TTC.
+6- Une convention de location a été signée le 27 décembre 2012 entre votre compagnie et la
+Banque de Tunisie « BT » en vertu de laquelle cette dernière loue auprès de votre société un local à
+usage commercial pour l'exploitation d'une agence bancaire, situé au rez-de-chaussée du 45 avenue
+Khair-Eddine Pacha.
+Le loyer a été fixé à un montant de 13 700 dinars HT par an moyennant une augmentation annuelle
+de 5% à compter de la troisième année de location.
+Le montant constaté à ce titre en produits de l’exercice 2025 s'élève de 23 432 dinars HT.
+7- Une convention de location a été signée le 06 mars 2012 entre votre compagnie et la Banque
+de Tunisie « BT » en vertu de laquelle cette dernière loue auprès de votre société un local à usage
+commercial pour l'exploitation d'une agence bancaire, situé au rez-de-chaussée des terrasses
+d'ENNASR II.
+Le loyer a été fixé à un montant de 28 200 dinars HT par an moyennant une augmentation annuelle
+de 5% chaque deux années de location.
+Le montant constaté à ce titre en produits de l’exercice 2025 s'élève de 37 791 dinars.
+Par ailleurs, et en dehors des conventions précitées, nos investigations n’ont relevé aucune
+convention en dehors des opérations courantes nécessaires à la réalisation de l’objet social, y
+compris une convention de bancassurance.
+C- Obligations et engagements vis-à-vis des dirigeants
+1- Les obligations et engagements vis-à-vis des dirigeants tels que visés à l’article 200 nouveau II
+§ 5 du Code des Sociétés Commerciales sont définies comme suit :
+Le conseil d’administration réuni le 13 décembre 2023 a nommé Monsieur Moez DIMASSI en qualité
+de Directeur Général de votre société et ce, à compter du 18 janvier 2024 et a délégué au comité de
+rémunération de fixer sa rémunération.
+A cet effet, le comité de rémunération réuni le 12 janvier 2024 a décidé d’accorder au Directeur
+Général :
+- Une rémunération annuelle brute fixe de deux cent trente mille dinars payables sur douze
+mensualités.
+- Une prime annuelle brute variable calculée en fonction du Bénéfice Net de la compagnie, avec un
+plafond de soixante-dix mille dinars par an, payable après l’approbation des comptes par l’Assemblée
+Générale des Actionnaires.
+Par ailleurs, le Directeur Général bénéficie d’une voiture de fonction avec une prise en charge des
+frais y afférents.
+Les membres du conseil d’administration sont rémunérés par des jetons de présence déterminés par
+le conseil d’administration et soumis annuellement à l’approbation de l’assemblée générale annuelle.
+2- Les obligations et engagements vis-à-vis des Directeurs Généraux et des membres du conseil
+d’administration, tels qu’ils ressortent des états financiers clos le 31 décembre 2025, se présentent
+comme suit (en dinars) :
+Directeur Général Administrateurs
+Charge de Passif au Charge de Passif au
+l'exercice 31/12/2025 l'exercice 31/12/2025
+Avantages à court terme 262 048 (*) 44 271 150 000 -
+Prov. Prime annuelle variable 70 000 140 000 - -
+Total 332 048 184 271 150 000 -
+(*) Compte tenu des frais de carburant pour 13 KDT hors charges fiscales et sociales et de la dotation aux provisions
+pour congés à payer pour 19 KDT au titre de l’exercice 2025 (le solde de ladite provision s’élève à 44 KDT au 31
+décembre 2025).
+Par ailleurs, et en dehors des conventions et opérations précitées, nos travaux n’ont pas révélé
+l’existence d’autres conventions ou opérations rentrant dans le cadre des dispositions de l’article 200
+et suivant et 475 du code des sociétés commerciales.
+Fait à Tunis, le 30 avril 2026
+Les commissaires aux comptes
+FINOR Les Commissaires aux Comptes Associés
+Karim DEROUICHE MTBF
+Ahmed SAHNOUN

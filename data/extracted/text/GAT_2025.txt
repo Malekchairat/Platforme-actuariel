@@ -1,0 +1,2061 @@
+AVIS DES SOCIÉTÉS
+ETATS FINANCIERS
+GAT VIE
+Siège Social : 92-94 Avenue Hédi Chaker, 1002 Tunis
+La société GAT VIE publie, ci-dessous, ses états financiers arrêtés au 31 décembre 2025
+tels qu’ils seront soumis à l’approbation de l’assemblée générale ordinaire qui se tiendra le
+15 Mai 2026. Ces états sont accompagnés des rapports général et spécial du commissaire
+aux comptes : M Neji HERGLI (Financial Auditing & Consulting).
+BILAN AU 31 DECEMBRE 2025
+(Montants exprimés en dinars)
+AU 31/12/2025
+NET
+Actifs Notes
+Amortissements AU 31/12/2024
+Brut Net
+et provisions
+AC1 Actifs incorporels 7-1 1 383 634 1 254 422 1 29 212 2 32 129
+AC11 Investissements de recherche et développement 1 352 700 1 254 422 9 8 278 2 32 129
+AC14 Acomptes versés 30 934 - 3 0 934 -
+AC2 Actifs corporels d'exploitation 7-1 902 217 607 832 2 94 385 4 01 590
+AC21 Installations techniques et machines 870 791 5 76 853 2 93 939 4 01 049
+AC22 Autres installations, outillage et mobilier 31 426 3 0 979 446 5 42
+AC23 Acomptes versés et Immobilisations corporelles en cours - - - -
+AC3 Placements 7-2 3 73 005 918 568 880 3 72 437 038 3 03 391 178 *
+AC31 Terrains, constructions et actions de sociétés immobilières non cotées 1 2 058 765 - 1 2 058 765 6 714 665
+AC311 Terrains et constructions d'exploitation - - - -
+AC312 Terrains et constructions hors exploitation 5 344 100 - 5 344 100 -
+AC313 Parts et actions de sociétés immobilères non cotées 6 714 665 - 6 714 665 6 714 665
+AC32 Placements dans les entreprises liées et participations - - - -
+AC33 Autres placements financiers 3 60 947 154 568 880 3 60 378 273 2 96 676 513 *
+AC331 Actions, autres titres à revenu variable et part dans des FCP 58 658 510 5 26 086 5 8 132 424 3 7 001 321
+AC332 Obligations et autres titres à revenu fixe 122 055 835 29 685 1 22 026 150 1 12 202 163 *
+AC334 Autres prêts 3 667 645 13 109 3 654 535 2 971 661
+AC335 Dépôts auprès des établissements bancaires et financiers 176 565 164 - 1 76 565 164 1 44 501 368
+AC34 Créances pour espèces déposées auprès des Entreprises cédantes - - - -
+AC4 Actifs représentant les contrats en Unité de Compte 7-3 6 670 568 - 6 670 568 7 858 906 *
+AC5 Part des réassureurs dans les provisions techniques 7-4 2 336 927 - 2 336 927 2 302 944
+AC520 Provisions d'assurances vie 1 378 224 - 1 378 224 1 378 885
+AC530 Provisions pour sinistres Vie 958 703 - 9 58 703 9 24 058
+AC6 Créances 7-5 22 893 467 984 009 2 1 909 458 1 8 051 219
+AC61 Créances nées d'opérations d'Assurance directe 1 396 101 1 07 062 1 289 040 2 313 346
+AC611 Primes acquises et non émises 950 601 - 9 50 601 5 09 475
+AC612 Autres créances nées d'opération d'assurance directe 445 500 1 07 062 3 38 439 1 803 871
+AC613 Créances indemnisées subrogées à l'Entreprise d'assurance - - - -
+AC62 Créances nées d'opérations de réassurance 3 158 597 6 46 342 2 512 254 2 198 441
+AC63 Autres Créances 1 8 338 769 230 606 1 8 108 164 1 3 539 433
+AC631 Personnel - - - -
+AC632 Etat, organismes de sécurité sociale, collectivités publiques 18 236 312 1 44 200 1 8 092 112 1 3 506 116
+AC633 Débiteurs divers 102 457 8 6 406 1 6 051 3 3 317
+AC7 Autres éléments d'Actif 7-6 19 895 691 85 749 1 9 809 941 1 9 535 295 *
+AC71 Avoirs en banques, CCP, chèques et caisse 7 330 025 85 749 7 244 276 8 667 614
+AC72 Charges reportées - - - -
+AC721 Frais d'acquisition reportés - - - -
+AC722 Charges à répartir - - - -
+AC73 Comptes de régularisation Actif 1 2 565 666 - 1 2 565 666 1 0 867 682 *
+AC731 Intérêts et loyers acquis non échus 7 845 789 - 7 845 789 6 378 085
+AC733 Autres comptes de régularisation Actifs 4 719 876 - 4 719 876 4 489 597 *
+Total de l'Actif : 427 088 422 3 500 893 4 23 587 529 3 51 773 261
+(*) Données retraitées à des fins comparatives (Cf. Note 5)
+Capitaux propres et passif du Bilan Notes 31/12/2025 31/12/2024
+CP1 Capital social ou fonds équivalent 7 000 000 7 000 000
+CP2 Réserves et primes liées au capital 7 210 267 5 333 200
+CP4 Autres capitaux propres 4 43 314 4 43 314
+CP5 Résultats reportés 9 009 689 7 834 109
+Total capitaux propres avant résultat : 23 663 269 2 0 610 623
+CP6 Résultat de la période 7 299 055 5 125 580
+Total capitaux propres avant affectation : 7-7 3 0 962 325 2 5 736 203
+PA2 Provisions pour autres risques et charges 7-8 2 689 825 1 467 079
+PA22 Provisions pour impôts - -
+PA23 Autres provisions 2 689 825 1 467 079
+PA3 Provisions techniques brutes 7-9 3 72 814 856 3 10 933 412
+PA310 Provisions pour primes non acquises Non Vie - -
+PA320 Provisions d'assurances Vie 347 337 685 2 93 987 633
+PA330 Provisions pour sinistres Vie 15 100 359 7 925 667
+PA340 Provisions pour participation aux bénéfices Vie 5 629 866 4 237 842
+PA360 Autres provisions techniques Vie 4 746 946 4 782 270
+PA4 Provisions des Contrats en Unité de Compte 7-10 6 670 158 7 858 748
+PA5 Dettes pour dépôts reçus des réassureurs 7-11 2 336 927 2 302 944
+PA6 Autres dettes 7-12 7 095 949 2 836 979
+PA61 Dettes nées d'opérations d'assurance directe - 63 277
+PA611 Autres dettes nées d'opérations d'assurance directe - 6 3 277
+PA612 Dettes indemnisées subrogées à l'Entreprise d'assurance - -
+PA62 Dettes nées d'opérations de réassurance - -
+PA63 Autres dettes 7 095 949 2 773 703
+PA631 Dépôts et cautionnements reçus - -
+PA632 Personnel 4 04 375 -
+PA633 Etat, organismes de sécurité sociale, collectivités publiques 1 313 919 8 06 144
+PA634 Créditeurs divers 5 098 062 1 966 150
+PA635 Concours bancaires 279 594 1 409
+PA7 Autres passifs 7-13 1 017 489 6 37 896 *
+PA71 Comptes de régularisation passif 1 017 489 6 37 896 *
+Total des capitaux propres et du Passif : 4 23 587 529 3 51 773 261
+(*) Données retraitées à des fins comparatives (Cf. Note 5)
+GAT VIE - Etats financiers annuels au 31 décembre 2025
+ETAT DE RESULTAT TECHNIQUE DE L’ASSURANCE VIE
+Exercice clos le 31 décembre 2025
+(Montants exprimés en dinars)
+Exercice Clos le
+Exercice Clos le 31/12/2025
+31/12/2024
+Notes
+Opérations Opérations Opérations
+Cessions
+Brutes Nettes Nettes
+PRV1 Primes 8-1 89 649 225 (799 122) 88 850 103 71 664 065
+PRV11 Primes émises et acceptées 89 649 225 (799 122) 88 850 103 71 664 065
+PRV2 Produits de placements 8-2 34 909 480 - 34 909 480 26 972 100 *
+PRV21 Revenus des placements 32 659 477 - 32 659 477 26 140 751 *
+PRV23 Reprise de correction de valeurs sur placements 20 966 - 20 966 386 708
+PRV24 Profits provenant de la réalisation des placements 2 229 037 - 2 229 037 444 641 *
+PRV3 Plus values non réalisées sur placements 8-3 495 925 - 495 925 305 544 *
+PRV4 Autres produits techniques - - - -
+CHV1 Charge de sinistres 8-4 (52 487 712) 653 441 (51 834 271) (29 068 301) *
+CHV11 Montants payés (45 313 020) 618 796 (44 694 224) (26 329 900) *
+CHV12 Variation de la provision pour sinistres (7 174 692) 34 645 (7 140 047) (2 738 401)
+CHV2 Variation des autres provisions techniques 8-5 (53 518 161) (661) (53 518 823) (57 010 559)
+CHV21 Provisions d'assurance vie (53 350 052) 38 130 (53 311 922) (53 800 713)
+CHV22 Autres provisions techniques (1 356 699) (38 791) (1 395 490) (2 083 280)
+CHV23 Provisions sur Contrats en Unité de compte 1 188 590 - 1 188 590 (1 126 565)
+CHV3 Participation aux bénéfices et ristournes 8-6 (30 331) 308 633 278 302 197 754 *
+CHV4 Frais d'exploitation 8-7 (5 052 104) 53 239 (4 998 865) (3 410 678)
+CHV41 Frais d'acquisition (4 064 633) 53 239 (4 011 394) (2 392 743)
+CHV43 Frais d'Administration (987 472) - (987 472) (1 017 935)
+CHV5 Autres charges techniques 8-8 (4 004 487) - (4 004 487) (2 493 622)
+CHV9 Charges des placements 8-9 (809 755) (42 917) (852 672) (804 039) *
+CHV91 Charges de gestion des placements, y compris les charges d'intérêts (779 222) (42 917) (822 140) (439 418)
+CHV92 Correction de valeur sur placements (28 231) - (28 231) (363 764)
+CHV93 Pertes provenant de la réalisation des placements (2 302) - (2 302) (857) *
+CHNT2 Produits de Placements alloués, transférés à l'état de résultat 8-10 (838 808) - (838 808) (735 532)
+Résultat technique de l'assurance Vie 8 313 270 172 613 8 485 882 5 616 732 *
+(*) Données retraitées à des fins comparatives (Cf. Note 5)
+Page 4
+ETAT DE RESULTAT
+Exercice clos le 31 décembre 2025
+(Montants exprimés en dinars)
+Exercice Exercice
+Notes Clos le Clos le
+31/12/2025 31/12/2024
+RTV Résultat Technique de l'Assurance Vie 8 485 882 5 616 732*
+PRNT3 Produits des placements alloués, transférés de l'état de
+838 808 735 532
+résultat
+PRNT2 Autres produits non techniques 4 980 562 289*
+CHNT3 Autres charges non techniques (57 159) -
+Résultat provenant des activités ordinaires 9-1 9 272 513 6 914 553
+CHNT4 Impôts sur le Résultat 9-2 (1 644 548) (1 490 811)
+Résultat provenant des activités ordinaires après impôts 7 627 965 5 423 742
+CHNT5 Pertes Extraordinaires 9-2 (328 910) (298 162)
+Résultat Net de l'Exercice 7 299 055 5 125 580
+(*) Données retraitées à des fins comparatives (Cf. Note 5)
+(cid:1)
+TABLEAU DES ENGAGEMENTS REÇUS ET DONNES
+AU 31 ECEMBRE 2025
+(Montants exprimés en dinars)
+Notes 31/12/2025 31/12/2024
+HB1 Engagements reçus 10-1 3 598 783 663 177 *
+HB11 Avals, cautions de garanties sur conventions de portage 347 300 347 300
+HB12 Avals, cautions de garanties sur agents généraux 164 393 147 443 *
+HB13 Autres engagements reçus 3 087 090 168 434 *
+HB2 Engagements donnés 10-2 19 766 779 2 1 000 097 *
+HB21 Avals, cautions de garanties octroyés au titre d'appel d'offres
+HB22 Titres et actifs acquis avec engagements de revente
+HB23 Autres engagements sur titres, actifs ou revenus 1 252 019 1 072 037 *
+HB24 Autres engagements donnés 18 514 760 19 928 060
+HB3 Valeurs reçues en nantissement des cessionnaires
+et des rétrocessionnires
+HB4 Valeurs remises par des organismes réassurés avec
+caution solidaire ou de substitution
+HB5 Valeurs appartenant à des institutions de prévoyance
+HB6 Autres valeurs détenues pour compte de tiers
+(*) Données retraitées à des fins comparatives (Cf. Note 5)
+ETAT DES FLUX DE TRESORERIE
+Exercice clos le 31 décembre 2025
+(Montants exprimés en dinars)
+Exercice Exercice
+Notes Clos le Clos le
+31/12/2025 31/12/2024
+Flux de trésorerie liés à l'exploitation
+Encaissements des primes reçues des assurés 87 137 368 66 535 072
+Sommes versées pour paiement des sinistres (40 693 277) (21 339 662)
+Encaissements des primes reçues (acceptations) - - *
+Décaissements de primes pour les cessions (504 053) (504 843)
+Encaissements des sinistres pour les cessions - 10 777 *
+Commissions versées aux intermédiaires (697 399) (520 839)
+Sommes versées aux fournisseurs et au personnel (6 357 045) (5 211 155) *
+Décaissements liés à l'acquisition de placements financiers (324 563 168) (254 343 065)
+Encaissements liés à la cession de placements financiers 263 364 085 194 118 258
+Taxes sur les assurances versées au Trésor (761 751) (46 980) *
+Produit financiers reçus 32 608 001 29 374 786 *
+Impôts sur les bénéfices payés (5 746 280) (4 578 976) *
+Autres mouvements - - *
+Flux de trésorerie provenant de l'exploitation 11-1 3 786 482 3 493 372 *
+Flux de trésorerie liés aux activités d'investissement
+Décaissements provenant de l'acquisition des immobilisations
+(80 304) (265 994) *
+incorporelles et corporelles
+Décaissements provenant de l'acquisition de terrains et
+(3 336 670) -
+constructions destinées à l'exploitation
+Flux de trésorerie provenant des activités d'investissement 11-2 (3 416 974) (265 994) *
+Flux de trésorerie liés aux activités de financement
+Dividendes et autres distributions (2 100 000) (1 750 000) *
+Flux de trésorerie provenant des activités de financement 11-3 (2 100 000) (1 750 000) *
+Incidence des variations de taux de change sur les liquidités ou
+- -
+équivalents de liquidités
+Variations de trésorerie (1 730 492) 1 477 378
+Trésorerie de début d'exercice 11-4 8 780 924 7 303 546
+Trésorerie de fin d'exercice 11-4 7 050 431 8 780 924
+(*) Données retraitées à des fins comparatives (Cf. Note 5)
+Notes aux états financiers :
+Note 1. Présentation de la Société
+La société GAT Vie, filiale de GAT ASSURANCES, est une société anonyme au capital de
+7.000.000 DT, entièrement libéré. Fondée en 1984, elle est la première compagnie d’assurance vie
+créée en Tunisie. Son activité est, notamment, régie, par le code des assurances.
+GAT Vie joue un rôle clé dans le secteur de l’assurance vie, en proposant des solutions ciblées et
+adaptées aux besoins de sa clientèle. Elle offre une large gamme de produits d’épargne et de
+prévoyance, pouvant être souscrits aussi bien par les particuliers, à titre individuel, que par les
+entreprises, à titre collectif.
+Son capital social est divisé en 70.000 actions de valeur nominale égale à 100 DT chacune.
+La structure du capital se présente, au 31 décembre 2025, comme suit :
+Nombre % du capital
+Participation
+d’actions et de et des droits
+en DT
+droits de vote de vote
+GAT ASSURANCES 69 178 6 917 800 98,83%
+AUTRES ACTIONNAIRES 822 82 200 1,17%
+Total Général 70 000 7 000 000 100%
+Note 2. Référentiel d’élaboration et de présentation des états financiers
+Les états financiers de la société GAT Vie sont préparés et présentés conformément aux
+principes comptables généralement admis prévus par le Système Comptable des Entreprises
+en vigueur en Tunisie tel que promulgué par la loi n° 96-112 du 30 décembre 1996.
+Les méthodes comptables et les bases de mesure s’appuient, dans l’ordre, sur :
+ Les normes comptables sectorielles applicables aux entreprises d’assurance et/ou de
+réassurance (NCT 26 à NCT 31) telles qu’approuvées par arrêté du Ministre des
+Finances du 26 juin 2000 ;
+ La norme comptable générale NCT 01 et les normes comptables techniques NCT 02 à
+NCT 04 et NCT 06 à NCT 15 telles qu’approuvées par arrêté du ministre des finances
+du 30 décembre 1996 ;
+ La norme comptable technique NCT 20 approuvée par arrêté du ministre des finances
+du 22 janvier 1999 ;
+ La norme comptable technique NCT 39 approuvée par arrêté du ministre des finances
+du 1er décembre 2003 ;
+ La norme comptable technique NCT 41 approuvée par arrêté du ministre des finances
+du 26 juin 2008 ;
+ La norme comptable technique NCT 05 (nouveau) approuvée par arrêtée du ministre
+des finances du 24 mars 2022 ;
+ Le cadre conceptuel de la comptabilité approuvé par le décret n° 96-2459 du 30
+décembre 1996.
+La monnaie de présentation des états financiers est le dinar tunisien (DT).
+Les montants présentés dans les états financiers de synthèse et dans les notes annexes sont
+exprimés en dinars (DT), sauf mention contraire. Les effets d’arrondis peuvent générer, le cas
+échéant, des écarts entre les montants présentés dans les états financiers de synthèse et ceux
+présentés dans les notes annexes.
+Note 3. Facteurs Environnementaux, Sociaux et de Gouvernance (ESG)
+Cette note s’inscrit dans le cadre des orientations du Conseil du Marché Financier (CMF)
+relatives à l’intégration d’informations financières liées à la durabilité dans les notes annexes
+aux états financiers des sociétés faisant appel public à l’épargne, et ce à compter des états
+financiers arrêtés au 31 décembre 2025.
+S’agissant d’un premier exercice d’application, GAT Vie adopte une approche progressive,
+privilégiant la présentation d’informations qualitatives détaillées afin de décrire sa feuille de
+route, tout en posant les bases d’un reporting quantitatif futur plus structuré et mature.
+L’approche retenue au titre de l’exercice 2025 repose ainsi principalement sur une démarche
+graduelle d’identification des enjeux pertinents, accompagnée d’un renforcement progressif
+des dispositifs internes de gouvernance, de gestion des risques et de reporting.
+3-1. Gouvernance :
+La gouvernance ESG est assurée par la Direction Générale et intégrée de manière transversale
+à l’ensemble des fonctions de la Société, incluant la gestion actif-passif, la politique de
+souscription, la gestion des risques et la relation client.
+La gouvernance de GAT Vie s’inscrit dans celle du groupe GAT, fondée sur une logique de
+synergies visant à favoriser la transversalité entre les métiers, à renforcer les interactions entre
+les différentes entités et à optimiser la création de valeur à l’échelle du groupe, y compris sur
+les enjeux ESG. Dans ce cadre, et dans le prolongement de la démarche d’intégration des
+critères ESG, deux sessions de formation ont été organisées à destination des collaborateurs et
+des dirigeants du groupe.
+Dans le cadre de la structuration de sa démarche ESG, GAT Vie va engager en 2026 un
+cabinet externe spécialisé afin d’accompagner l’intégration des critères ESG dans son
+processus d’assurance et son reporting.
+3-2. Stratégie :
+GAT Vie exerce une activité d’assurance vie, caractérisée par la collecte de primes, la gestion
+d’engagements à long terme envers les assurés et l’investissement des actifs représentatifs des
+provisions techniques. À ce titre, elle occupe une position centrale en tant qu’investisseur
+institutionnel de long terme et gestionnaire de risques.
+Les enjeux ESG de la société s’articulent autour de deux axes complémentaires. D’une part,
+au niveau des activités d’assurance, la Société doit intégrer les critères ESG dans la
+conception, la tarification et la distribution de ses produits, en veillant notamment à l’équité
+entre assurés, à la transparence de l’information et à la prise en compte des évolutions
+démographiques et sociétales. D’autre part, au niveau des placements, la Société adopte une
+approche d’investissement responsable visant à concilier performance financière durable et
+impact positif, en intégrant les critères ESG dans la sélection, la gestion et le suivi de ses
+actifs.
+Consciente de son rôle et de ses impacts, GAT Vie veille à répondre aux attentes d’un
+ensemble diversifié de parties prenantes, comprenant notamment ses clients, fournisseurs,
+collaborateurs, agents et courtiers d’assurance, ainsi que les communautés locales et la société
+au sens large. Dans ce contexte, la responsabilité sociale et environnementale constitue un axe
+central de son engagement. Voici les actions majeures de son engagement RSE :
+ Sur le plan réglementaire : GAT Vie s’est pleinement engagée pour se conformer
+aux exigences en matière de Lutte contre le Blanchiment de Capitaux et le
+Financement du Terrorisme (LAB/FT), dont le respect constitue un engagement
+complémentaire à sa démarche de gouvernance responsable ;
+ Engagement envers le sport et le bien-être : En collaboration avec la Fédération
+Tunisienne de Tennis, GAT Vie organise l’événement "Padel Trophy" ;
+ Engagement envers la santé et la solidarité : Chaque année, en collaboration avec le
+Croissant Rouge Tunisien et le Centre National de Transfusion Sanguine, les
+collaborateurs de la Compagnie prennent part à des actions de don de sang,
+témoignant d'un véritable élan collectif de générosité ;
+ Engagement Éthique et Responsabilité Sociale envers les Employés : à travers des
+avantages sociaux (assurance santé, retraite complémentaire, aides sociales) et
+l’organisation des programmes de formation et de montée en compétences ;
+ Engagement en faveur du savoir et du bien-être des employés : L’amicale du
+groupe GAT organise des excursions printanières et estivales, ainsi qu’une journée
+dédiée au savoir visant à récompenser les lauréats.
+3-3. Gestion des risques :
+GAT Vie adopte une démarche progressive d’identification et d’évaluation des risques et
+opportunités ESG, en cohérence avec son profil de risque et ses obligations prudentielles.
+L’analyse des risques ESG repose sur une approche qualitative intégrant les spécificités du
+secteur de l’assurance vie, notamment les risques liés à la gestion actif-passif, les
+engagements à long terme et la dépendance à la performance des marchés financiers.
+Les risques environnementaux identifiés concernent principalement l’exposition des
+portefeuilles d’investissement aux secteurs sensibles à la transition énergétique, ainsi que les
+impacts potentiels du changement climatique sur la valorisation des actifs. À ce stade, leur
+évaluation reste en cours de structuration, notamment en raison de la disponibilité limitée de
+données fiables et homogènes.
+Les risques sociaux incluent notamment les enjeux liés à la relation avec les assurés
+(transparence, protection des intérêts, qualité de service), ainsi que les évolutions
+démographiques pouvant affecter les engagements techniques.
+Les risques de gouvernance portent sur la conformité réglementaire, la qualité des processus
+décisionnels et la gestion des conflits d’intérêts.
+Les principaux risques identifiés sont :
+Description qualitative Horizon Opportunités
+Catégorie
+du risque temporel associées
+Risque de prise en compte
+insuffisante des enjeux
+climatiques et environnementaux
+dans les processus de Moyen/ Meilleure intégration des critères ESG dans
+Environnement souscription et d’investissement, Long l’analyse des portefeuilles, renforcement du
+pouvant affecter l’évaluation terme positionnement commercial.
+actif-passif, la réputation de la
+Société et l’attractivité de ses
+offres.
+Risques liés au capital humain,
+notamment l’attraction et la
+Court/ Renforcement de l’expertise interne,
+fidélisation des talents, la qualité
+Social Moyen amélioration de l’engagement des
+de vie au travail et la diffusion
+terme collaborateurs, développement d’une culture
+d’une culture de conformité et
+d’entreprise durable et responsable.
+d’éthique.
+Risques de gouvernance, de
+conformité et de contrôle interne,
+en particulier en matière de
+Renforcement de la confiance des assurés et
+transparence, de prévention des Court/
+investisseurs, amélioration de la qualité de la
+Gouvernance conflits d’intérêts, de lutte contre Moyen
+gouvernance, meilleure maîtrise des risques
+le blanchiment, de protection des terme
+réglementaires et réputationnels.
+investisseurs et d’intégration des
+exigences ESG dans les
+dispositifs de décision.
+Risque réputationnel en cas
+Court/ Renforcement de la crédibilité de la démarche
+Social/ d’écart entre les engagements
+Moyen ESG, amélioration du dialogue avec les
+Réputation affichés et les pratiques effectives
+terme assurés et les autres parties prenantes.
+de la Société.
+3-4. Impact potentiel des critères ESG sur la situation financière :
+Les facteurs ESG peuvent avoir un impact modéré sur la situation financière de la société
+GAT Vie, compte tenu de la nature de ses engagements à long terme et de la sensibilité de ses
+actifs et passifs aux évolutions économiques, environnementales et sociales.
+Sur le plan environnemental, la prise en compte des changements climatiques qu’ils soient
+événements extrêmes ou évolutions réglementaires, constitue un élément important pour
+limiter les risques qui peuvent affecter la valeur des actifs financiers détenus en couverture
+des engagements, ainsi que, indirectement, les hypothèses actuarielles utilisées pour le
+provisionnement.
+Les facteurs sociaux, la prise en compte de l’évolution de l’espérance de vie, les changements
+démographiques ou les attentes des assurés en matière de transparence et d’éthique, constitue
+un élément important pour adapter la conception des produits, les flux de primes et le niveau
+des prestations à verser.
+En matière de gouvernance, le respect des bonnes pratiques (transparence, éthique,
+conformité) constitue un élément essentiel pour limiter les risques juridiques, réglementaires
+et réputationnels, susceptibles d’affecter la confiance des assurés et la pérennité de l’activité.
+A la date de clôture, ces facteurs n’ont pas donné lieu à des ajustements chiffrés spécifiques
+dans les états financiers, mais ils sont intégrés dans les analyses prospectives, et peuvent
+influencer à moyen et long terme les niveaux de provisions techniques, les exigences en
+capital et les choix d’allocation d’actifs.
+GAT Vie se situe dans une phase initiale de maturité ESG. Les principaux enjeux sont en
+cours d’identification. Les prochaines étapes consistent à mettre en place un projet qui couvre
+l’ensemble de la chaîne de valeur de l’assurance vie pour approfondir l’analyse de matérialité,
+à intégrer davantage les critères ESG dans les outils de gestion des risques et dans la politique
+d’investissement, à développer des indicateurs de suivi quantitatifs et à renforcer les
+dispositifs de contrôle interne et de reporting ESG adapté aux spécificités du secteur.
+S’agissant du Mécanisme d’Ajustement Carbone aux Frontières, la Société considère que ce
+dispositif n’est pas directement applicable à son activité d’assurance Vie. En conséquence,
+elle n’a pas identifié, à la date d’arrêté des présents états financiers, d’exposition directe
+justifiant une information financière spécifique autre que la présente mention.
+Note 4. Faits marquants de l’exercice clos le 31 décembre 2025
+L’exercice clos le 31 décembre 2025 a été principalement marqué par :
+ La poursuite de la progression de la part de marché de GAT Vie, qui s’établit à 6,7%
+en 2025 contre 6,3% en 2024, traduisant le renforcement progressif de sa position sur
+le marché ;
+ La prédominance de la branche collective "Entreprise" dans la structure du chiffre
+d’affaires, avec une contribution de 61% en 2025, contre 39% pour la branche
+individuelle ;
+ L’institution, par l’article 15 de la loi n° 2024-48 du 9 décembre 2024 portant loi de
+finances pour l’année 2025, d’une taxe de 1% assise sur les primes d’assurance ou
+cotisations nettes d’annulations et de taxes, affectée au financement du Fonds de
+protection sociale des travailleuses agricoles, créé par le même article en appui au
+régime de protection sociale desdites travailleuses institué par le décret-loi n° 2024-4
+du 22 octobre 2024. L’entrée en vigueur de cette mesure, en 2025, s’est traduite, pour
+la société, par une charge de 892 mDT ;
+ Le lancement d’un plan d’assainissement triennal portant sur le produit "Valoris
+Patrimoine", dont la rentabilité est affectée par une marge tarifaire structurellement
+réduite, aggravée par l’instauration de la taxe de 1% précitée ;
+ La signature d’une convention de partenariat avec le Conseil National de l’Ordre des
+Médecins (CNOM) ;
+ L’obtention du visa du Comité Général des Assurances pour la commercialisation
+d’un produit de micro-épargne à travers le partenaire IMF de la société ;
+ La mise en place de l’outil CRM pour la gestion des prestations et le traitement des
+demandes clients, permettant la centralisation de l’information, l’amélioration de la
+collaboration interservices et un meilleur suivi des délais de traitement ;
+ L’amélioration des fonctionnalités du portail "MY GAT Business" destiné aux
+partenaires banques et IMF, notamment à travers la génération des états de production,
+le module d’annulation des souscriptions et le parcours de sélection médicale, afin de
+fluidifier les opérations de souscription et d’améliorer les délais de recouvrement ;
+ La mise en place d’un nouveau processus centralisé de suivi des encaissements
+réseaux, fondé sur l’ouverture de comptes bancaires auxiliaires dédiés à chaque agent
+d’assurance pour la domiciliation des primes d’assurance vie, en vue de réduire les
+délais d’encaissement et d’en faciliter l’identification ;
+ Le lancement de la mise en place d’un outil de gestion de la trésorerie et de
+rapprochement des flux financiers, destiné à automatiser l’identification et
+l’affectation des flux de trésorerie et à optimiser la gestion financière ;
+ Le lancement du projet "GAT LIFE" relatif à la refonte du système d’information de
+GAT Vie ;
+ Le lancement du projet de génération des attestations fiscales avec intégration du
+cachet électronique ;
+ L’acquisition, dans le cadre de la diversification des placements de GAT Vie, d’un
+terrain sis aux Berges du Lac, d’une superficie de 2.946 m², destiné à la construction
+d’un parking à étages avec rez-de-chaussée commercial.
+Note 5. Retraitements et reclassements au niveau de certains postes des états financiers
+de synthèse
+Afin d’améliorer la présentation de la situation financière, de la performance et des flux de
+trésorerie de la société, conformément aux principes comptables généralement admis en
+Tunisie, certains retraitements ainsi que des reclassements de présentation ont été opérés. Ces
+retraitements et reclassements portent sur les éléments suivants :
+5-1. Retraitements et reclassements de certaines rubriques du bilan :
+Etats Etats
+Financiers Financiers
+Poste des Etats Financiers Retraitements Reclassements
+publiés au retraités au
+31/12/2024 31/12/2024
+BILAN
+ACTIFS
+AC3 Placements 119 701 000 (7 378 838) (120 000) 112 202 163
+AC332 Obligations et autres titres à revenu fixe 119 701 000 (7 378 838) (120 000) 112 202 163
+- Décotes sur BTA - (7 378 838) - -
+- Transfert vers les actifs représentant les contrats en UC - - (120 000) -
+AC4 Actifs représentant les contrats en Unité de Compte 7 859 669 (120 763) 120 000 7 858 906
+- Décotes sur BTA - (120 763) - -
+- Transfert vers les actifs représentant les contrats en UC - - 120 000 -
+AC7 Autres éléments d'Actif 1 220 523 5 121 177 (1 852 102) 4 489 597
+AC733 Autres comptes de régularisation Actifs 1 220 523 5 121 177 (1 852 102) 4 489 597
+- Décotes sur BTA - 5 121 177 (1 852 102) -
+PASSIFS
+PA7 Autres passifs 4 868 422 (2 378 423) (1 852 102) 637 896
+PA71 Comptes de régularisation passif 4 868 422 (2 378 423) (1 852 102) 637 896
+- Décotes sur BTA - (2 378 423) (1 852 102) -
+5-2. Retraitements et reclassements de certaines rubriques de l’état de résultat technique de
+l’assurance vie et de l’état de résultat :
+Etats Etats
+Financiers Financiers
+Poste des Etats Financiers Retraitements Reclassements
+publiés au retraités au
+31/12/2024 31/12/2024
+ÉTAT DE RÉSULTAT TECHNIQUE DE L'ASSURANCE VIE & ÉTAT DE RÉSULTAT
+PRV2 Produits de placements 27 478 073 (305 973) (200 000) 26 972 100
+PRV21 Revenus des placements 26 671 909 (331 158) (200 000) 26 140 751
+- Gains latents sur actifs des contrats en UC - (305 544) - -
+- Gains réalisés sur actifs des contrats en UC - (25 185) - -
+- Pertes latentes sur actifs des contrats en UC - (425) - -
+- Arrondis sur réévaluation sur actifs des contrats en UC - (3) - -
+- Reprise de provisions sur créance litgieuse
+- - (200 000) -
+liée à la cession d'un placement immobilier
+PRV24 Profits provenant de la réalisation des placements 419 456 25 185 - 444 641
+- Gains réalisés sur actifs des contrats en UC - 25 185 - -
+CHV1 Charge de sinistres (28 805 745) - (262 556) (29 068 301)
+CHV11 Montants payés (26 067 344) - (262 556) (26 329 900)
+- Part des réassureurs dans les PB payées - - (262 556) -
+CHV3 Participation aux bénéfices et ristournes (64 803) - 262 556 197 754
+- Part des réassureurs dans les PB payées - 262 556 -
+PRV3 Plus values non réalisées sur placements 133 000 305 544 (133 000) 305 544
+- Gains latents sur actifs des contrats en UC - 305 544 - -
+- Intérêts de retard sur recouvrement d'une créance litgieuse
+- - (133 000) -
+sur cession d'un placement immobilier
+CHV9 Charges des placements (804 464) 425 - (804 039)
+CHV93 Pertes provenant de la réalisation des placements (1 282) 425 - (857)
+- Pertes latentes sur actifs des contrats en UC - 425 - -
+PRNT2 Autres produits non techniques 229 286 3 333 000 562 289
+- Arrondis sur réévaluation sur actifs des contrats en UC - 3 - -
+- Reprise de provisions sur créance litgieuse
+- - 200 000 -
+liée à la cession d'un placement immobilier
+- Intérêts de retard sur recouvrement d'une créance litgieuse
+- - 133 000 -
+sur cession d'un placement immobilier
+5-3. Retraitements et reclassements de certaines rubriques de l’état des flux de trésorerie :
+Flux Sinistres CSS Autres impôts Dividendes Produits R à S/ Jetons de Flux
+Code R à S/ Fournisseurs Fournisseurs
+publiés encaissés sur & Taxe & taxes hors servis nets financiers dividendes présence retraités
+rublique IS d'exploitation d'immobilisations
+2024 cessions Conjoncturelle (FGA) de R à S encaissés versés servis 2024
+E3 10 777 (10 777) - - - - - - - - - -
+E7 - 10 777 - - - - - - - - - 10 777
+E10 (4 558 898) - - 259 096 (956 632) (171 517) 265 994 - - 2 000 (51 200) (5 211 155)
+E15 (2 025 044) - 1 243 807 - 956 632 - - 1 125 (223 500) - - (46 980)
+E16 26 075 214 - 3 076 073 - - - - 223 500 - - 29 374 786
+E17 - - (4 319 880) (259 096) - - - - - - - (4 578 976)
+E18 (51 200) - - - - - - - - - 51 200 -
+V1 (171 517) - - - - 171 517 (265 994) - - - - (265 994)
+F2 (1 746 875) - - - - - - (1 125) - (2 000) - (1 750 000)
+E3 : Encaissements des primes reçues (acceptations)
+E7 : Encaissements des sinistres pour les cessions
+E10 : Sommes versées aux fournisseurs et au personnel
+E15 : Taxes sur les assurances versées au Trésor
+E16 : Produit financiers reçus
+E17 : Impôts sur les bénéfices payés
+E18 : Autres mouvements
+V1 : Décaissements provenant de l'acquisition des immobilisations incorporelles et corporelles
+F2 : Dividendes et autres distributions
+5-4. Retraitements et reclassements de certaines rubriques du tableau des engagements
+reçus et donnés :
+Etats Etats
+Financiers Financiers
+Poste des Etats Financiers Retraitements Reclassements
+publiés au retraités au
+31/12/2024 31/12/2024
+TABLEAU DES ENGAGEMENTS REÇUS ET DONNÉS
+HB1 Engagements reçus 494 743 168 434 - 663 177
+HB12 Avals, cautions de garanties sur agents généraux - - 147 443 147 443
+- Nantissement de l'épargne constituée par les agents en
+garantie de leurs obligations contractuelles vis-à-vis de - - 147 443 -
+GAT VIE
+HB13 Autres engagements reçus 147 443 168 434 (147 443) 168 434
+- Nantissement de l'épargne constituée par les agents en
+garantie de leurs obligations contractuelles vis-à-vis de - - (147 443) -
+GAT VIE
+- Cautionnements reçus des établissements bancaires - 168 434 - -
+HB2 Engagements donnés 19 928 060 1 072 037 - 21 000 097
+HB23 Autres engagements sur titres, actifs ou revenus - 1 072 037 - 1 072 037
+- Nantissement de l'épargne constituée par les agents en
+garantie de leurs obligations contractuelles vis-à-vis de - 1 072 037 - -
+GAT ASSURANCES
+Note 6. Bases de mesure et principes comptables pertinents :
+Les états financiers de la société GAT Vie sont élaborés sur la base de la mesure des éléments
+du patrimoine au coût historique.
+Les principes comptables les plus significatifs se résument comme suit :
+6-1. Actifs incorporels et corporels
+Les immobilisations incorporelles et corporelles sont comptabilisées à leur coût d’acquisition
+et sont amorties linéairement aux taux suivants :
+ Investissements de développement & logiciels informatiques 20%
+ Agencements et aménagements 15%
+ Matériel et mobilier de bureau 10%
+ Matériel de transport 20%
+ Matériel informatique 15%
+ Matériel d’exploitation 20%
+Compte tenu de leur nature, les œuvres d’art sont considérées comme ayant une durée
+d’utilité indéfinie, dès lors qu’elles ne sont pas sujettes à une usure liée à leur utilisation et
+que leur valeur ne se consomme pas de manière prévisible dans le temps. En conséquence,
+elles ne font pas l’objet d’un amortissement.
+6-2. Placements
+6-2-1. Placements immobiliers
+Les placements immobiliers sont comptabilisés initialement au coût pour les acquisitions à
+titre onéreux et à la juste valeur pour les acquisitions à titre gratuit. Les terrains et
+constructions figurent au bilan à leur valeur comptable nette.
+6-2-2. Autres placements
+ Coût d’entrée des titres
+Les titres cotés et les titres non cotés sont comptabilisés en participations pour leur coût
+d’acquisition (valeur boursière ou valeur d’émission). Les frais accessoires, tels que les
+commissions boursières et les frais de courtage, sont comptabilisés en charges.
+Les obligations et les bons du trésor (titres à revenus fixes) sont comptabilisés à leur prix
+d’acquisition hors frais accessoires sur achat et hors coupon couru à l’achat.
+ Évaluation à la date de clôture
+Les titres émis par des sociétés cotées en bourse font l’objet d’une évaluation selon le cours
+boursier moyen du mois de décembre.
+Les titres émis par des OPCVM régis par le code des organismes de placement collectif font
+l’objet d’une évaluation à la valeur liquidative du 31 décembre pour les SICAV et les FCP ou
+à la dernière valeur liquidative publiée pour les FCPR et les fonds d’amorçage.
+Les titres émis par des sociétés non cotées font l’objet d’une évaluation à la valeur
+mathématique calculée sur la base des derniers états financiers disponibles.
+Aussi bien pour les titres côtés que les titres non côtés, les plus-values latentes ne sont pas
+constatées et les moins-values latentes sont provisionnées.
+Pour les placements représentatifs des contrats en unités de compte, l’évaluation est faite à la
+valeur de marché. La différence entre la valeur comptable et la valeur de marché est prise en
+compte dans le résultat.
+ Revenus des titres à revenu variable
+Les dividendes sont constatés parmi les produits de l’exercice au cours duquel le droit au
+dividende est établi (décision de distribution par l’organe compétent).
+ Revenus des titres et autres placements à revenu fixe
+Les intérêts générés par les titres (obligations, bons de trésor, certificats de dépôts, billets de
+trésorerie, …) et autres placements à revenu fixe (placements en comptes à terme) sont
+constatés parmi les produits de l’exercice de façon étalée sur la période concernée par
+référence au taux facial. Les décotes et les surcotes sont rapportées au résultat linéairement
+jusqu’à la sortie de l’instrument du portefeuille de la société.
+6-3 : Les créances
+Cette rubrique comporte les créances nées d’opérations d’assurance directe, les créances nées
+d’opérations de réassurance et les autres créances, telles que décrites comme suit :
+ Les créances nées d’opérations d’assurance directe enregistrent les créances sur les
+assurés et les intermédiaires d’assurance, les primes à annuler et les primes acquises et
+non émises ;
+ Les créances nées d’opérations de réassurance enregistrent les créances sur les
+réassureurs et les cédantes ;
+ Les autres créances enregistrent les créances qui ne sont pas liées directement à
+l’activité d’assurance et/ou de réassurance, tel est le cas des créances sur le personnel,
+l’État, les organismes sociaux et les collectivités publiques ainsi que les autres
+débiteurs divers.
+Les primes à annuler, sont comptabilisées lors de chaque inventaire. Elles sont destinées à
+faire face aux annulations futures pouvant intervenir après la clôture de l’exercice sur les
+primes émises et les primes acquises et non émises.
+Les créances nées d’opérations d’assurance directe sont provisionnées conformément à la
+décision du CGA n°01/2021 du 1er décembre 2021, fixant la base et la méthode de calcul des
+provisions pour dépréciation des créances sur les assurés et les intermédiaires d’assurance,
+comme suit :
+ Les créances sur les assurés (siège et succursales) sont provisionnées, selon leur
+ancienneté, aux taux suivants :
+N-2 et antérieures 100%
+N-1 20%
+N 0%
+ Les créances sur les intermédiaires sont provisionnées, le cas échéant, en totalité ;
+ Les créances contentieuses, les chèques et les effets impayés sont provisionnés en
+totalité ;
+ Déduction des encaissements intervenus 2 mois après la date de clôture de période
+comptable, à condition qu’il s’agisse de créances totalement provisionnées.
+6-4. Provisions techniques
+6-4-1. Provisions mathématiques
+Les provisions mathématiques correspondent, à la date d’inventaire, à la différence entre la
+valeur actuelle des engagements respectivement pris par l’assureur et par les assurés.
+Elles sont déterminées contrat par contrat, conformément aux notes techniques certifiées par
+un actuaire, et dans le respect des dispositions de l’article 5 (nouveau) de l’arrêté du Ministre
+des Finances du 27 février 2001, tel que modifié et complété par les textes subséquents,
+notamment par l’arrêté du Ministre des Finances du 5 janvier 2009.
+Utilisant la méthode prospective, les PM sont calculées par la différence entre la valeur
+actuelle probable des engagements techniques de GAT Vie (paiement des prestations futures
+et frais associés) et la valeur actuelle probable des engagements de l’assuré (paiement des
+primes futures). Elles comprennent également la valeur actuarielle estimée des engagements
+de GAT Vie y compris les participations aux bénéfices déjà allouées et déduction faite de la
+valeur actuarielle des primes futures.
+6-4-2. Provisions pour sinistres à payer
+Ces provisions correspondent au montant estimé de la dette de la société GAT envers les
+assurés/ bénéficiaires au titre des sinistres survenus, rachats et arrivées à échéance déclarés
+jusqu’à la date de clôture des états financiers mais non encore réglés à cette date. Elle est
+évaluée dossier par dossier. Elle tient compte également des sinistres survenus mais non
+déclarés à la date de clôture du bilan (sinistres tardifs ou IBNR) conformément à l’article 21
+de l’arrêté du Ministre des Finances du 27 février 2001 tel que modifié et complété par les
+textes subséquents.
+Les provisions pour sinistres à payer comportent trois types de sinistres restant à payer :
+ Les sinistres dont l'évaluation est définitive, connue et pour lesquels il ne demeure que
+le mouvement de trésorerie à générer ;
+ Les sinistres pour lesquels l'évaluation n'est pas définitive et ayant fait ou non l'objet
+de règlements partiels ;
+ Les sinistres survenus antérieurement à la clôture mais dont la survenance n'a pas été
+portée, à cette date, à la connaissance de la société. Il s'agit des sinistres tardifs (IBNR) ;
+Enfin, une majoration de 5% est appliquée pour frais des gestions des sinistres.
+6-4-3. Provisions pour participation aux bénéfices et ristourne
+Ces provisions sont comptabilisées au titre des participations bénéficiaires dues et non encore
+versées aux bénéficiaires des contrats.
+Selon l’article 8 du code des assurances le montant de la participation aux bénéfices est défini
+comme suit : "Le montant de la participation aux bénéfices technique et financiers est
+déterminé eu égard aux obligations réglementaires et/ou contractuelles ou alors résulte d’une
+décision de la gestion prise par l’entreprise à condition que le taux de la participation des
+assurés aux bénéfices ne soit inférieur à 70% du montant de ces bénéfices.".
+Pour GAT Vie, la provision pour participation aux bénéfices est déterminée par la différence
+positive entre les provisions mathématiques (PM) calculées selon le taux de participation aux
+bénéfices distribué de l’année N-1 et les PM calculées avec le taux minimum garanti de
+l’année de calcul.
+6-4-4. Réserve de stabilité
+Dans le cadre du contrat conclu avec la société Tunisair, la société GAT Vie est tenue de
+constituer une provision technique spécifique dénommée "réserve de stabilité".
+Conformément aux stipulations contractuelles, cette réserve a pour objet de compenser les
+résultats techniques des exercices successifs relatifs aux garanties Décès et Perte de licence.
+A ce titre :
+ La réserve de stabilité est alimentée par le solde créditeur du compte de résultat
+technique afférent aux garanties Décès et Perte de licence ;
+ La réserve de stabilité est utilisée pour apurer tout solde débiteur du même compte de
+résultat technique ;
+ La dotation à cette réserve est effectuée jusqu’à ce que son montant atteigne 40% des
+cotisations perçues au titre des garanties Décès, Perte de licence et Assurance-vie pour
+l’exercice considéré ;
+ Une fois ce plafond atteint, le surplus est affecté au fonds collectif, conformément aux
+dispositions contractuelles.
+Aux fins de la présentation bilancielle, la réserve de stabilité est classée parmi les provisions
+techniques et fait l’objet d’une évaluation à la clôture de chaque exercice en fonction des
+résultats techniques dégagés par les garanties concernées et des règles de plafonnement
+prévues par le contrat.
+6-4-5. Provisions des contrats en unités de compte
+Ces provisions représentent l’engagement de la société envers les assurés ayant souscrit des
+contrats en unités de compte, dont les prestations sont directement liées à l’évolution de
+supports d’investissement sous-jacents (OPCVM ou autres actifs financiers).
+Elles sont évaluées à la valeur des actifs servant de référence à ces unités de compte à la date
+de clôture.
+6-4-6. Provision d’égalisation
+Elle comprend tous les montants qui sont provisionnés conformément aux dispositions légales
+et réglementaires permettant d’égaliser les fluctuations des taux de sinistres pour les années à
+venir ou de couvrir des risques spéciaux.
+Pour GAT Vie, la provision d’égalisation est égale à 5% de la prime décès relative à la
+garantie décès des contrats de prévoyance collective.
+6-4-7. Provisions pour frais de gestion
+La méthode de calcul des provisions pour frais de gestion s’inscrit dans le cadre des règles
+prudentielles applicables aux compagnies d’assurance, notamment celles définies par le
+Comité Général des Assurances.
+La provision pour frais de gestion vise à couvrir les charges futures de gestion des contrats
+(administration, encaissement des primes, règlement des sinistres, etc.) non couvertes par les
+chargements futurs.
+Pour GAT Vie, la méthode est généralement prospective et repose sur :
+ Identification des flux de frais
+ Frais réels : coûts effectivement supportés (gestion, administration, etc.)
+ Frais contractuels : frais prévus/chargés dans les contrats
+ Calcul du différentiel de frais pour chaque produit
+ Différentiel = Frais réels – Frais contractuels
+ Seuls les différentiels positifs sont retenus (si les frais réels > frais contractuels)
+ Détermination de la durée restante par produit
+ Détermination de la durée de projection (durée de vie restante du produit ou
+des contrats) ;
+ Calcul pour chaque produit
+ Multiplication du différentiel positif par la durée de projection.
+6-4-8. Dérogations relatives aux provisions techniques
+Par dérogation aux dispositions de l’arrêté du Ministre des Finances du 27 février 2001, fixant
+la liste et le mode de calcul des provisions techniques ainsi que les conditions de leur
+représentation, tel que modifié et complété par les textes subséquents, ainsi qu’aux
+dispositions de la norme comptable NCT 29 relative aux provisions techniques, la société n’a
+pas procédé au calcul de la provision pour risque d’exigibilité des engagements techniques.
+Cette provision correspond à la différence négative éventuelle, constatée pour les placements,
+entre leur valeur de marché globale et leur valeur comptable nette.
+L’absence d’un marché actif notamment pour les placements immobiliers rend difficile la
+détermination de cette provision de manière fiable.
+6-5. Revenus
+Les revenus sont constitués par les produits provenant des activités techniques et financières
+qui s’inscrivent dans le cadre de l’exploitation centrale et permanente.
+Les primes relatives aux contrats d’assurance vie sont comptabilisées en produits lors de leur
+émission, conformément aux dispositions contractuelles applicables. A la date de clôture,
+elles font l’objet, le cas échéant, d’une régularisation destinée à rattacher à l’exercice
+uniquement la fraction des primes acquise, la part afférente aux périodes postérieures étant
+constatée en primes non acquises.
+6-6. Charges par destination
+Les charges de gestion sont présentées selon leur destination et non selon leur nature. Le
+passage d’une comptabilité par nature à une comptabilité par destination est effectué au
+moyen de clés de répartition prédéfinies, déterminées en fonction de l’analyse des charges
+concernées.
+Le paragraphe 18 de la norme NCT 26 relative à la présentation des états financiers des
+entreprises d’assurance et/ou de réassurance distingue les cinq destinations suivantes :
+ Les frais de gestion des sinistres : ils correspondent aux frais internes et externes
+engagés pour la gestion des sinistres. Ils comprennent notamment les frais de
+personnel, ainsi que la quote-part des loyers, amortissements du mobilier et matériel
+affectés à cette activité ;
+ Les frais d’acquisition : ils regroupent les frais internes et externes occasionnés par la
+conclusion des contrats d’assurance, ainsi que, d’une manière générale, les frais liés à
+l’ouverture des dossiers et à l’admission des contrats dans le portefeuille ;
+ Les frais d’administration : ils correspondent aux frais internes et externes relatifs à
+la gestion des contrats en portefeuille, notamment les frais d’encaissement des primes
+et d’administration du portefeuille ;
+ Les frais de gestion des placements : ils comprennent les charges engagées pour la
+gestion des placements, notamment les honoraires, commissions et courtages versés
+aux intermédiaires ;
+ Les autres charges techniques : elles correspondent aux charges qui, à titre
+exceptionnel, ne peuvent être affectées à l’une des destinations précitées.
+Le choix des clés de répartition permettant l’affectation des charges par nature aux différentes
+destinations est effectué sur la base d’une analyse appropriée de chaque catégorie de charges.
+Parmi les clés retenues, figurent notamment :
+Nature de la charge Clé de répartition
+Frais de personnel et charges connexes Temps de travail effectif
+Frais généraux Masse salariale ou nombre de dossiers
+Taxes sur le chiffre d’affaires Chiffre d’affaires par produit
+Amortissements Selon le cas
+Pour les charges affectables directement à une destination bien définie, le déversement se fait
+sans application de clés.
+6-7. Affectation des produits nets des placements
+Les produits et les charges de placements sont considérés comme des éléments de l’état de
+résultat technique de l’assurance pour l’exercice clos le 31 décembre 2025. Une partie des
+produits de placements nets de charges est alloué à l’état de résultat.
+Les actifs de GAT Vie étant cantonnés par type de produits commercialisés, le revenu à
+allouer aux capitaux propres est déterminé sur la base des produits nets générés par les actifs
+dédiés à chaque cantonnement.
+6-8. Frais d’acquisition reportés
+Les frais d’acquisition des contrats, incluant notamment les commissions d’acquisition et les
+frais internes liés à l’établissement des contrats, sont répartis sur la durée de vie des contrats.
+6-9. Avantages au personnel
+Les avantages consentis au personnel (y compris les dirigeants) de la société GAT Vie sont
+classés en deux catégories :
+ Les avantages à court terme tels que les salaires, les congés annuels, les primes, les
+indemnités et enveloppes ainsi que les cotisations de sécurité sociale liées aux régimes
+des prestations familiales, d’assurance sociale, d’assurance maladie, de réparation des
+préjudices résultant des accidents de travail et des maladies professionnelles et de la
+contribution au fonds d'assurance contre la perte d'emploi pour des motifs
+économiques instituée par l’article 17 de la loi n° 2024-48 du 9 décembre 2024 portant
+loi de finances pour l’année 2025 ;
+ Les avantages postérieurs à l’emploi, constitués notamment des cotisations aux
+régimes de retraite de base et de retraite complémentaire, ainsi que des engagements à
+prestations définies institués au profit du personnel en propre assureur. Ces
+engagements comprennent un capital à servir au titre de la retraite complémentaire,
+une indemnité de fidélisation équivalente à huit (8) mois de salaires et une indemnité
+de départ à la retraite équivalente à quatre (4) mois de salaires.
+6-9-1. Avantages à court terme
+La société GAT Vie comptabilise une charge lorsqu’elle a utilisé les services rendus par les
+membres du personnel en contrepartie des avantages qui leur ont été consentis.
+6-9-2. Avantages postérieurs à l’emploi
+La société GAT Vie distingue les régimes à cotisations définies et les régimes à prestations
+définies.
+Les régimes qualifiés de "régimes à cotisations définies" ne sont pas représentatifs d’un
+engagement pour la société et ne font l’objet d’aucune provision. Le montant des cotisations
+appelées pendant l’exercice est constaté en charges.
+Seuls les régimes qualifiés de "régimes à prestations définies" sont représentatifs d’un
+engagement à la charge de la société nécessitant évaluation et provisionnement.
+Le classement dans l’une ou l’autre de ces catégories s’appuie sur la substance économique
+du régime pour déterminer si la société est tenue ou pas, par les clauses d’une convention ou
+par une obligation implicite, d’assurer les prestations promises aux membres du personnel.
+S’agissant des avantages postérieurs à l’emploi à prestations définies, et dès lors qu’ils sont
+gérés en propre assureur, les engagements correspondants sont comptabilisés parmi les
+provisions mathématiques.
+6-10. Impôt sur les bénéfices
+La charge d’impôt sur les bénéfices, comptabilisée par la société GAT Vie, correspond à celle
+exigible en vertu de l’application des règles de détermination du bénéfice imposable.
+L’incidence des décalages temporaires entre la valeur comptable des actifs et passifs de la
+société et leur base fiscale n’est pas ainsi, prise en compte.
+Au niveau de l’état de résultat, la rubrique "CHNT4 – Impôts sur le résultat" accueille
+exclusivement la charge courante relative à l’impôt sur les sociétés.
+La contribution sociale de solidarité, instituée par l’article 53 de la loi n°2017-66 du 18
+décembre 2017, ainsi que la contribution au compte de diversification des sources de
+sécurité sociale, instituée par l’article 20-7° de la loi n°2025-17 du 12 décembre 2025, bien
+qu’assimilables, en substance, à des impositions assises sur le résultat, sont présentées dans la
+rubrique "CHNT5 – Pertes extraordinaires", et ce, pour des considérations de
+comparabilité avec les pratiques de présentation retenues par le secteur des assurances.
+6-11. Résultat de base par action
+Le résultat de base par action a pour objectif de mesurer la quote-part de résultat revenant à
+chaque action ordinaire en circulation au cours de l’exercice.
+Il est déterminé en rapportant le résultat net attribuable aux porteurs d’actions ordinaires au
+nombre moyen pondéré d’actions ordinaires en circulation durant la période.
+Le nombre moyen pondéré d’actions ordinaires correspond au nombre d’actions en circulation au
+début de l’exercice, diminué le cas échéant des actions propres, puis ajusté des émissions ou
+remboursements d’actions intervenus au cours de la période, en fonction de leur durée de
+détention.
+Le facteur de pondération est déterminé sur la base du nombre de jours pendant lesquels les
+actions ont été en circulation rapporté au nombre total de jours de l’exercice. Une approximation
+raisonnable de cette moyenne pondérée peut toutefois être retenue lorsque celle-ci n’a pas
+d’incidence significative.
+Les actions ordinaires sont prises en compte à compter de la date à laquelle la contrepartie devient
+exigible ou recouvrable, généralement la date d’émission, compte tenu des modalités d’émission
+et de la substance économique de tout contrat associé.
+En cas d’émission d’actions gratuites, le nombre d’actions ordinaires en circulation est augmenté
+sans apport de ressources nouvelles. Dans ce cas, le nombre d’actions ordinaires en circulation
+avant l’opération est ajusté rétrospectivement, comme si l’événement était intervenu à l’ouverture
+de la première période présentée.
+Note 7. Notes relatives au bilan :
+7-1. Actifs incorporels et corporels d’exploitation
+Les actifs incorporels de GAT Vie présentent, au 31 décembre 2025, une valeur brute de
+1.383.634 DT. Les amortissements cumulés s’élèvent à 1.254.422 DT, soit une valeur nette
+comptable de 129.212 DT contre 232.129 DT au 31 décembre 2024.
+Les actifs corporels d’exploitation présentent, à la clôture de l’exercice 2025, une valeur brute
+de 902.217 DT. Les amortissements cumulés s’élèvent à 607.832 DT, dégageant ainsi une
+valeur nette comptable de 294.385 DT, contre 401.590 DT au 31 décembre 2024.
+Le tableau ci-après présente, au 31 décembre 2025, le détail des actifs incorporels et corporels
+d’exploitation ainsi que les amortissements cumulés y afférents :
+Investissements Agencements Matériels et
+Développements Matériels de Matériels Matériel Œuvres
+de et équipements de Total
+en cours transport informatiques d'exploitation d'arts
+développement aménagements bureau
+Coût d'acquisition
++ En début de l'exercice (α) 1 670 782 - 244 726 387 630 135 273 31 426 66 419 28 585 2 564 841
++ Acquisitions 33 580 30 934 5 118 - - - 3 040 - 72 672
++ Autres ajouts 90 671 - - - - - - - 90 671
+- Sorties (442 333) - - - - - - - (442 333)
+A la clôture de l'exercice (1) 1 352 700 30 934 249 844 387 630 135 273 31 426 69 458 28 585 2 285 851
+Amortissement
++ En début de l'exercice (β) 1 438 653 - 160 316 232 791 37 439 30 884 31 040 - 1 931 122
++ Dotation de l'exercice 5 980 - 25 490 67 526 12 553 96 9 699 - 121 343
++ Régularisations sur autres ajouts 90 671 - - - - - - - 90 671
+- Régularisations sur Sorties (280 882) - - - - - - - (280 882)
+A la clôture de l'exercice (2) 1 254 422 - 185 806 300 317 49 992 30 979 40 739 - 1 862 254
+VNC au 31/12/2025 [(1)-(2)] 98 278 30 934 64 038 87 314 85 282 446 28 720 28 585 423 597
+VNC au 31/12/2024 [(α)-(β)] 232 129 - 84 410 154 840 97 834 542 35 379 28 585 633 720
+(a) (b) (c) (d) (e) (f) (g) (h)
+31/12/2025 31/12/2024
+Actifs inorporels [(a)+(b)] 129 212 232 129
+Actifs corporels d'exploitation [(c)+(d)+(e)+(f)+(g)+(h)] 294 385 401 590
+423 597 633 720
+7-2. Placements
+Le portefeuille de placements de GAT Vie s’élève, au 31 décembre 2025, à un montant net de
+372.437.038 dinars, contre 303.391.178 dinars au 31 décembre 2024, enregistrant ainsi une
+progression de 23%.
+La répartition du portefeuille de placements se présente comme suit :
+31/12/2025 31/12/2024
+Désignation
+Brut Provisions Net Brut Provisions Net
+Placements immobiliers (1) 12 058 765 - 12 058 765 6 714 665 - 6 714 665
+Terrains & constructions hors exploitation 5 344 100 - 5 344 100 - - -
+Parts et actions de sociétés immobilères non cotées 6 714 665 - 6 714 665 6 714 665 - 6 714 665
+Autres placements (2) 360 947 154 568 880 360 378 273 297 236 519 560 006 296 676 513
+Bon de trésor assimilables 56 825 150 - 56 825 150 46 876 163 - 46 876 163
+Obligations 65 201 000 - 65 201 000 65 326 000 - 65 326 000
+Compte à terme et certificats de dépôts 176 565 164 - 176 565 164 144 501 368 - 144 501 368
+Billets de trésorerie 29 685 29 685 - 29 685 29 685 -
+Actions et titres cotés 13 152 307 94 833 13 057 475 15 220 158 113 760 15 106 398
+Actions et parts d'OPCVM 43 742 512 22 513 43 719 999 20 547 194 1 329 20 545 865
+Actions et titres non cotés 1 763 690 408 740 1 354 950 1 759 290 410 231 1 349 059
+Avances sur contrats d'assurance vie 3 553 880 6 500 3 547 380 2 965 233 - 2 965 233
+Prêts au personnel 113 764 6 609 107 155 11 428 5 000 6 428
+Total (1)+(2) 373 005 918 568 880 372 437 038 303 951 184 560 006 303 391 178
+7-3. Actifs représentant les contrats en unités de compte
+Ce poste présente, au 31 décembre 2025, un solde net de 6.670.568 DT, contre 7.858.906 DT
+au 31 décembre 2024, soit une baisse de 15%.
+Cette diminution s’explique principalement par l’évolution de la valeur des supports
+financiers adossés aux contrats en unités de compte ainsi que par les mouvements intervenus
+sur ces contrats au cours de l’exercice. Le détail de ce poste se présente comme suit :
+Désignation 31/12/2025 31/12/2024
+Titres FCP représentant les contrats UC (1) 3 433 350 3 065 610
+FCP GAT VIE CROISSANCE 2 234 738 1 979 669
+FCP GAT VIE MODERE 1 198 612 1 085 941
+Autres actifs supports des contrats UC (2) 3 237 218 4 793 297
+Bon de trésor assimilables 1 377 000 1 104 238
+Obligations 1 859 000 1 554 000
+Compte à terme - 1 995 204
+Autres actions et parts d'OPCVM 1 218 139 855
+Total (1) + (2) 6 670 568 7 858 906
+7-4. Part des réassureurs dans les provisions techniques
+Il s’agit de la part des provisions techniques mise à la charge des réassureurs. Ce poste
+comprend notamment les provisions mathématiques cédées aux réassureurs ainsi que leur
+quote-part dans les provisions pour sinistres à payer.
+Au 31 décembre 2025, ce poste s’élève à 2.336.927 DT, contre 2.302.944 DT au titre de
+l’exercice précédent.
+7-5. Créances
+Cette rubrique figure au bilan arrêté au 31 décembre 2025 pour un montant net de 21.909.458 DT,
+contre 18.051.219 DT au 31 décembre 2024. Elle se détaille comme suit :
+31/12/2025 31/12/2024
+Désignation
+Brut Provisions Net Brut Provisions Net
+Créances nées d’opérations d’assurances directes 1 396 101 107 062 1 289 040 2 586 998 273 652 2 313 346
+Créances nées d’opérations de réassurances 3 158 597 646 342 2 512 254 2 586 246 387 805 2 198 441
+Etat et organismes de sécurité sociale 18 236 312 144 200 18 092 112 13 506 116 - 13 506 116
+Débiteurs divers 102 457 86 406 16 051 33 317 - 33 317
+Total (1)+(2) 22 893 467 984 009 21 909 458 18 712 677 661 458 18 051 219
+ Créances nées d’opérations d’assurance : Cette rubrique regroupe les créances
+détenues par la société sur ses assurés. Ces créances représentent 1% du chiffre
+d’affaires de l’exercice 2025, contre 3% en 2024 ;
+ Créances nées d’opérations de réassurance : Ce poste correspond au solde net
+résultant des opérations de cession et d’acceptation en réassurance. Il présente un
+solde de 2.512.254 DT au 31 décembre 2025, contre 2.198.441 DT en 2024 ;
+ État, organismes sociaux et collectivités publiques : Ce poste comprend les créances
+de la société envers l’État, constituées notamment des retenues à la source opérées au
+titre des revenus des capitaux mobiliers ;
+ Débiteurs divers : Ce poste regroupe, essentiellement, les avances aux fournisseurs. Il
+totalise à la clôture de l’exercice 2025, un solde net de provisions de 16.051 dinars,
+contre 33.317 DT au titre de l’exercice précédent.
+7-6. Autres éléments d'Actif
+Cette rubrique totalise, au 31 décembre 2025, un montant net de 19.809.941 DT, contre
+19.535.295 DT au 31 décembre 2024. Elle se détaille comme suit :
+Désignation 31/12/2025 31/12/2024
+Avoirs en banques, CCP, chèques et caisse 7 244 276 8 667 614
+Comptes de régularisation 12 565 666 10 867 682
+Total 19 809 941 19 535 295
+Les comptes de régularisation correspondent principalement aux produits acquis à la clôture
+de l’exercice mais non encore échus, ainsi qu’aux autres charges et produits constatés
+d’avance ou à recevoir. Ils se présentent comme suit :
+Désignation 31/12/2025 31/12/2024
+Intérêts acquis et non échus 7 845 789 6 378 085
+Autres comptes de régularisation 4 719 876 4 489 597
+Total 12 565 666 10 867 682
+7-7. Capitaux propres
+Le total des capitaux propres de la société, avant affectation du résultat, s’élève au 31
+décembre 2025 à 30.962.325 DT contre 25.736.203 DT au 31 décembre 2024.
+Le tableau de variation des capitaux propres se présente comme suit :
+Réserves Réserve pour Autres
+Capital Réserves Réserves Résultats Résultat de
+pour fonds Réinvestissements capitaux Total
+social légales facultatives reportés l'exercice
+social exonérés propres
+Soldes au 31 Décembre 2023 7 000 000 700 000 213 511 381 990 2 499 019 443 314 6 750 559 4 383 549 22 371 943
+Affectations décidées par l'AGO du 14 juin 2024 50 000 1 500 000 1 083 549 (2 633 549) -
+Dividendes décidés par l'AGO du 14 juin 2024 (1 750 000) (1 750 000)
+Mouvements nets du fonds social (11 319) (11 319)
+Résultat net de l'exercice 2024 5 125 580 5 125 580
+Soldes au 31 Décembre 2024 7 000 000 700 000 213 511 420 670 3 999 019 443 314 7 834 109 5 125 580 25 736 203
+Affectations décidées par l'AGO du 30 mai 2025 50 000 1 800 000 1 175 580 (3 025 580) -
+Dividendes décidés par l'AGO du 30 mai 2025 (2 100 000) (2 100 000)
+Mouvements nets du fonds social 27 066 27 066
+Résultat net de l'exercice 2025 7 299 055 7 299 055
+Soldes au 31 Décembre 2025 7 000 000 700 000 213 511 497 736 5 799 019 443 314 9 009 689 7 299 055 30 962 325
+7-8. Provisions pour autres risques et charges
+Les provisions pour risques et charges constituées au 31 décembre 2025 s’élèvent à 2.689.825 DT,
+contre 1.467.079 DT au 31 décembre 2024, soit une augmentation de 1.222.746 DT.
+Ces provisions, de nature non technique, correspondent aux risques et charges identifiés à la date
+de clôture, dont l’échéance ou le montant demeure incertain, mais dont la réalisation est probable
+ou estimée sur la base des éléments disponibles.
+Elles se détaillent comme suit :
+Désignation 31/12/2025 31/12/2024
+Provision pour risque fiscal 2 096 961 1 362 711
+Autres provisions pour passifs et charges 592 864 104 368
+Total 2 689 825 1 467 079
+7-9. Provisions techniques brutes
+Au 31 décembre 2025, les provisions techniques brutes hors UC totalisent 372.814.856 DT
+contre 310.933.412 DT au 31 décembre 2024, détaillés comme suit :
+Désignation 31/12/2025 31/12/2024
+Provisions mathématiques 347 337 685 293 987 633
+Provisions pour sinistres à payer 15 100 359 7 925 667
+Provisions pour participation aux bénéfices 5 629 866 4 237 842
+Autres provisions techniques 4 746 946 4 782 270
+Total 372 814 856 310 933 412
+7-9-1. Provisions mathématiques
+Les provisions mathématiques ont enregistré une progression de 18%, passant de 293.987.633 DT
+au 31 décembre 2024 à 347.337.685 DT au 31 décembre 2025.
+Cette évolution traduit principalement l’accroissement des engagements de la société au titre
+des contrats d’assurance vie en portefeuille.
+La ventilation des provisions mathématiques par catégorie se présente comme suit :
+Désignation 31/12/2025 31/12/2024
+Contrats Mixte 184 597 134 150 038 617
+Contrats Epargne 144 330 676 125 962 028
+Contrats Décès 18 409 875 17 986 988
+Total 347 337 685 293 987 633
+7-9-2. Provisions pour sinistres à payer
+Les sinistres en instance de paiement s’élèvent, au 31 décembre 2025, à 15.100.359 DT,
+contre 7.925.667 DT au 31 décembre 2024.
+Il est précisé que les provisions pour sinistres à payer sont majorées des frais de gestion
+susceptibles d’être engagés lors du règlement desdits sinistres.
+La ventilation des sinistres en instance de paiement par catégorie d’assurance, au 31 décembre
+2025, se présente comme suit :
+Désignation 31/12/2025 31/12/2024
+Contrats Mixte 2 142 296 1 750 843
+Contrats Epargne 10 070 276 3 689 374
+Contrats Décès 2 887 787 2 485 450
+Total 15 100 359 7 925 667
+7-9-3. Provisions pour participation aux bénéfices
+Au 31 décembre 2025, la provision pour participation aux bénéfices s’élève à 5.629.866 DT,
+contre 4.237.842 DT au titre de l’exercice précédent.
+7-9-4. Autres provisions techniques
+Ce poste présente, au titre de l’exercice clos le 31 décembre 2025, un solde de 4.746.946 DT,
+contre 4.782.270 DT au 31 décembre 2024.
+Il comprend principalement :
+ Les réserves de stabilité des contrats collectifs, qui s’élèvent à 1.381.649 DT au 31
+décembre 2025, contre 1.446.301 DT au 31 décembre 2024 ;
+ Les provisions pour frais de gestion, qui s’élèvent à 3.236.636 DT au 31 décembre
+2025, contre 3.270.924 DT au 31 décembre 2024.
+7-10. Provisions des Contrats en Unité de Compte
+Les provisions mathématiques relatives aux contrats en unités de compte s’élèvent, au 31
+décembre 2025, à 6.670.158 DT, contre 7.858.748 DT au 31 décembre 2024, enregistrant
+ainsi une baisse de 15%.
+Les actifs représentatifs des unités de compte présentent, quant à eux, un montant net de
+6.670.568 DT au 31 décembre 2025, contre 7.858.906 DT au 31 décembre 2024.
+7-11. Dettes pour dépôts reçus des réassureurs
+Les dettes pour dépôts reçus des réassureurs s’élèvent, au 31 décembre 2025, à 2.336.927 DT,
+contre 2.302.944 DT au 31 décembre 2024.
+Ce poste correspond aux montants retenus par la société au titre des dépôts de garantie liés
+aux opérations de réassurance. Il représente, en substance, la quote-part des réassureurs dans
+les provisions techniques, notamment les provisions mathématiques et les provisions pour
+sinistres à payer, conservée par la cédante conformément aux dispositions contractuelles des
+traités de réassurance.
+Ces dépôts visent à sécuriser les engagements des réassureurs et sont restitués ou ajustés en
+fonction de l’évolution des engagements techniques sous-jacents.
+7-12. Autres Dettes
+Les autres dettes de la société s’élèvent, au 31 décembre 2025, à 7.095.949 DT, contre
+2.836.979 DT au 31 décembre 2024. Outre les autres dettes nées d’opérations d’assurance
+directe, ce poste comprend les dettes envers le personnel, les dettes fiscales et sociales, les
+créditeurs divers et les concours bancaires :
+ Autres dettes nées d'opérations d'assurance directe :
+Ce poste, présent au 31 décembre 2024 pour un montant de 63.277 DT, accuse un
+solde nul au 31 décembre 2025.
+ Personnel :
+Ce poste comprend les dettes envers le personnel, principalement constituées des
+provisions pour congés à payer et des autres charges salariales à payer. Il présente un
+solde de 404.375 DT au 31 décembre 2025 ;
+ État, organismes de sécurité sociale et collectivités publiques :
+Ce poste regroupe les dettes fiscales et sociales de la société. Il s’élève à 1.313.919 DT
+au 31 décembre 2025, contre 806.144 DT au titre de l’exercice précédent ;
+ Créditeurs divers :
+Cette rubrique présente un solde de 5.098.062 DT au 31 décembre 2025, contre
+1.966.150 DT au 31 décembre 2024. Elle comprend notamment le compte courant de
+GAT Assurances, qui présente un solde créditeur de 1.453.450 DT au 31 décembre
+2025, contre 989.103 DT au titre de l’exercice précédent ainsi que les effets à payer au
+fournisseur du terrain acquis en 2025 pour 2.768.656 DT ;
+ Concours bancaires :
+Ce poste présente un solde de 279.594 DT au 31 décembre 2025, contre 1.409 DT au
+31 décembre 2024.
+7-13. Autres Passifs
+Les autres passifs sont constitués des comptes de régularisation du passif. Ils s’élèvent, au 31
+décembre 2025, à 1.017.489 DT, contre 637.896 DT au 31 décembre 2024.
+Ce poste comprend principalement les produits constatés d’avance sur placements ainsi que
+les charges à payer constatées à la clôture de l’exercice, y compris les intérêts courus sur
+sinistres à payer aux assurés conformément à l’article 10 du code des assurances.
+Note 8. Notes relatives à l’état de résultat technique de l’assurance vie :
+8-1. Primes émises
+Les primes émises, nettes d’annulations, s’élèvent, au titre de l’exercice 2025, à 89.649.225 DT,
+contre 72.354.649 DT au titre de l’exercice précédent, soit une progression significative.
+Les primes cédées au titre de l’exercice 2025 s’élèvent à 799.122 DT, contre 690.585 DT en 2024.
+La ventilation comparative du chiffre d’affaires, correspondant aux primes émises nettes
+d’annulations, par catégorie d’assurance, au titre des exercices 2025 et 2024, se présente
+comme suit :
+Exercice Exercice Taux
+Désignation
+2025 2024 d'Evolution
+Contrats Mixte 46 471 404 41 343 064 12%
+Contrats Epargne 36 210 537 24 041 197 51%
+Contrats Décès 4 758 994 5 285 881 (10%)
+Contrats en Unité de Compte 2 208 289 1 684 507 31%
+Total 89 649 225 72 354 649 24%
+8-2. Produits des placements
+Au titre de l’exercice 2025, les produits bruts des placements s’élèvent à 34.909.480 DT,
+tandis que les charges de placements s’établissent à 809.755 DT.
+Le revenu net des placements ressort ainsi à 34.099.725 DT, contre 26.168.061 DT au titre de
+l’exercice précédent, traduisant une progression de 30,3%.
+8-3. Plus-values non réalisées sur placements
+Les plus-values non réalisées sur placements correspondent aux gains latents constatés à la
+suite de la mise à jour de la valeur des titres FCP mixtes servant de supports aux contrats en
+unités de compte.
+Ces gains traduisent l’augmentation de la valeur des actifs sous-jacents à la date d’évaluation,
+sans qu’ils aient été concrétisés par une cession effective des titres concernés. Ils reflètent
+ainsi l’évolution favorable de la valeur liquidative des supports financiers adossés aux
+contrats en unités de compte.
+Au titre de l’exercice 2025, les plus-values non réalisées sur placements s’élèvent à 495.925 DT,
+contre 305.544 DT au titre de l’exercice précédent.
+8-4. Charges sinistres
+La charge de sinistres comprend, outre les montants réglés aux assurés et aux bénéficiaires
+des contrats, les frais de gestion liés au traitement des sinistres ainsi que la variation des
+sinistres en instance de paiement à la clôture de l’exercice.
+Au titre de l’exercice 2025, GAT Vie a enregistré une charge de sinistres nette de réassurance
+de 51.834.271 DT, contre 29.068.301 DT au titre de l’exercice précédent. Cette charge
+représente 57,8% du chiffre d’affaires, contre 40,2% en 2024.
+La part des réassureurs dans les prestations payées s’élève à 653.441 DT en 2025, contre
+919.957 DT au titre de l’exercice précédent.
+En brut, la charge sinistres s’élève, en 2025 à 52.487.712 DT contre 29.988.258 DT en 2024.
+Elle peut être détaillée comme suit :
+Exercice Exercice
+Désignation
+2025 2024
+Montants Payés (1) 45 313 020 26 622 549
+Prestations payées (a) 43 966 618 26 068 411
+Frais de gestion des sinistre (b) 1 346 402 554 138
+Variation de la provision pour sinistres (2) 7 174 692 3 365 709
+Total (1) + (2) 52 487 712 29 988 258
+(a) La ventilation des prestations payées brutes, hors frais de gestion, par catégorie
+d’assurance, au titre des exercices 2025 et 2024, se présente comme suit :
+Exercice Exercice Taux
+Désignation
+2025 2024 d'Evolution
+Contrats Mixte 25 798 888 12 606 499 105%
+Contrats Epargne 16 664 613 12 577 295 32%
+Contrats Décès 1 501 880 884 617 70%
+Contrats en Unités de Compte 1 237 - 100%
+Total 43 966 618 26 068 411 69%
+(b) Les frais de gestion des sinistres découlent du déversement issu du tableau de passage des
+charges par nature aux charges par destination (Cf. note 8-7 ci-dessous).
+8-5. Variation des autres provisions techniques
+Ce poste s’élève, en net de cession en réassurance, au titre de l’exercice 2025, à 53.518.162 DT,
+contre 57.010.559 DT au titre de l’exercice 2024, enregistrant ainsi une baisse de 3.492.397 DT,
+soit 6,1%.
+La ventilation de ce poste par catégorie de contrats se présente comme suit :
+Exercice Exercice
+Désignation
+2025 2024
+Contrats Mixte 32 792 226 31 295 599
+Contrats Epargne 21 060 371 22 930 161
+Contrats Décès 854 816 1 658 234
+Contrats en Unité de Compte (1 188 590) 1 126 565
+Total 53 518 822 57 010 559
+8-6. Participation aux bénéfices et ristournes
+La participation aux bénéfices et ristournes payées au titre de l’exercice 2025 s’élèvent, en
+brut, à 30.331 DT, contre 64.803 DT au titre de l’exercice précédent.
+8-7. Frais d’exploitation
+Les frais d’exploitation s’élèvent, avant prise en compte des cessions en réassurance, à
+5.052.104 DT au titre de l’exercice 2025, contre 3.463.364 DT en 2024, soit une
+augmentation de 46%. Ils représentent 6% du chiffre d’affaires de l’exercice.
+La répartition des charges par nature entre les différentes destinations prévues par la NCT 26
+est effectuée par application des clés de déversement décrites à la note 6-6 ci-avant.
+Les frais d’exploitation se répartissent, avant prise en compte des cessions en réassurance,
+comme suit :
+ Les frais d’acquisition : ils correspondent aux frais engagés pour la conclusion des
+contrats d’assurance. Ils comprennent les frais directement imputables, notamment les
+commissions d’acquisition, les frais d’ouverture des dossiers et d’admission des
+contrats en portefeuille, ainsi que les frais indirectement imputables, tels que les frais
+de publicité et les frais administratifs liés à l’établissement des contrats. Ils incluent
+également les frais de personnel, la quote-part des loyers et les amortissements du
+mobilier et du matériel affectés à cette activité.
+Les frais d’acquisition s’élèvent, au titre de l’exercice 2025, à 4.064.633 DT, contre
+2.424.355 DT au titre de l’exercice précédent.
+ Les frais d’administration : ils correspondent aux frais internes et externes liés à la
+gestion des contrats en portefeuille. Ils comprennent notamment les frais
+d’encaissement des primes, les frais d’administration du portefeuille, les frais de
+personnel, la quote-part des loyers ainsi que les amortissements du mobilier et du
+matériel affectés à cette activité.
+Les frais d’administration s’élèvent, au titre de l’exercice 2025, à 987.472 DT, contre
+1.039.009 DT au titre de l’exercice précédent.
+Le tableau de passage des charges par nature aux charges par destination, au titre de l’exercice
+2025, se présente comme suit :
+Charges par destination
+Charges par nature Frais Frais Gestion des Gestion des Charges Total
+d'acquisition d'administration sinistres placements techniques
+Charges de personnel et avantages assimilés 908 582 284 690 864 210 - 865 088 2 922 570
+Diverses Charges 569 515 31 971 86 296 434 106 370 482 1 492 370
+Commissions 1 155 710 547 244 - - - 1 702 954
+Amortissements et provisions 410 736 123 281 395 363 - 752 135 1 681 516
+Honoraires 128 008 286 533 - 1 285 660 1 414 487
+Cotisations aux organismes - - - - 330 055 330 055
+Diverses taxes 892 081 - - - 275 553 1 167 634
+Total 4 064 633 987 472 1 346 402 434 106 3 878 974 10 711 585
+(a) (b)
+Frais d'exploitation = [(a)+(b)] 5 052 104 DT
+8-8. Autres charges techniques
+Les autres charges techniques correspondent aux frais internes et externes qui ne peuvent être
+affectés, directement ou par application d’une clé de répartition, à l’une des autres
+destinations prévues.
+Au titre de l’exercice 2025, elles s’élèvent à 4.004.487 DT, représentant 4% du chiffre
+d’affaires de l’exercice, dont un montant de 3.878.974 DT découlant du déversement issu du
+tableau de passage des charges par nature aux charges par destination (Cf. note 8-7 ci-dessus).
+8-9. Charges des placements
+Les charges de placements s’élèvent, en brut, à 809.755 DT au titre de l’exercice 2025, contre
+780.224 DT au titre de l’exercice 2024.
+Elles se répartissent en trois catégories principales :
+Exercice Exercice
+Désignation
+2025 2024
+Charges de gestion des placements, 779 222 415 604
+Correction de valeurs sur placements 28 231 363 764
+Pertes provenant de la réalisation des placements 2 302 857
+Total 809 755 780 224
+ Charges de gestion des placements :
+Elles correspondent aux charges externes engagées sous forme de commissions et
+courtages encourus au titre de l’activité de gestion des placements et affectées à 100%
+lors du déversement issu du tableau de passage des charges par nature aux charges par
+destination (Cf. note 8-7 ci-avant). Ce poste inclut en outre, les intérêts courus sur
+sinistres à payer calculés conformément à l’article 10 du code des assurances.
+ Corrections de valeur sur placements :
+Elles correspondent aux dépréciations constatées sur les placements lorsque leur
+valeur d’inventaire devient inférieure à leur valeur comptable.
+Ces corrections de valeur sont déterminées selon les modalités d’évaluation décrites à
+la note 6-2-2 ci-avant.
+ Pertes provenant de la réalisation des placements :
+Elles correspondent aux pertes effectivement constatées lors de la cession de
+placements détenus en portefeuille, y compris les actifs représentatifs des contrats en
+unités de compte. Ces pertes sont déterminées par différence entre le prix de cession
+des titres concernés et leur coût moyen pondéré d’entrée.
+8-10. Produits de Placements alloués, transférés à l'état de résultat
+Les produits des placements sont considérés comme des produits techniques et sont, à ce titre,
+présentés dans l’état de résultat technique.
+Une quote-part de ces produits est transférée à l’état de résultat non technique. Elle
+correspond à la rémunération des capitaux propres, déterminée selon la méthode d’allocation
+décrite à la note correspondante.
+Les actifs de GAT Vie étant cantonnés par produit commercialisé, le revenu alloué aux
+capitaux propres est calculé sur la base des produits nets générés par les actifs dédiés à chaque
+cantonnement.
+Au titre de l’exercice 2025, les produits des placements, majorés des plus-values non réalisées
+sur placements, s’élèvent à 35.405.404 DT, contre 27.277.645 DT au titre de l’exercice
+précédent.
+Le montant transféré à l’état de résultat non technique s’élève à 838.808 DT en 2025, contre
+735.532 DT en 2024.
+Note 9. Notes relatives à l’état de résultat :
+9-1. Résultat provenant des activités ordinaires
+Le résultat des activités ordinaires avant impôt s’élève, au titre de l’exercice 2025, à
+9.272.513 DT, contre 6.914.553 DT en 2024, soit une hausse de 34,1%.
+9-2. Impôts sur le résultat & pertes extraordinaires (Impôts sur les bénéfices)
+La charge courante d’impôt sur les bénéfices englobe, outre l’impôt sur les sociétés (IS)
+exigible au titre de du résultat de l’exercice, la contribution sociale de solidarité (CSS), ainsi
+que la contribution au compte de diversification des sources de sécurité sociale (CCDSSS),
+instituée par l’article 20-7° de la loi n°2025-17 du 12 décembre 2025.
+Le détail de cette rubrique se présente comparativement, en 2025 et en 2024, comme suit :
+Exercice Exercice
+Désignation
+2025 2024
+Impôt sur les sociétés 1 644 548 1 490 811
+Contribution sociale de solidarité (CSS) 164 455 149 081
+Taxe conjoncturelle (Article 64 de la loi n° 2023-13 du 11/12/2023) - 149 081
+Contribution au compte de diversification des sources de sécurité
+164 455 -
+sociale (CCDSSS) (Article 20-7° de la loi n° 2025-17 du 12/12/2025)
+Total 1 973 457 1 788 973
+Le détail de calcul de la charge courante de l’impôt au titre de l’exercice clos le 31 décembre
+2025 se présente comme suit :
+Résultat Comptable avant impôt (a) 9 272 513
+± Réintégrations nettes des déductions (b) (3 161 143)
+- Réinvestissement en FCPR sans minimum d'impôt (c) -
+- Réinvestissement en FCPR avec minimum d'impôt (d) (2 000 000)
+= Résultat fiscal (1) =[(a)+(b)+(c)+(d)] 4 111 370
+Impôt sur les sociétés (IS) dû au 31/12/2025 = [(1) - (d)] x 40% 1 644 548
+Contribution Sociale de Solidarité (CSS) due au 31/12/2025 = (1) x 4% 164 455
+CCDSSS due au 31/12/2025 = (1) x 4% 164 455
+Note 10. Notes relatives au tableau des engagements donnés et reçus :
+10-1. Engagements reçus
+Le montant des engagements reçus comprend, au 31 décembre 2025, des traites sur
+conventions de portage pour un montant de 347.300 DT contre le même montant au 31
+décembre 2024, ainsi que des cautions et engagements envers les agents généraux s’élevant à
+164.393 DT, contre 147.443 DT au 31 décembre 2024.
+Il inclut également des engagements sous forme d’avals de traites ainsi que de
+cautionnements provisoires et définitifs relatifs aux marchés et autres, pour un montant de
+3.087.090 DT au 31 décembre 2025 contre 168.434 DT au 31 décembre 2024.
+10-2. Engagements donnés
+Le montant des engagements donnés comprend les cautions et garanties accordées aux agents
+généraux de GAT Assurances, qui s’élèvent à 1.252.019 DT au 31 décembre 2025, contre
+1.072.037 DT au 31 décembre 2024.
+Il comprend également les autres engagements liés à l’exploitation, pour un montant de
+18.514.760 DT au 31 décembre 2025, contre 19.928.060 DT au 31 décembre 2024.
+Note 11. Notes relatives à l’état des flux de trésorerie :
+11-1. Flux de trésorerie provenant de l’exploitation
+Au cours de l’exercice 2025, les flux de trésorerie provenant des activités d’exploitation
+s’élèvent à 3.786.482 DT, contre 3.493.372 DT en 2024.
+11-2. Flux de trésorerie provenant des activités d'investissement
+En 2025, les flux de trésorerie liés aux activités d’investissement s’élèvent à -3.416.974 DT,
+contre -265.994 DT au titre de l’exercice précédent.
+11-3. Flux de trésorerie provenant des activités de financement
+Au cours de l’exercice 2025, les flux de trésorerie liés aux activités de financement s’élèvent
+à -2.100.000 DT, contre -1.750.00 DT en 2024.
+11-4. Composantes des liquidités et équivalents de liquidités
+Les liquidités et équivalents de liquidités ont atteint, au 31 décembre 2025, un solde net de
+7.050.431 DT contre 8.780.924 DT au 31 décembre 2024 et se détaillent comme suit :
+31/12/2025 31/12/2024
++ Avoirs en banques, CCP, chèques et caisse 7 330 025 8 782 332
+- Concours bancaires courants (279 594) (1 408)
+Total 7 050 431 8 780 924
+Note 12. Résultat par action
+Le résultat par action et les données ayant servies à sa détermination sont arrêtés sur la base
+de la période allant du 1er janvier au 31 décembre 2025. Ainsi, le résultat par action se
+présente comme suit :
+2 025 2 024
+Résultat net attribuable aux actionnaires (en DT) 7 299 055 5 125 580
+Nombre d’actions ordinaires 70 000 70 000
+Résultat de base par action (en DT) 104,272 73,223
+Le résultat de base par action est calculé conformément aux modalités décrites au niveau de la
+note 6-11 supra.
+Note 13. Transactions avec les parties liées
+13-1. Rémunérations et avantages sociaux bénéficiant aux mandataires sociaux :
+Le tableau ci-dessous, présente, en dinars (DT), la rémunération brute inscrite en charges de
+l’exercice 2025 ainsi que les jetons de présence servis et à servir au titre du même exercice :
+D.G.A (1) D.G.A (2) Administrateurs
+Nature de la rémunération
+Charges de Passif au Charges de Passif au Charges de Passif au
+l'exercice 31/12/2025 l'exercice 31/12/2025 l'exercice 31/12/2025
+Avantages à court terme 237 452 9 212 297 096 95 462 - -
+Avantages postérieurs à l’emploi 48 542 205 874 105 175 104 105 - -
+Jetons de Présence - - - - 64 000 64 000
+TOTAL 285 995 215 085 402 271 199 567 64 000 64 000
+(1) Directeur Général Adjoint du 01/01/2025 au 31/10/2025
+(2) Directeur Général Adjoint du 01/05/2025 au 31/12/2025
+13-2. Transactions avec les autres parties liées :
+13-2-1. Flux de transactions avec les parties liées :
+Au cours de l’exercice clos le 31 décembre 2025, certaines transactions ont été conclues par la
+société avec les sociétés du groupe GAT Assurances. Le détail de ces opérations est récapitulé
+dans le tableau suivant :
+GAT
+GAT GAT GAT
+Opérations de l'exercice Promotion
+Assurances Investissement Immobilier
+immobilière
+Convention de gestion de portefeuille
+- Charge supportée sur année 2025 357 001
+- Charge supportée sur années 2022-2023-2024 (Avenant 2025) 35 701
+Dividendes
+- Dividendes servis 2 075 340 660
+- Dividendes encaissés (202 415) (561)
+Jetons de présence
+- Jetons de présence servis 19 000 11 000
+- Jetons de présence encaissés (25 667) (6 250) (5 000)
+Contrat d'assurance vie collectif (décès & Incapacité/Invalidité)
+- Prime d'assurance encaissée (126 699) (2 603) (4 949)
+- Prime d'assurance servie 19 146
+Contrat d'assurance vie collectif (décès)
+- Prime d'assurance encaissée (66 740) (717) (2 789)
+Contrat collectif d'assurance vie (IDR)
+- Prime d'assurance encaissée (58 051) (9 000)
+Contrat collectif d'assurance vie (retraite complémentaire)
+- Prime d'assurance encaissée (585 861) (11 162) (20 021)
+Contrat collectif d'assurance vie (fidélisation)
+- Prime d'assurance encaissée (556 357) (4 319) (76 091)
+Contrats d'assurance automobiles (3 véhicules)
+- Prime d'assurance servie 17 104
+Contrat d'assurance multirisque ordinateurs
+- Prime d'assurance servie 651
+GAT
+GAT GAT GAT
+Opérations de l'exercice Promotion
+Assurances Investissement Immobilier
+immobilière
+Contrat d'assurance accidents corporels
+- Prime d'assurance servie 3 339
+Contrat d'assurance RC exploitation (Tournoi Padel Trophy 2025)
+- Prime d'assurance servie 473
+Charges communes salariales
+- Quote part - charge 1 136 646
+- Quote part - produit -
+Charges communes de primes d'assurance Maladie (Ass groupe)
+- Quote part - charge 52 172
+Contrat de location
+- Charge locative 105 596
+- Produit locatif
+Charges communes d'immeuble
+- Quote part - charge 106 707
+Charges communes de consommation téléphonique Orange
+- Quote part - charge 4 330
+Traité de réassurance vie en quote-part au titre des affaires TUNISAIR
+- Prime cédée - charge 142 886
+- Intérêts sur réserves - Charge 7 225
+- Commission de réassurance - Produit (17 146)
+- Participation aux bénéfices - Charge (102 878)
+13-2-2. Encours bilantiel des opérations réalisées avec les parties liées :
+L’encours bilantiel des opérations réalisées avec les sociétés du groupe GAT Assurances se
+présente au 31 décembre 2025 comme suit :
+GAT
+GAT GAT GAT
+Soldes à la fin de l'exercice Promotion
+Assurances Investissement Immobilier
+immobilière
+Solde du compte "société du groupe GAT" (1 453 451)
+Solde des prêts au personnel de la société mère 9 856
+13-2-3. Engagements hors bilan envers les parties liées :
+Les engagements hors bilan envers les sociétés du groupe GAT Assurances se présentent au
+31 décembre 2025 comme suit :
+GAT
+GAT GAT GAT
+Engagements hors bilan Promotion
+Assurances Investissement Immobilier
+immobilière
+Nantissement de l'épargne constituée par les agents
+en garantie de leurs obligations contractuelles vis- 1 252 019
+à-vis de GAT Assurances
+Note 14. Evénements postérieurs à la clôture :
+Les présents états financiers ont été autorisés pour publication par le Conseil d’Administration
+du 26 mars 2026. Par conséquent, ils ne reflètent pas les événements survenus
+postérieurement à cette date.
+Annexes
+Exercice clos le 31 décembre 2025
+Annexe n° 8 : Mouvements ayant affecté les éléments de l'actif au 31/12/2025 (§73 NCT 26)
+Valeur brute Amortissements et provisions
+Désignation A Acquisition Cessions A A l'ouverture Augmentations Diminutions A la clôture V.N.C
+l'ouverture ou constitution ou reprises la clôture Amortissements Provisions Amortissements Provisions Amortissements Provisions Amortissements Provisions A la clôture
+Actifs incorporels 1 670 782 155 185 442 333 1 383 634 1 438 653 - 96 651 - - - 1 254 422 - 1 29 212
+Investissements de recherche et développement 1 670 782 124 252 442 333 1 352 700 1 438 653 - 96 651 - 280 882 - 1 254 422 - 9 8 278
+Acomptes versés - 30 934 - 30 934 - - - - - - - - 3 0 934
+Actifs corporels d'exploitation 894 059 8 158 - 902 217 492 469 - 115 364 - - - 607 832 - 2 94 385
+Installations techniques et machines 862 634 8 158 - 870 791 461 585 - 115 268 - - - 576 853 - 2 93 939
+Autres installations, outillage et mobilier 31 426 - - 31 426 30 884 - 96 - - - 30 979 - 4 46
+Acomptes versés et Immobilisations corporelles en cours - - - - - - - - - - - - -
+Placements 311 810 090 351 855 280 283 988 884 379 676 486 - 560 006 - 34 840 - 25 966 - 568 880 3 79 107 606
+Terrains et constructions d'exploitation & hors exploitation - 5 344 100 - 5 344 100 - - - - 5 344 100
+Parts & actions de sociétés immobilières non cotés 6 714 665 - - 6 714 665 - - - - - - - - 6 714 665
+Autres placements financiers 305 095 425 346 511 181 283 988 884 367 617 722 - 560 006 - 34 840 - 25 966 - 568 880 3 67 048 841
+- Actions, autres titres à revenu variable 37 526 642 41 737 696 20 605 829 58 658 510 - 525 321 21 731 - 20 966 - 526 086 5 8 132 424
+- Obligations et autres titres à revenu fixe 112 231 848 98 774 992 88 951 004 122 055 835 - 29 685 - - - - - 29 685 1 22 026 150
+- Prêts hypothécaires - - - - - - - - - - -
+- Autres prêts 2 976 661 2 285 101 1 594 117 3 667 645 - 5 000 - 13 109 - 5 000 - 13 109 3 654 536
+- Dépôts auprès des établissements bancaires et financiers 144 501 368 198 337 000 166 273 204 176 565 164 - - - - - - - - 1 76 565 164
+- Placements des contrats en Unités de Compte 7 858 906 5 376 392 6 564 730 6 670 568 - - - - - - - - 6 670 568
+Annexe n° 9 : Etat récapitulatif des Placements au 31/12/2025 (§75 NCT 26)
+Plus ou
+Valeur Valeur Juste
+moins-value
+Brute Nette Valeur
+latente
+Placements immobiliers et placements immobiliers en cours 5 344 100 5 344 100 5 344 100 -
+Parts et actions de Sociétés immobilières non cotées 6 714 665 6 714 665 7 137 702 423 037
+Actions et autres titres à revenu variable autres que les parts d' OPCVM 14 916 432 14 412 859 1 373 679 (13 542 753)
+Parts d'OPCVM détenant uniquement des titres à revenu fixe 33 405 034 33 382 521 34 065 487 660 453
+Autres parts d'OPCVM 10 337 044 10 337 044 11 503 850 1 166 806
+Obligations et autres titres à revenu fixe 122 055 835 122 026 150 122 026 150 (29 685)
+Prêts hypothécaires - - - -
+Autres prêts et effets assimilés 3 667 645 3 654 535 3 654 535 (13 109)
+Dépôts auprès des entreprises cédantes - - - -
+Autres dépôts 176 565 164 176 565 164 176 565 164 -
+Actifs représentatifs de contrats en unité de compte 6 670 568 6 670 568 6 670 568 -
+Total : 379 676 486 379 107 606 368 341 234 (11 335 252)
+Annexe n° 10 : Etat des règlements et des provisions pour sinistres à payer (§83 NCT 26)
+Exercice de survenance
+Année d'inventaire
+2021 2022 2023 2024 2025
+Inventaire 2023
+Règlements cumulés 68 520 453 25 223 748 16 292 758
+Provisions pour sinistres 598 082 831 495 1 826 787
+Total charges des sinistres 69 118 534 26 055 243 18 119 545
+Primes acquises 63 894 460 36 924 723 58 703 594
+% sinistres / primes acquises 108,18% 70,56% 30,87%
+Exercice de survenance
+Année d'inventaire
+2021 2022 2023 2024 2025
+Inventaire 2024
+Règlements cumulés 68 554 231 25 330 248 17 291 345 24 372 727
+Provisions pour sinistres 669 191 655 308 481 987 4 251 963
+Total charges des sinistres 69 223 422 25 985 556 17 773 332 28 624 689
+Primes acquises 63 894 460 36 924 723 58 703 594 72 354 649
+% sinistres / primes acquises 108,34% 70,37% 30,28% 39,56%
+Exercice de survenance
+Année d'inventaire
+2021 2022 2023 2024 2025
+Inventaire 2025
+Règlements cumulés 68 582 193 25 380 950 17 351 877 27 651 967 40 484 194
+Provisions pour sinistres 544 239 604 606 827 776 646 061 10 100 010
+Total charges des sinistres 69 126 432 25 985 556 18 179 652 28 298 028 50 584 204
+Primes acquises 63 894 460 36 924 723 58 703 594 72 354 649 89 649 225
+% sinistres / primes acquises 108,19% 70,37% 30,97% 39,11% 56,42%
+Annexe n° 11 : Ventilation des charges et produits des placements au 31/12/2025 (§85 NCT 26)
+Revenus et frais financiers
+concernant les placements Autres revenus
+Total Raccordement
+dans des entreprises liées et et frais financiers
+avec lien de participation
+Revenus des placements immobiliers 11 250 - 11 250 PRV21
+Revenus des participations 228 642 800 229 442 PRV21
+Revenus des autres placements - 32 418 785 32 418 785 PRV21 + PRV22
+Autres revenus financiers (commissions,
+- - - PRNT2
+honoraires)
+Total produits des placements 239 892 32 419 585 32 659 477
+Intérêts - (345 116) (345 116) CHV91
+Frais externes (392 702) (41 404) (434 106) CHNT3
+Autres frais - (430) (430) CHNT3
+Total charges des placements (392 702) (386 520) (779 222)
+Annexe n° 12 : Résultat technique de la catégorie Vie pour l'exercice clos le 31/12/2025
+(§87 NCT 26)
+Raccordement
+Total selon Annexe n° 15
+NCT 26
+Primes Acquises 89 649 225 PRV11
+Charges de prestations (52 487 712) CHV11
+Charges des provisions d'assurance Vie et des autres provisions techniques (53 518 161) CHV12, CHV21
+Autres Produits Techniques
+Solde de souscription : (16 356 648)
+Frais d'acquisition (4 064 633) CHV41, CHV42
+Autres charges de gestion nettes (4 991 959) PRV4, CHV43
+Charges d'acquisition et de gestion nettes : (9 056 591)
+Produits nets de placements 33 756 841 PRV2, CHV9
+Participation aux résultats (30 331) CHV3 1° Colonne
+Solde Financier : 33 726 510
+Part des réassureurs dans les primes acquises (799 122) PRV11 2° Colonne
+Part des réassureurs dans les prestations payées 653 441 CHV11 2° Colonne
+Part des réassureurs dans les charges de provisions (661) CHV21 2° Colonne
+Part des réassureurs dans les participations aux résultats 308 633 CHV3 2° Colonne
+Commissions reçues des réassureurs 10 322 CHV44 2° Colonne
+Solde de réassurance : 172 613
+Résultat technique pour l'exercice clos le 31/12/2025 8 485 882
+Résultat technique pour l'exercice clos le 31/12/2024 5 949 735
+Variation (2025-2024) : 43%
+Informations complémentaires :
+Versement périodique de rente Vie 761 181
+Rachats Vie payés 38 583 039
+Sinistres et Capitaux échus Vie 4 747 912
+Intérêts techniques bruts de la période 30 331
+Provisions techniques brutes Vie au 31/12/2025 372 814 856
+Provisions techniques brutes Vie au 01/01/2025 310 933 412
+RAPPORT GENERAL DU COMMISSAIRE AUX COMPTES SUR LES
+ETATS FINANCIERS DE L’EXERCICE CLOS LE 31 DECEMBRE 2025
+MESSIEURS LES ACTIONNAIRES
+DE LA SOCIETE GAT VIE
+En exécution de la mission de commissariat aux comptes qui nous a été confiée par votre
+Assemblée Générale Ordinaire du 30 mai 2025, nous vous présentons notre rapport général
+relatif à l’exercice clos le 31 décembre 2025 sur :
+ L’audit des états financiers de la société GAT Vie (la Société) tels qu’ils sont joints
+au présent rapport et faisant apparaître un total Bilan de 423.587.529 DT, un
+résultat net de l’exercice bénéficiaire de 7.299.055 DT et une variation nette de
+trésorerie négative de 1.730.492 DT ;
+ Les autres obligations légales et réglementaires.
+Les états financiers ont été arrêtés par votre Conseil d’administration. Il nous appartient, sur la
+base de notre audit, d’exprimer une opinion sur ces états.
+I- Rapport sur l’audit des états financiers :
+Opinion :
+1- Nous avons effectué l'audit des états financiers ci-joints de la Société, comprenant le bilan et
+le tableau des engagements reçus et donnés au 31 décembre 2025, l’état de résultat technique de
+l’assurance vie, l’état de résultat et l'état des flux de trésorerie pour l’exercice clos à cette date,
+ainsi que les notes aux états financiers contenant un résumé des principales méthodes
+comptables.
+À notre avis, les états financiers de la Société, annexés au présent rapport, sont réguliers et
+présentent sincèrement, dans tous leurs aspects significatifs, la situation financière de la Société au
+31 décembre 2025, ainsi que de sa performance financière et de ses flux de trésorerie pour l’exercice
+clos à cette date, conformément au système comptable des entreprises en vigueur en Tunisie.
+Fondement de l’opinion :
+2- Nous avons effectué notre audit selon les normes internationales d’audit applicables en Tunisie.
+Les responsabilités qui nous incombent en vertu de ces normes sont plus amplement décrites dans
+la section "Responsabilités du commissaire aux comptes pour l’audit des états financiers" du
+présent rapport. Nous sommes indépendants de la Société conformément aux règles de
+déontologie qui s’appliquent à l’audit des états financiers en Tunisie et nous nous sommes
+acquittés des autres responsabilités déontologiques qui nous incombent selon ces règles.
+Nous estimons que les éléments probants que nous avons obtenus sont suffisants et appropriés
+pour fonder notre opinion d’audit.
+Rapport du Conseil d’Administration sur la gestion de l’exercice :
+3- La responsabilité du rapport du Conseil d’Administration sur la gestion de l’exercice 2025
+incombe à cet organe de direction.
+Notre opinion sur les états financiers ne s’étend pas au rapport du Conseil d’Administration sur la
+gestion et nous n’exprimons aucune forme d’assurance que ce soit sur ce rapport.
+Notre responsabilité consiste, en application des dispositions de l’article 266 (alinéa 1er) du code
+des sociétés commerciales, à vérifier l’exactitude des informations données sur les comptes de la
+Société dans le rapport du Conseil d’Administration par référence aux données figurant dans les
+états financiers. Nos travaux consistent à lire le rapport du Conseil d’Administration sur la gestion
+et, ce faisant, à apprécier s’il existe une incohérence significative entre celui-ci et les états
+financiers ou la connaissance que nous avons acquise au cours de l’audit, ou encore si ledit
+rapport semble autrement comporter une anomalie significative.
+Si, à la lumière des travaux que nous avons effectués, nous concluons à la présence d’une
+anomalie significative dans le rapport du Conseil d’Administration sur la gestion, nous sommes
+tenus de signaler ce fait.
+Nous n’avons rien à signaler à cet égard.
+Responsabilités de la direction et du Conseil d’Administration pour les états financiers :
+4- Le Conseil d’Administration de la Société est responsable, de l'établissement de l’arrêté et de la
+présentation fidèle des états financiers, conformément au système comptable des entreprises, ainsi
+que du contrôle interne qu’il considère comme nécessaire pour permettre la préparation d’états
+financiers exempts d’anomalies significatives, que celles-ci résultent de fraudes ou d’erreurs.
+Lors de la préparation des états financiers, c’est à la direction qu’il incombe d’évaluer la
+capacité de la Société à poursuivre son exploitation, de communiquer, le cas échéant, les
+questions relatives à la continuité de l’exploitation et d’appliquer le principe comptable de
+continuité d’exploitation, sauf si la direction a l’intention de liquider la Société ou de cesser son
+activité ou si aucune autre solution réaliste ne s’offre à elle.
+Il incombe au Conseil d’Administration de surveiller le processus d’information financière de la Société.
+Responsabilités du commissaire aux comptes pour l’audit des états financiers :
+5- Nos objectifs sont d’obtenir l’assurance raisonnable que les états financiers pris dans leur
+ensemble sont exempts d’anomalies significatives, que celles-ci résultent de fraudes ou d’erreurs, et
+de délivrer un rapport du commissaire aux comptes contenant notre opinion. L’assurance
+raisonnable correspond à un niveau élevé d’assurance, qui ne garantit toutefois pas qu’un audit,
+réalisé conformément aux normes internationales d’audit applicables en Tunisie, permettra toujours
+de détecter toute anomalie significative qui pourrait exister. Les anomalies peuvent résulter de
+fraudes ou d’erreurs et elles sont considérées comme significatives lorsqu’il est raisonnable de
+s’attendre à ce que, individuellement ou collectivement, elles puissent influer sur les décisions
+économiques que les utilisateurs des états financiers prennent en se fondant sur ceux-ci.
+Dans le cadre d’un audit réalisé conformément aux normes internationales d’audit applicables en
+Tunisie, nous exerçons notre jugement professionnel et faisons preuve d’esprit critique tout au
+long de cet audit. En outre :
+ Nous identifions et évaluons les risques que les états financiers comportent des anomalies
+significatives, que celles-ci résultent de fraudes ou d’erreurs, concevons et mettons en œuvre
+des procédures d’audit en réponse à ces risques, et réunissons des éléments probants
+suffisants et appropriés pour fonder notre opinion. Le risque de non-détection d’une
+anomalie significative résultant d’une fraude est plus élevé que celui d’une anomalie
+significative résultant d’une erreur, car la fraude peut impliquer la collusion, la falsification,
+les omissions volontaires, les fausses déclarations ou le contournement du contrôle interne ;
+ Nous acquérons une compréhension des éléments du contrôle interne pertinents pour
+l’audit afin de concevoir des procédures d’audit appropriées dans les circonstances ;
+ Nous apprécions le caractère approprié des méthodes comptables retenues et le caractère
+raisonnable des estimations comptables faites par la direction, de même que des
+informations y afférentes fournies par cette dernière ;
+ Nous tirons une conclusion quant au caractère approprié de l’utilisation par la direction du
+principe comptable de continuité d’exploitation et, selon les éléments probants obtenus,
+quant à l’existence ou non d’une incertitude significative liée à des événements ou situations
+susceptibles de jeter un doute important sur la capacité de la Société à poursuivre son
+exploitation. Si nous concluons à l’existence d’une incertitude significative, nous sommes
+tenus d’attirer l’attention des lecteurs de notre rapport sur les informations fournies dans les
+états financiers au sujet de cette incertitude ou, si ces informations ne sont pas adéquates,
+d’exprimer une opinion modifiée. Nos conclusions s’appuient sur les éléments probants
+obtenus jusqu’à la date de notre rapport. Des événements ou situations futurs pourraient par
+ailleurs amener la Société à cesser son exploitation ;
+ Nous évaluons la présentation d’ensemble, la forme et le contenu des états financiers, y
+compris les informations fournies dans les notes, et apprécions si les états financiers
+représentent les opérations et événements sous-jacents d'une manière propre à donner
+une image fidèle ;
+ Nous communiquons aux responsables de la gouvernance notamment l’étendue et le
+calendrier prévus des travaux d’audit et nos constatations importantes, y compris toute
+déficience importante du contrôle interne que nous aurions relevée au cours de notre audit.
+II- Rapport sur les autres obligations légales et réglementaires :
+Dans le cadre de notre mission de commissariat aux comptes, nous avons également procédé
+aux vérifications spécifiques prévues par les normes professionnelles et par les textes
+réglementaires en vigueur en la matière.
+Efficacité du système de contrôle interne :
+1- En application des dispositions de l’article 3 de la loi n° 94-117 du 14 novembre 1994
+portant réorganisation du marché financier, nous avons procédé à une évaluation générale
+portant sur l’efficacité du système de contrôle interne de la Société. A ce sujet, nous rappelons
+que la responsabilité de la conception et de la mise en place d’un système de contrôle interne
+ainsi que la surveillance périodique de son efficacité et de son efficience, incombe à la direction
+et au Conseil d’Administration.
+Sur la base de notre examen, nous n’avons pas identifié des déficiences importantes du contrôle
+interne à l’exception du système d’information qui fait, actuellement, l’objet d’un plan de
+modernisation arrêté par la société.
+Un rapport traitant des faiblesses et des insuffisances identifiées au cours de notre audit a été
+remis à la Direction Générale de la Société.
+Conformité de la tenue des comptes des valeurs mobilières à la règlementation en vigueur :
+2- En application des dispositions de l’article 19 du décret n° 2001-2728 du 20 novembre 2001,
+nous avons procédé aux vérifications portant sur la conformité de la tenue des comptes des valeurs
+mobilières émises par la Société avec la réglementation en vigueur.
+La responsabilité de veiller à la conformité aux prescriptions de la règlementation en vigueur
+incombe à la direction et au Conseil d’Administration.
+Sur la base des diligences que nous avons estimées nécessaires de mettre en œuvre, nous
+n’avons pas détecté d’irrégularités significatives liées à la conformité de la tenue des comptes
+en valeurs mobilières de la Société avec la réglementation en vigueur.
+Autres obligations légales et réglementaires :
+3- En application des dispositions de l’article 270 du code des sociétés commerciales, nous
+signalerons les irrégularités suivantes relevées au cours de l’accomplissement de notre mission :
+ La détention par la société GAT Vie, au 31 décembre 2025, de 65.295 actions émises
+par la société GAT Assurances, un émetteur qui détient au capital de la première
+98,83%. Le non enclenchement du mécanisme de régularisation de cette détention dans
+les délais réglementaires, tel que relevé lors de notre intervention, est contraire aux
+dispositions de l’article 466 du code des sociétés commerciales.
+ L’indisponibilité d’un inventaire physique des immobilisations et, par conséquent, d’un
+rapprochement entre les résultats d’un tel inventaire physique et les données comptables
+des comptes d’immobilisations arrêtés au 31 décembre 2025, et ce, contrairement aux
+dispositions de l’article 8 du code de commerce et de l’article 17 de la loi n°96-112
+du 30 décembre 1996 relative au système comptable des entreprises.
+A la date du présent rapport, une mission d’inventaire physique des immobilisations de
+la société a été confiée à un cabinet externe.
+Tunis, le 28 Avril 2026
+P/Financial Auditing & Consulting
+Mohamed Neji HERGLI
+RAPPORT SPECIAL DU COMMISSAIRE AUX COMPTES
+AU TITRE DE L’EXERCICE CLOS LE 31 DECEMBRE 2025
+MESSIEURS LES ACTIONNAIRES
+DE LA SOCIETE GAT VIE
+I. En application des dispositions des articles 200 (nouveau) et suivants et de l’article 475
+du code des sociétés commerciales, nous reportons ci-dessous sur les conventions et
+opérations visées par les textes sus-indiqués.
+Notre responsabilité est de nous assurer du respect des procédures légales d’autorisation et
+d’approbation de ces conventions ou opérations et de leur traduction correcte, in fine, dans les
+états financiers. Il ne nous appartient pas de rechercher spécifiquement et de façon étendue
+l’existence éventuelle de telles conventions ou opérations mais de vous communiquer, sur la base
+des informations qui nous ont été données et celles obtenues au travers de nos procédures d’audit,
+leurs caractéristiques et modalités essentielles, sans avoir à nous prononcer sur leur utilité et leur
+bien fondé. Il vous appartient d’apprécier l’intérêt qui s’attachait à la conclusion de ces
+conventions et la réalisation de ces opérations en vue de leur approbation.
+A- Conventions et opérations nouvellement réalisées (autres que les rémunérations des dirigeants)
+Votre Conseil d’Administration nous a tenus informés d’une convention autorisée conformément
+aux dispositions de l’article 200 (nouveau) du code des sociétés commerciales et conclue au
+cours de l’exercice clos le 31 décembre 2025 :
+Il s’agit, de l’avenant n° 2 à la convention de gestion du portefeuille de valeurs mobilières
+conclue entre GAT Vie et GAT Investissement le 13 octobre 2021, ayant déjà fait l’objet de
+l’avenant n° 1 signé entre les mêmes parties le 14 décembre 2021 (autorisé par le Conseil
+d’Administration du 18 novembre 2025).
+Cet avenant n° 2, conclu le 20 novembre 2025, portait sur l’amendement de l’article 10 de la
+convention susvisée, afin :
+ De revoir les conditions financières applicables à la rémunération liée aux performances
+(Success Fees) due au titre des exercices 2022, 2023 et 2024, et de les refixer à un
+montant forfaitaire de 30.000 DT hors TVA, d’une part ;
+ De définir, à compter du 1er janvier 2025, les modalités et les conditions financières
+applicables aux Success Fees, d’autre part.
+Selon les termes de l’article 10.2.2 (nouveau) dudit avenant, les Success Fees ne seront
+perçus que dans le cas où le taux de performance du portefeuille serait égal ou supérieur
+au taux du Benchmark
+Dans ce cas, GAT Investissement, en sa qualité de gestionnaire, percevra une
+rémunération annuelle hors taxes selon le barème suivant :
+Au-delà du Taux du Benchmark de Taux des Success Fees
+0%--1% 5%
+1%--2% 10%
+2%--4% 15%
+Supérieur à 4% 20%
+- Le taux des Success Fees est applicable sur le montant de la facturation des frais de
+gestion.
+- Le taux de performance minimum exigé est de TMM (1) + 1%.
+- Le Benchmark est établi selon l’orientation de gestion prédéfinie et conformément
+au profil d’investissement initialement choisi par GAT Vie :
+Composition du
+Indice de référence
+portefeuille
+Type du client Benchmark
+% en % en
+Actions Obligations
+actions obligations
+Client prudent 40% 60% % Action x
+Client acceptant Performance du
+60% 40% Performance du
+un risque modéré TMM (1) TUNINDEX (2) +
+TUNINDEX (2)
+Client acceptant % Obligations x
+80% 20%
+le haut risque TMM (1)
+(1) Le TMM du mois de décembre de l’année, exprimé en valeur nette, après déduction de la
+retenue à la source de 20%.
+(2) La performance du TUNINDEX de l’année arrêtée au 31 décembre de l’année.
+- Le taux de performance correspond à la différence entre la valeur du portefeuille au
+31/12/N-1 et celle au 31/12/N tout en prenant en compte l’ensemble des flux de
+trésorerie, à leurs dates effectives.
+Compte tenu de l’avenant n°2 susvisé, la société GAT Vie a constaté, en 2025, parmi ses
+charges, la rémunération liée aux performances du portefeuille au titre des années 2022, 2023 et
+2024 pour la somme facturée par la société GAT Investissement pour 35.701 DT TTC, mais
+aucune rémunération liée aux performances du portefeuille n’a été supportée au titre de l’année
+2025, en raison de la non-atteinte des seuils d’enclenchement de l’obligation de la payer.
+Par ailleurs, et en dehors de l’avenant précité, nous n’avons pas relevé, au cours de nos
+investigations, des conventions nouvelles autorisées par le Conseil d’Administration de la société
+GAT Vie conformément à la réglementation en vigueur rentrant dans le champ d’application 200
+(nouveau) et suivants et de l’article 475 du code des sociétés commerciales.
+B-1. Opérations avec la société GAT Assurances :
+ En application de la décision de l’assemblée générale ordinaire de la société émettrice des
+titres détenus antérieurement à l’exercice, la société GAT Vie a reçu, en 2025, des
+dividendes de la part de la société GAT Assurances pour un montant brut de 202.415 DT.
+ En rémunération de sa qualité de membre du conseil d’administration de la société GAT
+Assurances depuis plusieurs années et en application de la décision de l’assemblée
+générale ordinaire de ladite société, la société GAT Vie a encaissé, en 2025, des jetons de
+présence de la part de la société GAT Assurances pour un montant brut de 25.667 DT.
+ En application des dispositions du contrat d’assurance collectif de prévoyance collective
+(en cas de décès et d’incapacité/invalidité) souscrit, antérieurement à l’exercice, par la
+société GAT Assurance auprès de la société GAT Vie, cette dernière a constaté, en
+2025, parmi ses produits, une prime d’assurance qui s’élève à 126.699 DT.
+ En application des dispositions du contrat d’assurance collectif de prévoyance collective
+(en cas de décès) souscrit, antérieurement à l’exercice, par la société GAT Assurance
+auprès de la société GAT Vie, cette dernière a constaté, en 2025, parmi ses produits, une
+prime d’assurance qui s’élève à 66.740 DT.
+ En application des dispositions du contrat d’assurance collectif IFC souscrit,
+antérieurement à l’exercice, par la société GAT Assurance auprès de la société GAT
+Vie, cette dernière a constaté, en 2025, parmi ses produits, une prime d’assurance qui
+s’élève à 58.051 DT.
+ En application des dispositions du contrat collectif d’assurance retraite complémentaire
+et de prévoyance et de ses avenants souscrits, antérieurement à l’exercice, par la société
+GAT Assurance auprès de la société GAT Vie, cette dernière a constaté, en 2025, parmi
+ses produits, une prime d’assurance qui s’élève à 585.861 DT.
+ En application des dispositions du contrat d’assurance collectif motivation pour la
+fidélisation du personnel souscrit, antérieurement à l’exercice, par la société GAT
+Assurance auprès de la société GAT Vie, cette dernière a constaté, en 2025, parmi ses
+produits, une prime d’assurance qui s’élève à 556.357 DT.
+ En application des dispositions du contrat d’assurance collectif de prévoyance collective
+(en cas de décès et d’incapacité/invalidité) souscrit, antérieurement à l’exercice, par la
+société GAT Vie auprès de la société GAT Assurances, la société GAT Vie a constaté,
+en 2025, parmi ses charges, une prime d’assurance qui s’élève à 19.146 DT.
+ En application des dispositions du contrat d’assurance "accidents corporels" souscrit,
+antérieurement à l’exercice, par la société GAT Vie auprès de la société GAT
+Assurances au profit de son personnel, la société GAT Vie a constaté, en 2025, parmi
+ses charges, une prime d’assurance qui s’élève à 3.339 DT.
+ En application des dispositions de 3 contrats d’assurance automobiles conclus
+antérieurement à l’exercice avec la société GAT Assurances, la société GAT Vie a
+constaté, en 2025, parmi ses charges, des primes d’assurance pour 17.104 DT.
+ En application des dispositions d’une police d’assurance "multirisque ordinateurs"
+conclue antérieurement à l’exercice avec la société GAT Assurances, la société GAT
+Vie a constaté, en 2025, parmi ses charges, une prime d’assurance pour 651 DT.
+ En application des dispositions d’un avenant n°2 au contrat de location auprès de la
+société GAT Assurances, conclu antérieurement à l’exercice, d’un espace agencé à
+usage de bureaux d’une superficie de 281,7 m2 au 8ème étage de l’immeuble situé au
+92-94 Avenue Hédi Chaker Tunis, la société GAT Vie a constaté, en 2025, parmi ses
+charges, le loyer annuel pour la somme de 105.596 DT en TTC.
+ En se référant aux dispositions d’une convention de répartition des charges communes
+conclue antérieurement à l’exercice entre la société GAT Assurances et la société GAT
+Vie, cette dernière a constaté, en 2025, parmi ses charges, les salaires et les cotisations
+sociales et charges fiscales, correspondants à sa quote-part dans les frais communs du
+personnel, refacturés par la première à la deuxième société, par référence à divers
+pourcentages variables appliqués à la masse salariale des personnes concernées et
+moyennant une majoration de 5%, pour la somme TTC de 1.136.646 DT.
+ En se référant aux dispositions d’une convention de répartition des charges communes
+conclue antérieurement à l’exercice, la société GAT Vie a constaté, en 2025, parmi ses
+charges, sa quote-part des charges communes d’immeuble qui lui a été refacturée par la
+société GAT Assurances par référence à une multitude de clés de répartition (surface
+bâtie, effectif moyen, …) pour la somme de 106.707 DT.
+ En se référant aux dispositions d’une convention de répartition des charges communes
+conclue antérieurement à l’exercice, la société GAT Vie a constaté, en 2025, parmi ses
+charges, pour la somme de 52.172 DT, le montant, qui lui a été refacturé par la société
+GAT Assurances, des sinistres relatifs à un contrat d’assurance maladie (contracté par
+toutes les sociétés du groupe et ayant fait l’objet d’une amélioration du tableau de
+prestations à compter du 1er janvier 2025) versés au profit du personnel (actif et retraité)
+de la société GAT Vie majoré des frais de gestion calculés au taux de 8%,
+ En se référant aux dispositions d’une convention de répartition des charges communes
+conclue antérieurement à l’exercice, la société GAT Vie a constaté, en 2025, parmi ses
+charges, le montant, qui lui a été refacturé par la société GAT Assurances, des frais
+téléphoniques Orange supportés à sa place au titre de son personnel, s’élevant à la
+somme de 4.330 DT.
+ Le compte "sociétés du groupe GAT Assurances" présente, au 31 décembre 2025, un
+solde créditeur de 1.453.451 DT contre un solde créditeur de 989.103 DT au 31
+décembre 2024.
+ L’encours des prêts accordés antérieurement à l’exercice par la société GAT Vie au
+personnel de la société GAT Assurances s’élève, au 31 décembre 2025, à la somme de
+9.856 DT.
+ La société GAT Vie agit en qualité de tiers détenteur de l’épargne constituée par les
+agents en garantie de leurs obligations contractuelles vis-à-vis de la société GAT
+Assurances, bénéficiaire du nantissement de ladite épargne qui s’élève, au 31 décembre
+2025, à la somme de 1.252.019 DT.
+B-2. Opérations avec la société GAT Immobilier :
+ En rémunération de sa qualité de membre du conseil d’administration de la société GAT
+Immobilier depuis plusieurs années et en application de la décision de l’assemblée
+générale ordinaire de ladite société, la société GAT Vie a encaissé, en 2025, des jetons
+de présence de la part de la société GAT Immobilier pour un montant brut de 6.250 DT.
+ En application des dispositions du contrat d’assurance collectif de prévoyance collective
+(en cas de décès et d’incapacité/invalidité) souscrit, antérieurement à l’exercice, par la
+société GAT Immobilier auprès de la société GAT Vie, cette dernière a constaté, en
+2025, parmi ses produits, une prime d’assurance qui s’élève à 4.949 DT.
+ En application des dispositions du contrat d’assurance collectif de prévoyance collective
+(en cas de décès) souscrit, antérieurement à l’exercice, par la société GAT Immobilier
+auprès de la société GAT Vie, cette dernière a constaté, en 2025, parmi ses produits, une
+prime d’assurance qui s’élève à 2.789 DT.
+ En application des dispositions du contrat d’assurance collectif IFC souscrit,
+antérieurement à l’exercice, par la société GAT Immobilier auprès de la société GAT
+Vie, cette dernière a constaté, en 2025, parmi ses produits, une prime d’assurance qui
+s’élève à 9.000 DT.
+ En application des dispositions du contrat collectif d’assurance retraite complémentaire
+et de prévoyance et de ses avenants souscrits, antérieurement à l’exercice, par la société
+GAT Immobilier auprès de la société GAT Vie, cette dernière a constaté, en 2025,
+parmi ses produits, une prime d’assurance qui s’élève à 20.021 DT.
+ En application des dispositions du contrat d’assurance collectif motivation pour la
+fidélisation du personnel souscrit, antérieurement à l’exercice, par la société GAT
+Immobilier auprès de la société GAT Vie, cette dernière a constaté, en 2025, parmi ses
+produits, une prime d’assurance qui s’élève à 76.091 DT.
+B-3. Opérations avec la société GAT Investissement :
+ En application de la décision de l’assemblée générale ordinaire de la société émettrice
+des titres détenus antérieurement à l’exercice, la société GAT Vie a reçu, en 2025, des
+dividendes de la part de la société GAT Investissement pour un montant brut de 561 DT.
+ En application des dispositions du contrat d’assurance collectif de prévoyance collective
+(en cas de décès et d’incapacité/invalidité) souscrit, antérieurement à l’exercice, par la
+société GAT Investissement auprès de la société GAT Vie, cette dernière a constaté, en
+2025, parmi ses produits, une prime d’assurance qui s’élève à 2.603 DT.
+ En application des dispositions du contrat d’assurance collectif de prévoyance collective
+(en cas de décès) souscrit, antérieurement à l’exercice, par la société GAT
+Investissement auprès de la société GAT Vie, cette dernière a constaté, en 2025, parmi
+ses produits, une prime d’assurance qui s’élève à 717 DT.
+ En application des dispositions du contrat collectif d’assurance retraite complémentaire
+et de prévoyance et de ses avenants souscrits, antérieurement à l’exercice, par la société
+GAT Investissement auprès de la société GAT Vie, cette dernière a constaté, en 2025,
+parmi ses produits, une prime d’assurance qui s’élève à 11.162 DT.
+ En application des dispositions du contrat d’assurance collectif motivation pour la
+fidélisation du personnel souscrit, antérieurement à l’exercice, par la société GAT
+Investissement auprès de la société GAT Vie, cette dernière a constaté, en 2025, parmi
+ses produits, une prime d’assurance qui s’élève à 4.319 DT.
+ En application des dispositions de la convention de gestion de portefeuille de valeurs
+mobilières et de son avenant n° 1 conclus, antérieurement à l’exercice, avec la société
+GAT Investissement, la société GAT Vie a constaté, en 2025, parmi ses charges, la
+rémunération des frais de gestion facturée par le mandataire pour la somme de
+357.001 DT TTC correspondant au plafond prévu par le barème de rémunération
+desdits frais dans le cas où le montant des valeurs mobilières gérées est inférieur ou
+égal à 100 MDT.
+B-4. Opérations avec la société GAT Promotion immobilière :
+ En rémunération de sa qualité de membre du conseil d’administration de la société GAT
+Promotion immobilière depuis plusieurs années et en application de la décision de
+l’assemblée générale ordinaire de ladite société, la société GAT Vie a encaissé, en 2025,
+des jetons de présence de la part de la société GAT Promotion immobilière pour un
+montant brut de 5.000 DT.
+Par ailleurs, nous n’avons relevé, au cours de nos investigations, aucune autre opération réalisée,
+en 2025, relative à des conventions antérieures.
+C- Obligations et engagements de la Société envers les dirigeants
+C.1- Les obligations et engagements envers les dirigeants tels que visés à l’article 200
+(nouveau) II § 5 du code des sociétés commerciales portent sur :
+1- Une rémunération nulle du Président Directeur Général, M. Mohamed DKHILI, renouvelé
+dans ses fonctions par décision du Conseil d’Administration du 11 mai 2023.
+2- La rémunération du Directeur Général Adjoint, M. Skander LAHRIZI, en fonction jusqu’au 31
+octobre 2025. Fixée par décision du Conseil d’Administration du 24 décembre 2020, et mise à
+jour lors du Conseil du 26 mars 2026, cette rémunération est composée des émoluments et
+avantages suivants :
+(a) Des avantages à court terme composés de 12 salaires mensuels, d’un bonus annuel en
+fonction des résultats de la société et des objectifs annuels fixés par le Conseil
+d’Administration pouvant atteindre au maximum 3 mois de salaires nets, d’avantages
+en nature sous forme de mise à disposition d’une voiture de fonction avec prise en
+charge des frais y afférents (assurance, entretien, réparations, vignette et une dotation
+en carburant plafonnée à 250 litres par mois), d’attribution d’un téléphone portable
+avec ligne professionnelle, assortie d’une prise en charge des frais de communication
+dans la limite de 100 DT par mois, des tickets restaurants et autres indemnités en
+vigueur (scolarité, aïd, et bonification d’intérêts), ainsi que des cotisations patronales
+au titre d’une assurance maladie Groupe GAT prévue par la convention collective
+sectorielle, outre les cotisations patronales au titre des régimes obligatoires de sécurité
+sociale (régime des prestations familiales et des assurances sociales, régime de
+réparation des préjudices des accidents de travail et des maladies professionnelles et
+régime de base de l’assurance maladie).
+(b) D’autres avantages à court terme servis en 2025, sous forme d’une prime de bilan, de
+congés payés lors de l’ordonnancement du solde de tout compte à l’occasion du départ
+à la retraite, d’un cadeau de départ à la retraite ainsi que d’une proratisation sur 10
+mois de service, d’une prime de rendement, des indemnités de 13ème, 14ème et 15ème
+mois. Ces avantages incluent, en outre :
+• Une première garantie décès et invalidité absolue et définitive (I.A.D), en
+propre assureur, avec contribution de l’employé à hauteur du cinquième (1/5)
+de la prime ;
+• Une deuxième garantie décès et I.A.D, en propre assureur, avec contribution de
+l’employé à hauteur du tiers (1/3) de la prime ;
+• Une garantie accidents corporels, objet d’un contrat d’assurance conclu avec
+GAT Assurances, avec prise en charge totale de la prime par la société ;
+• Une garantie incapacité et invalidité, objet d’un contrat d’assurance conclu
+avec GAT Assurances, avec prise en charge de la prime, par la société à
+hauteur de 12,7%.
+(c) Des avantages postérieurs à l’emploi incluant :
+• Un régime à prestations définies de retraite complémentaire sous forme de capital,
+institué au profit du personnel en propre assureur, avec contribution de l’employé à
+hauteur du tiers (1/3) de la prime ;
+• Un régime à prestations définies sous forme d’une indemnité de fidélisation égale à
+8 mois de salaires, institué au profit du personnel en propre assureur, avec
+contribution de l’employé de 5% de la prime ;
+• Un régime à prestation définies sous forme d’une indemnité de départ à la retraite
+égale à 4 mois de salaires, institué au profit du personnel en propre assureur, avec
+prise en charge totale de la prime par la société ;
+• Les cotisations patronales au titre des régimes de retraite de base et
+complémentaire.
+3- La rémunération du Directeur Général Adjoint, M. Mourad ZAYANI, en fonction à partir du
+1er mai 2025. Fixée par décision du Conseil d’Administration du 30 avril 2025 et mise à jour lors
+du Conseil du 26 mars 2026, cette rémunération est composée des émoluments et avantages
+suivants :
+(a) Des avantages à court terme composés de 12 salaires mensuels, d’un bonus annuel en
+fonction des résultats de la société et des objectifs annuels fixé par le Conseil
+d’Administration pouvant atteindre au maximum 3 mois de salaires nets, d’avantages
+en nature sous forme de mise à disposition d’une voiture de fonction avec prise en
+charge des frais y afférents (assurance, entretien, réparations, vignette et une dotation
+en carburant plafonnée à 250 litres par mois), d’attribution d’un téléphone portable
+avec ligne professionnelle, assortie d’une prise en charge des frais de communication
+dans la limite de 100 DT par mois, des tickets restaurants et autres indemnités en
+vigueur (scolarité, aïd, et bonification d’intérêts), ainsi que des cotisations patronales
+au titre d’une assurance maladie Groupe GAT prévue par la convention collective
+sectorielle, outre les cotisations patronales au titre des régimes obligatoires de sécurité
+sociale (régime des prestations familiales et des assurances sociales, régime de
+réparation des préjudices des accidents de travail et des maladies professionnelles et
+régime de base de l’assurance maladie).
+(b) D’autres avantages à court terme servis en 2025, sous forme d’une indemnité de
+fonction, d’une indemnité de représentation, d’une prime de bilan, de congés payés
+incluant le transfert de son solde en provenance de son employeur initial (GAT
+Assurances), ainsi que d’une proratisation sur 8 mois de service, d’une prime de
+rendement, des indemnités de 13ème, 14ème et 15ème mois. Ces avantages incluent, en
+outre :
+• Une première garantie décès et invalidité absolue et définitive (I.A.D), en
+propre assureur, avec contribution de l’employé à hauteur du cinquième (1/5)
+de la prime ;
+• Une deuxième garantie décès et I.A.D, en propre assureur, avec contribution de
+l’employé à hauteur du tiers (1/3) de la prime ;
+• Une garantie incapacité et invalidité, objet d’un contrat d’assurance conclu
+avec GAT Assurances, avec prise en charge de la prime, par la société à
+hauteur de 12,7% ;
+• Une garantie santé internationale, objet d’un contrat d’assurance conclu avec
+GAT Assurances, avec prise en charge de 50% de la prime par la société.
+(c) Des avantages postérieurs à l’emploi incluant :
+• Un régime à prestations définies de retraite complémentaire sous forme de capital,
+institué au profit du personnel en propre assureur, avec contribution de l’employé à
+hauteur du tiers (1/3) de la prime ;
+• Un régime à prestations définies sous forme d’une indemnité de fidélisation égale à
+8 mois de salaires, institué au profit du personnel en propre assureur, avec
+contribution de l’employé de 5% de la prime ;
+• Un régime à prestation définies sous forme d’une indemnité de départ à la retraite
+égale à 4 mois de salaires, institué au profit du personnel en propre assureur, avec
+prise en charge totale de la prime par la société ;
+• Les cotisations patronales au titre des régimes de retraite de base et
+complémentaire.
+4- Les jetons de présence servis aux membres du conseil d’administration et aux membres des
+comités émanant du conseil d’administration.
+C.2- Les obligations et engagements de la société envers ses dirigeants, tels qu’ils ressortent des
+états financiers pour l’exercice clos le 31 décembre 2025, se présentent comme suit (en DT) :
+D.G.A (1) D.G.A (2) Administrateurs
+Nature de la rémunération
+Charges de Passif au Charges de Passif au Charges de Passif au
+l'exercice 31/12/2025 l'exercice 31/12/2025 l'exercice 31/12/2025
+Avantages à court terme 237 452 9 212 297 096 95 462 - -
+Avantages postérieurs à l’emploi 48 542 205 874 105 175 104 105 - -
+Jetons de Présence - - - - 64 000 64 000
+TOTAL 285 995 215 085 402 271 199 567 64 000 64 000
+(1) Directeur Général Adjoint du 01/01/2025 au 31/10/2025
+(2) Directeur Général Adjoint du 01/05/2025 au 31/12/2025
+II. Par ailleurs, et en application des dispositions de l’article 202 du code des sociétés
+commerciales, nous vous signalons que certaines conventions conclues en 2025, autres que les
+rémunérations des dirigeants, n’ont pas fait l’objet d’une autorisation préalable de votre Conseil
+d’Administration conformément aux dispositions de l’article 200 (nouveau) du même code.
+Il nous appartient, sur la base des informations qui nous ont été données, de vous
+communiquer les caractéristiques et les modalités essentielles de ces conventions, ainsi que
+les circonstances en raison desquelles la procédure d’autorisation n’a pas été suivie, sans avoir
+à nous prononcer sur leur utilité et leur bien-fondé. Il vous appartient d’apprécier l’intérêt qui
+s’attachait à la conclusion de ces conventions en vue de leur approbation.
+Nous avons effectué nos travaux selon les normes de la profession ; ces normes requièrent la
+mise en œuvre de diligences destinées à vérifier la concordance des informations qui nous ont
+été données avec les documents de base dont elles sont issues.
+La nature, les modalités et l’incidence desdites conventions sur les comptes de l’exercice clos
+le 31 décembre 2025 peuvent être récapitulées comme suit :
+ La société GAT Vie a conclu avec la société GAT Assurances, avec effet au 1er janvier
+2025, un traité de réassurance vie de quote-part au titre des affaires TUNISAIR en
+vertu duquel la 1ère société a cédé une quote-part de 60%, avec une part du réassureur
+de 33,33%, pour couvrir les garanties Décès et Perte de licence du personnel navigant
+technique de TUNISAIR, et ce, aux tarifs de réassurance de 0,25% pour le décès et de
+0,60 % pour la perte de licence et compte tenu d’une commission de réassurance de
+12% des primes cédées, d’une participation aux bénéfices (compte tenu de frais de
+gestion de 8% des primes cédées) au taux de 90% et d’un taux d’intérêts de la réserve
+de stabilité de 2% l’an,
+La société GAT Vie a constaté, en 2025, au titre dudit traité, une prime cédée à GAT
+Assurances pour 142.886 DT, des intérêts sur réserves pour 7.225 DT, des
+commissions de réassurance reçues pour 17.146 DT et une participation aux bénéfices
+pour 102.878 DT.
+ La société GAT Vie a conclu, en 2025, avec la société GAT Assurances un contrat
+d’assurance RC exploitation à l’occasion de l’organisation du tournoi "Padel Trophy".
+Elle a, à ce titre, supporté, en 2025, une prime d’assurances de 473 DT.
+La première convention a été autorisée par le Conseil d’Administration de la société réuni le
+24 décembre 2024, dans le cadre de l’approbation du schéma de réassurance de GAT Vie au
+titre de l’exercice 2025. Elle n’a donc pas fait l’objet d’une autorisation spéciale sur la base du
+rapport du commissaire aux comptes prévu par l’article 200 (nouveau) du Code des sociétés
+commerciales, tel que modifié par les articles 29 et 30 de la loi n°2019-47 du 29 mai 2019
+relative à l’amélioration du climat de l’investissement, dès lors qu’elle a été considérée
+comme une convention courante conclue à des conditions normales.
+La deuxième convention n’a pas été autorisée par le Conseil d’Administration de la société,
+par omission.
+Tunis, le 28 Avril 2026
+P/Financial Auditing & Consulting
+Mohamed Neji HERGLI

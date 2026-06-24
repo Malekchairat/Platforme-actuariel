@@ -1,0 +1,1265 @@
+AVIS DES SOCIÉTÉS
+ETATS FINANCIERS INTERMEDIAIRES
+SOCIETE TUNISIENNE D’ASSURANCES ET DE REASSURANCES -STAR
+Siège social : 09 rue de Palestine cite des affaires Kheireddine -La Goulette 2060
+La société Tunisienne d’Assurances et de Réassurances STAR publie, ci-dessous, ses états
+financiers intermédiaires arrêtés au 30 juin 2025 accompagnés du rapport d’examen limité des
+commissaires aux comptes : M Mohamed Hedi KAMMOUN (ECC MAZARS) et Mme
+Abir MATMTI (Conseil Audit Formation).
+1
+Bilan au 30/06/2025
+(chiffres arrondis en dinars)
+au 30/06/2025 au 30/06/2024 au 31/12/2024
+Amortissements
+ACTIF DU BILAN Brut Net Net Net
+et provisions:
+AC1 Actifs incorporels
+AC12 Concessions, brevets, licences, marques 27 782 899 18 323 916 9 458 983 8 862 804 8 844 062
+AC13 Fonds commercial 0 0 0 0 0
+27 782 899 18 323 916 9 458 983 8 862 804 8 844 062
+AC2 Actifs corporels d'exploitation
+AC21 Installations techniques et machines 22 254 427 17 240 695 5 013 732 4 491 954 3 815 088
+AC22 Autres installations, outillage et mobilier 3 761 449 3 393 650 367 799 470 996 407 161
+26 015 876 20 634 345 5 381 531 4 962 950 4 222 249
+AC3 Placements
+AC31 Terrains et constructions 60 419 100 6 434 254 53 984 846 52 312 459 54 136 575
+AC311 Terrains et constructions d'exploitation 16 750 492 4 363 229 12 387 263 11 916 345 12 493 482
+AC312 Terrains et constructions hors exploitation 43 668 608 2 071 025 41 597 583 40 396 114 41 643 093
+AC32 Placements dans les entreprises liées et participations 216 422 862 27 112 183 189 310 679 169 399 924 169 663 864
+AC322 Bons et obligations émis par les entreprises liées et créances 53 000 000 0 53 000 000 53 000 000 53 000 000
+AC323 Parts dans les entreprises avec un lien de participation 163 422 862 27 112 183 136 310 679 116 399 924 116 663 864
+AC33 Autres placements financiers 869 605 185 9 206 141 860 399 044 850 319 637 884 303 099
+AC331 Actions, autres titres à revenu variable 35 858 635 6 836 891 29 021 744 25 792 763 35 259 353
+AC332 Obligations et autres titres à revenu fixe 806 412 602 650 501 805 762 101 805 009 350 824 169 700
+AC334 Autres prêts 15 369 215 28 976 15 340 239 14 781 714 15 269 348
+AC336 Autres 11 964 733 1 689 773 10 274 960 4 735 810 9 604 698
+AC34 Créances pour espèces déposées auprès des entreprises cédantes 4 624 584 0 4 624 584 4 551 895 4 666 959
+1 151 071 731 42 752 578 1 108 319 153 1 076 583 915 1 112 770 497
+AC5 Part des réassureurs dans les provisions techniques
+AC510 Provision pour primes non acquises 12 880 926 0 12 880 926 12 043 960 12 618 499
+AC530 Provision pour sinistres (vie) 1 779 924 0 1 779 924 2 050 995 572 719
+AC531 Provision pour sinistres (non vie) 82 447 008 0 82 447 008 82 178 260 78 171 670
+AC541 Provision pour participation aux bénéfices et ristournes (non vie) 3 672 097 0 3 672 097 3 954 603 2 795 490
+100 779 955 0 100 779 955 100 227 818 94 158 378
+AC6 Créances
+AC61 Créances nées d'opérations d'assurance directe 280 860 140 68 612 547 212 247 593 186 243 810 180 319 541
+AC611 Primes acquises et non émises 17 434 655 0 17 434 655 13 949 675 19 225 180
+AC612 Autres créances nées d'opération d'assurance directe 217 486 610 61 190 970 156 295 640 131 898 879 118 470 391
+AC613 Créances indemnisées subrogées à l'entreprise d'assurance 45 938 875 7 421 577 38 517 298 40 395 256 42 623 970
+AC62 Créances nées d'opérations de réassurance 17 602 991 7 747 688 9 855 303 11 301 382 5 262 253
+AC63 Autres créances 71 192 727 2 459 936 68 732 791 70 380 465 67 957 406
+AC631 Personnel 4 225 409 96 222 4 129 187 2 444 882 1 797 538
+AC632 Etat, organismes de sécurité sociale, collectivités publiques 61 794 746 0 61 794 746 64 237 677 63 057 490
+AC633 Débiteurs divers 5 172 572 2 363 714 2 808 858 3 697 906 3 102 378
+AC64 Créances sur ressources spéciales 0 0 0 0 0
+369 655 858 78 820 171 290 835 687 267 925 657 253 539 200
+AC7 Autres éléments d'actif
+AC71 Avoirs en banque, CCP, chèques et caisse 65 109 655 2 298 689 62 810 966 30 880 438 27 692 820
+AC72 Charges reportées 26 039 019 0 26 039 019 22 613 675 20 434 444
+AC721 Frais d'acquisition reportés 26 039 019 0 26 039 019 22 613 675 20 434 444
+AC722 Autres charges à repartir 0 0 0 0 0
+AC73 Comptes de régularisation Actif 48 661 897 0 48 661 897 50 744 667 48 195 349
+AC731 Intérêts et loyers acquis non échus 47 299 810 0 47 299 810 48 936 634 46 436 016
+AC732 Estimations de réassurance 403 447 0 403 447 403 447 403 447
+AC733 Autres comptes de régularisation 958 640 0 958 640 1 404 586 1 355 886
+AC74 Ecart de conversion 1 978 371 0 1 978 371 2 019 108 1 978 371
+141 788 942 2 298 689 139 490 253 106 257 888 98 300 984
+Total de l'actif 1 817 095 261 162 829 699 1 654 265 562 1 564 821 032 1 571 835 370
+2
+Bilan au 30/06/2025
+(chiffres arrondis en dinars)
+CAPITAUX PROPRES ET LE PASSIF 30/06/2025 30/06/2024 31/12/2024
+CAPITAUX PROPRES:
+CP1 Capital social ou fonds équivalent 23 076 930 23 076 930 23 076 930
+CP2 Réserves et primes liées au capital 173 336 160 172 593 010 172 593 560
+CP3 Rachat d'actions propres 0 0 0
+CP4 Autres capitaux propres 1 926 258 1 926 258 1 926 258
+CP5 Résultat reporté 211 923 297 202 487 989 202 487 989
+Total capitaux propres avant résultat de l'exercice 410 262 645 400 084 187 400 084 737
+CP6 Résultat de l'exercice 21 317 114 14 729 719 29 813 006
+Total capitaux propres avant affectation 431 579 759 414 813 906 429 897 743
+PASSIF:
+PA2 Provisions pour autres risques et charges
+PA23 Autres provisions 15 053 066 16 771 943 15 634 483
+15 053 066 16 771 943 15 634 483
+PA3 Provisions techniques brutes
+PA310 Provision pour primes non acquises 140 518 755 130 476 110 110 249 254
+PA320 Provision d'assurance vie 122 594 568 100 820 758 111 141 143
+PA330 Provision pour sinistres (vie) 32 481 460 27 739 546 30 960 970
+PA331 Provision pour sinistres (non vie) 701 875 747 688 707 011 696 829 163
+PA340 Provisions pour participations aux bénéfices et ristournes (vie) 2 498 717 1 775 500 1 775 055
+PA341 Provisions pour participations aux bénéfices et ristournes (non vie) 12 256 201 11 667 761 10 903 669
+PA350 Provision pour égalisation et équilibrage 597 504 0 597 504
+PA360 Autres provisions techniques (vie) 0 0 0
+PA361 Autres provisions techniques (non vie) 18 608 505 22 297 558 19 000 540
+1 031 431 457 983 484 244 981 457 298
+PA5 Dettes pour dépôts en espéces reçus des cessionnaires 36 231 094 34 754 632 31 306 592
+PA6 Autres dettes 102 710 392 83 940 385 81 954 580
+PA61 Dettes nées d'opérations d'assurance directe 32 675 692 25 644 635 25 561 475
+PA62 Dettes nées d'opérations de réassurance 19 565 470 15 109 525 17 511 469
+PA63 Autres dettes 50 469 230 43 186 225 38 881 636
+PA631 Dépôts et cautionnements reçus 5 865 555 5 860 276 5 892 625
+PA632 Personnel 5 431 751 11 251 852 10 397 388
+PA633 Etat, organismes de sécurité sociale, collectivités publiques 10 099 171 10 433 833 10 733 873
+PA634 Créditeurs divers 29 072 753 15 640 264 11 857 749
+138 941 486 118 695 016 113 261 172
+PA7 Autres passifs
+PA71 Comptes de régularisation Passif 33 744 678 27 493 066 28 069 558
+PA710 Report de commissions reçues des réassureurs 3 035 750 2 417 952 2 610 133
+PA711 Estimations de réassurance 0 0 0
+PA712 Autres comptes de régularisation Passif 30 708 928 25 075 114 25 459 425
+PA72 Ecart de conversion 3 515 116 3 562 856 3 515 116
+37 259 794 31 055 922 31 584 674
+Total du Passif 1 222 685 803 1 150 007 126 1 141 937 627
+TOTAL DES CAPITAUX PROPRES ET DU PASSIF 1 654 265 562 1 564 821 032 1 571 835 370
+3
+L'état de résultat technique de l'assurance non-vie arrêté au 30/06/2025
+(chiffres arrondis en dinars)
+Opérations brutes cessions et/ou Opérations nettes Opérations nettes Opérations nettes
+30/06/2025 rétrocessions 30/06/2025 30/06/2024 31/12/2024
+30/06/2025
+PRNV1 Primes acquises
+PRNV11 Primes émises et acceptées + 220 599 507 26 624 602 193 974 905 179 231 512 330 891 215
+PRNV12 Variation de la provision pour primes non acquises +/- -30 269 501 -262 428 -30 007 073 -23 391 496 -2 590 102
+190 330 006 26 362 174 163 967 832 155 840 016 328 301 113
+Produits de placements alloués, transférés de
+PRNT3 + 39 758 638 0 39 758 638 33 684 838 59 591 480
+l'état de résultat
+PRNV2 Autres produits techniques + 180 419 0 180 419 190 139 380 700
+CHNV1 Charge de sinistres
+CHNV11 Montants payés - 147 908 530 -1 152 071 146 756 459 149 551 994 282 745 828
+CHNV12 Variation de la provision pour sinistres +/- 5 046 584 -4 275 337 771 247 759 303 12 888 045
+152 955 114 -5 427 408 147 527 706 150 311 297 295 633 873
+CHNV2 Variation des autres provisions techniques +/- -392 034 0 -392 034 -487 197 -3 784 216
+CHNV3 Participation aux bénéfices et ristournes 3 566 230 792 218 2 774 012 2 605 222 5 815 110
+CHNV4 Frais d'exploitation
+CHNV41 Frais d'acquisition - 38 540 187 0 38 540 187 31 932 037 61 649 238
+CHNV42 Variation du montant des frais d'acquisition reportés +/- -5 604 575 0 -5 604 575 -3 198 731 -1 019 500
+CHNV43 Frais d'administration - 19 135 549 0 19 135 549 14 852 456 26 368 280
+CHNV44 commissions reçues des réassureurs + 0 6 478 205 6 478 205 6 265 608 11 049 965
+52 071 161 6 478 205 45 592 956 37 320 154 75 948 053
+CHNV5 Autres charges techniques - 7 469 376 0 7 469 376 5 453 201 14 793 614
+Variation de la provision pour égalisation et
+CHNV6 +/- 0 0 0 0 0
+équilibrage
+résultat technique de l'assurance et/ou de la
+RTNV +/- 14 599 216 13 664 343 934 873 -5 487 684 -133 141
+réassurance non vie
+4
+L'état de résultat technique de l'assurance vie arrêté au 30/06/2025
+(chiffres arrondis en dinars)
+Opérations brutes cessions et/ou Opérations nettes Opérations nettes Opérations nettes
+Notes: 30/06/2025 rétrocessions 30/06/2025 30/06/2024 31/12/2024
+30/06/2025
+PRV1 Primes
+PRV11 Primes émises et acceptées + 30 344 427 381 500 29 962 927 25 175 405 51 381 189
+PRV2 Produits de placements
+PRV21 Revenus des placements + 5 703 561 0 5 703 561 5 670 691 11 033 082
+PRV22 Produits des autres placements +
+5 703 561 0 5 703 561 5 670 691 11 033 082
+Reprise de corrections de valeur sur
+PRV23 + 0 0 0 0 0
+placements
+Profits provenant de la réalisation des
+PRV24 + 108 873 0 108 873 220 751 220 488
+placements et de change
+108 873 0 108 873 220 751 220 488
+PRV4 Autres produits techniques + 0 0 0 0 0
+CHV1 Charge de sinistres
+CHV11 Montants payés - 6 560 512 0 6 560 512 6 264 860 11 632 404
+CHV12 Variation de la provision pour sinistres +/- 1 520 490 -1 207 206 313 284 925 773 5 625 473
+8 081 002 -1 207 206 6 873 796 7 190 633 17 257 877
+CHV2 Variation des autres provisions techniques
+CHV21 Provision d'assurance vie +/- 11 453 425 0 11 453 425 10 712 205 21 630 094
+11 453 425 0 11 453 425 10 712 205 21 630 094
+CHV3 Participation aux bénéfices et ristournes 723 848 0 723 848 507 225 506 780
+CHV4 Frais d'exploitation
+CHV41 Frais d'acquisition - 3 400 264 0 3 400 264 3 441 666 6 699 527
+Variation du montant des frais d'acquisition
+CHV42 +/- 0 0 0 0 0
+reportés
+CHV43 Frais d'administration - 1 177 908 0 1 177 908 745 311 1 100 737
+CHV44 commissions reçues des réassureurs + 0 0 0 49 211 50 024
+4 578 172 0 4 578 172 4 137 766 7 750 240
+CHV5 Autres charges techniques - 507 587 0 507 587 329 198 986 857
+CHV9 Charges de placements
+Charges de gestion des placements, y
+CHV91 - 29 939 0 29 939 31 231 63 974
+compris les charges d'intérêt
+CHV92 Correction de valeur sur placements - 0 0 0 0 0
+Pertes provenant de la réalisation des
+CHV93 - 0 0 0 0 0
+placements
+29 939 0 29 939 31 231 63 974
+CHV10 Moins values non réalisées sur placements - 0 0 0 0 0
+Produits de placements alloués, transférés
+CHNT2 - 0 0 0 0 0
+à l'état de résultat
+Sous total (résultat technique de
+RTV 10 782 888 -825 706 11 608 594 8 158 589 14 438 937
+l'assurance et/ou de la réassurance vie)
+5
+L'état de résultat arrêté au 30/06/2024
+(chiffres arrondis en dinars)
+30/06/2025 30/06/2024 31/12/2024
+Résultat technique de l'assurance et/ou de la réassurance non
+RTNV +/- 934 873 -5 487 684 -133 141
+vie
+RTV Résultat technique de l'assurance et/ou de la réassurance vie +/- 11 608 594 8 158 589 14 438 937
+PRNT1 Produits des placements (assurance et/ou réassurance non vie)
+PRNT11 Revenus des placements + 54 157 603 50 269 346 88 785 947
+PRNT12 Produits des autres placements + 0 0 0
+54 157 603 50 269 346 88 785 947
+PRNT13 Reprise de corrections de valeur sur placements + 443 657 2 420 855 2 640 393
+PRNT14 Profits provenant de la réalisation des placements + 6 247 790 932 585 3 362 810
+6 691 447 3 353 440 6 003 203
+CHNT1 Charges des placements (assurance et/ou réassurance non vie)
+CHNT11 Charges de gestion des placements, y compris les charges d'intérêt - 904 377 997 410 2 657 556
+CHNT12 Correction de valeur sur placements - 1 506 959 2 793 966 3 422 620
+CHNT13 Pertes provenant de la réalisation des placements - 219 350 057 632 264
+2 411 555 4 141 433 6 712 440
+Produits des placements alloués, transférés à l'état de résultat
+CHNT2 - 39 758 638 33 684 838 59 591 480
+technique de l'assurance et/ou de la réassurance non vie
+PRNT2 Autres produits non techniques + 2 978 138 3 405 053 3 875 477
+CHNT3 Autres charges non techniques - 2 469 538 5 099 508 3 843 848
+Résultat provenant des activités ordinaires 31 730 924 16 772 965 42 822 655
+CHNT4 Impôts sur le résultat - 8 633 200 1 833 650 10 785 200
+Résultat provenant des activités ordinaires après impôts 23 097 724 14 939 315 32 037 455
+PRNT4 Gains extraordinaires + 0 0 0
+CHNT5 Pertes extraordinaires - 1 780 610 209 596 2 224 449
+Résultat extraordinaire -1 780 610 -209 596 -2 224 449
+Résultat net de l'exercice 21 317 114 14 729 719 29 813 006
+CHNT6/PRNT5 Effet des modifications comptables (nets d'impôt) 0 0 0
+Résultat net de l'exercice après modifications comptables 21 317 114 14 729 719 29 813 006
+6
+TABLEAU DES ENGAGEMENTS RECUS ET DONNES
+AU 30/06/2025
+(Chiffres arrondis en dinars)
+Au 30/06/2025 Au 30/06/2024 Au 31/12/2024
+Engagements reçus
+Cautions reçues 3 505 525 3 451 356 3 462 852
+Cautions agents généraux 4 347 000 4 215 000 4 346 000
+TOTAL 7 852 525 7 666 356 7 808 852
+Engagements données
+Cautions données 8 276 302 7 736 085 7 652 945
+Titres et actifs acquis avec engagement de revente 332 800 332 800 332 800
+Autres 40 000 000 40 000 000
+TOTAL 48 609 102 8 068 885 47 985 745
+7
+ETAT DE FLUX DE TRESORERIE AU 30/06/2025
+(chiffres arrondis en dinars)
+Désignation AU 30/06/2025 AU 30/06/2024 AU 31/12/2024
+Flux de trésorerie liés à l'exploitation
+Encaissements des primes reçues des assurés 215 405 358 222 592 058 453 747 035
+Sommes versées pour paiement des sinistres -125 972 553 -140 613 933 -269 069 685
+Encaissements des primes reçues (acceptation) 0 152 009 179 805
+Sommes versées pour paiement des sinistres (acceptation) 0 0 -1 554 480
+Commissions versés sur les acceptations 0 -31 466 -31 466
+Décaissements des primes pour les cessions -24 577 211 -13 947 277 -35 261 099
+Encaissements des sinistres pour les cessions 3 235 002 1 496 210 10 370 531
+Commissions reçues sur les acceptations 5 507 796 2 951 380 7 684 798
+Commissions versées aux intermédiaires -21 023 351 -20 314 743 -46 697 347
+Sommes versées aux fournisseurs et au personnel -23 802 746 -23 379 038 -46 763 004
+Variation des dépôts auprès des cédantes 0 0 0
+Variation des espéces reçus des cessionnaires -1 032 622 495 924 2 934 282
+Décaissements liés à l'acquisition de placements financiers -22 000 000 -33 071 700 -82 822 333
+Encaissements liés à la cession de placements financiers 47 373 904 70 374 232 88 513 223
+Taxes et impôts versés au trésor -52 053 448 -46 670 547 -89 132 206
+Produits financiers reçus 57 466 600 56 177 833 102 098 043
+Autres mouvements 15 718 888 -11 538 793 -31 586 846
+Flux de trésorerie provenant de l'exploitation 74 245 617 64 672 150 62 609 251
+Flux de trésorerie liés aux activités d'investissement
+Décaissement provenant de l'acquisition d'immobilisations corporelles et incorporelles -3 222 122 -1 874 258 -2 882 830
+Encaissements provenant de la cession d'immobilisations corporelles et incorporelles 0 27 887 27 887
+Décaissements provenant de l'acquisition de terrains et constructions déstinés à l'exploitation 0 0 0
+Encaissements provenant de l'acquisition de terrains et constructions déstinés à l'exploitation 0 10 000 10 000
+Décaissements provenant de l'acquisition de placements auprès d'entreprises liés -20 626 800 -24 899 943 -24 899 943
+ou avec lien de participation
+Encaissements provenant de la cession de placements auprès d'entreprises liés 5 908 605 0 0
+ou avec lien de participation
+Flux de trésorerie affectés aux activités d'investissement -17 940 317 -26 736 314 -27 744 886
+Flux de trésorerie liés aux activités de financement
+Encaissements suite à l'émission d'actions 0 0 0
+Dividendes et autres distributions -19 376 590 -14 830 695 -14 830 695
+Flux de trésorerie affectés aux activités de financement -19 376 590 -14 830 695 -14 830 695
+Variation de trésorerie 36 928 710 23 105 141 20 033 670
+Trésorerie au début de l'exercice 28 180 945 8 147 274 8 147 274
+Trésorerie à la clôture de l'exercice 65 109 655 31 252 416 28 180 945
+8
+NOTES AUX ETATS FINANCIERS ARRETES AU
+30/06/2025
+PRESENTATION DE LA SOCIETE
+ Dénomination sociale : Société Tunisienne d’Assurances et de Réassurances –STAR‐
+ Date de constitution : Décembre 1958
+ Capital social : 23.076.930D composé de 2.307.693 actions de 10D chacune
+ Siège social : 9 Rue de Palestine Cité des Affaires Kheireddine La Goulette
+ Forme juridique : Société Anonyme faisant appel public à l’épargne
+ Activité : Assurance et Réassurance toutes branches
+ Référence RNE : 0002388V
+ Matricule fiscal : 0002388V P M 000
+ E‐mail : star@star.com.tn Site web : www.star.com.tn
+ Effectif : 491
+FAITS MARQUANTS
+1‐ Les faits saillants ayant marqué le premier semestre de l’exercice 2025 :
+ Le bilan au 30 juin 2025 totalise 1 654,265 MD contre 1564,821 MD à fin juin 2024 accusant ainsi
+une augmentation de 5,4 %.
+ La situation au 30 juin 2025 dégage un bénéfice net d’impôt de 21,317MD contre un bénéfice de
+14,729 MD au 30 juin de l’exercice précèdent.
+ Les primes acquises s’élèvent à 220,674 MD contre 207,378 MD à fin juin 2024 soit une
+augmentation de 6,41%.
+ Les charges de sinistres (y compris les frais de gestion) s’élèvent à 161,036 MD contre 162,552
+MD à fin juin 2024, soit une baisse de 1 %.
+ Les provisions techniques nettes de recours s’élèvent à 1 031,431 MD contre 983,484 MD à fin
+juin 2024 enregistrant une augmentation de 47,947 MD.
+ Les placements totalisent au 30 juin 2025 un montant net de 1 108,318 MD contre 1 076,583 MD
+au 30 juin 2024 soit une augmentation de 2,95 %.
+ Les produits de placements nets totalisent au 30 juin 2025 un montant de 64,220 MD contre
+55,341 MD au 30 juin 2024 soit une augmentation de 16 %.
+ La mise en production d’un nouveau ERP comptable et financier (SAGE 1000).
+2‐ Évolution de l’outil comptable :
+La clôture des comptes semestriels est réalisée pour la première fois à l’aide du nouvel ERP Sage déployé
+au sein de la STAR au terme d’une période de test et de parallèle run. L’implémentation de ce nouvel outil
+comptable se traduit notamment par l’évolution de certaines procédures de comptabilisation et des
+interfaces correspondantes, et l’adaptation du plan comptable.
+Plusieurs postes des états financiers au 30 juin 2025 ont été mouvementés en raison de la modification de
+certaines interfaces et modalités d’enregistrement comptables. C’est notamment le cas des postes suivants
+: créances, comptes d’attente, comptes bancaires. La compagnie a entrepris des travaux de réconciliation,
+de rapprochement et d’apurement sur ces postes en amont de la clôture, et a ajusté le montant des
+10
+provisions sur les comptes de trésorerie conformément à sa politique comptable.
+Les travaux de suivi, de rapprochement et d’apurement des comptes se poursuivront au cours du second
+semestre.
+Le management STAR estime que, compte tenu des analyses et travaux déjà réalisés, et des provisions y
+afférentes comptabilisées au 30 juin 2025, la poursuite de ces travaux ne devrait pas avoir d’impact net
+matériel négatif sur le second semestre 2025 relativement aux opérations comptabilisées au premier
+semestre
+NORMALISATION COMPTABLE
+Les états financiers relatifs à la période allant du 1er janvier 2025 au 30 Juin 2025, sont préparés par
+application de la loi 96‐112 du 30 Décembre 1996 portant promulgation du système comptable des
+entreprises et conformément aux principes et méthodes comptables prévues par le décret 96‐2459 portant
+promulgation du cadre conceptuel comptable.
+L’évaluation, la comptabilisation et la présentation des divers postes des états financiers sont effectués
+conformément aux normes comptables sectorielles 26 ; 27 ; 28 ; 29 ; 30 et 31 relatives aux opérations
+spécifiques aux entreprises d’assurance et/ ou de réassurance (arrêté du ministre des Finances du 26 juin
+2000).
+PRINCIPES ET METHODES COMPTABLES
+Les méthodes comptables les plus significatives, retenues pour la préparation des comptes arrêtés au
+30/06/2025, se résument comme suit :
+4‐1 Les Actifs incorporels et corporels d’exploitation :
+Ces actifs sont inscrits à l’actif du bilan à leur coût d’acquisition. Ils font l’objet d’un amortissement linéaire
+sur la base des taux suivants :
+Logiciels 33%
+Matériels de Transport 20%
+Matériels informatiques 15%
+Mobiliers et Matériels de bureau 10%
+Agence. Aménagement et Installations 10%
+4‐2 Placements :
+a‐ Les placements immobiliers :
+Les terrains et les constructions figurent pour leur valeur réévaluée en 2001, les constructions font l’objet
+d’un amortissement sur la durée de vie restante. Les parts dans les sociétés à objet foncier non cotées sont
+évaluées à leur coût d’acquisition. A la date de l’arrêté des états financiers, il est procédé à l’évaluation :
+ Des terrains et des constructions à leur valeur comptable nette des amortissements (pour les biens
+amortissables),
+ Des parts dans les sociétés à objet foncier à leur valeur mathématique. Les moins‐values par
+rapport à la valeur comptable font l’objet d’une provision pour dépréciation.
+11
+b‐ Placements financiers et placements dans les entreprises avec lien de participation :
+b‐1 Actions et autres titres à revenus variables :
+Cette catégorie de placement comprend les titres dont le revenu dépend du résultat ou de l’un des éléments
+du résultat de l’émetteur. Ainsi sont considérées comme titres à revenus variables les actions ordinaires,
+les actions à dividende prioritaire sans droit de vote, les certificats d’investissements ainsi que les parts des
+organismes de placements collectifs.
+Les actions et autres titres à revenus variables sont enregistrés à leurs coûts d’acquisition hors frais
+d’acquisition, impôts, droits et taxes récupérables, à l’exception des titres réévalués.
+La valeur d’inventaire retenue pour chacune des catégories est la suivante :
+ Actions cotées : Cours boursier du 30 Juin 2025
+ Actions non cotées : Valeur mathématique au 31/12/2024
+ Parts d’OPCVM : Valeur liquidative du 30 Juin 2025
+Les moins‐values font l’objet d’une dotation aux provisions inscrites en charges de l’exercice, les plus‐values
+ne sont pas constatées.
+b‐2 Obligations et autres titres à revenu fixe :
+Les obligations et titres à revenus fixes sont comptabilisés à leur prix d’acquisition hors frais accessoires
+sur achats et hors coupons courus à l’achat.
+Lorsqu’un risque de recouvrement du principal et/ou des intérêts est constaté, une provision est constituée
+à due concurrence.
+4‐3 Créances :
+Cette rubrique comporte les créances nées d’opérations d’assurance directe, les créances nées d’opérations
+de réassurance et les autres créances
+ Les créances nées d’opération d’assurance directe enregistrent les créances sur les assurés et les
+intermédiaires d’assurance, les créances sur les Co‐assureurs, les primes à annuler, les primes
+acquises et non émises ainsi que les créances indemnisées subrogées à l’entreprise d’assurance.
+ Les créances nées d’opération de réassurance enregistrent les créances sur les réassureurs et les
+cédantes.
+ Les autres créances enregistrent les créances qui ne sont pas liées directement
+à l’activité d’assurance et /ou de réassurance tel est le cas des créances sur
+le personnel, l’État, les organismes sociaux et les collectivités publiques ainsi que les autres
+débiteurs divers.
+4‐4 Les provisions sur créances :
+Les créances nées d’opérations d’assurance directe sont provisionnées conformément à
+la décision n° 01/2021 du premier décembre 2021 fixant la base et la méthode de
+calcul des provisions pour dépréciation des créances sur les assurés et les intermédiaires
+d’assurance :
+ Les créances sur les assurés par ancienneté aux taux suivants :
+12
+2023 et antérieurs 100%
+2024 20%
+2025 0%
+ Les créances sur les intermédiaires sont provisionnées en totalité.
+ Les créances contentieuses sont provisionnées en totalité.
+ La provision des autres postes de créances est calculée au cas par cas en tenant compte de
+l’échéance de l'impayé, la qualité du créancier et de l'avancement de la procédure du contentieux
+le cas échéant.
+4‐5 Les primes acquises et non émises :
+Elles sont afférentes à l’exercice 2025 mais n’ayant pu être émises. Elles sont estimées à partir des primes
+émises sur exercices antérieurs des cinq derniers exercices. Les commissions relatives aux primes acquises
+et non émises sont constatées au 30/06/2025.
+4‐6 Les primes à annuler :
+Les primes à annuler sont évaluées par référence à une méthode statistique conformément à la norme
+comptable
+n° 28.
+4‐7 Autres éléments d’actif :
+Ce poste recense les liquidités et équivalents de liquidités, les charges reportées, les comptes de
+régularisation et les écarts de conversion.
+4‐8 Capitaux propres :
+Les capitaux propres représentent les apports en capital, les réserves et primes liées au capital, les autres
+réserves, les résultats reportés ainsi que le résultat de la période.
+4‐9 Provisions Techniques :
+L’évaluation des provisions techniques est déterminée selon les méthodes prévues par l’arrêté du ministre
+des Finances du 27‐02‐2001 fixant la liste, le mode de calcul des provisions techniques et les conditions de
+leur représentation tel qu’il a été modifié par l’arrêté du ministre des Finances du 28 mars 2005.
+Les provisions techniques portées au passif concernent les engagements de la société envers ses assurés,
+réassurance comprise. Les provisions techniques à la charge des réassureurs sont portées à l’actif du bilan.
+a‐ Provisions pour primes non acquises :
+Ces provisions sont destinées à constater pour l’ensemble des contrats en cours la part des primes émises
+et des primes restant à émettre se rapportant à la période comprise entre la date d’inventaire et la date de
+la prochaine échéance de prime. Ces provisions sont calculées séparément pour chaque contrat sur la base
+de la méthode du Prorata‐ Temporis.
+Les provisions PNA afférentes aux primes RC décennales et les contrats pluriannuels font l’objet d’un
+traitement spécial.
+En réassurance conventionnelle, la provision pour primes non acquises à la charge des réassureurs est
+calculée selon les méthodes stipulées dans les traités de réassurance.
+En réassurance facultative, la provision est calculée au Prorata‐Temporis.
+13
+La provision pour primes non acquises relative aux acceptations est calculée à partir des comptes envoyés
+par les cédantes.
+Le contrôle des provisions PNA prorata‐Temporis et des dépôts de réassurance a été effectué
+conformément à l'article 15 du code des assurances.
+b‐ Provisions mathématique vie :
+La provision mathématique d’assurance vie correspond à la différence à la
+date d’inventaire entre les valeurs actuelles des engagements respectivement pris par l’assureur et les
+assurés.
+c‐ Provisions pour sinistres à payer :
+Les provisions pour sinistres à payer Auto, Incendie, A.R.D.S, Aviation et transport sont déterminées selon
+la méthode de l’inventaire permanent qui engendre une mise à jour permanente par les jeux des
+aggravations et des améliorations.
+Les provisions pour sinistres à payer des branches groupe, vie et Accidents de travail sont évaluées dossier
+par dossier à la date d’arrêté comptable.
+La provision pour sinistres à payer automobile dégâts matériels, est calculée suivant les cadences de
+règlements observées dans l’entreprise au cours des exercices antérieurs, le coût moyen et le dossier par
+dossier, l’évaluation la plus élevée est retenue.
+La provision pour sinistres à payer des diverses branches tient compte également des sinistres survenus
+mais non déclarés à la date de clôture du bilan (IBNR) et des chargements pour frais de gestion.
+Les provisions pour sinistres à payer sont présentées au passif après déduction des prévisions de
+sauvetages et recours à encaisser.
+La provision pour sinistre à payer à la charge des réassureurs est calculée par application des traités de
+réassurance.
+La provision pour sinistre à payer relative aux acceptations est estimée par référence aux comptes envoyés
+par les cédantes.
+d‐ Provisions mathématiques des rentes :
+Les provisions mathématiques des rentes correspondent à la valeur actuelle des montants qui seront
+versés, sous forme de rentes et accessoires de rentes. Son montant est majoré de 5% à titre de chargement
+de gestion.
+e‐ Provisions pour participation aux bénéfices et Ristournes :
+La provision pour participation aux bénéfices et ristournes comprend les montants destinés aux assurés ou
+aux bénéficiaires de contrats d'assurance sous la forme de participation aux bénéfices et ristournes dans la
+mesure où ces derniers n'ont pas été crédités aux assurés.
+Le montant de la participation aux bénéfices est évalué selon les engagements contractuels de la société.
+Le montant des ristournes est évalué par référence à une méthode statistique.
+14
+f‐ Provisions pour risques en cours :
+Cette provision représente les montants à provisionner en supplément des primes non acquises pour
+couvrir les risques à assumer.
+Elle est destinée à couvrir la charge des sinistres et des frais afférents aux contrats d'assurance en cours
+susceptibles de se produire postérieurement à la date d’inventaire dans la mesure où cette charge n’est pas
+couverte par la provision pour primes non acquises.
+g‐ Provisions pour égalisation :
+Cette provision permet d’égaliser les fluctuations de sinistres pour les années à venir.
+4‐10 Les revenus :
+Les revenus sont constitués par les produits provenant des activités techniques et financières.
+Les primes souscrites par les assurées sont constatées à leur émission et font l’objet d’une régularisation en
+fin d’exercice pour la partie non courue.
+4‐11 Les charges par destination :
+Les charges de fonctionnement sont considérées comme des charges techniques qui contribuent à la
+formation du résultat technique. Ces charges comptabilisées initialement dans les comptes de la classe 9
+sont réparties suivant les destinations suivantes :
+‐ Frais de règlement de sinistres
+‐ Frais d’acquisition
+‐ Frais d’administration
+‐ Frais de gestion des placements
+‐ Autres charges techniques.
+Le déversement des charges par nature se base sur des clés fondées sur des critères qualitatifs, objectifs
+appropriés et contrôlables et les principales clés de répartition sont les suivants : l’effectif, la masse
+salariale, primes émises, primes encaissées, …
+4‐12 Affectation des produits nets des placements :
+Les produits nets de placements incluent les charges et produits des placements, les frais généraux affectés
+aux placements, les profits et pertes de change, les dotations aux amortissements des immeubles de
+placement, les provisions pour dépréciation des titres et leurs reprises, les plus ou moins‐values de cession
+des titres.
+Ils sont répartis entre les états techniques non‐vie et vie et l’état de résultat.
+Les produits nets vie sont relatifs aux actifs affectés à l’activité vie selon l’opération du cantonnement.
+Le reste des produits nets est réparti entre l’état technique non‐vie et l’état de résultat au prorata des
+provisions techniques non‐vie et des capitaux propres.
+4‐13 Méthode de comptabilisation de l’impôt sur les bénéfices :
+La STAR applique la méthode de l’impôt exigible pour la comptabilisation l’impôt sur les bénéfices.
+15
+4‐14 L’état de flux de trésorerie :
+La méthode adoptée pour la présentation de l’état des flux de trésorerie est la méthode directe (méthode
+de référence) qui consiste à fournir des informations sur les principales catégories de rentrées et de sorties
+de fonds et ce, par un système de recensement individuel par flux.
+Les encaissements et les décaissements de fonds de l’exercice sont classés en activité d’exploitation,
+d’investissement et de financement.
+La trésorerie se compose des avoirs en dinars et en devises auprès des banques, du Centre des chèques
+Postaux et de la caisse.
+Les encaissements des primes reçus des assurés sont présentés nets de ristournes et de la quote‐part des
+Co‐assureurs.
+Les sommes versées pour paiement des sinistres sont présentés nets de la quote‐part des Co‐assureurs.
+Les décaissements ou encaissements liés aux opérations d’acquisition ou de cessions de placements
+financiers enregistrent les flux de trésorerie compensés des opérations de souscription et de cession des
+bons de trésor, des bons de trésor assimilables et des placements en devises.
+4‐15 L’état des engagements hors bilan :
+Le tableau des engagements reçus et donnés est présenté conformément à la norme NC26 § 47, la société
+ne présente aucun engagement à l'égard des dirigeants.
+COMPARABILITE DES COMPTES :
+Le changement de système n’a entraîné aucune modification des méthodes comptables utilisées par la
+Société. Les états financiers du premier semestre 2025 ont été préparés conformément aux mêmes normes
+comptables retenues pour l’arrêté des comptes du premier semestre 2024. Aucun ajustement ni
+retraitement des données comparatives n’a été nécessaire.
+NOTES SUR LE BILAN
+(les chiffres sont exprimés en DT : Dinars Tunisiens)
+I. NOTES SUR L’ACTIF DU BILAN
+ AC1 ‐ Actifs incorporels
+Les actifs incorporels totalisent au 30 Juin 2025 une valeur comptable nette de 9 458 983 dinars contre
+8 862 804 dinars au 30 Juin 2024. Le détail de ce poste se présente comme suit :
+Valeur Valeur Valeur Valeur
+Amortissements
+Libellés Brute au Nette au Nette au Nette au
+au 30/06/2025
+30/06/2025 30/06/2025 30/06/2024 31/12/2024
+Droit au bail 41 000 41 000 0 0 0
+Logiciels 27 638 649 18 179 666 9 458 983 8 862 804 8 844 062
+Autres actifs 103 250 103 250 0 0 0
+TOTAL 27 782 899 18 323 916 9 458 983 8 862 804 8 844 062
+ AC2‐ Actifs corporels d’Exploitation
+Les actifs corporels totalisent au 30 Juin 2025 une valeur comptable nette de 5 381 531 dinars contre
+4 962 950 dinars au 30 Juin 2024. Le détail de ce poste se présente comme suit :
+16
+Valeur Valeur Valeur Valeur
+Amortissements
+Libellés Brute au Nette au Nette au Nette au
+au 30/06/2025
+30/06/2025 30/06/2025 30/06/2024 31/12/2024
+Matériels de transport 66 000 66 000 0 0 0
+MMB 3 761 449 3 393 650 367 799 470 996 407 161
+AAI 11 582 934 9 380 194 2 202 740 2 931 207 2 342 796
+Matériels Informatique 10 605 493 7 794 501 2 810 991 1 560 747 1 472 292
+TOTAL 26 015 876 20 634 345 5 381 530 4 962 950 4 222 249
+ AC3 ‐ Placements
+AC31‐ Placements Immobiliers
+Les placements immobiliers totalisent au 30 Juin 2025 une valeur comptable nette de 53 984 846 dinars
+contre 52 312 459 dinars au 30 Juin 2024. Le détail de ce poste se présente comme suit :
+Valeur Brute Valeur Nette Valeur Nette Valeur Nette
+Amortissements
+Libellés au au au au
+au 30/06/2025
+30/06/2025 30/06/2025 30/06/2024 31/12/2024
+Terrains 8 411 208 8 411 208 8 621 244 8 411 208
+Constructions 14 117 952 6 415 954 7 701 998 7 103 905 7 853 726
+Parts dans les sociétés
+37 889 940 18 300 37 871 640 36 587 310 37 871 641
+à objet foncier
+TOTAL 60 419 100 6 434 254 53 984 846 52 312 459 54 136 575
+AC32‐ Placements dans les entreprises avec lien de participation
+Ce poste présente un solde net de 189 310 679 dinars au 30/06/2025 contre 169 399 924 dinars au
+30/06/2024 qui se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Actions Cotées 72 107 398 72 619 041 72 770 573
+Actions OPCVM 81 294 224 60 667 425 60 667 425
+Actions Non Cotées 10 021 240 10 021 240 10 021 240
+Titres Participatifs 53 000 000 53 000 000 53 000 000
+Valeur brute 216 422 862 196 307 706 196 459 238
+Provisions 27 112 183 26 907 782 26 795 374
+Valeur nette 189 310 679 169 399 924 169 663 864
+AC33‐ Placements Financiers
+AC331‐ Actions et autres titres à revenus variables :
+Ce poste présente un solde net de 29 021 744 dinars au 30/06/2025 contre 25 792 763 dinars au
+30/06/2024 qui se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Actions Cotées 11 641 404 11 641 404 11 641 404
+Actions OPCVM 20 740 791 17 030 829 26 959 453
+Actions Non Cotées 2 519 166 2 519 166 2 519 166
+Actions étrangères 957 274 957 274 957 274
+Valeur brute 35 858 635 32 148 673 42 077 309
+Provisions Actions 6 836 891 6 355 910 6 817 956
+Valeur nette 29 021 744 25 792 763 35 259 352
+17
+AC332‐ Obligations et autres titres à revenus fixes :
+Ce poste présente un solde net de 805 762 101 dinars au 30/06/2025 contre 805 009 350 dinars au
+30/06/2024 qui se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Emprunts obligataires 320 293 602 289 540 852 318 701 202
+Emprunts indivis 150 000 150 000 150 000
+Placements bons de trésor 280 500 000 310 500 000 300 500 000
+Placements BTA 205 469 000 205 469 000 205 469 000
+Valeur brute 806 412 602 805 659 852 824 820 202
+Provisions obligations 650 501 650 502 650 502
+Valeur nette 805 762 101 805 009 350 824 169 700
+AC334 ‐ Prêts
+La rubrique « Prêts » présente un solde net de 15 340 239 dinars au 30/06/2025 contre 14 781 714 dinars
+au 30/06/2024 qui se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Prêts au personnel 14 575 032 14 210 557 14 639 994
+Prêts sur police vie 794 183 600 133 658 331
+Valeur brute 15 369 215 14 810 690 15 298 325
+Provisions 28 976 28 976 28 977
+Valeur nette 15 340 239 14 781 714 15 269 348
+AC336‐ Autres placements
+La rubrique « Autres placements » présente un solde net de 10 274 960 dinars au 30/06/2025 contre
+4 735 810 dinars au 30/06/2024 qui se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Dépôt auprès de la TGT 11 698 418 5 549 690 10 346 106
+Placements en devises 0 0 0
+Autres dépôts 266 315 266 314 266 315
+Valeur brute 11 964 733 5 816 004 10 612 421
+Provisions 1 689 773 1 080 194 1 007 723
+Valeur nette 10 274 960 4 735 810 9 604 698
+AC34‐ Créances pour espèces déposées auprès des entreprises cédantes
+Cette rubrique englobe les dépôts prélevés à l’encontre de la STAR par les compagnies cédantes sur les
+affaires acceptées.
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Dépôts en garantie des PPNA 1 816 690 1 842 915 1 890 534
+Dépôts en garantie des PSAP 2 807 894 2 708 980 2 776 425
+TOTAL 4 624 584 4 551 895 4 666 959
+ AC5 ‐ Parts des réassureurs dans les provisions techniques :
+Ce poste présente un solde au bilan de 100 779 955 dinars au 30/06/2025 contre 100 227 818 dinars au
+30/06/2024.
+18
+Ce montant représente la quote‐part des réserves techniques mise à la charge des réassureurs. Le détail de
+ce poste par nature de réserves se présente comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Provision pour primes non acquises 12 880 926 12 043 960 12 618 499
+Provision pour sinistres vie 1 779 924 2 050 995 572 719
+Provision pour sinistres non‐vie 82 447 008 82 178 260 78 171 670
+Prov. pour part. des assurés aux bénéfices 3 672 097 3 954 603 2 795 490
+TOTAL 100 779 955 100 227 818 94 158 378
+ AC6 – Créances
+Les Créances totalisent au 30 Juin 2025 une valeur comptable nette 290 835 687 dinars contre
+267 925 657 dinars au 30 Juin 2024. Le détail de ce poste se présente comme suit :
+Valeur Brute Montant net
+Valeur Net au Valeur Net au
+Libellés au Provision au
+30/06/2024 31/12/2024
+30/06/2025 30/06/2025
+AC61 Créances nées
+d'opérations
+d'assurances directe
+AC611 Primes acquises
+17 434 655 0 17 434 655 13 949 675 19 225 180
+et non émises
+Primes acquises et non
+22 096 548
+émises brutes 0 22 096 548 18 861 058 23 963 391
+Primes à annuler ‐4 661 893 0 ‐4 661 893 ‐4 911 384 ‐4 738 211
+AC612 Créances nées
+d'opérations 217 486 610 61 190 970 156 295 640 131 898 879 118 470 391
+d'assurance direct
+Créances sur les assurés
+et sur intermédiaires 178 148 480 27 958 741 150 189 739 120 570 796 113 007 114
+Créances contentieuses 21 550 235 19 688 437 1 861 798 660 080 1 696 214
+Autres créances 17 787 895 13 543 792 4 244 103 10 722 004 3 767 063
+AC613 Créances
+indemnisées subrogées
+45 938 875 7 421 577 38 517 298 40 395 256 42 623 970
+à l'entreprise
+d'assurances
+Total 280 860 140 68 612 547 212 247 593 186 243 811 180 319 541
+AC62 Créances nées
+d'opérations de
+réassurance
+Rétrocessionnaires 3 377 781 59 117 3 318 664 122 561 116 520
+Cédants 175 637 1 260 079 ‐1 084 442 2 006 597 2 003 281
+Cessionnaires 14 049 573 6 428 491 7 621 081 9 172 223 3 142 452
+TOTAL 17 602 991 7 747 688 9 855 303 11 301 381 5 262 253
+AC63 autres créances
+Personnel 4 225 409 96 222 4 129 187 2 442 183 1 797 538
+Etat, Orga,sécurité sociale 61 794 746 61 794 746 64 237 677 63 057 490
+Autres débiteurs divers 5 172 572 2 363 714 2 808 858 3 700 606 3 102 378
+Total 71 192 727 2 459 936 68 732 791 70 380 465 67 957 406
+Total General 369 655 858 78 820 171 290 835 687 267 925 657 253 539 200
+19
+ AC7–Autres éléments d'actif
+AC71 Avoirs en banque, CCP et Caisse :
+Cette rubrique totalise au 30 juin 2025 une valeur comptable de 62 810 966 dinars contre
+30 880 438 dinars au 30 juin 2024 et se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Avoirs en banque 66 642 282 31 387 036 27 973 960
+CCP ‐1 612 373 ‐159 474 203 166
+Caisse 79 746 24 854 3 820
+TOTAL 65 109 655 31 252 416 28 180 945
+Provisions 2298 689 371 978 488 125
+Valeur nette 62 810 966 30 880 438 27 692 820
+AC 72 Charges reportées
+Cette rubrique totalise au 30 juin 2025 une valeur comptable de 26 039 019 dinars contre
+22 613 675 dinars au 30 juin 2024 et se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Frais d'acquisition reportés 26 039 019 22 613 675 20 434 444
+TOTAL 26039 019 22 613 675 20 434 444
+AC 73 Comptes de régularisation Actif
+Cette rubrique totalise au 30 Juin 2025 une valeur de 48 661 897 dinars contre 50 744 667 dinars au
+30 Juin 2024 et se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+AC731 Intérêts et loyers acquis non échus 47 299 810 48 936 634 46 436 016
+AC732 Estimation de réassurance 403 447 403 447 403 447
+AC733 Autres comptes de régularisation 958 640 1 404 586 1 355 886
+Charges constatées d'avance 227 893 677 504 625 140
+Autres produits à recevoir 24 000 24 000 24 000
+Commissions à recevoir 706 747 703 082 706 747
+TOTAL 48 661 897 50 744 667 48 195 349
+II. NOTES SUR LES CAPITAUX PROPRES ET PASSIFS DU BILAN
+ CP‐ Capitaux propres
+Les mouvements sur les capitaux propres de la société se détaillent comme suit :
+Capitaux Affectations Capitaux
+Résultat
+Propres Et Dividendes Propres Au
+2025
+31/12/2024 Imputations 30/06/2025
+Capital Social 23 076 930 23 076 930
+Primes liées au capital 126 623 070 126 623 070
+Réserves Légales 2 307 693 2 307 693
+Autres réserves 45 589 055 742 600 46 331 655
+Résultats reportés 202 487 989 28 813 006 ‐19 377 698 211 923 297
+Résultat décembre 2024 29 813 006 ‐29 813 006 0
+Résultat juin 2025 21317 114 21 317 114
+TOTAL 429 897 743 ‐257 400 ‐19 377 698 21 317 114 431 579 759
+Le bénéfice distribuable est constitué du résultat comptable net majoré des résultats reportes après
+déduction des réserves prévues par les textes législatifs spéciaux et les réserves statutaires
+20
+ PA2‐Provision pour risques et charges
+Les provisions pour risques et charges s’élèvent au 30/06/2025 à 15 053 066 dinars et représentent des
+provisions pour risque fiscal, provision pour litiges et une provision pour indemnité de départ à la retraite.
+Le montant de la provision pour indemnité au 30 Juin 2025 est de 1 437 821 dinars compte tenu des
+provisions mathématiques et des provisions pour PB comptabilisées sur ce contrat
+ PA3‐ Provisions techniques brutes
+Les provisions techniques brutes s’élèvent au 30/06/2025 à 1 031 431 457 dinars contre
+983 484 244 dinars au 30/06/2024 et se détaillent comme suit :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Provision pour primes non acquises 140 518 755 130 476 110 110 249 254
+Provision Mathématiques Vie 122 594 568 100 820 758 111 141 143
+Provision pour Sinistres à Payer Vie 32 481 460 27 739 546 30 960 970
+Provision pour Sinistres à Payer non‐Vie 701 875 747 688 707 011 696 829 163
+Provision Mathématiques des Rentes 7 739 499 8 142 306 8 131 533
+Provision pour Part. des Ass. Aux Bénéfices Vie 2 498 717 1 775 500 1 775 055
+Prov Provision Part. des Ass. Aux Bénéfices et aux
+12 256 201 11 667 761 10 903 669
+ristournes non‐Vie
+Provision pour Égalisation décès 597 504 0 597 504
+Provision pour risques en cours 10 869 006 14 155 252 10 869 006
+TOTAL 1 031 431 457 983 484 244 981 457 298
+ PA5 Dettes pour dépôts en espèces reçus des cessionnaires
+Cette rubrique totalise au 30 Juin 2025 une valeur comptable de 36 231 094 dinars contre
+34 754 632 dinars au 30 Juin 2024 et se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Dépôts en garantie des PPNA 6 099 654 6 040 625 6 452 787
+Dépôts en garantie des PSAP 30 131 440 28 714 007 24 853 805
+TOTAL 36 231 094 34 754 632 31 306 592
+ PA6 Autres dettes
+Les autres dettes totalisent au 30 Juin 2025 une valeur comptable de 102 710 392 dinars contre de
+83 940 385 dinars au 30 juin 2024. Le détail de ce poste se présente comme suit :
+PA61‐ Dettes nées d’opérations d’assurance directe
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Siège, agents d'assurances et succursales 32412 849 15 101 665 21 621 558
+Autres Créditeurs 262 843 10 542 970 3 939 917
+TOTAL 32675 692 25 644 635 25 561 475
+PA62‐ Dettes nées d’opérations de réassurance
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Rétrocessionnaires 344 040 368 186 344 040
+Cédants 2257 167 2 302 895 2 287 398
+Cessionnaires 16964 263 12 438 444 14 880 031
+TOTAL 19565 470 15 109 525 17 511 469
+21
+PA63‐ Autres dettes
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Dépôts et cautionnements reçus 5 865 555 5 860 276 5 892 625
+Personnel 5 431 751 11 251 852 10 397 388
+État, Organisme de sécurité sociale 10099 171 10 433 833 10 733 873
+Autres Créditeurs divers 29072 753 15 640 264 11 857 749
+TOTAL 50469 230 43 186 225 38 881 636
+ PA7 Autres passifs
+PA71‐ Comptes de régularisation Passif
+PA710‐ Report des commissions reçues des réassureurs :
+Ce poste présente un solde de 3 035 750 dinars au 30/06/2025. Ce poste représente la part des
+commissions reçues des réassureurs qui doit être reportée aux exercices ultérieurs. Cette commission à
+reporter est évaluée en appliquant au montant des commissions reçues le taux des provisions pour primes
+non acquises sur les primes cédées par catégorie d’assurance.
+PA712‐ Autres comptes de régularisation passif :
+Ce poste présente un solde de 30 708 928 dinars au 30/06/2025 contre 25 075 114 dinars au 30/06/2024
+qui se détaille comme suit :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Charges à payer 19 429 600 11766 113 12 967 423
+Produits perçus ou comptabilisés d'avance 92 543 92 543 92 543
+Intérêts de retard des traites 415 449 416 372 416 372
+Intérêts sur les cautions 429 716 326 555 584 273
+Différence sur les prix de remboursements à percevoir 10 341 620 12 473 531 11 398 814
+TOTAL 30 708 928 25075 114 25 459 425
+NOTES SUR LES ETATS DE RESULTAT
+(les chiffres sont exprimés en DT : Dinars
+Tunisiens)
+1‐Primes émises et acceptées
+Les primes émises et acceptées nettes des cessions et rétrocessions des branches vie et non vie de la STAR
+ont atteint 223 937 832 dinars en juin 2025 contre 204 406 917 dinars en juin 2024, soit une augmentation
+de 19 530 915 dinars.
+Opérations Opérations Opérations Opérations
+Cessions
+Libellés brutes nettes au nettes au nettes au
+2025
+30/06/2025 30/06/2025 30/06/2024 31/12/2024
+Primes émises PRNV
+non vie 1 220 599 507 26 624 602 193 974 905 179 231 512 330 891 215
+Primes émises vie PRV1 30 344 427 381 500 29 962 927 25 175 405 51 381 189
+Total 250 943 934 27 006 102 223 937 832 204 406 917 382 272 404
+2 ‐ Charges de sinistres
+Les charges de sinistres nettes des cessions et rétrocession des branches vie et non vie se sont élevées à
+154 401 503 dinars en juin 2025 contre 157 501 930 dinars en juin 2024 enregistrant une diminution de
+3 100 429 dinars qui se détaille comme suit :
+22
+Opérations Opérations Opérations Opérations
+Cessions
+Libellés brutes nettes au nettes au nettes au
+2025
+30/06/2025 30/06/2025 30/06/2024 31/12/2024
+Non vie
+Montants payés CHNV11 147 908 530 ‐1 152 071 146 756 459 149 551 994 282 745 828
+Variation de la PSAP CHNV12 5 046 584 ‐4 275 337 771 247 759 303 12 888 044
+Total non‐vie 152 955 114 ‐5 427 408 147 527 706 150 311 297 295 633 873
+Vie
+Montants payés
+CHV11 6 560 512 0 6 560 512 6 264 860 11 632 404
+Cession vie
+Variation de la PSAP
+CHV12 1 520 490 ‐1 207 206 313 284 925 773 5 625 473
+Cession vie
+Total vie 8 081 002 ‐1 207 206 6 873 796 7 190 633 17 257 877
+Total général 161 036 116 ‐6 634 614 154 401 502 157 501 930 312 891 750
+3‐Variation des autres provisions techniques
+Cette rubrique totalise au 30 juin 2025 une valeur comptable de 11 061 391 dinars contre
+10 225 008 dinars au 30 juin 2024 et se détaille comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Non vie
+var. Provisions mathématiques rentes ‐392 034 ‐487 197 ‐497 970
+var. Provisions pour risques en cours 0 0 ‐ 3 286 246
+Total non‐vie CHNV2 ‐392 034 ‐487 197 ‐ 3 784 216
+Vie
+var. Provisions mathématiques 11 453 425 10 712 205 21 032 590
+var. Provision égalisation 0 0 597 504
+Total vie CHV2 11 453 425 10 712 205 21 630 094
+Total général 11 061 391 10 225 008 17 845 878
+4‐Participations aux bénéfices et ristournes
+Cette rubrique présente au 30 juin 2025 un solde net de cession pour les branches vie et non vie de
+3 497 860 dinars contre 3 112 447 dinars au 30 juin 2024 et se détaille comme suit :
+Opérations Opérations Opérations Opérations
+Cessions
+Libellés brutes nettes au nettes au nettes au
+2025
+30/06/2025 30/06/2025 30/06/2024 31/12/2024
+Non vie
+Participations aux
+3 267 602 792 218 2 475 384 1 065 722 4 609 898
+bénéfices payés
+Ristournes 269 987 0 269 987 1 510 859 1746 328
+Provisions pour
+8 139 0 8 139 8 139 ‐198 449
+participation aux bénéfices
+Provisions pour ristournes 20 502 20 502 20 502 ‐342 667
+Total non‐vie CHNV3 3 566 230 792 218 2 774 012 2 605 222 5 815 110
+Vie
+Participations aux
+0 0 0 0
+bénéfices payés
+Provisions pour
+723 848 723 848 507 225 506 780
+participation aux bénéfices
+Total vie CHV3 723 848 0 723 848 507 225 506 780
+Total général 4 290 078 3 497 860 3112 447 6 321 889
+23
+5‐Frais d'exploitation
+Les frais d’exploitation totalisent un montant pour les branches vie et non vie de 50 171 128 dinars au
+30 juin 2025 contre 41 457 920 dinars au 30 juin 2024 et se détaillent comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Non vie
+Frais d'acquisition ‐ 38 540 187 31932 037 61 249 238
+Var. des frais d'acquisition reportés ‐ 5 604 575 3 198 731 1 019 500
+Frais d'administration ‐ 19 135 549 14 852 456 26 368 280
+Commissions reçues des réassureurs + 6 478 205 6 265 608 11 049 965
+Total non‐vie CHNV4 45 592 956 37 320 154 75 948 053
+Vie
+Frais d'acquisition ‐ 3 400 264 3 441 666 6 699 527
+Frais d'administration ‐ 1 177 908 745 311 1 100 737
+Commissions reçues des réassureurs Vie + 0 49 211 50 024
+Total vie CHV4 4 578 172 4 137 766 7 750 240
+Total Général 50 171128 41 457 920 83 698 293
+6‐Autres charges techniques
+Les autres charges techniques totalisent un montant pour les branches vie et non vie de 7 976 963 dinars
+au 30 juin 2025 contre 5 782 399 dinars au 30 juin 2024 et se détaillent comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Non vie
+Autres charges techniques ‐ 7 469 376 5 453 201 14 793 614
+Total non‐vie CHNV5 7 469 376 5 453 201 14 793 614
+Vie
+Autres charges techniques ‐ 507 587 329 198 986 857
+Total vie CHV5 507 587 329 198 986 857
+Total Général 7 976 963 5 782 399 15 780 471
+7‐Autres Produits techniques
+Les autres produits techniques totalisent un montant pour les branches vie et non vie de 180 419 dinars au
+30 juin 2025 contre 190 139 au 30 juin 2024 et se détaillent comme suit :
+Libellés 30/06/2025 30/06/2024 31/12/2024
+Non vie
+Produits techniques PRNV2 180 419 190 139 380 700
+Vie
+Produits techniques PRV4 0 0 0
+Total 180 419 190 139 380 700
+8‐Produits et charges des placements
+Les produits des placements nets des charges totalisent un montant de 64 219 991 dinars au 30 juin 2025
+contre 55 341 564 dinars au 30 juin 2024 et se détaillent comme suit :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Produits des placements
+PRNT13 +
+Revenus des placements 59 861 164 55 940 037 99 819 028
+PRV23
+Revenus des placements immobiliers 80 447 187 576 406 475
+Revenus des obligations et autres titres à revenus fixes 38 804 784 40 267 604 80 731 544
+Revenus des participations 17 718 223 13 390 435 14 107 429
+Autres revenus 3 257 709 2 094 422 4 573 580
+Reprise de corrections de valeurs sur PRNT13 +
+443 657 2 420 855 2 640 393
+placements PRV23
+24
+Profits provenant de la réalisation des PRNT14 +
+6 356 663 1 153 336 3 583 298
+placements PRV24
+TOTAL 66 661 484 59 514 228 106 042 719
+Charges des placements
+CHNT11 +
+Charges de gestion des placements 934 315 1 028 641 2 721 530
+CHV91
+CHNT12 +
+Corrections de valeurs sur placements 1 506 959 2 793 966 3 422 620
+CHV92
+Pertes provenant de la réalisation des CHNT13 +
+219 138 350 057 632 264
+placements CHV93
+TOTAL 2 441 493 4 172 664 6 776 413
+Revenus nets 64 219 991 55 341 564 99 266 305
+9‐Frais Généraux par nature
+Les frais généraux totalisent un montant 52 336 688 dinars au 30 juin 2025 contre 48 332 435 dinars au
+30 juin 2024 et se détaillent comme suit :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Charges de personnel
+Salaires et compléments de salaires 19 920 935 22 361 153 46 212 172
+Charges sociales 8 208 507 7 929 170 17 532 140
+Autres charges 2 888 836 3 614 522 1 944 322
+Total charges de personnel 31 018 278 33 904 845 65 688 635
+Impôts et taxes 8 721 197 6 021 175 11 717 681
+Autres charges 12 597 213 8 406 415 23 463 047
+Total des charges par nature 52 336 688 48 332 435 100 869 363
+10‐ Charges de commissions
+Le montant des commissions servies aux Intermédiaires s’élevant à 26 456 290 dinars en juin 2025 contre
+23 394 583 en juin 2024.
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Commissions des agents d’assurances, courtiers et
+26 456 290 23 394 583 44 039 370
+bancassurances
+11‐Dotations aux amortissements et aux provisions
+Les dotations aux amortissements et aux provisions des créances totalisent un montant de 7 399 387 dinars
+au 30 juin 2025 contre 2 768 281 dinars au 30 juin 2024 et se détaillent comme suit :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Dotations aux amortissements 1 562 158 1 312 605 2 705 201
+Dotations aux provisions des créances 8 486 630 3206 378 3 042 436
+Reprises des provisions des créances ‐2 649 401 ‐1804 702 ‐3 820 364
+TOTAL 7 399 387 2 768 281 1 927 273
+25
+12‐ Ventilation par destination des frais généraux et des dotations
+La réglementation impose d’affecter aux comptes techniques les frais généraux, les commissions, les frais
+de gestion des placements ainsi que les dotations aux amortissements et aux provisions. Ces derniers sont
+repartis par des clés dans les destinations suivantes :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Total des charges affectées au compte technique Vie 5 767 899 5 294 330 10 383 641
+Total des charges affectées au compte technique Non‐Vie 79 321 275 67 106 841 134 007 993
+Frais de gestion des placements 628 654 652 399 1 340 465
+Total des charges non techniques 474 538 1 441 729 1 103 906
+TOTAL 86 192 365 74 495 299 146 836 005
+13‐ Passage du résultat comptable au résultat fiscal
+Résultat comptable 29 950 314
+Réintégrations 16 055 929
+Déductions ‐ 23 980 854
+Résultat fiscal 22 025 389
+Impôt sur les sociétés ‐ 8 633 200
+Contribution sociale de solidarité + ‐ 863 326
+Résultat Net au 30/06/2025 21 317 114
+14‐Ventilation des éléments extraordinaires et non techniques
+1- Les produits non techniques se détaillent comme suit :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Profits exceptionnels et sur exercices antérieurs 194 268 263 019 374 935
+Reprise sur provision pour risques et charges 2 576 418 2902 547 3047424
+Produits nets de cession 0 32 987 44 154
+Autres produits 207 450 206 500 408 964
+TOTAL 2 978 136 3405 053 3 875 477
+2- Les charges non techniques se détaillent comme suit :
+Désignation 30/06/2025 30/06/2024 31/12/2024
+Dotation provision pour risques et charges 1 995 000 3 447 400 2 454 816
+Autres charges non techniques 474 538 1 651 325 1 103 906
+Rémunérations des cautions 0 783 285 126
+TOTAL 2 469 538 5 099 508 3 843 848
+NOTES SUR L'ETAT DE FLUX DE TRESORERIE
+La trésorerie a atteint au 30/06/2025 un montant de 65 109655 dinars contre 28 180 945 dinars au
+31/12/2024, soit une variation positive de 36 928 710 dinars.
+Cette variation positive de trésorerie résulte principalement des flux de trésorerie liés à des activités
+d’exploitation.
+Les activités d’exploitation ont dégagé au cours du premier semestre 2025, un flux de trésorerie net positif
+de 74 245 617 dinars contre un flux de trésorerie positif de de 64 672 150 dinars en juin 2024.
+Les activités d’investissement ont dégagé au cours du premier semestre 2025, un flux de trésorerie net
+négatif de 17 940 318 dinars provenant, d’une part l’acquisition des immobilisations corporelles et
+incorporelles pour 3 222 122 dinars, et d’autre part de l’acquisition des titres de participation pour 20 626
+800 dinars et de la cession des actions pour 5 908 605 dinars.
+L'activité de financement a dégagé, au cours du premier semestre 2025, un flux de trésorerie négatif de
+19 376 590 dinars provenant de la distribution des dividendes.
+26
+ANNEXES
+(Les chiffres exprimés en Dinars Tunisiens)
+Société Tunisienne d’Assurances et de Réassurances « STAR » Juin
+2025
+28
+Société Tunisienne d’Assurances et de Réassurances « STAR » Juin 2025
+Annexe n° 9 : Etat récapitulatif des placements au 30/06/2025
+(Exprimé en dinar tunisien)
+Valeur brute Valeur nette Juste valeur
+Placements immobiliers et placements immobiliers en
+60 419 100 53 984 846 88 199 022
+cours
+Actions et autres titres à revenu variable autres que les
+97 246 481 65 612 784 251 295 874
+parts d'OPCVM
+Parts d'OPCVM 102 035 016 99 719 639 104 583 833
+Obligations et autres titres à revenu fixe 806 412 602 805 762 101 805 762 100
+Prêts au personnel 15 369 215 15 340 239 15 340 239
+Dépôts auprès des entreprises cédantes 4 624 584 4 624 584 4 624 584
+Autres 64 964 733 63 274 360 63 274 362
+1 151 071 1 108 318 1 333 080
+Total
+731 554 015
+Annexe N°11 : Ventilation des charges et des produits des placements
+Revenus et frais financiers concernant
+Autres revenus et frais
+Désignation les placements dans des entreprises Total
+financiers
+avec lien de participation
+Revenus des placements immobiliers 80 447 80 447
+Revenus des participations 13 520 949 4 197 274 17 718 223
+Revenus des autres placements 38 804 784 38 804 784
+Autres revenus financiers 3 257 709 3 257 709
+Total produits des placements 13 520 949 46 340 214 59 861 164
+intérêts 175 177 175 177
+frais externes et internes 130 484 130 484
+autres frais 628 654 628 654
+Total charges des placements 0 934 315 934 315
+29
+Société Tunisienne d’Assurances et de Réassurances « STAR » Juin 2025
+Annexe N° 12 : Résultat technique de la catégorie d'Assurance Vie au 30/06/2025
+(Exprimés en Dinars Tunisien)
+CATEGORIES Vie Déces Mixte Acceptation Total
+Primes émises 13 004 849 16 971 139 368 439 0 30 344 427
+charges de prestations -2 629 907 -3 290 825 -639 780 0 -6 560 512
+charges des provisions d'assurance vie et des autres provisions
+-10 982 287 -1 622 717 -368 911 0 -12 973 915
+techniques
+Solde de Souscription -607 345 12 057 597 -640 252 0 10 810 000
+Frais d'acquisition -1 423 745 -1 803 390 -173 129 0 -3 400 264
+Autres charges de gestion nettes -705 742 -893 933 -85 820 0 -1 685 495
+Charges d'acquisition et de gestion nettes -2 129 487 -2 697 323 -258 949 0 -5 085 759
+Produits nets de placements 1 938 162 3 609 790 234 543 0 5 782 495
+Participation aux résultats -720 616 0 -3 232 0 -723 848
+Solde Financier 1 217 546 3 609 790 231 311 0 5 058 647
+Part réassureurs /rétrocessionnaires dans
+les primes cédées 0 -381 500 0 0 -381 500
+les prestations payés 0 1 207 206 0 0 1 207 206
+les charges de provi. pour prestations 0 0 0 0 0
+la participation aux résultats 0 0 0 0 0
+Commissions reçues des réassureurs /rétrocessionnaires 0 0 0 0 0
+Solde de réassurance / rétrocession 0 825 706 0 0 825 706
+Résultat technique -1 519 286 13 795 770 -667 890 0 11 608 594
+Informations complémentaires
+Montant des rachats 2 500 876 0 639 780 0 3 140 656
+Intérets techniques bruts de l'exercice 0 0 0 0 0
+Provisions techniques brutes à la clôture 53 826 797 97 856 552 6 487 556 1 345 158 172 250
+Provisions techniques brutes à l'ouverture 42 124 080 96 233 835 6 115 412 1 345 144 474 672
+30
+Société Tunisienne d’Assurances et de Réassurances « STAR » Juin 2025
+Annexe N° 13 : Résultat technique de la catégorie d'Assurance Non-Vie au 30/06/2025
+(Exprimé en dinar tunisien)
+CATEGORIES GROUPE A.TRAVAIL INCENDIE RISQUES DIVERS TRANSPORT AVIATION AUTOMOBILE ACCEPTATION TOTAL
+PRIMES ACQUISES 65 655 312 0 6 411 435 11 626 904 4 059 714 2 449 256 99 394 331 733 054 190 330 006
+Primes émises 70 367 993 0 10 908 698 15 668 333 3 247 233 876 880 118 871 161 659 209 220 599 507
+Variation des Primes non acquises -4 712 681 0 -4 497 263 -4 041 429 812 481 1 572 376 -19 476 830 73 845 -30 269 501
+CHARGES DE PRESTATION -64 258 303 -296 210 -5 932 561 -7 080 466 -1 628 336 -235 195 -72 881 765 -250 244 -152 563 080
+Prestations et Frais payés -61 855 145 -712 682 -1 644 785 -4 967 148 -715 803 -194 878 -77 600 886 -217 203 -147 908 530
+Charges des provisions pour prestations diverses -2 403 158 416 472 -4 287 776 -2 113 318 -912 533 -40 317 4 719 121 -33 041 -4 654 550
+Solde de souscription 1 397 009 -296 210 478 874 4 546 438 2 431 378 2 214 061 26 512 566 482 810 37 766 926
+Frais d'acquisition -8 822 729 0 -1 111 091 -2 531 606 -864 763 -242 769 -19 213 424 -149 229 -32 935 611
+Autres charges de gestion nettes -5 114 430 -225 938 -2 443 890 -3 078 350 -1 001 414 -310 253 -13 931 036 -319 196 -26 424 507
+Charges d'acquisition et de gestion nettes -13 937 159 -225 938 -3 554 981 -5 609 956 -1 866 177 -553 022 -33 144 460 -468 425 -59 360 118
+Produits nets de placements 1 406 379 449 779 1 234 239 3 006 522 1 580 260 302 280 31 551 129 228 050 39 758 638
+Participation aux résultats -1 182 460 0 -642 114 -595 917 -152 323 896 -994 312 0 -3 566 230
+Solde Financier 223 919 449 779 592 125 2 410 605 1 427 937 303 176 30 556 817 228 050 36 192 408
+Part réassureurs /rétrocessionnaires dans
+les primes acquises -99 687 0 -7 149 481 -6 917 446 -3 220 802 -2 328 672 -6 605 076 -41 010 -26 362 174
+les prestations payés 16 367 0 459 506 659 880 16 318 0 0 0 1 152 071
+les charges de provi. pour prestations 0 0 2 104 272 681 401 270 805 -11 494 1 230 353 0 4 275 337
+la participation aux résultats 0 0 524 293 267 925 0 0 0 0 792 218
+Commissions reçues des réassureurs /rétrocessionnaires 21 931 0 1 832 255 1 144 386 681 474 102 632 2 695 527 0 6 478 205
+Solde de réassurance / rétrocession -61 389 0 -2 229 155 -4 163 854 -2 252 205 -2 237 534 -2 679 196 -41 010 -13 664 343
+Résultat technique -12 377 620 -72 369 -4 713 137 -2 816 767 -259 067 -273 319 21 245 727 201 425 934 873
+Informations complémentaires 0
+Provisions pour Primes non Acquises clôture 5 316 566 0 10 056 997 11 926 396 1 203 452 2 352 313 107 846 342 1 816 690 140 518 756
+Provisions pour Primes non Acquises Réouverture 603 885 0 5 559 734 7 884 967 2 015 933 3 924 689 88 369 512 1 890 534 110 249 254
+Provisions pour Sinistres à Payer clôture 23 631 198 1 463 927 18 941 821 54 697 183 31 374 192 2 304 363 566 514 773 2 948 289 701 875 746
+Provisions pour Sinistres à Payer Réouverture 21 228 039 1 488 366 14 654 045 52 583 865 30 461 660 2 264 046 571 233 894 2 915 248 696 829 163
+31
+Annexe N° 14 : Tableau récapitulatif des éléments constitutifs de la
+participation des assurés aux résultats techniques et financiers
+(Exprimé en dinars tunisien)
+Exercice
+Année d'inventaire
+2021 2022 2023 2024 2025
+Participation aux
+81 982 356 740 667 948 506 780 723 848
+résultats
+Participation
+0 0 0 0 0
+attribuée et payée
+Variation Prov.
+Participation 81 982 356 740 667 948 506 780 723 848
+bénéfice
+Provisions
+mathématiques 63 617 483 72 702 706 83 629 100 100 624 848 116 867 855
+moyennes
+Annexe n°15 : Tableau de raccordement du Résultat technique de la catégorie
+Vie au 30/06/2025
+(Exprimé en Dinars tunisiens)
+Total
+Primes Acquises PRV1 _1°Colonne 30 344 427
+Charges de prestations CHV1 _1°Colonne ‐6 560 512
+Charges des provisions d'assurance Vie et des autres provisions
+CHV2 _1°Colonne ‐12 973 915
+techniques
+Solde de souscription 10 810 000
+Frais d'acquisition CHV41+CHV42 ‐3 400 264
+PRV4‐
+Autres charges de gestion nettes ‐1 685 495
+CHV43+CHV5
+Charges d’acquisition et de gestion nettes ‐5 085 759
+Produits alloués, transférés à l'état de résultat non technique PRV2‐CHV9 5 782 495
+Participation aux résultats CHV3_1°Colonne ‐723 848
+Solde Financier 5 058 647
+Part des réassureurs dans les primes acquises PRV11 _ 2°Colonne ‐381 500
+Part des réassureurs dans les prestations payées CHV11_ 2°Colonne 0
+Part des réassureurs dans les charges de provisions CHV21_ 2°Colonne 1 207 206
+Part des réassureurs dans les participations aux résultats CHV3_ 2°Colonne 0
+Commissions reçues des réassureurs CHV44_ 2°Colonne 0
+Solde de réassurance 825 706
+Résultat technique 11 608 594
+Informations complémentaires
+Montant des rachats 3 140 656
+Intérêts technique bruts de l'exercice 0
+Provisions techniques brutes à la clôture 158 172 249
+Provisions techniques brutes à l'ouverture 144 474 672
+Annexe 16 : Tableau de raccordement du Résultat technique de la
+catégorie Non‐Vie au 30/06/2025
+(Exprimé en Dinars tunisiens)
+Total
+Primes Acquises 190 330 006
+Primes émises PRNV11_1°Colonne 220 599 507
+Variation des primes non acquises PRNV12 ‐30 269 501
+‐152 563
+Charges de prestations
+080
+Prestations et frais payés CHNV11_1°Colonne ‐147 908 530
+CHNV12+CHNV2+CHNV6_1°Colo
+Charges des provisions pour prestations diverses ‐4 654 550
+nne
+Solde de souscription 37 766 926
+Frais d'acquisition CHNV41+CHNV42 ‐32 935 611
+Autres charges de gestion nettes CHNV43+CHNV5‐PRNV2 ‐26 424 507
+Charges d’acquisition et de gestion nettes ‐59 360 118
+Produits nets des placements PRNT3 39 758 638
+Participations aux résultats CHNV3 ‐3 566 230
+Solde Financier 36 192 408
+Part des réassureurs dans les primes acquises PRNV11+PRNV12 _ 2°Colonne 26 362 174
+Part des réassureurs dans les prestations payées CHNV11 _ 2°Colonne ‐1 152 071
+Part des réassureurs dans les charges de provisions CHNV12 _ 2°Colonne ‐4 275 337
+Part des réassureurs dans les autres provisions
+0
+techniques
+Part des réassureurs dans la participation aux
+CHNV3_ 2°Colonne 792 218
+résultats
+Commissions reçues des réassureurs CHNV44 _ 2°Colonne 6 478 205
+Solde de réassurance 13 664 343
+Résultat technique 934 873
+Informations complémentaires
+Provisions pour Primes non Acquises clôture 140 518 755
+Provisions pour Primes non Acquises
+Réouverture 110 249 254
+Provisions pour Sinistres à Payer Clôture 701 875 747
+Provisions pour Sinistres à Payer Réouverture 696 829 163
+Autres provisions techniques clôture 30 864 706
+Autres provisions techniques Réouverture 29 904 208
+SOCIETE « ASSURANCES STAR »
+RAPPORT D’EXAMEN LIMITE SUR LES ETATS FINANCIERS INTERMEDIAIRES
+ARRETES AU 30 JUIN 2025
+Mesdames, Messieurs les actionnaires,
+De la Société Tunisienne d’Assurance et de Réassurance ‐ STAR
+9 rue de Palestine cité des affaires Kheireddine 2060 La Goulette
+Introduction
+Dans le cadre de notre mission de commissariat aux comptes de la Société Tunisienne d’Assurances
+et de Réassurances ‐ STAR, et en application des dispositions de l’article 21 bis de la loi n°94‐117 du
+14.novembre 1994 portant réorganisation du marché financier, telle que modifiée par la loi n°2005‐96 du
+18 octobre 2005 relative au renforcement de la sécurité des relations financières, nous avons procédé à un
+examen limité des états financiers intermédiaires de la Société Tunisienne d’Assurances et de
+Réassurances ‐ STAR arrêtés au 30 juin 2025 qui font apparaître un total net du bilan
+de 1 654 265 562 dinars et un résultat bénéficiaire de 21 317 114 dinars.
+La direction est responsable de l'établissement et de la présentation sincère de ces états financiers
+intermédiaires conformément aux normes comptables tunisiennes. Notre responsabilité est d'exprimer une
+conclusion sur ces états financiers intermédiaires sur la base de notre examen limité.
+Étendue de l'examen limité
+Nous avons effectué notre examen limité selon les normes de la profession applicables en Tunisie et
+relatives aux missions d’examen limité d’informations financières intermédiaires.
+Un examen limité d'informations financières intermédiaires consiste en des demandes d'informations,
+principalement auprès des personnes responsables des questions financières et comptables et dans la mise
+en œuvre de procédures analytiques et d'autres procédures d'examen limité. L'étendue d'un examen limité
+est très inférieure à celle d'un audit effectué selon les Normes ISA et, en conséquence, ne nous permet pas
+d'obtenir l'assurance que nous avons relevé tous les faits significatifs qu'un audit permettrait d'identifier.
+En conséquence, nous n'exprimons pas d'opinion d’audit.
+Conclusion
+Sur la base de notre examen limité, nous n’avons pas relevé de faits qui nous laissent à penser que les états
+financiers intermédiaires ci‐joints, ne donnent pas une image fidèle de la situation financière de la Société
+Tunisienne d’Assurances et de Réassurances ‐ STAR au 30 juin 2025, ainsi que de sa performance
+financière et des flux de trésorerie pour la période de six mois se terminant à cette date, conformément au
+système comptable applicable en Tunisie.
+Paragraphe d’observation
+Nous attirons l’attention à la note aux états financiers n°2.2 concernant l’évolution de l’outil comptable.
+Celle‐ci précise que la société effectue actuellement des travaux d’apurement des suspens liés à la migration
+vers l’ERP comptable Sage, opérationnel depuis le 1er janvier 2025.
+Notre conclusion n’est pas modifiée à l’égard de ce point
+Fait à Tunis, le 2 septembre 2025
+Les Co‐commissaires aux comptes
+P/ ECC MAZARS P/Conseil Audit Formation
+M. Mohamed Hédi KAMMOUN Mme Abir MATMTI

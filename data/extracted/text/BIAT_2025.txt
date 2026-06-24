@@ -1,0 +1,1769 @@
+Avis d es soci étés
+ETATS FINANCIERS
+Assurances BIAT
+Siège Social : Immeuble Assurances BIAT - Les Jardins du Lac- Lac II
+La société Assurances BIAT publie, ci-dessous, ses états financiers arrêtés au
+31 décembre 2025 tels qu’ils seront soumis à l’approbation de l’Assemblée Générale
+Ordinaire statuant sur l’exercice 2025. Ces états sont accompagnés des rapports général et
+spécial des commissaires aux comptes : M Chiheb GHANMI « La Générale d’Audit et
+Conseil » & M Cherif BEN ZINA (Cabinet CMC).
+Assurances BIAT Etats financiers au 31-12-2025
+Bilan
+Arrêté au 31 Décembre 2025
+(Unité : en Dinars)
+31/12/2025 31/12/2024
+ACTIFS Brut Amort. Net Net
+Provisions
+AC 1 Actifs incorporels
+AC12 Concessions, brevet, licences, marques 4 256 729 3 130 046 1 126 684 375 837
+AC13 Fonds de commerce - - -
+AC14 Acomptes versés 149 656 - 1 49 656 426 472
+4 406 385 3 130 046 1 276 339 802 308
+AC 2 Actifs corporels d'exploitation
+AC21 Installations techniques et machines 1 797 601 1 701 239 96 361 127 088
+AC22 Autres installations ,outillage et mobilier 4 250 635 3 603 155 647 480 692 824
+6 048 235 5 304 394 743 841 819 912
+AC 3 Placements
+AC31 Terrains et constructions
+AC311 Terrains et constructions d'exploitation 801 360 1 57 988 643 372 659 399
+AC312 Terrains et constructions hors exploitation 26 770 501 2 6 770 501 13 315 650
+AC32 Placements dans les entreprises liées et participations
+AC321 Part dans des entreprises liées
+AC322 Bons obligations émis par les entreprises liées et créances sur ces entreprises
+AC33 Autres placements financiers
+AC331 Actions autres titres a revenu variable et part dans FCP 38 649 329 6 831 345 31 817 984 29 434 694
+AC332 Obligations et autres titres a revenu fixe 615 365 325 6 15 365 325 568 597 765
+AC334 Autres prêts 532 339 5 32 339 767 888
+AC335 Dépôts auprès des établissements bancaires et financiers 360 000 000 3 60 000 000 226 500 000
+AC336 Autres dépôts - -
+AC34 Créances pour espèces déposées auprès des entreprises cé 684 590 6 84 590 645 584
+1 042 803 443 6 989 333 1 035 814 110 839 920 979
+AC 5 Part des réassureurs dans les provisions techniques
+AC510 Provisions pour primes non acquises 8 248 965 8 248 965 8 826 354
+AC520 Provisions d'assurance vie 1 983 719 1 983 719 337 909
+AC530 Provision pour sinistres (vie) 1 511 204 1 511 204 1 434 231
+AC531 Provision pour sinistres (non vie) 22 408 786 2 2 408 786 18 549 012
+AC540 Provision pour PB ( vie) - - -
+AC541 Provision pour PB ( Non vie) 734 086 7 34 086 713 232
+34 886 760 - 3 4 886 760 2 9 860 739
+AC 6 Créances
+AC61 Créances nées d'opérations d'assurance directe
+AC611 Primes acquises et non émises 2 315 565 2 315 565 1 911 915
+AC612 Autres créances nées d'opération d'assurance directe 25 141 408 1 1 326 518 13 814 890 12 287 950
+AC613 créances indemnisées subrogées a l'entreprise d'assuranc 4 183 582 1 690 300 2 493 281 3 566 629
+AC62 Créances nées d'opération de réassurance 4 742 002 8 24 088 3 917 913 4 199 191
+AC63 Autres créances - -
+AC631 Personnel 131 128 1 31 128 115 144
+AC632 Etat organismes de sécurité sociale collectivités publique 1 492 926 1 492 926 2 164 688
+AC633 Débiteurs divers 1 237 950 1 237 950 3 873 458
+39 244 561 1 3 840 907 25 403 654 28 118 976
+AC 7 Autres éléments d'actif
+AC71 Avoirs en banque, CCP, chèques et caisse 7 603 081 7 603 081 1 1 662 571
+AC72 Charges reportées
+AC721 Frais d'acquisition reportés 2 875 227 2 875 227 2 636 905
+AC722 Autres charges a repartir 366 097 3 66 097 798 478
+AC73 Comptes de régularisation actif
+AC731 Intérêts et loyers acquis non échus 22 054 609 2 2 054 609 17 491 122
+AC732 Estimations de réassurances - acceptation
+AC733 Autres comptes de régularisation 4 664 424 4 664 424 -
+AC74 Ecart de conversion
+AC75 Autres - -
+37 563 437 - 3 7 563 437 32 589 076
+TOTAL ACTIFS 1 164 952 822 2 9 264 680 1 135 688 143 932 111 990
+Assurances BIAT Etats financiers au 31-12-2025
+Bilan
+Arrêté au 31 Décembre 2025
+(Unité : en Dinars)
+CAPITAUX PROPRES ET PASSIFS 31/12/2025 31/12/2024
+CAPITAUX PROPRES
+CP1 Capital social ou fonds équivalent 2 2 000 000 2 2 000 000
+CP2 Réserves et primes liées au capital 4 5 536 597 3 7 537 661
+CP5 Résultats reportés 3 5 601 135 2 4 331 453
+Total capitaux propres avant résultat de l'exercice 103 137 732 8 3 869 114
+CP6 Résultat de l'exercice 2 5 648 843 1 9 869 682
+Total capitaux propres avant affectation 128 786 575 1 03 738 796
+PASSIFS
+PA1 Autres Passifs Financiers
+PA14 Dettes envers les établissements bancaires et financiers - -
+- -
+PA2 Provisions pour autres risques et charges
+PA23 Autres provisions 1 000 000 500 000
+1 000 000 500 000
+PA3 Provisions techniques brutes
+PA310 Provision pour primes non acquises 3 5 573 936 3 4 698 248
+PA320 Provision pour assurance vie 7 80 799 717 6 20 664 290
+PA330 Provision pour sinistres (vie) 25 026 258 2 1 788 353
+PA331 Provision pour sinistres (non vie) 1 00 004 135 91 186 390
+PA340 Provisions pour participation aux bénéfices et ristournes (vie) 1 3 227 388 9 753 967
+PA341 Provisions pour participation aux bénéfices et ristournes (non vie) 2 820 636 2 790 987
+PA350 Provision pour égalisation et équilibrage
+PA360 Autres provisions technique (vie)
+PA361 Autres provisions technique (non vie) - -
+957 452 071 780 882 234
+PA5 Dettes pour dépôts en espèces reçues des cessionnaires 18 745 975 1 7 362 687
+18 745 975 1 7 362 687
+PA6 Autres Dettes
+PA61 Dettes nées d'opérations d'assurances directe 5 984 929 4 898 998
+PA62 Dettes nées d'opérations de Réassurances 9 821 574 1 1 242 729
+PA621 Parts des réassureurs dans les créances indemnisées subrogées à l'entreprise d'assurance
+PA622 Autres
+PA63 Autres dettes
+PA631 Dépôts et cautionnements reçues
+PA632 Personnel 493 458 5 17 650
+PA633 Etat ,organismes de sécurités sociale,collectivités publiques 7 142 561 6 428 829
+PA634 Créditeurs divers 4 842 764 4 808 599
+PA64 Ressources spéciales
+28 285 286 2 7 896 806
+PA7 Autres passifs
+PA71 Comptes de régularisation passif
+PA710 Report commissions reçues des réassureurs 1 417 820 1 731 467
+PA711 Estimation de réassurance-rétrocession
+PA712 Autres comptes de régularisation passif 4 16 -
+PA72 Ecart de conversion
+1 418 236 1 731 467
+TOTAL CAPITAUX PROPRES ET PASSIFS 1 135 688 143 932 111 990
+Assurances BIAT Etats financiers au 31-12-2025
+Etat de résultat technique de l'assurance
+et / ou de la réassurance Non Vie
+Arrêté au 31 Décembre 2025
+(Unité : en Dinars)
+Opérations Brutes Cessions et Opérations Opérations
+31/12/2025 rétrocession Nettes Nettes
+31/12/2025 31/12/2025 31/12/2024
+PRNV 1 Primes acquises
+PRNV11 Primes émises et acceptées 109 765 361 -24 320 983 85 444 378 77 528 701
+PRNV12 Variation de la provision pour primes non acquises -875 689 -577 389 -1 453 078 -1 446 189
+108 889 672 -24 898 372 83 991 300 76 082 512
+Produits de placements alloués, transférés de
+PRNT3 11 403 450 11 403 450 10 527 675
+l'état de résultat
+PRNV2 Autres produits techniques 30 865 30 865 243 773
+CHNV1 Charges de sinistres
+CHNV11 Montants payés -68 695 757 13 243 449 -55 452 308 -49 819 872
+CHNV12 Variation de la provision pour sinistres -8 817 745 3 859 774 -4 957 972 -4 570 362
+-77 513 503 17 103 223 -60 410 280 -54 390 233
+CHNV 2 Variation des autres provisions techniques 0 0 6 328
+CHNV3 Participation aux bénéfices et ristournes -29 649 20 854 -8 795 -131 712
+CHNV 4 Frais d'exploitation
+CHNV41 Frais d'acquisition -20 707 842 -20 707 842 -19 635 890
+CHNV42 Variation du montant des frais d'acquisition reportés 238 321 313 647 551 968 -584 095
+CHNV43 Frais d'administration -10 345 156 -10 345 156 -11 377 199
+CHNV44 Commissions recues des réassureurs 5 699 534 5 699 534 5 968 714
+-30 814 677 6 013 181 -24 801 496 -25 628 469
+CHNV5 Autres charges techniques -592 108 -592 108 -395 643
+CHNV6 Variation de la provision pour égalisation et équlibrage 0 0
+Résultat technique de l’assurance et/ou
+RTNV6 11 966 159 -2 353 222 9 612 937 6 314 230
+de la réassurance non vie
+Assurances BIAT Etats financiers au 31-12-2025
+Etat de résultat technique de l'assurance
+et / ou de la réassurance Vie
+Arrêté au 31 Décembre 2025
+(Unité : en Dinars)
+Opérations Brutes Cessions et Opérations Opérations
+31/12/2025 rétrocession Nettes Nettes
+31/12/2025 31/12/2025 31/12/2024 (*)
+PRV 1 Primes acquises
+PRV11 Primes émises et acceptées 208 416 161 -3 807 409 204 608 752 165 286 914
+PRV2 Produits de placements
+PRV 2 1 Revenus des placements 66 786 280 66 786 280 53 076 609
+PRV 2 2 Produits des autres placements
+sous total 2 a 66 786 280 0 66 786 280 53 076 609
+PRV 2 3 Repise de correction de valeur sur placements 1 082 479 1 082 479 1 134 666
+PRV 2 4 Profits provenant de la réalisation des placements et de change 551 943 551 943 713 576
+sous total 2 1 634 423 0 1 634 423 1 848 242
+PR V3 Plus values non réalisées sur placements 0 0 0 0
+PR V4 Autres produits techniques 0 0 0 2 451
+CHV1 Charges de sinistres
+CHV11 Montants payés -62 245 124 483 196 -61 761 928 -43 338 503
+CHV12 Variation de la provision pour sinistres -3 237 905 76 973 -3 160 932 -1 175 539
+sous total 3 -65 483 029 560 169 -64 922 861 -44 514 041
+CHV 2 Variation des autres provisions techniques
+sous total 4 -160 135 427 1 645 810 -158 489 617 -132 650 501
+CHV3 Participation aux bénéfices et ristournes -3 473 422 1 598 567 -1 874 855 -2 283 621
+CHV 4 Frais d'exploitation
+CHV41 Frais d'acquisition -15 078 881 -15 078 881 -11 590 080
+CHV42 Variation du montant des frais d'acquisition reportés 0 0 0
+CHV43 Frais d'administration -2 499 571 -2 499 571 -2 160 984
+CHV44 Commission recues des réassureurs 299 058 299 058 226 104
+sous total 5 -17 578 451 299 058 -17 279 394 -13 524 960
+CHV5 Autres charges tecniques 0 0
+CH V9 Charges de placements
+CHV 91 Charges de gestion des placements y compris les charges d'intérêt 0 -45 634 -45 634 -120 124
+CHV 92 Correction de valeur sur placement -810 291 -810 291 -2 193 679
+CHV 93 Pertes provenant de la réalisation des placements
+sous total 6 - 810 291 -45 634 -855 925 -2 313 803
+CHV 10 Moins values non réalisées sur placements 0 0 0 0
+CHNT2 Produits de placements alloués, transférés à l'état de résultat 0 0 0 0
+RTV Résultat technique de l’assurance et/ou de la réassurance vie 29 356 244 250 560 29 606 804 24 927 289
+(*) Chiffres Retraités à des fins de comparabilité
+Assurances BIAT Etats financiers au 31-12-2025
+Etat de résultat
+Arrêté au 31 Décembre 2025
+(Unité : en Dinars)
+31/12/2025 31/12/2024 (*)
+RNTV Résultat technique de l'assurance et ou de la réassurance non vie 9 612 937 6 314 230
+RTV Résultat technique de l'assurance et ou de la réassurance vie 29 606 804 24 927 289
+PRNT1 Produits des placements
+PRNT11 Revenus des placements 18 007 023 16 690 269
+PRNT12 Produits des autres placements - -
+sous total 1 a 18 007 023 16 690 269
+PRNT13 Reprise de corrections de valeur sur placements 115 572 215 613
+PRNT14 Profits provenant de la réalisation des placements 107 072 481 773
+sous total 1 222 645 697 386
+PRNT3 Produits des placements alloués, transférés de l'état de résultat
+technique de l'assurance et /ou de la réassurance vie - -
+CHNT1 Charges des placements (assurances et /ou réassurances non vie) -112 444 -501 839
+CHNT11 Charges de gestion des placements y compris les charges d'intérêt -466 -104 332
+CHNT12 Correction des valeur sur placements -111 979 -365 209
+CHNT13 Pertes provenant de la réalisation des placements 0 -32 299
+CHNT2 Produits des placements alloués, transférés de l'état de résultat
+technique de l'assurance et /ou de la réassurance non vie -11 403 450 -10 527 675
+PRNT2 Autres produits non techniques 160 357 305 177
+CHNT3 Autres charges non techniques -1 441 697 -606 268
+Résultat provenant des activités ordinaires 44 652 175 37 298 570
+CHNT4 Impôts sur le résultat -15 836 109 -14 524 074
+CHNT42 Impôt sur les Sociétés -15 836 109 -14 524 074
+Résultat provenant des activités ordinaires après impôts 28 816 065 22 774 497
+PRNT4 Gains extraordinaires - -
+CHNT5 Pertes extraordinaires -3 167 222 - 2 904 815
+Résultat extraordinaire
+Résultat net de l'exercice 25 648 843 19 869 682
+(*) Chiffres Retraités à des fins de comparabilité
+Assurances BIAT Etats financiers au 31-12-2025
+Etat de flux de trésorerie
+Arrêté au 31 Décembre 2025
+(Unité : en Dinars)
+31/12/2025 31/12/2024
+Flux de trésorerie liés à l'exploitation
+- Encaissement des primes reçues des assurés 315 554 259 276 612 256
+- Sommes versées pour paiement des sinistres - 121 374 592 - 91 053 462
+- Encaissement des primes reçues acceptations 1 622 822 1 342 683
+- Sommes versées pour sinistres acceptations - 624 021 - 1 478 310
+- Commissions versées sur les acceptations - 440 777 - 275 498
+- Décaissements des primes pour les cessions - 24 787 918 - 34 468 636
+- Encaissement des sinistres pour les cessions 11 652 354 8 758 811
+- Commissions recues sur les Cessions 4 851 973 9 067 495
+- Commissions versées aux intermédiaires - 5 269 802 - 7 347 376
+- Sommes versées aux fournisseurs et au personnel - 27 357 934 - 25 193 563
+- Variation des dépôts auprés des cédantes 2 276 417 - 821 157
+- Variation des éspèces reçues des cessionnaires - -
+- Décaissements liés a l'acquisition des placements financiers - 7 670 766 425 -5 943 217 604
+- Encaissements liés a la cession des placements financiers 7 477 402 197 5 788 673 959
+- Taxes sur les assurances versées au trésor - 23 106 584 - 20 178 901
+- Produits financiers reçus 82 643 414 62 958 517
+- Impôt sur les bénéfices payés - 13 567 668 - 13 254 444
+Autres mouvements - 1 104 219 561 763
+Flux de trésorerie provenant de l'exploitation 7 603 495 1 0 686 533
+Flux de trésorerie liés aux activités d'investissements
+- Décaissement provenant de l'acquisition des immobilisations
+incorporelles et corporelles - 159 866 - 154 335
+- Décaissement provenant de l'acquisition des terrains et
+constructions destinés à l'exploitation - 9 193 818 - 4 909 949
+- Encaissement provenant de la cession d'immobilisations
+incorporelles et corporelles 64 300 -
+Flux de trésorerie provenant des activités d'investissements - 9 289 384 - 5 064 284
+Flux de trésorerie liés aux activités de financement
+- Encaissement suite à l'émission des actions - -
+- Dividendes et autres distributions - - 4 218 041
+- Augmentation/Dimunution des ressources spéciales
+Flux de trésorerie provenant des activités de financements - - 4 218 041
+incidence des variations de taux de change sur les liquidités ou équivalents d- 76 174 - 29 048
+Variation de trésorerie - 1 762 063 1 375 160
+Trésorerie de début d'exercice 6 450 751 5 075 591
+Trésorerie de fin d'exercice 4 688 688 6 450 751
+Assurances BIAT Etats financiers au 31-12-2025
+Tableau des engagements reçus et donnés
+Arrêté au 31 Décembre 2025
+(Unité : en Dinars)
+Rubriques 31/12/2025 31/12/2024
+HB1 Engagements reçus
+HB2 Engagements donnés
+HB21 Avals, cautions et garanties de crédit données
+HB22 Titres et actifs acquis avec engagement de revente
+HB23 Autres engagements sur titres, actifs ou revenus
+HB24 Autres engagements donnés
+HB3 Valeurs reçues en nantissement des cessionnaires et des Rétrocessionnaires
+HB4 Valeurs remises par des organismes réassurés avec caution solidaire ou de substitution
+HB5 Valeurs appartenant à des institutions de prévoyance
+HB6 Autres valeurs détenues par des tiers
+NOTES AUX ETATS FINANCIERS
+Arrêtées au 31/12/2025
+1. PRESENTATION DE LA SOCIETE
+ Dénomination : Assurances BIAT
+ Siège Social : Immeuble Assurances BIAT 1053 les berges du lac (lac II) – Tunis
+ Capital social : 22 000 000 de dinars divisés en 220 000 actions de valeur nominale 100
+dinars chacune entièrement libérées.
+ Nationalité : Tunisienne
+ Tél. : (216) 31 300 100
+ Fax : (216) 71 197 810
+ E-Mail : general@assurancesbiat.com.tn
+ Site internet : www.assurancesbiat.com.tn
+ Forme juridique : Société anonyme faisant appel public à l’épargne
+ Date de constitution : 11/06/1997
+ Durée : 99 ans
+ Exercice social : du 1er janvier au 31 décembre de chaque année
+ Régime fiscal : Droit commun
+ Registre du commerce : B160631997
+ Matricule fiscal : 0601492D
+ Législation applicable : Loi N° 92-24 du 9 mars 1992 portant promulgation du code des
+assurances
+ Branches exploitées : Toutes branches
+ Présentation des états financiers consolidés : Les états financiers consolidés sont établis
+par la société mère « BIAT ».
+2. FAITS MARQUANTS DE L’EXERCICE
+L’exercice 2025 a connu les faits marquants suivants :
+ Une évolution du chiffre d’affaires de 14 %, passant de 279,6 MD au 31 décembre 2024
+à 318,2 MD au 31 décembre 2025 ;
+ Un niveau de recouvrement de créances maitrisé dans un contexte économique
+difficile permettant d’atteindre un taux proche de 90 % ;
+ La refonte et le renforcement du dispositif commercial pour soutenir le
+développement de l’activité Non-Vie ;
+ La mise en place de l’application digitale « DIMA MAAK » qui offre un accès simple et
+centralisé aux principaux services pour les produits Automobile, MRH et Assistance
+Voyage ;
+ La continuation du projet de mise en place de la norme IFRS 17 ;
+ Le renforcement du réseau d’agents avec l’ouverture de trois nouvelles agences à Sfax
+et à Tunis ;
+ Clôture du contrôle fiscal approfondi pour la période 2020-2023 par la conclusion d’un
+arrangement avec l’administration fiscale.
+3. PRINCIPES ET METHODES COMPTABLES
+Les états financiers de la Société « Assurances BIAT » sont établis conformément aux dispositions
+prévues par la loi N° 96-112 du 30 décembre 1996 relative au système comptable des entreprises
+et aux dispositions prévues par l’arrêté du Ministre des Finances du 26 Juin 2000 portant
+approbation des normes comptables sectorielles relatives aux opérations spécifiques aux
+entreprises d’assurance et/ou de réassurance.
+Les états financiers sont établis en conformité avec le modèle fourni par la norme comptable NC
+26 relative à la présentation des états financiers des entreprises d’assurance et de réassurance.
+4. BASES DE MESURE ET PRINCIPES COMPTABLES PERTINENTS APPLIQUES
+Les états financiers de la société « Assurances BIAT » sont élaborés sur la base de la mesure des
+éléments du patrimoine au coût historique. Les principes comptables les plus significatifs se
+résument comme suit :
+4.1. ACTIFS INCORPORELS
+Les actifs incorporels sont constitués de logiciels informatiques et sont évalués au prix
+d’acquisition historique.
+Les actifs incorporels sont amortis linéairement sur une durée de 3 ans.
+4.2. ACTIFS CORPORELS D’EXPLOITATION
+Les actifs corporels d’exploitation comprennent le matériel de transport, le matériel
+informatique, le matériel et mobiliers de bureau et les aménagements, agencements et
+installations et sont évalués au prix d’acquisition historique.
+Les actifs corporels sont amortis sur la base des durées d’utilisation estimées.
+Les durées retenues à ce titre sont les suivantes :
+Durée Méthode
+Libellé
+d’utilisation D’amortissement
+- Mobiliers et matériels de bureaux 5 ans Linéaire
+- Matériel informatique 3 ans Linéaire
+- Matériel de transport 5 ans Linéaire
+- Agencements aménagements et 6 ans Linéaire
+installations 8mois
+-Terrains et constructions 50 ans Linéaire
+Les immobilisations dont la valeur est inférieure à 200 DT sont amorties intégralement dès la
+première année de leur acquisition.
+4.3. PLACEMENTS FINANCIERS
+Règles de prise en compte :
+La norme comptable N°26 relative à la présentation des états financiers des entreprises
+d’assurance et de réassurance classe les placements financiers en deux catégories :
+ Les placements dans des entreprises liées et participations.
+ Les autres placements financiers.
+Sont considérées comme entreprises liées, les entreprises entre lesquelles une influence notable
+est exercée directement ou indirectement. Les participations comprennent les parts dans le
+capital d’autres entreprises destinées à contribuer à l’activité de l’entreprise par la création
+d’un lien durable.
+Les placements financiers sont comptabilisés à leur coût d’acquisition hors frais accessoires
+d’achat. Ces frais sont constatés en charges de l’exercice.
+Règles d’évaluation :
+Titres à revenus variables :
+Les titres à revenus variables sont évalués au moindre du coût d’acquisition historique et de la
+valeur d’usage. Les corrections de valeurs, correspondant à l’écart négatif entre la valeur
+d’usage et le coût d’acquisition, ne sont pas maintenues lorsque les raisons qui les ont motivées
+ont cessé d’exister.
+La valeur d’usage est évaluée sur la base de :
+ La valeur de marché.
+ L’actif net.
+ Le résultat et perspectives de rentabilité de l’entreprise émettrice.
+Les obligations et autres titres à revenus fixes :
+• Coût d'entrée des placements :
+Les obligations et autres titres à revenus fixes sont portés à l'actif pour leur prix d'acquisition
+hors frais accessoires sur achats et hors coupon couru à l'achat.
+Les frais accessoires d'achat sont enregistrés en charges de l'exercice. Le montant du coupon
+couru à l'achat est enregistré en produits en tant que revenu des placements.
+Lorsque le prix d'acquisition d'un titre dépasse son prix de remboursement, la différence doit
+être prise en charge par le biais du compte "dotations des différences sur prix de
+remboursement" avec pour contrepartie un compte de régularisation passif. Cette différence
+doit être échelonnée sur la durée de vie résiduelle du titre de façon linéaire ou actuarielle.
+Lorsque le prix d'acquisition d'un titre est inférieur à son prix de remboursement, la
+différence doit être prise en produits par le biais du compte "différence sur prix de
+remboursement à percevoir" avec pour contrepartie un compte de régularisation actif. Cette
+différence doit être portée en résultat de manière échelonnée sur la durée de vie résiduelle
+du titre.
+• Evaluation des placements en date d'arrêté :
+La différence entre le prix d'acquisition d'un titre et son prix de remboursement doit être :
+o Portée en charge, au cas où le prix d'acquisition dépasse le prix de remboursement.
+o Portée en produits, au cas où le prix d'acquisition est inférieur au prix de remboursement.
+o Pour le rattachement des charges et des produits, la différence est prise en compte dans
+les résultats de manière étalée sur la durée de vie résiduelle des titres.
+4.4. LES PROVISIONS TECHNIQUES
+L’évaluation des provisions techniques est déterminée selon les méthodes prévues par l’arrêté
+du Ministre de finances du 27-02-2001 fixant la liste, le mode de calcul des provisions techniques
+et les conditions de leur représentation.
+Des provisions techniques suffisantes sont constituées pour permettre à l’entreprise d’honorer,
+dans la mesure de ce qui est raisonnablement prévisible, les engagements résultant des contrats
+d’assurance.
+Provision pour primes non acquises :
+Les primes émises représentent tous les montants de primes reçus ou à recevoir au titre des
+contrats d’assurance conclus avant la clôture de l’exercice.
+La partie des primes émises qui se rapporte à un ou plusieurs exercices ultérieurs est différée
+par le biais de la dotation à la provision pour primes non acquises, calculée au prorata temporis
+séparément pour chaque contrat d’assurance.
+Provision d’assurance Vie
+La provision mathématique des contrats d’assurance Vie, comprend la valeur actuarielle des
+engagements de l’entreprise, nets des primes futures (méthodes prospectives). Elle est calculée
+séparément contrat par contrat.
+Pour chaque année et pour chaque produit, les bases techniques utilisées pour le calcul des
+provisions sont celles qui sont utilisées pour la constitution du tarif.
+La provision mathématique des contrats temporaire décès est calculée séparément contrat par
+contrat sur la base des tables de mortalité admises en Tunisie.
+En application des dispositions de l’Arrêté du Ministre de Finances du 05-01-2009, Assurances
+BIAT a calculé la provision mathématique de tout le portefeuille en fonction de la Table de
+Mortalité Tunisienne TM 99.
+Provisions pour sinistres
+Les provisions pour sinistres correspondent au coût total estimé (y compris les frais de gestion)
+du règlement de tous les sinistres survenus à la clôture de l’exercice, déclarés ou non,
+déduction faite des sommes déjà payées au titre de ces sinistres.
+Les provisions pour sinistres résultent d’un calcul séparé pour chaque sinistre qui exclut tout
+escompte ou déduction.
+Autres provisions techniques
+Les autres provisions techniques sont composées de la provision pour risques en cours destinée à
+couvrir les risques à assumer par l’entreprise après la fin de l’exercice, de manière à pouvoir
+faire face à toutes les demandes d’indemnisation et à tous les frais liés aux contrats d’assurance
+/ traités de réassurance en cours, excédant le montant des primes non acquises et des primes
+exigibles relatives aux dits contrats.
+4.5. CREANCES
+Cette rubrique comporte les créances nées d’opération d’assurance directe, les créances nées
+d’opérations de réassurance et les autres créances.
+Créances nées d’opération d’assurance directe :
+Les créances nées d’opération d’assurance directe enregistrent les créances sur les assurés et
+les intermédiaires d’assurance, les créances sur les co-assureurs, les primes acquises et non
+émises brutes ainsi que les créances nées de la subrogation de la compagnie dans les droits de
+l’assuré.
+Provisions pour dépréciation des créances :
+- Les pr ovisions pour dépréciation des créances sur les assurés et les intermédiaires
+d’assurances (hors créances contentieuses) sont constatées sur la base des taux de
+provisionnement telles que prévues par la circulaire CGA N°1/2021 du 01 Décembre 2021
+soit :
+o Taux appliqués sur créances en cours pour les Courtiers & les Agents
+d'Assurances (N et années antérieurs : 100%).
+o Taux appliqués sur créances en cours pour le Réseau direct (N : 0% ; N-1 : 20% ;
+N-2 et antérieurs : 100%).
+- Les provisions pour dépréciation des créances IDA-HIDA sont constatées sur la base des taux
+de provisionnement suivants (N : 0% ; N-1 : 20% ; N-2 : 50% ; N-3 et antérieurs : 100%).
+Créances nées d’opération de réassurance :
+Les créances nées d’opérations de réassurance comprennent les soldes débiteurs des comptes
+courants des réassureurs, des courtiers de réassurance et des cédantes.
+Une provision pour dépréciation des créances est constituée sur la base des taux de
+provisionnement suivants (N : 0% ; N-1 : 20% ; N-2 : 50% ; N-3 et antérieurs : 100%).
+Autres créances
+Les autres créances comprennent les créances sur le personnel, l’Etat, les organismes de
+sécurité sociale et les collectivités publiques ainsi que les autres débiteurs divers.
+4.6. REPARTITION DES CHARGES
+Conformément aux normes comptables relatives au secteur des assurances, les charges sont
+présentées dans les états financiers non pas par nature de charges mais en fonction des grandes
+destinations. La répartition des charges par nature dans les comptes de charges par destination
+doit être réalisée à l’aide de clés de répartition qui doivent être fondées sur des critères
+quantitatifs objectifs, appropriés et contrôlables, directement liés à la nature des charges.
+La méthode adoptée par Assurances BIAT est basée sur des clés de répartition des charges
+suivant une affectation par branche d’activité et par type de charges (Administration,
+Acquisition et Gestion des Sinistres) au prorata des salaires.
+NOTES EXPLICATIVES
+(Les chiffres sont exprimés en DT : Dinars Tunisiens)
+A) NOTES SUR LE BILAN
+I. NOTES SUR L’ACTIF DU BILAN
+AC 1- Actifs incorporels :
+Les actifs incorporels se composent exclusivement de logiciels informatiques dont
+l’amortissement s’effectue linéairement sur 3 ans. Ils totalisent au 31/12/2025 un montant net
+de 1 276 339 DT et se détaillent comme suit :
+Passage Amortissements
+Valeur Valeur Valeur
+d’immobilisation
+Libellé Brute au Brute au Dotations nette
+Acquisitions en cours à 01/01/25 31/12/25
+31/12/2024 31/12/2025 2025 2025
+Immobilisation
+Logiciels 3 229 821 491 406 535 503 4 256 729 2 853 984 276 062 3 130 046 1 126 684
+Logiciels En
+426 472 258 687 -535 503 149 656 0 0 149 656
+Cours
+Total 3 656 292 750 093 0 4 406 385 2 853 984 276 062 3 130 046 1 276 339
+AC2 - Actifs corporels d’exploitation
+Les immobilisations corporelles totalisent au 31/12/2025 un montant net de 743 841 DT et se
+détaillent comme suit :
+Valeur Valeur Brute Amortissements
+Libellé Brute au Acquisitions Cessions au Valeur nette 2025
+Dotations
+31/12/2024 31/12/2025 01/01/25 Cessions 31/12/25
+2025
+Aménagements, Agencements et Installations 1 758 635 38 966 1 797 601 1 631 547 69 693 0 1 701 239 96 361
+Matériels de transport 578 079 -81 301 496 779 284 553 82 088 -81 301 285 340 211 438
+Matériels informatique 2 646 700 289 378 -134 394 2 801 685 2 288 186 252 057 -134 394 2 405 849 395 836
+Mobiliers et Matériels de Bureau 1 019 881 23 256 -90 966 952 171 979 099 23 834 -90 966 911 966 40 205
+Total 6 003 296 351 600 -306 661 6 048 235 5 183 384 427 671 -306 661 5 304 394 743 841
+AC3 - Placements
+Les placements totalisent au 31/12/2025 un montant net de 1 035 814 110 DT contre un
+montant de 839 920 979 DT au 31/12/2024 soit une augmentation de 195 893 131 DT et se
+détaillent comme suit :
+Libellé 31/12/2025 31/12/2024
+Placement immobiliers AC31 27 571 861 14 117 010
+Actions autres titres a revenu variable et part dans les FCP AC331 38 649 329 35 459 830
+Obligations et autres titres a revenu fixe AC332 615 365 325 568 597 765
+Autres prêts 532 339 767 888
+Dépôts auprès des établissements bancaires et financiers AC335 360 000 000 226 500 000
+Créances pour espèces déposées auprès des entreprises cédantes 684 590 645 584
+Amortissements construction d'exploitation AC31 -157 988 -141 961
+Provisions pour dépréciation des Placements AC331 -6 831 345 -6 025 135
+Total 1 035 814 110 839 920 979
+AC31– Placements immobiliers
+Libellé 31/12/2025 31/12/2024 Variation
+Constructions 801 360 801 360 0
+Terrains 11 380 199 11 380 199 0
+Constructions en cours 15 390 302 1 935 452 13 454 851
+Total 1 27 571 861 14 117 010 13 454 851
+Amortissements construction d'exploitation -157 988 -141 961 -16 027
+Total 2 27 413 873 13 975 049 13 438 824
+AC331– Actions autres titres à revenu variable et part dans FCP
+Libellé 31/12/2025 31/12/2024 Variation
+Actions cotées 2 620 060 2 284 241 335 819
+Actions non cotées 18 268 657 19 793 657 -1 525 000
+Actions OPCVM 17 760 612 13 381 932 4 378 680
+Total1 38 649 329 35 459 830 3 189 499
+Provisions pour dépréciation des Placements -6 831 345 -6 025 135 -806 210
+Total 2 31 817 984 29 434 694 2 383 289
+AC332– Obligations et autres titres à revenu fixe
+Libellé 31/12/2025 31/12/2024 Variation
+Placements BTA 124 202 325 110 950 765 13 251 560
+Emprunts Emis par l'ETAT 80 000 000 84 000 000 -4 000 000
+Emprunts obligataires privés 411 163 000 373 647 000 37 516 000
+Total 615 365 325 568 597 765 46 767 560
+AC333– Dépôts auprès des établissements bancaires et financiers
+Ce poste totalise au 31/12/2025 un montant net des provisions de 360 000 000 DT contre
+226 500 000 DT au 31/12/2024 soit une évolution de 133 500 000 DT et comporte principalement
+des certificats de dépôts.
+AC5 - Part des réassureurs dans les provisions techniques
+La part des réassureurs dans les provisions techniques totalise au 31/12/2025 un montant net de
+34 886 760 DT contre 29 860 739 DT au 31/12/2024 soit une évolution de 5 026 022 DT. Cette
+rubrique est détaillée comme suit :
+Libellé 31/12/2025 31/12/2024 Variation
+- Provisions pour primes non acquises AC510 8 248 965 8 826 354 -577 389
+- Provisions d'assurances vie 1 983 719 337 909 1 645 810
+- Provisions pour sinistres vie 1 511 204 1 434 231 76 973
+- Provisions pour sinistres non-vie AC531 22 408 786 18 549 012 3 859 774
+- Provision pour Participation aux Bénéfices Non-vie (PB) 734 086 713 232 20 854
+Total 34 886 760 29 860 739 5 026 022
+AC510– Provisions pour primes non acquises
+Libellé 31/12/2025 31/12/2024 Variation
+-Transport 843 357 1 239 725 -396 367
+- Incendie 2 057 632 1 721 389 336 243
+- Construction 4 695 430 5 230 514 -535 084
+- Responsabilité civile Général 248 351 245 861 2 490
+- Risque Divers 119 312 71 558 47 755
+- Groupe Maladie 284 883 317 308 -32 425
+Total 8 248 965 8 826 354 -577 389
+AC531– Provisions pour sinistres non-vie
+Libellé 31/12/2025 31/12/2024 Variation
+-Automobile 4 241 016 4 876 451 -635 435
+-Transport 3 919 708 2 245 902 1 673 805
+7 083 810 5 131 506 1 952 304
+- Incendie
+- Construction 1 151 938 1 128 135 23 803
+- Responsabilité civile Général 923 161 676 139 247 022
+- Risque Divers 1 634 223 2 024 850 -390 628
+- Groupe Maladie 715 931 486 078 229 854
+- Accidents Corporels 2 738 999 1 979 951 759 048
+Total 22 408 786 18 549 012 3 859 774
+AC6 - Créances
+Le poste créances totalise au 31/12/2025 un montant net des provisions de 25 403 654 DT contre
+28 118 976 DT au 31/12/2024 soit une baisse de -2 715 321DT :
+AC611– Primes Acquises et non émises
+Libellé 31/12/2025 31/12/2024 Variation
+- Primes acquises non émises Transports 107 862 73 436 34 426
+Primes acquises non émises Incendie 0
+- Primes acquises non émises Risques Divers 22 025 22 025 0
+- Primes acquises non émises Responsabilité civile Général 83 643 87 533 -3 890
+- Primes acquises non émises Groupe Maladie 1 428 067 1 324 162 103 905
+- Primes acquises non émises Accidents Corporels 373 721 174 374 199 347
+- Primes acquises non émises Vie 300 247 230 386 69 862
+Total 2 315 565 1 911 915 403 650
+AC612– Créances nées d’opération d’assurances directe
+Libellé 31/12/2025 31/12/2024 Variation
+-Contentieux primes, chèques et effets impayés 5 439 739 5 496 287 -56 548
+- Créances affaires directes en cours 14 854 227 13 933 230 920 997
+- Créances courtiers d'assurances en cours 4 847 442 3 223 368 1 624 074
+- Provisions pour créances douteuses (*) -11 326 518 -10 364 936 -961 582
+Total 13 814 890 12 287 950 1 526 941
+(*) Au 31/12/2025 Assurances BIAT a constaté une provision pour créances douteuses pour un
+montant de 11 326 518 DT calculée conformément à la circulaire CGA N°1/2021 du 01 Décembre
+2021 soit :
+ Provision pour créances contentieuses provisionnée à 100%.
+ Provision pour effets et chèques retournés impayés provisionnée à 100%.
+ Pour les autres créances une provision a été provisionnée comme suit :
+Exercice
+Exercice Exercice
+2023 et
+2025 2024
+Ant
+Taux appliqués sur créances en cours pour les Courtiers & les Agents d'Assurances 100% 100% 100%
+Exercice
+Exercice Exercice
+2023 et
+2025 2024
+Ant
+Taux appliqués sur créances en cours pour le Réseau direct 0% 20% 100%
+AC613 – Créances indemnisées subrogées à l’entreprise d’assurances
+Au 31/12/2025 ce poste totalise un montant total net de 2 493 281 DT contre 3 566 629 DT au
+31/12/2024 soit une baisse de -1 073 348DT.
+Au 31/12/2025, Assurances BIAT a constaté une provision pour créances douteuses pour un
+montant de 1 690 300 DT calculées comme suit :
+Exercice
+2022 et
+Exercice 2025 Exercice 2024 Exercice 2023 Antérieurs
+Taux appliqués sur créances en cours 0% 20% 50% 100%
+AC62 – Créances nées d’opération de réassurances
+Ce poste totalise au 31/12/2025 un montant net de 3 917 913 DT contre 4 199 191 DT au
+31/12/2024 soit une baisse de -281 278 DT.
+Au 31/12/2025, Assurances BIAT a constaté une provision pour créances douteuses d’un montant
+de 824 088 DT calculée comme suit :
+Exercice Exercice Exercice Exercice 2022
+2025 2024 2023 et Antérieurs
+Taux appliqués sur créances de réassurances 0% 20% 50% 100%
+AC63 – Autres Créances
+Libellé 31/12/2025 31/12/2024 Variation
+- Personnel 131 128 115 144 15 984
+- Etat organismes de sécurité sociale collectivités publiques 1 492 926 2 164 688 -671 762
+-Débiteurs divers (*) 1 237 950 3 873 458 -2 635 507
+Total 2 862 005 6 153 290 -3 291 285
+(*) Dont un montant de 998 350 DT relatif aux avances sur construction Siège.
+AC7 - Autres éléments d’actif
+AC71 – Caisses et avoirs en banques
+Ce poste présente un solde total au 31/12/2025 de 7 603 081 DT contre 11 662 571 DT au
+31/12/2024.
+Libellé 31/12/2025 31/12/2024 Variation
+- Comptes courants bancaires 4 682 246 6 448 611 -1 766 365
+- Caisse 6 442 2 140 4 302
+- Valeurs a l'encaissement 1 905 699 4 340 061 -2 434 361
+- Caisse du trésor public 1 008 693 871 759 136 934
+Total 7 603 081 11 662 571 -4 059 490
+AC721 – Frais d’acquisitions reportés
+Ce sont les frais d’acquisition des contrats pour la fraction non imputable à l’exercice 2025, le
+solde est de 2 875 227 DT répartis par branche comme suit :
+Libellé 31/12/2025 31/12/2024 Variation
+- Frais d’acquisition reportés Automobile 1 218 761 987 794 230 968
+- Frais d’acquisition reportés Transports 56 580 90 138 -33 557
+- Frais d’acquisition reportés Incendie 1 228 474 1 152 677 75 797
+- Frais d’acquisition reportés Risques Divers 26 701 18 755 7 946
+- Frais d’acquisition reportés Responsabilité civile Général 254 794 298 850 -44 055
+- Frais d’acquisition reportés Construction 70 374 67 426 2 948
+- Frais d’acquisition reportés Maladie 430 562 -132
+- Frais d’acquisition reportés Accidents Corporels 19 111 20 703 -1 593
+Total 2 875 227 2 636 905 238 321
+AC722 – Autres charges à répartir
+Ils présentent un montant total de 366 097 DT au 31/12/2025 contre 798 478 DT au 31/12/2024.
+AC731 – Intérêts et loyers acquis et non échus
+Ce sont les intérêts courus et non échus sur les placements (emprunts obligataires et bons de
+trésor…), ils présentent au 31/12/2025 un montant net de 22 054 609 DT contre 17 491 122 DT
+au 31/12/2024.
+Libellé 31/12/2025 31/12/2024 Variation
+- Intérêts courus non échus 23 153 840 18 599 373 4 554 468
+- Produits constatés d'avance (Billet de trésorerie et certificat de dépôt) -1 099 231 -1 108 251 9 019
+Total 22 054 609 17 491 122 4 563 487
+II. NOTES SUR LES CAPITAUX PROPRES ET PASSIFS DU BILAN
+CP - CAPITAUX PROPRES
+A la date du 31/12/2025, le capital social s'élève à 22 MDT composé de 220 000 actions d'une
+valeur nominale de 100 DT libéré en totalité. Les mouvements sur les capitaux propres de la
+société se détaillent comme suit :
+Rés. Pour Rés. Pour
+Résultats
+Réserves Prime Réinvestissem Réinvestissemen Réserves pour Résultats de
+Capital reportés 2024 Total
+Légales d'émissions ents exonérés ts exonérés Fonds Socilal l'exercice
+et antérieurs
+disponibles indisponibles
+Solde au 31 12 2024 Avant
+22 000 000 2 200 000 4 800 000 0 30 000 000 537 661 24 331 453 19 869 682 103 738 796
+affectation
+Augmentation du capital 0
+Réaffectation des réserves -601 064 -601 064
+Autres Mouvements 0
+-Réserves Légales 0
+-Réserve pour réinvestissement 8 000 000 -8 000 000 0
+-Dividendes 0 0
+-Fonds Social 600 000 -600 000 0
+-Résultats reportés 11 269 682 -11 269 682 0
+-Réserves Extraordinaires 0
+Résultat net 31 12 2025 25 648 843 25 648 843
+Solde au 31 12 2025 Avant
+22 000 000 2 200 000 4 800 000 0 38 000 000 536 597 35 601 135 25 648 843 128 786 575
+affectation
+PA3 - Provisions techniques brutes
+Les provisions techniques de l’exercice totalisent 957 452 071 DT contre 780 882 234 DT en 2024
+soit une augmentation de 176 569 837 DT. Ces provisions se répartissent comme suit :
+PA310 - Les provisions pour primes non acquises
+Les provisions pour primes non acquises totalisent 35 573 936 DT en 2025 contre 34 698 248 DT
+en 2024 soit une évolution de 875 689 DT détaillée par branches comme suit :
+Libellé 31/12/2025 31/12/2024 Variation
+- Auto 16 402 067 14 856 907 1 545 160
+-Transports 979 813 1 443 737 -463 924
+- Incendie 10 504 914 9 745 608 759 305
+- Constructions 5 230 980 5 870 026 -639 046
+- Responsabilité civile Général 1 684 981 2 027 578 -342 597
+- Risque Divers 283 020 224 719 58 301
+- Groupe Maladie 335 156 373 304 -38 148
+- Accidents Corporels 153 006 156 369 -3 363
+Total 35 573 936 34 698 248 875 689
+PA320 - Les provisions pour assurances vie (provisions mathématiques vie)
+Les provisions mathématiques vie totalisent 780 799 717 DT au 31/12/2025, contre 620 664 290
+DT au 31/12/2024 soit une évolution de 160 135 427 DT.
+PA330 - Les provisions pour sinistres vie
+Au 31/12/2025, les provisions pour sinistres vie sont évaluées à 25 026 258 DT contre
+21 788 353 DT en 2024 soit une évolution de 3 237 905 DT.
+PA331 - Les provisions pour sinistres non-vie (net des prévisions pour recours à encaisser)
+Les provisions pour sinistres non-vie totalisent au 31/12/2025 un montant de 100 004 135 DT
+contre 91 186 390 DT en 2024 soit une évolution de 8 817 745 DT détaillée par branches comme
+suit :
+Montant au 31/12/2025 Montant au 31/12/2024 Variation
+Provisions Prévisions Provisions Prévisions Provisions
+Prévisions
+Libellé pour de recours pour de recours Montant pour Montant
+Montant net de recours
+sinistres à à sinistres à à net sinistres à net
+à encaisser
+payer encaisser payer encaisser payer
+- Auto 65 774 825 2 175 680 63 599 145 64 957 413 2 137 304 62 820 109 817 412 38 376 779 036
+-Transports 4 802 506 4 802 506 2 949 178 2 949 178 1 853 328 0 1 853 328
+- Incendie 12 114 312 12 114 312 9 216 526 9 216 526 2 897 786 0 2 897 786
+- Constructions 1 807 217 1 807 217 1 754 733 1 754 733 52 484 0 52 484
+- Responsabilité civile Général 5 426 004 5 426 004 4 775 650 4 775 650 650 354 0 650 354
+- Risque Divers 2 593 179 2 593 179 2 319 451 2 319 451 273 729 0 273 729
+- Assistances 159 183 159 183 110 165 110 165 49 018 0 49 018
+- Groupe Maladie 4 624 022 4 624 022 3 103 740 3 103 740 1 520 282 0 1 520 282
+- Accidents Corporels 4 878 566 4 878 566 4 136 838 4 136 838 741 728 0 741 728
+Total 102 179 815 2 175 680 100 004 135 93 323 694 2 137 304 91 186 390 8 856 122 38 376 8 817 745
+PA340 -Provisions pour participation aux bénéfices et ristournes (vie)
+Ces provisions présentent un solde de 13 227 388 DT contre 9 753 967 DT en 2024, et comporte
+principalement la participation aux bénéfices concernant la branche Epargne.
+PA341 -Provisions pour participation aux bénéfices et ristournes (non-vie)
+Ces provisions présentent un solde de 2 820 636 DT contre 2 790 987 DT en 2024 et concernant
+les branches Santé, Transport et IRDS.
+PA5 - Dettes pour dépôt espèces reçues des cessionnaires
+Le solde de ce poste au 31/12/2025 est de 18 745 975 DT contre 17 362 687 DT en 2024. Il
+enregistre les dettes envers les cessionnaires (réassureurs) relatives aux dépôts en garantie des
+provisions techniques.
+PA6 - Autres dettes
+Le solde du poste « Autres dettes » s’élève au 31/12/2025 à 28 285 286 DT contre 27 896 806 DT
+au 31/12/2024 (dont principalement dettes envers réassureurs de 9 821 574 DT).
+PA7 - Autres passifs
+Le solde de ce poste au 31/12/2025 est de 1 418 236 DT contre 1 731 467 DT au 31/12/2024 (il
+enregistre le report des commissions reçues des réassureurs).
+B) NOTES SUR L’ETAT DE RESULTAT
+1) ETAT DE RESULTAT TECHNIQUE DE L’ASSURANCE VIE
+PRV1 - Primes acquises
+Le poste « Primes acquises » de l’exercice totalise 204 608 752 DT contre 165 286 914 DT en
+2024 soit une évolution de 39 321 838 DT détaillée comme suit :
+Libellé 31/12/2025 31/12/2024 Variation
+Primes émises et acceptés nettes d'annulations et ristournes 208 346 299 168 801 932 39 544 368
+Variation des primes acquises non émises 69 862 28 904 40 958
+Sous-total 208 416 161 168 830 836 39 585 325
+Primes cédées -3 807 409 -3 543 922 -263 487
+Total 204 608 752 165 286 914 39 321 838
+PRV2 - Produits des placements
+Les produits des placements globaux de la société au 31/12/2025 totalisent 86 650 370 DT, les
+produits des placements non affectés directement en vie totalisent 18 229 667 DT.
+Les produits de placements bruts qui se rapportent à l’assurance Vie s’élèvent à
+68 420 703 DT et proviennent en totalité des placements affectés directement aux branches Vie
+qui couvrent à 100% les Provisions techniques Vie.
+CHV1 - Charges de sinistres
+Le poste charges de sinistres de l’exercice totalise 64 922 861 DT contre 44 514 041 DT en 2024,
+soit une augmentation de 20 408 819 DT, répartie comme suit :
+Libellé 31/12/2025 31/12/2024 Variation
+Sinistres payés -62 245 124 -44 535 240 -17 709 884
+Part des réassureurs dans les sinistres 483 196 1 196 737 -713 542
+Variation des provisions pour sinistres -3 237 905 -1 317 078 -1 920 827
+Part des réassureurs dans la variation 76 973 141 540 -64 567
+des provisions pour sinistres
+Total -64 922 861 -44 514 041 -20 408 819
+CHV2 - Variation des autres provisions techniques
+Le poste variation des autres provisions techniques de l’exercice totalise une charge de
+-158 489 617 DT (dont une part de réassurances de 1 645 810 DT) contre 132 650 501 DT (dont
+une part de réassurances de -89 938 DT) en 2024, soit une évolution de charge de 25 839 116
+DT.
+CHV4 - Frais d’exploitation
+‐ Les frais d’acquisition, composés essentiellement des commissions servies aux courtiers et
+aux agents d’assurances, totalisent un montant de 15 078 881 DT en 2025 contre 11 590 080
+DT en 2024.
+‐ Le poste « Frais d’administration » affecté à l’assurance vie est de 2 499 571 DT en 2025
+contre 2 160 984 DT en 2024.
+‐ Sous la même rubrique, figurent les commissions reçues des réassureurs en 2025 pour un
+montant de 299 058 DT contre 226 104 DT en 2024.
+CHV9 - Charges des placements
+Le poste charges des placements dégage un montant de 922 735 DT en 2025, la quote-part
+allouée directement à l’assurance vie est de 810 291 DT.
+Non Vie +Capitaux
+Vie Total
+propres
+Charges de placements 810 291 112 444 922 735
+2) ETAT DE RESULTAT TECHNIQUE DE L’ASSURANCE NON-VIE
+PRNV1 - PRIMES ACQUISES
+Le solde du poste « Primes acquises » s’élève au 31/12/2025 à 83 991 300 DT contre 76 082 512
+DT en 2024, soit une évolution 7 908 788 DT détaillée comme suit :
+Libellé 31/12/2025 31/12/2024 Variation
+Primes émises et acceptés nettes d'annulations et ristournes 109 437 416 110 310 367 -872 950
+Variation des primes acquises non émises 333 788 303 178 30 610
+Primes à annuler -5 844 126 535 -132 378
+Variation des primes non acquises "PNA" -875 689 -5 040 158 4 164 470
+Sous-total 1 108 889 672 105 699 921 3 189 752
+Primes cédées -24 320 983 -33 211 378 8 890 395
+Part des réassureurs dans la variation des "PNA" -577 389 3 593 969 -4 171 359
+Total 83 991 300 76 082 512 7 908 788
+PRNT3 - Produits des placements alloués transférés de l’état de résultat
+Les produits des placements globaux de la société au 31/12/2025 totalisent 86 650 370 DT, les
+produits des placements directement affectés en vie 68 420 703 DT et en capitaux propres
+2 553 745 DT. Les produits de placements non affectés totalisent 15 675 922 DT. La quote-part
+des produits des placements alloués au compte de résultat technique non vie est calculée
+comme suit (NC 27 arrêté du ministère des finances du 26-06-2000) :
+x Reliquat des produits des
+Provisions techniques non-
+placements non affectés directement
+(après affectation produit Vie & KP)
+Capitaux propres + Provisions techniques non-
+(non affectés)
+vie
+Soit :
+Provisions techniques non-vie 138 398 707
+Capitaux propres (non affectés) + provisions techniques non-vie 190 251 848
+Reliquat des produits des placements non affectés 15 675 922
+Ainsi, les produits de placements bruts qui se rapportent à l’assurance non-vie s’élèvent à
+11 403 450 DT.
+CHNV1 - Charges de sinistres
+Le poste charges de sinistres de l’exercice totalise 60 410 280 DT pour l’exercice 2025 contre
+54 390 233 DT au titre de l’exercice 2024, soit une évolution de 6 020 046 DT, répartie comme
+suit :
+Libellé 31/12/2025 31/12/2024 Variation
+Sinistres payés -68 695 757 -56 258 452 -12 437 306
+Part des réassureurs dans les sinistres 13 243 449 6 438 580 6 804 869
+Variation des provisions pour sinistres -8 817 745 -6 126 048 -2 691 697
+Part des réassureurs dans la variation des Prov pour sinistres 3 859 774 1 555 686 2 304 088
+Total -60 410 280 -54 390 233 -6 020 046
+CHNV4 - Frais d’exploitation
+Les frais d’acquisition, composés essentiellement des commissions servies aux courtiers et aux
+agents d’assurances, totalisent un montant de 20 707 842 DT en 2025 contre 19 635 890 DT en
+2024.
+La variation du montant des frais d’acquisition reportés est positive de 551 968 DT en 2025 (ce
+solde est net du report des commissions reçues des réassureurs soit un montant positif de
+313 647 DT) contre une variation négative de -584 095 DT en 2024.
+Le poste « Frais d’administration » affecté à l’assurance non-vie est de 10 345 156 DT en 2025
+contre 11 377 199 DT en 2024.
+Sous la même rubrique, figurent les commissions reçues des réassureurs en 2025 pour un
+montant de 5 699 534 DT contre 5 968 714 DT en 2024.
+CHNV5 - Autres charges techniques
+Le solde de ce poste s’élève au 31/12/2025 à 592 108 DT contre 395 643 DT au 31/12/2024.
+3) ETAT DE RESULTAT
+L’état de résultat comparatif se présente comme suit :
+Poste 2025 2024
+Résultat technique de l'assurance et ou de la
+RNTV 9 612 937 6 314 230
+réassurance non-vie
+Résultat technique de l'assurance et ou de la
+RTV 29 606 804 24 927 289
+réassurance vie
+PRNT1 Produits des placements 18 229 667 17 387 655
+Charges de placements (assurances et /ou
+CHNT1 -112 444 -501 839
+réassurances non-vie)
+Charges de gestion des placements y compris les
+CHNT11 -466 -104 332
+charges d'intérêt
+CHNT12 Correction des valeurs sur placements -111 979 365 209
+CHNT13 Pertes provenant de la réalisation des placements -32 299
+Produits des placements alloués, transférés de l'état
+CHNT2 de résultat technique de l'assurance et /ou de la -11 403 450 -10 527 675
+réassurance non-vie
+PRNT2 Autres produits non techniques 160 357 305 177
+CHNT3 Autres charges non techniques -1 441 697 -606 268
+Résultat provenant des activités ordinaires avant impôts 44 652 175 37 298 570
+CHNT4 Impôts sur le résultat -15 836 109 -14 524 074
+CHNT41 Impôt sur les Sociétés -15 836 109 -14 524 074
+Contribution de solidarité sociale -1 583 611 -1 452 407
+CHNT5
+Contribution calculée au taux de 4 % -1 583 611 -1 452 407
+Résultat net de l'exercice 25 648 843 19 869 682
+Le poste CHNT3 Autres charges non techniques présente un solde de 1 441 697 dinars au
+31/12/2025 (il s’agit de la charge des créances devenues irrécupérables et radiées avec
+l’approbation du conseil d’administration pour 845 855 dinars et autres charges non techniques
+pour 595 842 dinars) contre 606 268 dinars au 31/12/2024 (il s’agit de la charge des créances
+devenues irrécupérables et radiées avec l’approbation du conseil d’administration pour 423 151
+dinars et autres charges non techniques pour 183 116 dinars).
+Tableau de détermination du Résultat Fiscal 2025
+Résultat Brut de l'exercice 44 652 175
+Réintégrations 4 378 143
+Déductions -3 440 045
+Résultat Fiscal Avant Réinvestissement Exonéré 45 590 273
+Réinvestissement Exonéré -6 000 000
+Résultat Fiscal Après Réinvestissement Exonéré 39 590 273
+Contribution de solidarité sociale 4% -1 583 611
+Contribution calculée au taux de 4 % -1 583 611
+Impôt sur les sociétés -15 836 109
+Résultat net de l'exercice 25 648 843
+C) NOTES SUR L’ETAT DE FLUX DE TRESORERIE
+La trésorerie de fin de l’exercice atteint un montant de 4 688 688 dinars contre 6 450 751 dinars
+au 31/12/2024, soit une variation négative de -1 762 063 dinars :
+‐ Une variation des flux de trésorerie liés à l’exploitation de +7 603 495 dinars en 2025
+contre +10 686 533 dinars en 2024.
+‐ Une variation des flux de trésorerie provenant des activités d'investissements de
+-9 289 384 dinars en 2025 contre une variation -5 064 284 en 2024.
+‐ Une variation des flux de trésorerie liés aux activités de financement nulle en 2025 contre
+-4 218 041 dinars en 2024.
+‐ Incidence des variations de taux de change sur les liquidités ou équivalents de liquidités
+de -76 174 dinars en 2025 contre de -29 048 dinars en 2024.
+D) TABLEAU DES ENGAGEMENTS REÇUS ET DONNES
+2025 2024
+Engagements reçus Néant Néant
+Engagements donnés Néant Néant
+Néant Néant
+Valeurs reçues en nantissement des cessionnaires et des
+Rétrocessionnaires
+Valeurs remises par des organismes réassurés avec caution solidaire ou de substitution Néant Néant
+Valeurs appartenant à des institutions de prévoyance Néant Néant
+Autres valeurs détenues par des tiers Néant Néant
+E) INFORMATIONS RELATIVES AUX FACTEURS ENVIRONNEMENTAUX, SOCIAUX ET DE
+GOUVERNANCE (ESG)
+A. CADRE DE REFERENCE ET CONTEXTE
+Conformément aux précisions du Conseil du Marché Financier (CMF) en date du 13 février 2026,
+et dans le prolongement de son communiqué du 25 décembre 2025, Assurances BIAT présente ci-
+après les informations relatives aux facteurs Environnementaux, Sociaux et de Gouvernance
+(ESG).
+Ces informations sont appréciées selon le principe de matérialité financière, tel que défini par
+le cadre conceptuel de la comptabilité tunisienne (Décret n°96-2459).
+La démarche adoptée par Assurances BIAT s’inscrit dans une phase transitoire au titre de
+l’exercice 2025 et s’inspire des principes directeurs des normes internationales de durabilité
+IFRS S1 et IFRS S2, avec pour objectif une structuration progressive du dispositif ESG et de son
+reporting.
+B. GOUVERNANCE ESG
+La gouvernance ESG d’Assurances BIAT s’inscrit dans le cadre global de sa gouvernance
+d’entreprise, en cohérence avec les orientations stratégiques du groupe BIAT.
+Le Conseil d’Administration assure la définition, l’approbation et le suivi de la stratégie ESG, en
+veillant à son alignement avec les principes de responsabilité sociétale et de développement
+durable.
+Dans une logique d’amélioration continue, la compagnie est engagée dans un processus de
+structuration de sa gouvernance ESG, incluant la mise en place d’un comité ESG dédié,
+rattaché au Comité des Risques. Ce dispositif vise à renforcer l’identification, le suivi et
+l’intégration des enjeux ESG dans le cadre global de gestion des risques.
+À terme, la gouvernance ESG reposera sur une articulation claire entre :
+ Le Conseil d’Administration, en charge de la supervision stratégique.
+ Le Comité des Risques, en charge de l’intégration et du suivi des risques ESG, y compris
+climatiques.
+ Le Comité ESG, en charge du pilotage opérationnel et de la coordination des initiatives.
+ Et la Direction Générale, responsable de la mise en œuvre transversale de la stratégie
+ESG.
+Les enjeux ESG sont ainsi appelés à être progressivement intégrés dans les processus de décision
+et dans l’allocation des ressources de la compagnie.
+C. STRATEGIE ESG
+Depuis sa création, Assurances BIAT s’inscrit dans une démarche responsable, traduisant son
+engagement en faveur du développement durable.
+Dans le cadre de son modèle d’affaires, la compagnie engage progressivement l’intégration des
+enjeux ESG dans ses activités, notamment à travers :
+ La prise en compte des risques environnementaux et climatiques dans ses réflexions
+stratégiques,
+ La sensibilisation des parties prenantes à des comportements responsables,
+ Et le développement progressif d’initiatives et d’offres intégrant des dimensions
+environnementales et sociétales.
+Cette démarche repose sur trois piliers structurants :
+ Pilier Gouvernance
+Assurances BIAT œuvre au renforcement d’une gouvernance exemplaire, fondée sur les principes
+d’intégrité, d’éthique et de transparence.
+À ce titre, la compagnie :
+ Consolide ses dispositifs de contrôle interne,
+ Veille au respect des exigences réglementaires,
+ Et met en place des politiques structurées en matière de lutte contre la corruption, de
+protection des données et de gestion des risques.
+ Pilier Environnemental
+Dans une optique de réduction de son empreinte environnementale, Assurances BIAT met en
+œuvre des actions concrètes visant à limiter l’impact de ses activités, notamment :
+ La mise en place de solutions de transport collectif pour les collaborateurs,
+ L’adoption de règles internes favorisant un environnement de travail sain,
+ Et la réalisation d’actions de sensibilisation environnementale, incluant des initiatives
+telles que le reboisement.
+Par ailleurs, la compagnie porte une attention particulière aux risques climatiques susceptibles
+d’impacter ses activités, notamment à travers l’évolution de la fréquence et de la sévérité des
+événements naturels.
+ Pilier Social
+La santé, la sécurité et le bien-être des collaborateurs constituent une priorité majeure.
+Assurances BIAT veille à offrir un environnement de travail sain et favorable, tout en
+développant des initiatives en faveur :
+ De l’égalité des chances,
+ Du respect des droits des femmes,
+ Et de la sensibilisation aux enjeux de santé et de prévention.
+La gestion des ressources humaines intègre progressivement les enjeux ESG, notamment en
+matière de développement des compétences, d’attractivité et de qualité de vie au travail.
+D. GESTION DES RISQUES ET OPPORTUNITES ESG
+Les risques et opportunités ESG sont appréhendés dans le cadre global du dispositif de gestion
+des risques de la compagnie.
+Dans ce contexte, Assurances BIAT est engagée dans un projet structurant visant à renforcer
+l’intégration des risques environnementaux, climatiques et sociaux dans son dispositif de
+pilotage.
+Les principaux risques ESG identifiés incluent notamment :
+ Les risques climatiques physiques susceptibles d’impacter les portefeuilles assurés,
+ Les risques de transition liés aux évolutions réglementaires, économiques et
+technologiques,
+ Ainsi que les risques de réputation.
+Une feuille de route est en cours d’élaboration afin de structurer l’identification, l’évaluation et
+le suivi de ces risques, en cohérence avec la stratégie globale et le modèle d’affaires de la
+compagnie.
+E. Indicateurs ESG
+Au regard du niveau actuel de maturité de ses dispositifs, des données disponibles et des
+systèmes d’information, Assurances BIAT n’est pas encore en mesure de publier des indicateurs
+ESG quantitatifs.
+La compagnie est toutefois engagée dans un projet structurant visant à définir un cadre
+d’indicateurs ESG aligné avec les standards internationaux, incluant notamment :
+ Des indicateurs environnementaux (empreinte carbone, consommation de ressources),
+ Des indicateurs sociaux (capital humain, conditions de travail),
+ Et des indicateurs de gouvernance.
+Ces indicateurs feront l’objet d’une définition, d’une fiabilisation et d’une publication
+progressive au cours des prochains exercices, en cohérence avec les enjeux matériels identifiés.
+F. Perspective
+Assurances BIAT entend poursuivre la structuration de sa démarche ESG à travers :
+ La formalisation de son modèle d’affaires intégrant les enjeux ESG,
+ La réalisation d’une analyse de matérialité,
+ Et la mise en place d’un dispositif de pilotage et de reporting conforme aux meilleures
+pratiques internationales.
+Cette démarche vise à concilier performance économique, responsabilité sociale et respect de
+l’environnement, dans une logique de création de valeur durable pour l’ensemble des parties
+prenantes.
+G. Cohérence avec les états financiers
+Dans le cadre de l’arrêté des états financiers au 31 décembre 2025, Assurances BIAT a examiné
+si les facteurs liés à la durabilité étaient susceptibles d’affecter de manière significative les
+estimations comptables, les tests de dépréciation des actifs et les provisions et passifs
+éventuels.
+A cette date, la compagnie n’a identifié aucun élément présentant d’incidence financière
+significative sur sa situation financière, sa performance ou ses perspectives.
+F) AUTRES NOTES AUX ETATS FINANCIERS
+ANNEXE N° 8 : MOUVEMENTS AYANT AFFECTE LES ELEMENTS D’ACTIF AU 31/12/2025
+Valeur brute Amortissements et provisions
+V.C.N. à la clôture:
+Désignation: A l’ouverture Augmentations Diminutions (1) A la clôture
+À l’ouverture: Acquisitions: Cessions/Transferts A la clôture:
+Amortissements: Provisions: Amortissements: Provisions: Amortissements: Provisions: Amortissements: Provisions:
+1. Actifs incorporels
+1.1 Frais de recherche et développement - - - -
+1.2 Concessions, brevets, licences, marques 3 229 821 491 406 - 535 503 4 256 729 2 853 984 2 76 062 3 130 046 - 1 126 684
+1.3 Fonds de commerce - - - - -
+1.4 Acomptes versés 426 472 258 687 535 503 149 656 - - - - 149 656
+3 656 292 750 093 - 4 406 385 2 853 984 - 276 062 - - - 3 130 046 - 1 276 339
+2. Actifs corporels d'exploitation
+2.1 Installations techniques et machines 1 758 635 38 966 1 797 601 1 631 547 6 9 693 1 701 239 - 96 361
+2.2 Autres installations, outillage et mobilier 4 244 661 312 635 306 661 4 250 635 3 551 837 357 978 306 661 3 603 155 - 647 480
+2.3 Acomptes versés - - - - - - - - -
+6 003 296 351 600 306 661 6 048 235 5 183 384 - 427 671 - 306 661 - 5 304 394 - 743 841
+3. Placements
+3.1 Terrains et constructions d'exploitation et hors
+14 117 010 13 454 851 - 27 571 861 141 961 - 16 027 - 157 988 - 27 413 873
+exploita.
+3.2 Placements dans les entreprises liées - - - - - - - - - - - - -
+3.2.1 Parts - - - - - - -
+3.2.2 Bons et obligations - - - - - - -
+3.3 Placements dans les entreprises avec un lien de
+- - - - - - - - - - - - -
+participation
+3.3.1 Parts - - - -
+3.3.2 Bons et obligations - - - -
+3.4 Autres placements financiers 831 325 482 7 685 822 783 7 502 601 273 1 014 546 992 - 6 025 135 - 2 329 308 - 1 523 098 - 6 831 345 1 007 715 648
+3.4.1 Actions, autres titres à revenu var. 35 459 830 12 120 253 8 930 754 38 649 329 - 6 025 135 - 2 329 308 - 1 523 098 - 6 831 345 31 817 984
+3.4.2 Obligations et autres titres à revenu fixe 568 597 765 152 120 830 105 353 270 615 365 325 - - 615 365 325
+3.4.3 Prêts hypothécaire - - - - -
+3.4.4 Autres prêts 767 888 581 700 817 248 532 339 - - 532 339
+3.4.5 Dépôt auprès des établ. bancaires et financiers 226 500 000 7 521 000 000 7 387 500 000 360 000 000 - - 360 000 000
+3.4.6 Autres - - - - -
+3.5 Créances pour espèces déposées 645 584 658 797 619 791 684 590 - - 684 590
+3.6 Placements des contrats en UC - - - - -
+846 088 076 7 699 936 432 7 503 221 064 1 042 803 443 141 961 6 025 135 16 027 2 329 308 - 1 523 098 157 988 6 831 345 1 035 814 110
+TOTAL: 855 747 664 7 701 038 125 7 503 527 725 1 053 258 064 8 179 329 6 025 135 719 760 2 329 308 306 661 1 523 098 8 592 428 6 831 345 1 037 834 291
+ANNEXE N° 9 : ETAT RECAPITULATIF DES PLACEMENTS
+Plus ou
+Valeur Brute Valeur Nette Juste Valeur Moins Value
+latente
+Placements immobiliers et placements immobiliers en cours 27 571 861 27 413 873 27 413 873 -157 988
+Actions et autres titres à revenu variable 38 649 329 31 817 984 31 817 984 -6 831 345
+Obligations et autres titres à revenu fixe 615 365 325 615 365 325 615 365 325
+Autres placements financiers
+Prêts hypothécaires
+Autres prêts et effets assimilés 532 339 532 339 532 339
+Dépôt auprès des établissements bancaires et financiers 360 000 000 360 000 000 360 000 000
+Dépôt auprès des entreprises cédantes 684 590 684 590 684 590
+Autres dépôts
+Actifs représentatifs de contrats en unités de comptes selon le même
+détail que ci-dessus
+Total 1 042 803 443 1 035 814 110 1 035 814 110 -6 989 333
+Dont montant de ces placements qui est admis à la représentation des
+1 035 129 520 1 035 129 520 1 035 129 520
+provisions techniques
+Autres actifs affectables à la représentation des provisions techniques
+autres que les placements ou la part des réassureurs dans les provisions 12 058 599 12 058 599 12 058 599
+techniques
+ANNEXE N° 10 : ETAT DES REGLEMENTS ET DES PROVISIONS POUR SINISTRES A PAYER
+Exercice de survenance
+Année d'inventaire: 2 021 2 022 2 023
+Inventaire 2023
+Règlements cumulés 36 342 697 35 989 220 34 017 207
+Provisions pour sinistres 9 418 875 14 446 416 30 349 862
+Total charges des sinistres 45 761 572 50 435 636 64 367 069
+Primes acquises 73 434 503 87 291 246 94 988 632
+% sinistres / primes
+acquises 62% 58% 68%
+Exercice de survenance
+Année d'inventaire: 2 021 2 022 2 023 2 024
+Inventaire 2024
+Règlements cumulés 37 202 793 38 799 364 46 459 292 31 711 698
+Provisions pour sinistres 7 302 623 10 407 595 16 027 524 31 254 146
+Total charges des sinistres 44 505 416 49 206 960 62 486 816 62 965 845
+Primes acquises 73 434 503 87 291 246 94 988 632 105 699 921
+% sinistres / primes
+acquises 61% 56% 66% 60%
+Exercice de survenance
+Année d'inventaire: 2 021 2 022 2 023 2 024 2 025
+Inventaire 2025
+Règlements cumulés 38 146 540 40 321 296 49 606 680 46 434 048 42 290 459
+Provisions pour sinistres 4 604 988 7 693 274 11 806 163 15 433 665 36 909 671
+Total charges des sinistres 42 751 528 48 014 570 61 412 843 61 867 713 79 200 130
+Primes acquises 73 434 503 87 291 246 94 988 632 105 699 921 108 889 672
+% sinistres / primes
+acquises 58% 55% 65% 59% 73%
+ANNEXE N°11 : VENTILATION DES PRODUITS ET CHARGES DE PLACEMENTS
+Les
+placements
+Autres
+dans les Total Raccordement
+placements
+entreprises
+liées
+Revenu des placements immobiliers
+PRNT3+PRV21+PRNT11+CHNT2
+1 928 045 749 428 2 677 474
+Revenu des participations 1°colonne
+PRNT3+PRV21+PRNT11+CHNT2
+50 280 275 33 692 621 83 972 896
+Revenu des autres placements 1°colonne
+Autres revenus financiers (commissions, honoraires)
+Total des produits des placements 52 208 320 34 442 050 86 650 370
+Intérêts
+Frais externes (pertes sur réalisation) 998 480 -76 627 921 853 CHV91+CHNT13
+Autres frais (ajustement sur valeur) 882 882 CHV91+CHNT13+CHNT12
+Total charges des placements 998 480 -75 745 922 735
+ANNEXE N° 12 : RESULTAT TECHNIQUE VIE PAR CATEGORIE D’ASSURANCE
+PREVOYANCE EPARGNE TOTAL
+Primes 31 695 936 176 720 225 208 416 161
+Charges de prestations -8 322 603 -57 160 426 -65 483 029
+Charges de provisions d'assurance vie -9 471 401 -154 137 448 -163 608 849
+Ajustement ACAV (Assurance à Capital Variable) 0
+Solde de souscription 13 901 933 -34 577 650 -20 675 717
+Frais d'acquisition -6 010 003 -9 068 878 -15 078 881
+Autres charges de gestion nettes -474 082 -2 025 488 -2 499 571
+Charge d'acquisition et de gestion nettes -6 484 085 -11 094 366 -17 578 451
+Produits de placements 12 612 016 55 808 686 68 420 703
+Charges de placements -809 875 -416 -810 291
+Participation aux résultats et intérêts techniques
+Solde financier 11 802 142 55 808 270 67 610 412
+Primes cédées et/ou rétrocédées -3 807 409 -3 807 409
+Part des réassureurs dans les charges de prestations 560 169 560 169
+Part des réassureurs dans les charges de provisions 1 645 810 1 645 810
+Part des réassureurs dans la participation aux résultats 1 598 567 1 598 567
+Commissions reçues des réassureurs 299 058 299 058
+Intérêt -45 634 -45 634
+Solde de réassurance et/ou de rétrocession 250 560 250 560
+Résultat technique 19 470 549 10 136 254 29 606 804
+Informations complémentaires
+Montant des rachats 46 968 390 46 968 390
+Intérêts techniques bruts de l'exercice
+Provisions techniques brutes à la clôture -158 897 330 -660 156 034 -819 053 364
+Provisions techniques brutes à l'ouverture 147 549 761 504 656 849 652 206 610
+A déduire
+Provisions devenues exigibles
+ANNEXE N° 13 : RESULTAT TECHNIQUE NON-VIE PAR CATEGORIE D’ASSURANCE
+AUTO TRANSPORT INCENDIE CONSTRUCTION RC GLE R DIVERS ASSISTANCES MALADIE ACC CORP Total
+Primes acquise 41 945 610 5 094 418 14 667 318 1 575 798 3 273 347 2 289 704 5 132 509 31 794 454 3 116 515 108 889 672
+Primes émises 43 490 770 4 630 494 15 426 623 936 752 2 930 750 2 348 005 5 132 509 31 756 306 3 113 151 109 765 361
+Variation des primes non
+acquises -1 545 160 463 924 -759 305 639 046 342 597 -58 301 0 38 148 3 363 -875 689
+Charges de prestation -29 268 132 -2 749 836 -14 156 744 -397 174 -1 468 582 -1 091 552 -51 855 -26 111 378 -2 247 898 -77 543 152
+Prestations et frais payés -28 489 096 -762 642 -11 240 062 -344 690 -818 228 -891 459 -2 837 -24 640 575 -1 506 169 -68 695 757
+Charges de provisions pour
+prestations diverses -779 036 -1 987 194 -2 916 682 -52 484 -650 354 -200 093 -49 018 -1 470 803 -741 728 -8 847 394
+Solde de souscription 12 677 478 2 344 582 510 573 1 178 624 1 804 765 1 198 151 5 080 654 5 683 076 868 617 31 346 521
+Frais d'acquisition -7 946 578 -1 404 793 -4 214 507 -189 797 -905 345 -465 517 -1 633 111 -3 188 841 -521 033 -20 469 521
+Autres charges de gestion nettes -5 492 544 -576 217 -296 358 -99 676 -297 529 -199 272 -228 189 -2 850 274 -305 097 -10 345 156
+Charges d'acquisition et de
+gestion nettes -13 439 122 -1 981 010 -4 510 864 -289 473 -1 202 874 -664 788 -1 861 300 -6 039 115 -826 130 -30 814 677
+Produits nets de placements 6 593 184 553 948 1 934 848 579 917 585 914 260 377 13 116 496 737 416 274 11 434 315
+Solde financier 6 593 184 553 948 1 934 848 579 917 585 914 260 377 13 116 496 737 416 274 11 434 315
+Part des réassureurs dans les
+primes acquises -1 731 786 -3 757 565 -11 262 716 -1 200 418 -1 120 736 -1 538 682 -2 754 931 -1 414 623 -116 916 -24 898 372
+Part des réassureurs dans les
+prestations payées 882 150 647 113 9 866 315 130 841 96 965 879 572 476 441 241 298 776 13 243 449
+Part des réassureurs dans les
+charges de provisions -635 435 1 673 805 1 952 304 23 803 247 022 -390 628 0 229 854 759 048 3 859 774
+Part des réassureurs dans les PB 0 29 014 -8 160 0 0 0 0 0 0 20 854
+Commissions reçues des
+réassureurs 0 969 318 3 112 653 510 466 229 285 433 247 758 212 0 0 6 013 181
+Intérêts servies -121 494 -42 179 -275 379 -72 822 -8 791 -22 114 0 0 -49 329 -592 108
+Solde de réassurance et/ou de
+rétrocession -1 606 565 -480 493 3 385 017 -608 130 -556 255 -638 605 -1 996 242 -743 529 891 579 -2 353 222
+Résultat technique 4 224 975 437 028 1 319 574 860 938 631 551 155 135 1 236 228 -602 831 1 350 339 9 612 937
+Total
+AUTO TRANSPORT INCENDIE CONSTRUCTION RC GLE R DIVERS ASSISTANCES MALADIE ACC CORP
+Informations complémentaires
+Provisions pour primes non acquises
+clôture 16 402 067 979 813 10 504 914 5 230 980 1 684 981 283 020 0 335 156 153 006 35 573 936
+Provisions pour primes non acquises
+ouverture 14 856 907 1 443 737 9 745 608 5 870 026 2 027 578 224 719 0 373 304 156 369 34 698 248
+Provisions pour sinistres à payer à la
+clôture 63 599 145 4 802 506 12 114 312 1 807 217 5 426 004 2 593 179 159 183 4 624 022 4 878 566 100 004 135
+Provisions pour sinistres à payer à
+l'ouverture 62 820 109 2 949 178 9 216 526 1 754 733 4 775 650 2 319 451 110 165 3 103 740 4 136 838 91 186 390
+Provisions pour participation aux bénéfices
+et ristournes à la clôture 0 940 711 505 982 0 0 283 884 0 1 069 500 20 559 2 820 636
+Provisions pour participation aux bénéfices
+et ristournes à l'ouverture 0 806 844 487 086 0 0 357 519 0 1 118 979 20 559 2 790 987
+Autres provisions techniques clôture 0 0
+Autres provisions techniques ouverture 0 0
+A déduire :
+Provisions devenus exigibles
+ANNEXE N° 14 : TABLEAU RECAPITULATIF DES ELEMENTS CONSTITUTIFS DE LA
+PARTICIPATION DES ASSURES AUX RESULTATS TECHNIQUES ET FINANCIERS
+Année d'inventaire 2021 2022 2023 2024 2025
+Participation aux résultats (1)
+(état de résultat technique)
+* Participation attribuée a
+des contrats (y compris 2 560 889 3 255 749 3 737 192 4 873 864 8 029 737
+intérêts techniques)
+* Variation de la provision
+pour participation aux 1 853 814 2 706 387 5 528 707 7 922 951 9 935 533
+bénéfices
+Participations aux résultats
+des contrats d'assurances Vie
+* Provisions mathématiques
+270 657 360 339 699 313 433 541 545 554 384 009 700 732 004
+moyennes
+* Montant minimum de
+participation
+* Montant effectif de la
+participation
+dont attribuée (y compris
+intérêts techniques)
+dont variation de la provision
+pour PB
+La première partie du tableau correspond à la décomposition du poste participation aux bénéfices et
+ristournes de l'état de
+résultat technique de l'assurance vie en participation attribuée aux contrats et variation de la provision
+pour participation aux
+bénéfices. Ces éléments sont obtenus à partir de la nomenclature comptable. La seconde partie du
+tableau reprend les
+éléments suivants:
+a) Les provisions mathématiques moyennes qui correspondent à la moyenne arithmétique des
+provisions mathématiques à
+l'ouverture et à la clôture de l'exercice;
+b) Le montant minimum de la PB qui est déterminé sur la base des obligations contractuelles en la
+matière.
+c) Le montant effectif de la participation aux bénéfices qui reprend le total de la partie (1) du
+tableau.
+ANNEXE N° 15 : TABLEAU DE RACCORDEMENT DU RESULTAT TECHNIQUE VIE
+TOTAL Raccordement
+Primes 208 416 161 PRV1 1°colonne
+Charges de prestations -65 483 029 CHV1 1°colonne
+Charges de provisions d'assurance vie -163 608 849 CHV2 1°colonne+ CHV3 1°colo
+Ajustement ACAV (Assurance à Capital Variable)
+Solde de souscription -20 675 717
+Frais d'acquisition -15 078 881 CHV41+CHV42 1°colonne
+Autres charges de gestion nettes -2 499 571 CHV43 1°colonne
+Charge d'acquisition et de gestion nettes -17 578 451
+Produits de placements 68 420 703 PRV2 1°colonne+PRV4 1°colon
+Charges de placements -810 291 CHV9 1°colonne
+Participation aux résultats et intérêts techniques
+Solde financier 67 610 412
+Primes cédées et/ou rétrocédées -3 807 409 PRV1 2°colonne
+Part des réassureurs dans les charges de prestations 560 169 CHV11 2°colonne+CHV12 2°co
+Part des réassureurs dans les charges de provisions 1 645 810 CHV 2 2°colonne
+Part des réassureurs dans la participation aux résultats 1 598 567 CHV3 2°colonne
+Commissions reçues des réassureurs 299 058 CHV44 2°colonne
+Intérêt -45 634 CHV91 2°colonne
+Solde de réassurance et/ou de rétrocession 250 560
+Résultat technique 29 606 804
+Informations complémentaires
+Montant des rachats 46 968 390
+Intérêts techniques bruts de l'exercice
+Provisions techniques brutes à la clôture 819 053 364
+Provisions techniques brutes à l'ouverture 514 835 639
+A déduire
+Provisions devenues exigibles
+ANNEXE N° 16 : TABLEAU DE RACCORDEMENT DU RESULTAT TECHNIQUE NON-VIE
+Total Raccordement
+Primes acquise 108 889 672
+Primes émises 109 765 361 PRNV11 1°colonne
+Variation des primes non acquises -875 689 PRNV12 1°colonne
+Charges de prestation -77 543 152
+Prestations et frais payés -68 695 757 CHNV11 1°colonne
+Charges de provisions pour (CHNV12+CHNV2+CHNV3) 1°colonne
+prestations diverses -8 847 394
+Solde de souscription 31 346 521
+Frais d'acquisition -20 469 521 (CHNV41+CHNV42) 1°colonne
+Autres charges de gestion nettes -10 345 156 CHNV43 1°colonne
+Charges d'acquisition et de
+gestion nettes -30 814 677
+Produits nets de placements 11 434 315 PRNT3 1°colonne
+Solde financier 11 434 315
+Part des réassureurs dans les (PRNV11+PRNV12) 2°colonne
+primes acquises -24 898 372
+Part des réassureurs dans les CHNV11 2°colonne
+prestations payées 13 243 449
+Part des réassureurs dans les
+charges de provisions 3 859 774 CHNV12 2°colonne
+Part des réassureurs dans les PB 20 854 CHNV3 2°colonne
+Commissions reçues des (CHNV42+CHNV44) 2°colonne
+réassureurs 6 013 181
+Intérêts servies -592 108 CHNV5 2°colonne
+Solde de réassurance et/ou de
+rétrocession -2 353 222
+Résultat technique 9 612 937
+Total
+Informations complémentaires
+Provisions pour primes non
+acquises clôture 35 573 936
+Provisions pour primes non
+acquises ouverture 34 698 248
+Provisions pour sinistres à payer à
+la clôture 100 004 135
+Provisions pour sinistres à payer à
+l'ouverture 91 186 390
+Provisions pour participation aux
+bénéfices et ristournes à la
+clôture 2 820 636
+Provisions pour participation aux
+bénéfices et ristournes à
+l'ouverture 2 790 987
+Autres provisions techniques
+clôture 0
+Autres provisions techniques
+ouverture 0
+A déduire :
+Provisions devenus exigibles
+I – RAPPORT GENERAL
+SOCIETE ASSURANCES BIAT
+RAPPORT GENERAL DES COMMISSAIRES AUX COMPTES
+ÉTATS FINANCIERS - EXERCICE CLOS LE 31 DECEMBRE 2025
+Messieurs les actionnaires
+de la Société Assurances BIAT
+Les jardins du Lac - Lac II-1053 – Tunis
+I. Rapport sur l’audit des états financiers
+Opinion
+En exécution du mandat qui nous a été confié par votre Assemblée Générale
+Ordinaire, nous avons effectué l’audit des états financiers de la société
+« Assurances BIAT », qui comprennent le bilan arrêté au 31 décembre 2025,
+l’état de résultat et l’état des flux de trésorerie pour l’exercice clos à cette
+date, ainsi qu’un résumé des principales méthodes comptables et d’autres notes
+explicatives.
+Ces états financiers font ressortir des capitaux propres positifs de
+128 786 575 DT y compris le bénéfice de l’exercice s’élevant à 25 648 843 DT.
+A notre avis, les états financiers ci-joints présentent sincèrement, dans tous
+leurs aspects significatifs, la situation financière de la société « Assurances
+BIAT », au 31 décembre 2025, ainsi que de sa performance financière et de ses
+flux de trésorerie pour l’exercice clos à cette date, conformément au système
+comptable des entreprises.
+Fondement de l’opinion
+Nous avons effectué notre audit selon les normes de la profession applicables en
+Tunisie.
+Les responsabilités qui nous incombent en vertu de ces normes sont plus
+amplement décrites dans la section « Responsabilités de l’auditeur pour l’audit
+des états financiers » du présent rapport.
+Nous sommes indépendants de la société conformément aux règles de
+déontologie qui s’appliquent à l’audit des états financiers en Tunisie et nous
+nous sommes acquittés des autres responsabilités déontologiques qui nous
+incombent selon ces règles.
+Nous estimons que les éléments probants que nous avons obtenus sont suffisants
+et appropriés pour fonder notre opinion d’audit.
+Rapport de gestion du Conseil d’Administration
+La responsabilité du rapport de gestion du Conseil d’Administration incombe au
+Conseil d’Administration.
+Notre opinion sur les états financiers ne s’étend pas au rapport de gestion du
+Conseil d’Administration et nous n’exprimons aucune forme d’assurance que ce
+soit sur ce rapport, tel qu’arrêté par le Conseil d’Administration du 20 Avril
+2026.
+En application des dispositions de l’article 266 du Code des Sociétés
+Commerciales, notre responsabilité consiste à vérifier l’exactitude des
+informations données sur les comptes de la société dans le rapport de gestion du
+Conseil d’Administration par référence aux données figurant dans les états
+financiers. Nos travaux consistent à lire le rapport de gestion du Conseil
+d’Administration et, ce faisant, à apprécier s’il existe une incohérence
+significative entre celui-ci et les états financiers ou la connaissance que nous
+avons acquise au cours de l’audit, ou encore si le rapport de gestion du Conseil
+d’Administration semble autrement comporter une anomalie significative.
+Si à la lumière des travaux que nous avons effectués, nous concluons à la
+présence d’une anomalie significative dans le rapport de gestion du Conseil
+d’Administration, nous sommes tenus de signaler ce fait.
+Nous n’avons rien à signaler à cet égard.
+Responsabilités de la direction et des responsables de la gouvernance pour les
+états financiers
+Le Conseil d’Administration est responsable de la préparation et de la
+présentation fidèle des états financiers conformément aux principes comptables
+généralement admis en Tunisie, ainsi que du contrôle interne qu’il considère
+comme nécessaire pour permettre la préparation d’états financiers exempts
+d’anomalies significatives, que celles-ci résultent de fraudes ou d’erreurs.
+Lors de la préparation des états financiers, c’est à la direction qu’il incombe
+d’évaluer la capacité de la société à poursuivre son exploitation, de
+communiquer, le cas échéant, les questions relatives à la continuité
+d’exploitation et d’appliquer le principe comptable de continuité d’exploitation,
+sauf si la direction a l’intention de liquider la société ou de cesser son activité ou
+si aucune autre solution réaliste ne s’offre à elle.
+Il incombe au Conseil d’Administration de surveiller le processus d’information
+financière de la société.
+Responsabilités de l’auditeur pour l’audit des états financiers
+Nos objectifs sont d’obtenir l’assurance raisonnable que les états financiers pris
+dans leur ensemble sont exempts d’anomalies significatives, que celles-ci
+résultent de fraudes ou d’erreurs, et de délivrer un rapport de l’auditeur
+contenant notre opinion. L’assurance raisonnable correspond à un niveau élevé
+d’assurance, qui ne garantit toutefois pas qu’un audit, réalisé conformément aux
+normes internationales d’audit applicables en Tunisie, permettra toujours de
+détecter toute anomalie significative qui pourrait exister. Les anomalies peuvent
+résulter de fraudes ou d’erreurs et elles sont considérées comme significatives
+lorsqu’il est raisonnable de s’attendre à ce que, individuellement ou
+collectivement, elles puissent influer sur les décisions économiques que les
+utilisateurs des états financiers prennent en se fondant sur ceux-ci.
+Dans le cadre d’un audit réalisé conformément aux normes internationales
+d’audit applicables en Tunisie, nous exerçons notre jugement professionnel et
+faisons preuve d’esprit critique tout au long de cet audit. En outre :
+- Nous identifions et évaluons les risques que les états financiers
+comportent des anomalies significatives, que celles-ci résultent de fraudes
+ou d’erreurs, concevons et mettons en œuvre des procédures d’audit en
+réponse à ces risques, et réunissons des éléments probants suffisants et
+appropriés pour fonder notre opinion. Le risque de non-détection d’une
+anomalie significative résultant d’une fraude est plus élevé que celui
+d’une anomalie significative résultant d’une erreur, car la fraude peut
+impliquer la collusion, la falsification, les omissions volontaires, les
+fausses déclarations ou le contournement du contrôle interne ;
+- Nous acquérons une compréhension des éléments du contrôle interne
+pertinents pour l’audit afin de concevoir des procédures d’audit
+appropriées dans les circonstances ;
+- Nous apprécions le caractère approprié des méthodes comptables retenues
+et le caractère raisonnable des estimations comptables faites par la
+direction, de même que des informations y afférentes fournies par cette
+dernière ;
+- Nous tirons une conclusion quant au caractère approprié de l’utilisation
+par la direction du principe comptable de continuité d’exploitation et,
+selon les éléments probants obtenus, quant à l’existence ou non d’une
+incertitude significative liée à des évènements ou situations susceptibles
+de jeter un doute important sur la capacité de la société à poursuivre son
+exploitation. Si nous concluons à l’existence d’une incertitude
+significative, nous sommes tenus d’attirer l’attention des lecteurs de
+notre rapport sur les informations fournies dans les états financiers au
+sujet de cette incertitude ou, si ces informations ne sont pas adéquates,
+d’exprimer une opinion modifiée. Nos conclusions s’appuient sur les
+éléments probants obtenus jusqu’à la date de notre rapport. Des
+évènements ou situations futurs pourraient par ailleurs amener la société
+à cesser son exploitation.
+- Nous évaluons la présentation d’ensemble, la forme et le contenu des
+états financiers, y compris les informations fournies dans les notes, et
+apprécions si les états financiers représentent les opérations et
+évènements sous-jacents d’une manière propre à donner une image fidèle.
+- Nous communiquons aux responsables de la gouvernance notamment
+l’étendue et le calendrier prévus des travaux d’audit et nos constatations
+importantes, y compris toute déficience importante du contrôle interne
+que nous aurions relevée au cours de notre audit.
+II. Rapport relatif aux obligations légales et réglementaires
+Dans le cadre de notre mission de commissariat aux comptes, nous avons
+également procédé aux vérifications spécifiques prévues par les normes
+publiées par l’Ordre des Experts Comptables de Tunisie et par les textes
+réglementaires en vigueur en la matière.
+Efficacité du système de contrôle interne
+En application des dispositions de l’article 3 de la loi 94-117 du 14 novembre
+1994 portant réorganisation du marché financier telle que modifiée par la loi
+2005-96 du 18 octobre 2005, nous avons procédé à une évaluation générale
+portant sur l’efficacité du système de contrôle interne de la société. A ce sujet,
+nous rappelons que la responsabilité de la conception de de la mise en œuvre en
+place d’un système de contrôle interne ainsi que la surveillance périodique de
+son efficacité et de son efficience incombe au Conseil d’Administration.
+Sur la base de notre examen, nous n’avons pas identifié des déficiences
+importantes du contrôle interne. Un rapport traitant des faiblesses et des
+insuffisances identifiées au cours de notre audit a été remis à la Direction
+Générale de la société.
+Conformité de la tenue des comptes des valeurs mobilières à la réglementation
+en vigueur
+En application des dispositions de l’article 19 du décret n°2001-2728 du 20
+novembre 2001, nous avons procédé aux vérifications portant sur la conformité
+de la tenue des comptes des valeurs mobilières émises par la société avec la
+réglementation en vigueur.
+La responsabilité de veiller à la conformité aux prescriptions de la
+réglementation en vigueur incombe au Conseil d’Administration.
+Sur la base des diligences que nous avons estimées nécessaires de mettre en
+œuvre, nous n’avons pas détecté d’irrégularité liée à la conformité des comptes
+de la société avec la réglementation en vigueur.
+Tunis, le 27 avril 2026
+La Générale d'Audit et Conseil P/ CABINET CMC
+Membre de MGI Worldwide Mr Chérif BEN ZINA
+Chiheb GHANIMI
+II - RAPPORT SPECIAL
+SOCIETE ASSURANCES BIAT
+RAPPORT SPECIAL DES COMMISSAIRES AUX COMPTES
+POUR L’EXERCICE CLOS LE 31 DECEMBRE 2025
+Messieurs les actionnaires
+de la Société Assurances BIAT
+Les jardins du Lac - Lac II-1053 - Tunis
+En application des dispositions des articles 200 et suivants et 475 du Code des Sociétés
+Commerciales, nous reportons ci-dessous sur les conventions et opérations visées par les textes
+sus-indiqués.
+Notre responsabilité est de nous assurer du respect des procédures légales d’autorisation et
+d’approbation de ces conventions ou opérations et de leur traduction correcte, in fine, dans les
+états financiers. Il ne nous appartient pas de rechercher spécifiquement et de façon étendue
+l’existence éventuelle de telles conventions ou opérations mais de vous communiquer, sur la
+base des informations qui nous ont été données et celles obtenues à travers nos procédures
+d’audit, leurs caractéristiques et modalités essentielles, sans avoir à nous prononcer sur leur
+utilité et leur fondé. Il vous appartient d’apprécier l’intérêt qui s’attachait à la conclusion de
+ces conventions et réalisation de ces opérations en vue de leur approbation.
+I – Conventions réglementées :
+I -1. Conventions et opérations nouvellement réalisées :
+1. La BIAT et Assurances BIAT ont signé un protocole d’accord en date du 30 Décembre 2021 afin
+de définir les termes et les conditions de la couverture des montants des échéances des
+crédits accordées par la banque et ayant fait l’objet de report conformément aux mesures de
+soutien prises dans le cadre de la crise sanitaire de la Covid 19.
+Le capital assuré par les contrats adhésions initiaux est étendu pour la période allant du 1er
+janvier 2025 au 31 décembre 2025 au montant restant dû des échéances reportées à la date
+du décès ou de la consolidation de l’IAD survenant pendant cette période. Cette couverture
+sera soumise aux mêmes conditions de garantie et d’exclusions que celles du contrat
+d’assurances initial.
+La couverture complémentaire est accordée sur la période allant du 1er janvier 2025 au 31
+décembre 2025 moyennant le paiement par la BIAT d’une prime d’assurance globale de 82
+900 DT dès la signature du protocole et qui ne donne pas lieu au règlement d’une commission
+d’intermédiation.
+Le montant de la prime d’assurance détaillé par contrat/adhésion, a été établi avec une
+réduction de 60% sur le tarif standard Temporaire Décès en Couverture de Prêt et sans frais
+d’acquisition, appliqué aux capitaux couverts sur l’année 2025.
+Cette convention a été autorisée par le conseil d’administration du 10 Avril 2025.
+2. Assurances BIAT a supporté, en 2025, un montant de 943 672 DT TTC relatif aux charges de
+mise à disposition de personnel de la BIAT.
+Cette opération a été autorisée par le conseil d’administration du 20 Avril 2026.
+3. En date du 20 Avril 2016, la société Assurances BIAT a conclu une convention d’ouverture
+d’un compte de gestion sous mandat avec BIAT CAPITAL, par laquelle BIAT CAPITAL accepte
+de gérer en son nom et pour le compte d’assurances BIAT des actifs monétaires, valeurs
+mobilières et autres titres déposés sur son compte ouvert sur les livres de BIAT CAPITAL.
+Dans le cadre de la fusion absorption faite par la TUNISIE VALEURS de la BIAT CAPITAL un
+avenant à ladite convention a été signé entre TUNISIE VALEURS et Assurances BIAT.
+A titre de rémunération tel que modifier par le nouvel avenant TUNISIE VALEURS perçoit :
+ Une rémunération de performance calculée sur la base de 10% hors taxes du rendement
+excédent un rendement égal au TMM. Cette rémunération est payable une fois par an à la
+date d’anniversaire de l’ouverture du compte.
+ Des frais de courtage en cas de transactions calculé au taux de 0.2% du montant brut de
+la transaction.
+ Des frais de tenue de compte de 250 dinars hors taxes.
+Le mandat de gestion est donné pour une période d’une année renouvelable par tacite
+reconduction, il peut être résilié à tout moment par lettre recommandé avec accusé de
+réception avec un préavis de quinze jours (15 jours).
+Au 20 Avril 2016, Assurances BIAT a placé dans le compte de gestion sous mandat de TUNISIE
+VALEURS la somme de 500 000 DT.
+A ce titre, Assurances BIAT a constaté une charge de commission brute de 33 245 DT en 2025.
+Cette opération a été autorisée par le conseil d’administration du 20 Avril 2026.
+4. En date du 10 Décembre 2015, la société Assurances BIAT a conclu une convention
+d’ouverture d’un compte de gestion sous mandat avec BIAT CAPITAL, par laquelle BIAT
+CAPITAL accepte de gérer en son nom et pour le compte d’assurances BIAT des actifs
+monétaires, valeurs mobilières et autres titres déposés sur son compte ouvert sur les livres
+de BIAT CAPITAL.
+Dans le cadre de la fusion absorption faite par la TUNISIE VALEURS de la BIAT CAPITAL un
+avenant à ladite convention a été signé entre TUNISIE VALEURS et Assurances BIAT.
+A titre de rémunération tel que modifier par le nouvel avenant TUNISIE VALEURS perçoit :
+ Une rémunération de performance calculée sur la base de 10% hors taxes du rendement
+excédent un rendement égal au TMM. Cette rémunération est payable une fois par an à la
+date d’anniversaire de l’ouverture du compte.
+ Des frais de courtage en cas de transactions calculé au taux de 0.2% du montant brut de
+la transaction.
+ Des frais de tenue de compte de 250 dinars hors taxes.
+Le mandat de gestion est donné pour une période d’une année renouvelable par tacite
+reconduction, il peut être résilié à tout moment par lettre recommandé avec accusé de
+réception avec un préavis de quinze jours (15 jours).
+Au 31 Décembre 2015, Assurances BIAT a placé dans le compte de gestion sous mandat de
+TUNISIE VALEURS la somme de 250 000 DT.
+A ce titre, Assurances BIAT a constaté une charge de commission brute de 37 939 DT en 2025.
+Cette opération a été autorisée par le conseil d’administration du 20 Avril 2026.
+5. En date du 01 Mai 2025, la société Assurances BIAT a conclu une convention de maintenance
+et de support avec la société « Value Digital Services ». Cette convention a pour mission la
+présentation des services de « Value Digital Services » pour le développement d’une
+application mobile ainsi qu’une application web pour la gestion des réclamations des clients
+d’Assurances BIAT.
+A titre de rémunération « Value Digital Services » percevra :
+ Des frais de maintenance et de support à hauteur de 80 000 dinars hors taxes
+annuellement.
+ Des prestations de maintenance évolutive facturées aux taux journalier moyens de 750
+dinars hors taxes.
+Cette convention prend effet à la date de sa signature pour une période d’un an
+renouvelable par tacite reconduction. La convention peut être résilié par les contractants
+moyennant un préavis d’un mois notifié par lettre recommandé avec accusé de réception.
+A ce titre, Assurances BIAT a constaté une charge de frais de maintenance de 47 600 DT en
+2025
+Cette opération a été autorisée par le conseil d’administration du 20 Avril 2026.
+6. En date du 21 Mars 2025, la société ASSURANCES BIAT a conclu une convention de gestion de
+fonds à capital risque avec la société BIAT CAPITAL RISQUE, en vertu de laquelle elle confie à
+celle-ci, la gestion d’un fonds à capital risque d’un montant total de 8 000 000 DT.
+BIAT CAPITAL RISQUE perçoit trimestriellement et à terme échu, une commission de gestion
+hors taxes de 0,5% par an prélevée sur la base des montants placés.
+BIAT CAPITAL RISQUE perçoit trimestriellement et à terme échu, une commission de gestion
+hors taxes de 1,75% par an prélevée sur la base des montants investis de la 1ère à la 7ème
+année, cette commission sera de 1% hors taxes l’an prélevée sur les montants investis entre la
+7ème à la 10ème année.
+BIAT CAPITAL RISQUE perçoit une commission de performance :
+ De 20% de la super plus-value si le remboursement total du fonds interviendrait avant la
+10ème année qui suit celle de la libération du fonds.
+ De 15% de la super plus-value si le remboursement total du fonds intervient après la 10ème
+année qui suit celle de la libération du fonds.
+Dans le cas où BIAT CAPITAL RISQUE rétrocéderait le produit de la cession de la totalité des
+titres dans une participation entre la fin de la 5ème et la 7ème année qui suivent celle de la
+libération du fond, tout en assurant un rendement supérieur au TMM moyen de la période sur
+ladite participation, elle percevra une commission de 5% des produits relatifs à ladite
+participation.
+A ce titre, Assurances BIAT a constaté une charge de commission brute de 41 467 DT en 2025.
+Cette convention a été autorisée par le conseil d’administration du 10 Avril 2025.
+I -2. Conventions réglementées et opérations datant des exercices antérieurs qui continuent
+à produire leurs effets durant l’exercice 2025 :
+1. La société ASSURANCES BIAT a conclu des conventions de gestion de fonds à capital risque
+avec la société BIAT CAPITAL RISQUE, en vertu desquelles elle confie à celle-ci, la gestion
+des fonds à capital risque.
+BIAT CAPITAL RISQUE perçoit trimestriellement et à terme échu, une commission de gestion
+hors taxes de 0,5% par an prélevée sur la base des montants placés.
+BIAT CAPITAL RISQUE perçoit trimestriellement et à terme échu, une commission de gestion
+hors taxes de 1,75% par an prélevée sur la base des montants investis de la 1ère à la 7ème
+année, cette commission sera de 1% hors taxes l’an prélevée sur les montants investis entre la
+7ème à la 10ème année.
+BIAT CAPITAL RISQUE perçoit une commission de performance :
+ De 20% de la super plus-value si le remboursement total du fonds interviendrait avant la
+10ème année qui suit celle de la libération du fonds.
+ De 15% de la super plus-value si le remboursement total du fonds intervient après la 10ème
+année qui suit celle de la libération du fonds.
+Dans le cas où BIAT CAPITAL RISQUE rétrocéderait le produit de la cession de la totalité des
+titres dans une participation entre la fin de la 5ème et la 7ème année qui suivent celle de la
+libération du fond, tout en assurant un rendement supérieur au TMM moyen de la période sur
+ladite participation, elle percevra une commission de 5% des produits relatifs à ladite
+participation.
+Le tableau suivant résume l’ensemble des fonds gérés par la BIAT CAPITAL RISQUES ainsi que
+les commissions constatées en charge brutes en 2025 au niveau d’Assurances BIAT :
+Date Date Commissions
+Nature Montants
+Souscription Approbation 2025
+FG 2024 21/03/2024 5 000 000 15/04/2024 32 539
+FG 2023 17/03/2023 4 000 000 06/04/2023 64 706
+FG 2021 09/03/2021 4 000 000 08/09/2021 71 697
+FG 2020 19/03/2020 5 000 000 08/04/2020 89 696
+FG 2019 19/03/2019 4 000 000 04/04/2019 10 413
+FG 2018 12/03/2018 1 500 000 05/04/2018 24 990
+FG 2017 21/03/2017 2 000 000 26/04/2017 19 040
+FG 2016 23/03/2016 2 000 000 21/04/2016 23 058
+FG 2015 23/03/2015 1 500 000 01/04/2015 15 972
+FG 2014 04/04/2014 1 000 000 26/03/2014 -
+38 000 000 352 110
+2. Une convention de prestations de services a été conclue entre Assurances BIAT et la société
+« Value Digital Services » en vertu de laquelle cette dernière effectue une mission de
+développement d’une plateforme digitale « from scratch » sur plusieurs lots, conçue et
+développée exclusivement pour la société.
+En contrepartie de ses prestations de services, la société « Value Digital Services » perçoit
+une rémunération d’un montant forfaitaire de 450 000 DT en hors taxes.
+Le périmètre des prestations comprend le développement des fonctionnalités suivantes :
+ Authentification : 1er accès, connexion, mot de passe oublié et déconnexion ;
+ Profil client ;
+ Consultation des polices auto individuelles ;
+ Suivi des remboursements et sinistre auto (intégration avec DigiClaim) ;
+ Devis/simulation ;
+ Règlement des échéances ;
+ Gestion des réclamations ;
+Cette convention a été autorisée par le conseil d’administration du 20 Octobre 2022.
+Par ailleurs, le montant de la rémunération forfaitaire est passé de 450 000 DT à 650 000 DT
+hors taxes.
+Cet avenant a été autorisé par le conseil d’administration du 15 Avril 2024.
+Cette convention prend effet à la date de sa signature et prend fin à la mise en production
+des fonctionnalités prévues.
+En 2025, Assurances BIAT a constaté une charge brute relative aux prestations réalisées de
+452 202 DT toutes taxes comprises.
+3. En date du 26 Février 2018, la BIAT a conclu deux contrats de location de locaux avec
+Assurances BIAT en vertu desquels la BIAT donne en bail pour usage de bureaux
+administratifs :
+- Une agence située à l’avenue Habib Bourguiba la Mannouba d’une superficie de 87.5
+m² pour un loyer annuel hors taxes de 10 320 DT.
+- Une agence située à Place Sidi Mtir Mahdia d’une superficie de 183 m² pour un loyer
+annuel hors taxes de 7 657 DT.
+Les locations sont consenties et acceptées pour une période de deux années consécutives
+commençant le 1er janvier 2017 et arrivant à échéance le 31 décembre 2018, renouvelable
+d’année en année par tacite reconduction.
+Les loyers subiront une majoration de 5% qui sera appliquée à partir de la deuxième année de
+location.
+La charge de location de ces agences, constatée en 2025, est de 31 608 DT.
+4. Les frais d’occupation par « Assurances BIAT » de l’agence de Bizerte ont été pris en charge
+par la « Protectrice » depuis l’exercice 2017 et devraient par la suite faire l’objet de
+facturation par cette dernière.
+Dans ce cadre, la « Protectrice » a conclu en date du 27 Mars 2018, un contrat de location de
+locaux avec « Assurances BIAT » en vertu duquel la « Protectrice » donne en bail pour usage
+de bureaux administratifs une agence située à Bizerte d’une superficie de 55.4 m² pour un
+loyer annuel hors taxes de 8 925 DT.
+Le contrat de location est conclu pour une période d’une année commençant le 1er janvier
+2017 et arrivant à échéance le 31 décembre 2017, renouvelable d’année en année par tacite
+reconduction.
+Le loyer subira une majoration de 5% qui sera appliquée à partir de la deuxième année de
+location.
+Ainsi, la charge de location de cette agence constatée en 2025, est de 15 692 DT.
+5. Votre société a conclu avec la BIAT un contrat de sous-location en vertu duquel cette
+dernière occupe le local dénommé « Commercial 2 » ayant une superficie de 145 m² et situé
+au rez-de-chaussée de l’immeuble sis aux berges du lac II- Tunis et ce, moyennant un loyer
+annuel de :
+- 125 DT Hors TVA par mètre carré pour la période du bail allant du 1er janvier 2010 au 30
+Avril 2010, soit la somme de 6 042 DT hors TVA ;
+- 137,5 DT Hors TVA par mètre carré pour la période du bail allant du 1er mai 2010 au 30
+Avril 2011, soit la somme de 19 937 DT hors TVA ;
+- 147,5 DT Hors TVA par mètre carré pour la période du bail allant du 1er mai 2011 au 30
+Avril 2012 soit la somme de 21 387 DT hors TVA ;
+Une majoration annuelle de 5% non cumulative du loyer sera appliquée à partir du 1er mai 2012.
+Cette sous location est consentie pour une durée ferme commençant le 1er janvier 2010 et
+finissant le 30 avril 2014 renouvelable d’année en année par tacite reconduction.
+En 2014 et par un avenant n°1 au contrat initial, la location est prorogée pour une nouvelle
+période commençant le 1er mai 2014 et finissant le 30 avril 2019 renouvelable d’année en année
+par tacite reconduction.
+Une majoration annuelle cumulative du loyer est appliquée à partir du 1er mai 2014 au taux
+annuel de 5 % et ce, sur la base du loyer de l'année précédente.
+Les produits de sous location au titre de l’exercice 2025, se sont élevés à 41 583 DT hors TVA.
+II - Obligations et engagements de la société envers les dirigeants :
+Les obligations et engagements envers les dirigeants tels que visés à l’article 200 du Code des
+Sociétés Commerciales se détaillent comme suit :
+II-1 : Rémunérations du Directeur Général
+La rémunération du Directeur Général, telle que fixé par la décision du conseil d’administration
+du 15 Juin 2023, est composée d’un salaire annuel servi sur 12 mois, d’une prime
+d’intéressement variable fixée, chaque année, d’avantage en nature sous forme de mise à
+disposition d’une voiture de fonction, d’un quota mensuel de carburant, d’une prise en charge
+des frais téléphoniques et de tickets restaurants.
+En 2025 Assurances BIAT a constaté une charge brute de 594 413 (hors charges patronales) outre
+des avantages divers totalisant un montant de 10 061 DT
+II-2 : Rémunérations du Président du Conseil d’Administration :
+En date du 10 juin 2024, la société Assurances BIAT a conclu avec la société AM Consulting en
+Stratégie et Finance représenté par le Président du conseil d’Administration d’assurances BIAT
+une convention d’assistance d conseil et de supervision de la mise en œuvre des actions
+découlant des nouvelles ambitions du business plan de développement d’Assurances BIAT.
+Cette convention s’étale du sur une période d’un an du 15 juin 2023 au 14 juin 2024
+renouvelable par tacite reconduction.
+Le montant de cette convention et de 111 830 DT à servir sur douze mensualités.
+La charge brute supportée par la société, au titre de 2025, est de 111 830 DT.
+II-3 : Rémunérations des membres du conseil d’administration et du comité permanent
+d’audit
+Le Président et les membres du Conseil d’Administration d’Assurances BIAT sont rémunérés par
+des jetons de présence fixés par l’Assemblée Générale Ordinaire statuant sur les comptes
+annuels.
+L’Assemblée Générale Ordinaire du 30 Mai 2024 a alloué aux membres du conseil
+d’administration pour l’exercice 2023 des jetons de présence d’un montant brut de 52 500 DT.
+L’Assemblée Générale Ordinaire du 30 Mai 2024 a décidé d’allouer aux membres du Comité
+Permanent d’Audit, au titre de l’exercice 2023, une rémunération d’un montant brut de 20 000
+DT à répartir entre eux.
+Le montant brut supporté par la société, en 2025, est de 72 500 DT.
+Par ailleurs et en dehors des opérations précitées, nous n’avons pas été avisés de l’existence
+d’autres opérations ou conventions entrant dans le cadre des dispositions de l’article 200 et
+suivants et 475 du code des sociétés commerciales, et nos travaux n’ont pas révélé l’existence
+de telles opérations.
+Tunis, le 27 avril 2026
+Les commissaires aux comptes
+La Générale d'Audit et Conseil P/ CABINET CMC
+Membre de MGI Worldwide Mr Chérif BEN ZINA
+Chiheb GHANIMI

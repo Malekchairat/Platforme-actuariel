@@ -1,0 +1,24 @@
+{
+  "company": "GAT Vie",
+  "non_vie": {
+    "primes_emises": null,
+    "primes_acquises": null,
+    "charges_sinistres": null,
+    "resultat_net": null,
+    "provisions_techniques": null,
+    "charges_exploitation": null,
+    "autres_charges": null
+  },
+  "vie": {
+    "primes_emises": 89649225,
+    "primes_acquises": 88850103,
+    "charges_sinistres": 51834271,
+    "resultat_net": 7299055,
+    "provisions_mathématiques": 347337685
+  },
+  "global": {
+    "fonds_propres": 30962325,
+    "total_bilan": 423587529,
+    "produits_financiers": 34909480
+  }
+}

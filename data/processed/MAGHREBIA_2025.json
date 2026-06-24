@@ -1,0 +1,24 @@
+{
+  "company": "ASSURANCES MAGHREBIA SA",
+  "non_vie": {
+    "primes_emises": "294 047 649",
+    "primes_acquises": "203 350 571",
+    "charges_sinistres": "165 900 793",
+    "resultat_net": "26 092 950",
+    "provisions_techniques": "267 467 276",
+    "charges_exploitation": "27 156 572",
+    "autres_charges": "2 188 961"
+  },
+  "vie": {
+    "primes_emises": null,
+    "primes_acquises": null,
+    "charges_sinistres": null,
+    "resultat_net": null,
+    "provisions_mathématiques": "2824644"
+  },
+  "global": {
+    "fonds_propres": "169 743 538",
+    "total_bilan": "571 506 036",
+    "produits_financiers": "37 303 855"
+  }
+}

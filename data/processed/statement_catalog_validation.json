@@ -1,0 +1,15 @@
+{
+  "total_rows": 1411,
+  "confident_rows": 569,
+  "mapping_rate": 0.403,
+  "metric_counts": {
+    "charge_sinistres": 36,
+    "fonds_propres": 3,
+    "primes_emises": 198,
+    "provisions_techniques": 137,
+    "ratio_sp": 155,
+    "resultat_net": 40,
+    "unmapped": 842
+  },
+  "output_csv": "C:\\Users\\msi\\Desktop\\Copilot actuariel\\copilot_actuariel\\data\\processed\\canonical_statement_rows.csv"
+}

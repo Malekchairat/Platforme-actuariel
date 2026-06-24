@@ -1,0 +1,161 @@
+{
+  "company": "AMANA TAKAFUL",
+  "indicators": [
+    {
+      "indicator_name": "Primes émises",
+      "original_label": "ةلوبقملاو ةرداصّ لا نيمأـّتلا طاسقأ",
+      "year": 2025,
+      "value": 61396176
+    },
+    {
+      "indicator_name": "Primes acquises",
+      "original_label": "عومجملا",
+      "year": 2025,
+      "value": 51158827
+    },
+    {
+      "indicator_name": "Primes acquises",
+      "original_label": "عومجملا",
+      "year": 2024,
+      "value": 36704284
+    },
+    {
+      "indicator_name": "Primes émises",
+      "original_label": "نيمات طاسقأ",
+      "year": 2025,
+      "value": 14854317
+    },
+    {
+      "indicator_name": "Primes acquises",
+      "original_label": "ةبستكم نيمات طاسقأ",
+      "year": 2025,
+      "value": 57833829
+    },
+    {
+      "indicator_name": "Primes émises",
+      "original_label": "ةرداص نيمأت طاسقأ",
+      "year": 2025,
+      "value": 61396176
+    },
+    {
+      "indicator_name": "Charges de sinistres",
+      "original_label": "ة مدخلا ميدقت ءابعأ",
+      "year": 2025,
+      "value": -4954452
+    },
+    {
+      "indicator_name": "Charges de sinistres",
+      "original_label": "ةمدخلا ميدقت ءابعأ",
+      "year": 2025,
+      "value": -34056675
+    },
+    {
+      "indicator_name": "Indemnités versées",
+      "original_label": "ةعوفدم تاقفنو ةمدخلا ميدقت ءابعأ",
+      "year": 2025,
+      "value": -31022462
+    },
+    {
+      "indicator_name": "Résultat technique",
+      "original_label": "ز جع وأ ضئاف",
+      "year": 2025,
+      "value": 337083
+    },
+    {
+      "indicator_name": "Résultat technique",
+      "original_label": "زجع وأ ضئاف",
+      "year": 2025,
+      "value": 63494
+    },
+    {
+      "indicator_name": "Provisions mathématiques",
+      "original_label": "يلئاعلا يلفاكتلا نيمأّتلا تارخدّ م",
+      "year": 2025,
+      "value": 61177234
+    },
+    {
+      "indicator_name": "Provisions mathématiques",
+      "original_label": "يلئاعلا يلفاكتلا نيمأّتلا تارخدّ م",
+      "year": 2024,
+      "value": 51559269
+    },
+    {
+      "indicator_name": "Provisions techniques",
+      "original_label": "عومجملا",
+      "year": 2025,
+      "value": 130761307
+    },
+    {
+      "indicator_name": "Provisions techniques",
+      "original_label": "عومجملا",
+      "year": 2024,
+      "value": 113169974
+    },
+    {
+      "indicator_name": "Résultat technique",
+      "original_label": "ةيبساحملا ةنسلل نيكرتشملا قودنص زجع وأ ضئاف",
+      "year": 2025,
+      "value": 400577
+    },
+    {
+      "indicator_name": "Résultat net",
+      "original_label": "ةّيبساحملا ةنسّ لا ةجيتن",
+      "year": 2025,
+      "value": 5328831
+    },
+    {
+      "indicator_name": "Résultat net",
+      "original_label": "ةّيبساحملا ةنسّ لا ةجيتن",
+      "year": 2024,
+      "value": 3745674
+    },
+    {
+      "indicator_name": "Capitaux propres",
+      "original_label": "عوــمجملا",
+      "year": 2025,
+      "value": 37886053
+    },
+    {
+      "indicator_name": "Capitaux propres",
+      "original_label": "عوــمجملا",
+      "year": 2024,
+      "value": 33548585
+    },
+    {
+      "indicator_name": "Produits financiers",
+      "original_label": "تافيظوتلا تاداريا عومجم",
+      "year": 2025,
+      "value": 7266839
+    },
+    {
+      "indicator_name": "Charges d'exploitation",
+      "original_label": "تافيظوتلا ءابعأ عومجم",
+      "year": 2025,
+      "value": -2112837
+    },
+    {
+      "indicator_name": "Charges d'exploitation",
+      "original_label": "ناوعلأا ءابعا",
+      "year": 2025,
+      "value": -8184111
+    },
+    {
+      "indicator_name": "Charges d'exploitation",
+      "original_label": "ناوعلأا ءابعا",
+      "year": 2024,
+      "value": -7271448
+    },
+    {
+      "indicator_name": "Charges d'exploitation",
+      "original_label": "عومجملا",
+      "year": 2025,
+      "value": -11966733
+    },
+    {
+      "indicator_name": "Charges d'exploitation",
+      "original_label": "عومجملا",
+      "year": 2024,
+      "value": -10604127
+    }
+  ]
+}

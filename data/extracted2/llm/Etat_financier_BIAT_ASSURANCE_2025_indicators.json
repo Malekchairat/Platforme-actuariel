@@ -1,0 +1,39 @@
+{
+  "financial_summary": {
+    "total_lease_charges": 47300,
+    "underlease_income": 41583,
+    "director_remuneration": 594413,
+    "board_members_fees": 72500,
+    "consulting_contract_charge": 111830
+  },
+  "legal_compliance": {
+    "articles_referenced": [
+      "200",
+      "475"
+    ],
+    "compliance_status": "adherence_to_regulations"
+  },
+  "operational_details": {
+    "lease_agreements": [
+      {
+        "location": "Sousse",
+        "charge_2025": 31608,
+        "lease_term": "before_2012"
+      },
+      {
+        "location": "Tunis",
+        "charge_2025": 15692,
+        "lease_term": "before_2012"
+      }
+    ],
+    "underlease_terms": {
+      "location": "Sousse",
+      "income_2025": 41583,
+      "lease_term": "before_2012"
+    }
+  },
+  "key_figures": {
+    "total_expenses": 837345,
+    "total_revenue": 41583
+  }
+}

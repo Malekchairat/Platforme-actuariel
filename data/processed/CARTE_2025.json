@@ -1,0 +1,144 @@
+{
+  "company": "Compagnie d’Assurances et de Réassurances Tuniso-Européenne (CARTE)",
+  "non_vie": {
+    "primes_emises": {
+      "val_n": 123854160.99,
+      "val_n_1": 112571847.163,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "1 23 854 160,990",
+      "snippet_n_1": "1 12 571 847,163",
+      "pct_change": 10.02
+    },
+    "primes_acquises": {
+      "val_n": 122074934.352,
+      "val_n_1": 110378285.258,
+      "page_n": 29,
+      "page_n_1": 29,
+      "snippet_n": "122 074 934,352",
+      "snippet_n_1": "110 378 285,258",
+      "pct_change": 10.6
+    },
+    "charges_sinistres": {
+      "val_n": 79646917.024,
+      "val_n_1": 79755324.14,
+      "page_n": 29,
+      "page_n_1": 29,
+      "snippet_n": "79 646 917,024",
+      "snippet_n_1": "79 755 324,140",
+      "pct_change": -0.14
+    },
+    "resultat_net": {
+      "val_n": 12391689.013,
+      "val_n_1": 7866206.802,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "12 391 689,013",
+      "snippet_n_1": "7 866 206,802",
+      "pct_change": 57.53
+    },
+    "provisions_techniques": {
+      "val_n": 172739926.706,
+      "val_n_1": 183511946.515,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "172 739 926,706",
+      "snippet_n_1": "183 511 946,515",
+      "pct_change": -5.87
+    },
+    "charges_exploitation": {
+      "val_n": 37822258.819,
+      "val_n_1": 20374093.403,
+      "page_n": 30,
+      "page_n_1": 30,
+      "snippet_n": "37 822 258,819",
+      "snippet_n_1": "20 374 093,403",
+      "pct_change": 85.64
+    },
+    "autres_charges": {
+      "val_n": 6240457.526,
+      "val_n_1": 4308229.781,
+      "page_n": 31,
+      "page_n_1": 31,
+      "snippet_n": "6 240 457,526",
+      "snippet_n_1": "4 308 229,781",
+      "pct_change": 44.85
+    }
+  },
+  "vie": {
+    "primes_emises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_net": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_mathématiques": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "global": {
+    "fonds_propres": {
+      "val_n": 163470994.553,
+      "val_n_1": 155406219.913,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "163 470 994,553",
+      "snippet_n_1": "155 406 219,913",
+      "pct_change": 5.19
+    },
+    "total_bilan": {
+      "val_n": 449986453.881,
+      "val_n_1": 436149978.241,
+      "page_n": 2,
+      "page_n_1": 2,
+      "snippet_n": "449 986 453,881",
+      "snippet_n_1": "436 149 978,241",
+      "pct_change": 3.17
+    },
+    "produits_financiers": {
+      "val_n": 25010236.011,
+      "val_n_1": 17835692.745,
+      "page_n": 31,
+      "page_n_1": 31,
+      "snippet_n": "25 010 236,011",
+      "snippet_n_1": "17 835 692,745",
+      "pct_change": 40.23
+    }
+  }
+}
