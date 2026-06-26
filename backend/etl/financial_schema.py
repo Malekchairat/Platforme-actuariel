@@ -1,54 +1,64 @@
 from __future__ import annotations
 
 import json
+import copy
 import re
 from typing import Any
 
-# Re-architected schema: Stores raw metrics for N & N-1 along with audit trail metadata
-# This prevents the LLM from executing math or overwriting data across document chunks.
-METRIC_TEMPLATE = {
-    "val_n": None,       # Raw value for current year (Exercise N)
-    "val_n_1": None,     # Raw value for previous year (Exercise N-1)
-    "page_n": None,      # Exact PDF page number where val_n was discovered
-    "page_n_1": None,    # Exact PDF page number where val_n_1 was discovered
-    "snippet_n": None,   # Raw textual sentence/row context for val_n verification
-    "snippet_n_1": None, # Raw textual sentence/row context for val_n_1 verification
-    "pct_change": None   # Programmatically calculated in Python (Not by the LLM!)
+# Structure de stockage d'un indicateur avec sa propre piste d'audit pour le survol
+METRIC_TEMPLATE: dict[str, Any] = {
+    "val_n": None,       # Chiffre brut de l'année en cours (Exercice N)
+    "val_n_1": None,     # Chiffre brut de l'année précédente (Exercice N-1)
+    "page_n": None,      # Numéro de page d'extraction de l'année N
+    "page_n_1": None,    # Numéro de page d'extraction de l'année N-1
+    "snippet_n": None,   # Extrait textuel de ligne d'origine (Année N)
+    "snippet_n_1": None, # Extrait textuel de ligne d'origine (Année N-1)
+    "pct_change": None   # Calculé programmatiquement en Python pur
 }
 
 OUTPUT_SCHEMA: dict[str, Any] = {
     "company": None,
     "non_vie": {
         "primes_emises": dict(METRIC_TEMPLATE),
+        "primes_cedees": dict(METRIC_TEMPLATE),          
         "primes_acquises": dict(METRIC_TEMPLATE),
         "charges_sinistres": dict(METRIC_TEMPLATE),
-        "resultat_net": dict(METRIC_TEMPLATE),
-        "provisions_techniques": dict(METRIC_TEMPLATE),
+        "part_reassureurs_sinistres": dict(METRIC_TEMPLATE), 
+        "frais_d_acquisition": dict(METRIC_TEMPLATE),     
+        "frais_d_administration": dict(METRIC_TEMPLATE),    
         "charges_exploitation": dict(METRIC_TEMPLATE),
+        "provisions_primes_non_acquises": dict(METRIC_TEMPLATE), 
+        "provisions_sinistres_a_payer": dict(METRIC_TEMPLATE),   
+        "provisions_techniques": dict(METRIC_TEMPLATE),
+        "resultat_technique": dict(METRIC_TEMPLATE),      
+        "resultat_net": dict(METRIC_TEMPLATE),
         "autres_charges": dict(METRIC_TEMPLATE),
     },
     "vie": {
         "primes_emises": dict(METRIC_TEMPLATE),
+        "primes_cedees": dict(METRIC_TEMPLATE),          
         "primes_acquises": dict(METRIC_TEMPLATE),
         "charges_sinistres": dict(METRIC_TEMPLATE),
-        "resultat_net": dict(METRIC_TEMPLATE),
         "provisions_mathématiques": dict(METRIC_TEMPLATE),
+        "resultat_technique": dict(METRIC_TEMPLATE),      
+        "resultat_net": dict(METRIC_TEMPLATE),
     },
     "global": {
         "fonds_propres": dict(METRIC_TEMPLATE),
         "total_bilan": dict(METRIC_TEMPLATE),
         "produits_financiers": dict(METRIC_TEMPLATE),
+        "impot_sur_les_benefices": dict(METRIC_TEMPLATE), 
     },
 }
 
 
 def empty_schema() -> dict[str, Any]:
-    """Generates a deep copy of the structured output template."""
-    return json.loads(json.dumps(OUTPUT_SCHEMA, ensure_ascii=False))
+    """Génère une copie profonde propre du schéma d'indicateurs."""
+    return copy.deepcopy(OUTPUT_SCHEMA)
 
 
 def safe_json_parse(text: str) -> dict[str, Any]:
-    """Safely extracts and parses JSON formatting structures from the API response."""
+    """Extrait et valide de façon robuste les objets JSON retournés par l'API."""
     try:
         return json.loads(text)
     except json.JSONDecodeError:
@@ -66,8 +76,8 @@ def safe_json_parse(text: str) -> dict[str, Any]:
 
 def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, Any]:
     """
-    Intelligently coalesces metrics extracted from different document chunks.
-    Ensures that empty null chunks never overwrite valid metrics found in other pages.
+    Fusionne de manière itérative les extractions de chaque bloc de pages.
+    Empêche les blocs vides ou incomplets d'effacer les données déjà extraites.
     """
     if incoming.get("company") and not base.get("company"):
         base["company"] = incoming["company"]
@@ -84,19 +94,15 @@ def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, A
             if not isinstance(incoming_metric, dict):
                 continue
                 
-            # Safely merge each specific field property individually
             for prop in ("val_n", "val_n_1", "page_n", "page_n_1", "snippet_n", "snippet_n_1"):
                 if base[section][key][prop] is None and incoming_metric.get(prop) is not None:
                     base[section][key][prop] = incoming_metric[prop]
 
-    # After merging all chunk extractions, run the safe programmatic math calculations
     return calculate_all_variations(base)
 
 
 def calculate_all_variations(data: dict[str, Any]) -> dict[str, Any]:
-    """
-    Computes exact percentage shifts programmatically using deterministic Python calculations.
-    """
+    """Calcule de façon déterministe en Python les variations d'une année sur l'autre."""
     for section in ("non_vie", "vie", "global"):
         for key in data.get(section, {}):
             metric = data[section][key]
@@ -105,7 +111,6 @@ def calculate_all_variations(data: dict[str, Any]) -> dict[str, Any]:
             
             if val_n is not None and val_n_1 is not None and val_n_1 != 0:
                 try:
-                    # Normalizes variations mathematically
                     change = ((float(val_n) - float(val_n_1)) / float(val_n_1)) * 100
                     metric["pct_change"] = round(change, 2)
                 except (ValueError, TypeError):
@@ -117,7 +122,7 @@ def calculate_all_variations(data: dict[str, Any]) -> dict[str, Any]:
 
 
 def is_valid_financial_result(result: dict[str, Any]) -> bool:
-    """Verifies compliance against minimum document extraction criteria."""
+    """Valide la conformité structurelle minimale du résultat."""
     if not result.get("company"):
         return False
 

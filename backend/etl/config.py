@@ -9,6 +9,8 @@ BASE_DIR = Path(__file__).resolve().parents[2]
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 UPLOAD_DIR = BASE_DIR / "data" / "uploads"
 
+
+
 load_dotenv(BASE_DIR / ".env")
 load_dotenv(BASE_DIR / "backend" / ".env")
 
@@ -38,3 +40,11 @@ FINANCIAL_KEYWORDS = [
 ]
 
 ALLOWED_EXTENSIONS = {".pdf", ".txt", ".json"}
+
+
+# À rajouter tout en bas de backend/etl/config.py
+DB_HOST = os.getenv("DB_HOST", "127.0.0.1")
+DB_PORT = os.getenv("DB_PORT", "5432")
+DB_NAME = os.getenv("DB_NAME", "actuariel_db")
+DB_USER = os.getenv("DB_USER", "postgres")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "12345678")

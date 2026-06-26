@@ -3,8 +3,6 @@ import type {
   FinancialData,
   KPI,
   Portfolio,
-  MetricDetail,
-  MetricValue,
   StructureSlice,
   TableRow,
   TimeSeriesPoint,
@@ -18,10 +16,44 @@ const CHART_COLORS = [
   "var(--chart-5)",
 ];
 
-export function formatCurrency(value: number): string {
-  if (!Number.isFinite(value)) {
-    return "-";
+// --- Fonctions d'extraction sécurisées de l'architecture Smart KPI ---
+export function resolveMetricNumber(metric: any): number {
+  if (!metric) return 0;
+  if (typeof metric === "object" && metric.val_n !== undefined && metric.val_n !== null) {
+    return Number(metric.val_n);
   }
+  if (typeof metric === "number") return metric;
+  return 0;
+}
+
+export function resolveMetricNumberPast(metric: any): number {
+  if (!metric) return 0;
+  if (typeof metric === "object" && metric.val_n_1 !== undefined && metric.val_n_1 !== null) {
+    return Number(metric.val_n_1);
+  }
+  return 0;
+}
+
+export function resolveMetricDetail(metric: any) {
+  if (metric && typeof metric === "object") {
+    return {
+      page_n: metric.page_n ?? "N/A",
+      page_n_1: metric.page_n_1 ?? "N/A",
+      snippet_n: metric.snippet_n ?? "Aucun extrait trouvé",
+      snippet_n_1: metric.snippet_n_1 ?? "Aucun extrait trouvé",
+      pct_change: metric.pct_change ?? null,
+    };
+  }
+  return {
+    page_n: "N/A",
+    page_n_1: "N/A",
+    snippet_n: "Aucun extrait trouvé",
+    snippet_n_1: "Aucun extrait trouvé",
+    pct_change: null,
+  };
+}
+
+export function formatCurrency(value: number): string {
   if (Math.abs(value) >= 1_000_000_000) {
     return `${(value / 1_000_000_000).toFixed(2)} Md TND`;
   }
@@ -36,52 +68,32 @@ export function formatCurrency(value: number): string {
 }
 
 export function formatPercent(value: number): string {
-  if (!Number.isFinite(value)) {
-    return "-";
-  }
   return `${value.toFixed(1)} %`;
 }
 
-export function resolveMetricNumber(metric: MetricValue, fallback = 0): number {
-  if (typeof metric === "number") {
-    return Number.isFinite(metric) ? metric : fallback;
-  }
+export function extractKPIs(data: any): KPI[] {
+  const primesEmises = resolveMetricNumber(data?.non_vie?.primes_emises) + resolveMetricNumber(data?.vie?.primes_emises);
+  const sinistres = resolveMetricNumber(data?.non_vie?.charges_sinistres) + resolveMetricNumber(data?.vie?.charges_sinistres);
+  
+  // Correction actuarielle : On regarde le vrai résultat technique calculé
+  const resultatTechnique = resolveMetricNumber(data?.non_vie?.resultat_technique) + resolveMetricNumber(data?.vie?.resultat_technique);
+  
+  const fondsPropres = resolveMetricNumber(data?.global?.fonds_propres);
+  const totalBilan = resolveMetricNumber(data?.global?.total_bilan);
 
-  if (metric && typeof metric === "object") {
-    const current = metric.val_n;
-    if (typeof current === "number" && Number.isFinite(current)) {
-      return current;
-    }
-  }
-
-  return fallback;
-}
-
-export function resolveMetricDetail(metric: MetricValue): MetricDetail | null {
-  if (metric && typeof metric === "object") {
-    return metric;
-  }
-
-  return null;
-}
-
-export function extractKPIs(data: FinancialData): KPI[] {
-  const primesEmises =
-    resolveMetricNumber(data.non_vie.primes_emises) +
-    resolveMetricNumber(data.vie.primes_emises);
-  const sinistres =
-    resolveMetricNumber(data.non_vie.charges_sinistres) +
-    resolveMetricNumber(data.vie.charges_sinistres);
-  const resultatTechnique =
-    resolveMetricNumber(data.non_vie.resultat_net) +
-    resolveMetricNumber(data.vie.resultat_net);
+  // Récupération des variations dynamiques pré-calculées par Python pour éviter le NaN
+  const pDetail = resolveMetricDetail(data?.non_vie?.primes_emises);
+  const sDetail = resolveMetricDetail(data?.non_vie?.charges_sinistres);
+  const rDetail = resolveMetricDetail(data?.non_vie?.resultat_technique);
+  const fDetail = resolveMetricDetail(data?.global?.fonds_propres);
+  const bDetail = resolveMetricDetail(data?.global?.total_bilan);
 
   return [
     {
       id: "primes",
       label: "Primes émises",
       value: primesEmises,
-      change: 4.2,
+      change: pDetail.pct_change !== null ? Number(pDetail.pct_change) : 4.2,
       changeLabel: "vs N-1",
       format: "currency",
     },
@@ -89,7 +101,7 @@ export function extractKPIs(data: FinancialData): KPI[] {
       id: "sinistres",
       label: "Sinistres",
       value: sinistres,
-      change: 6.8,
+      change: sDetail.pct_change !== null ? Number(sDetail.pct_change) : 6.8,
       changeLabel: "vs N-1",
       format: "currency",
     },
@@ -97,34 +109,33 @@ export function extractKPIs(data: FinancialData): KPI[] {
       id: "resultat",
       label: "Résultat technique",
       value: resultatTechnique,
-      change: -2.1,
+      change: rDetail.pct_change !== null ? Number(rDetail.pct_change) : -2.1,
       changeLabel: "vs N-1",
       format: "currency",
     },
     {
       id: "fonds",
       label: "Fonds propres",
-      value: data.global.fonds_propres,
-      change: 3.5,
+      value: fondsPropres,
+      change: fDetail.pct_change !== null ? Number(fDetail.pct_change) : 3.5,
       changeLabel: "vs N-1",
       format: "currency",
     },
     {
       id: "bilan",
       label: "Total bilan",
-      value: resolveMetricNumber(data.global.total_bilan),
-      change: 5.1,
+      value: totalBilan,
+      change: bDetail.pct_change !== null ? Number(bDetail.pct_change) : 5.1,
       changeLabel: "vs N-1",
       format: "currency",
     },
   ];
 }
 
-export function buildSinistresTimeSeries(data: FinancialData): TimeSeriesPoint[] {
-  const baseNonVie = resolveMetricNumber(data.non_vie.charges_sinistres);
-  const baseVie = resolveMetricNumber(data.vie.charges_sinistres);
+export function buildSinistresTimeSeries(data: any): TimeSeriesPoint[] {
+  const baseNonVie = resolveMetricNumber(data?.non_vie?.charges_sinistres);
+  const baseVie = resolveMetricNumber(data?.vie?.charges_sinistres);
   const periods = ["T1 2024", "T2 2024", "T3 2024", "T4 2024", "T1 2025"];
-
   const factors = [0.82, 0.88, 0.93, 0.97, 1.0];
 
   return periods.map((period, i) => {
@@ -139,82 +150,70 @@ export function buildSinistresTimeSeries(data: FinancialData): TimeSeriesPoint[]
   });
 }
 
-export function buildBranchComparison(data: FinancialData): ComparisonPoint[] {
+export function buildBranchComparison(data: any): ComparisonPoint[] {
   return [
     {
       name: "Primes",
-      nonVie: resolveMetricNumber(data.non_vie.primes_emises),
-      vie: resolveMetricNumber(data.vie.primes_emises),
+      nonVie: resolveMetricNumber(data?.non_vie?.primes_emises),
+      vie: resolveMetricNumber(data?.vie?.primes_emises),
     },
     {
       name: "Sinistres",
-      nonVie: resolveMetricNumber(data.non_vie.charges_sinistres),
-      vie: resolveMetricNumber(data.vie.charges_sinistres),
+      nonVie: resolveMetricNumber(data?.non_vie?.charges_sinistres),
+      vie: resolveMetricNumber(data?.vie?.charges_sinistres),
     },
     {
       name: "Résultat",
-      nonVie: resolveMetricNumber(data.non_vie.resultat_net),
-      vie: resolveMetricNumber(data.vie.resultat_net),
+      nonVie: resolveMetricNumber(data?.non_vie?.resultat_technique),
+      vie: resolveMetricNumber(data?.vie?.resultat_technique),
     },
     {
       name: "Provisions",
-      nonVie: resolveMetricNumber(data.non_vie.provisions_techniques),
-      vie: resolveMetricNumber(data.vie.provisions_mathématiques),
+      nonVie: resolveMetricNumber(data?.non_vie?.provisions_techniques),
+      vie: resolveMetricNumber(data?.vie?.provisions_mathématiques),
     },
   ];
 }
 
-export function buildFinancialStructure(data: FinancialData): StructureSlice[] {
-  const fondsPropres = resolveMetricNumber(data.global.fonds_propres);
-  const totalBilan = resolveMetricNumber(data.global.total_bilan);
-  const provisionsNonVie = resolveMetricNumber(data.non_vie.provisions_techniques);
-  const provisionsVie = resolveMetricNumber(data.vie.provisions_mathématiques);
+export function buildFinancialStructure(data: any): StructureSlice[] {
+  const tBilan = resolveMetricNumber(data?.global?.total_bilan);
+  const fPropres = resolveMetricNumber(data?.global?.fonds_propres);
+  const nvPT = resolveMetricNumber(data?.non_vie?.provisions_techniques);
+  const vPM = resolveMetricNumber(data?.vie?.provisions_mathématiques);
 
-  const autresActifs =
-    totalBilan - fondsPropres - provisionsNonVie - provisionsVie;
+  const autresActifs = tBilan - fPropres - nvPT - vPM;
 
   return [
-    { name: "Fonds propres", value: fondsPropres, fill: CHART_COLORS[0] },
-    {
-      name: "Provisions non-vie",
-      value: provisionsNonVie,
-      fill: CHART_COLORS[1],
-    },
-    {
-      name: "Provisions vie",
-      value: provisionsVie,
-      fill: CHART_COLORS[2],
-    },
+    { name: "Fonds propres", value: fPropres, fill: CHART_COLORS[0] },
+    { name: "Provisions non-vie", value: nvPT, fill: CHART_COLORS[1] },
+    { name: "Provisions vie", value: vPM, fill: CHART_COLORS[2] },
     { name: "Autres actifs", value: Math.max(autresActifs, 0), fill: CHART_COLORS[3] },
   ];
 }
 
-export function flattenFinancialData(data: FinancialData): TableRow[] {
+export function flattenFinancialData(data: any): TableRow[] {
   const rows: TableRow[] = [];
 
-  const pushSection = (section: string, entries: Record<string, MetricValue>) => {
-    for (const [key, value] of Object.entries(entries)) {
-      const detail = resolveMetricDetail(value);
+  const pushSection = (section: string, sectionObj: any) => {
+    if (!sectionObj || typeof sectionObj !== "object") return;
+    for (const [key, item] of Object.entries(sectionObj)) {
+      const val = resolveMetricNumber(item);
       rows.push({
         label: key.replace(/_/g, " "),
-        value: resolveMetricNumber(value),
+        value: val,
         section,
-        previousValue: detail?.val_n_1 ?? null,
-        page: detail?.page_n ?? null,
-        snippet: detail?.snippet_n ?? null,
-        pctChange: detail?.pct_change ?? null,
       });
     }
   };
 
-  pushSection("Non-vie", data.non_vie as unknown as Record<string, MetricValue>);
-  pushSection("Vie", data.vie as unknown as Record<string, MetricValue>);
-  pushSection("Global", data.global as unknown as Record<string, MetricValue>);
+  pushSection("Non-vie", data?.non_vie);
+  pushSection("Vie", data?.vie);
+  pushSection("Global", data?.global);
 
   return rows;
 }
 
-export function buildPortfolios(data: FinancialData): Portfolio[] {
+export function buildPortfolios(data: any): Portfolio[] {
   const nonVieSegments = [
     { name: "Automobile", share: 0.38 },
     { name: "Multirisques", share: 0.22 },
@@ -229,10 +228,14 @@ export function buildPortfolios(data: FinancialData): Portfolio[] {
     { name: "Décès", share: 0.25 },
   ];
 
+  const nvPrimes = resolveMetricNumber(data?.non_vie?.primes_emises);
+  const nvSinistres = resolveMetricNumber(data?.non_vie?.charges_sinistres);
+  const nvNet = resolveMetricNumber(data?.non_vie?.resultat_net);
+
   const nonViePortfolios = nonVieSegments.map((seg, i) => {
-    const primes = Math.round(resolveMetricNumber(data.non_vie.primes_emises) * seg.share);
-    const sinistres = Math.round(resolveMetricNumber(data.non_vie.charges_sinistres) * seg.share);
-    const resultat = Math.round(resolveMetricNumber(data.non_vie.resultat_net) * seg.share);
+    const primes = Math.round(nvPrimes * seg.share);
+    const sinistres = Math.round(nvSinistres * seg.share);
+    const resultat = Math.round(nvNet * seg.share);
     const profitability = primes > 0 ? (resultat / primes) * 100 : 0;
     const riskLevel: Portfolio["riskLevel"] =
       profitability < 0.5 ? "high" : profitability < 2 ? "medium" : "low";
@@ -250,10 +253,14 @@ export function buildPortfolios(data: FinancialData): Portfolio[] {
     };
   });
 
+  const vPrimes = resolveMetricNumber(data?.vie?.primes_emises);
+  const vSinistres = resolveMetricNumber(data?.vie?.charges_sinistres);
+  const vNet = resolveMetricNumber(data?.vie?.resultat_net);
+
   const viePortfolios = vieSegments.map((seg, i) => {
-    const primes = Math.round(resolveMetricNumber(data.vie.primes_emises) * seg.share);
-    const sinistres = Math.round(resolveMetricNumber(data.vie.charges_sinistres) * seg.share);
-    const resultat = Math.round(resolveMetricNumber(data.vie.resultat_net) * seg.share);
+    const primes = Math.round(vPrimes * seg.share);
+    const sinistres = Math.round(vSinistres * seg.share);
+    const resultat = Math.round(vNet * seg.share);
     const profitability = primes > 0 ? (resultat / primes) * 100 : 0;
     const riskLevel: Portfolio["riskLevel"] = profitability < 5 ? "medium" : "low";
 

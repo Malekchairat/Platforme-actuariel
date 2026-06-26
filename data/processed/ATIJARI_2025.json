@@ -1,0 +1,234 @@
+{
+  "company": "COMPAGNIE NOUVELLE D’ASSURANCE (ATTIJARI ASSURANCE)",
+  "non_vie": {
+    "primes_emises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_cedees": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "part_reassureurs_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_acquisition": {
+      "val_n": 4795315,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "La société Compagnie Nouvelle d’Assurance a constaté une charge correspondant aux commissions d’acquisition des contrats de capitalisation (Capital Plus-Awledi et Toumouhi) pour un montant de 990 671 dinars... et aux commissions d’acquisition des contrats de prévoyance... pour un montant de 3 804 644 dinars",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_administration": {
+      "val_n": 2845377,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "La société Compagnie Nouvelle d’Assurance a constaté une charge correspondant aux commissions de gestion des contrats de capitalisation (Capital Plus, Awledi et Toumouhi) pour un montant de 2 845 377 dinars",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_exploitation": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_primes_non_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_sinistres_a_payer": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_techniques": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_net": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "autres_charges": {
+      "val_n": 3464724,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "La société Compagnie Nouvelle d’Assurance a constaté au titre de l’exercice 2025 une charge au titre de prestations sur le système d’information pour un montant de 3 464 724 dinars",
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "vie": {
+    "primes_emises": {
+      "val_n": 168582816,
+      "val_n_1": 141663231,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRV11 Primes émises et acceptées + 168 582 816",
+      "snippet_n_1": "141 663 231",
+      "pct_change": 19.0
+    },
+    "primes_cedees": {
+      "val_n": 777368,
+      "val_n_1": 701010,
+      "page_n": 4,
+      "page_n_1": 17,
+      "snippet_n": "PRV1 Primes Cessions et/ou Opérations nettes 2025 777 368",
+      "snippet_n_1": "Primes cédées -701 010",
+      "pct_change": 10.89
+    },
+    "primes_acquises": {
+      "val_n": 167805448,
+      "val_n_1": 141663231,
+      "page_n": 4,
+      "page_n_1": 17,
+      "snippet_n": "Primes acquises nettes des cessions de réassurance s’élèvent au 31/12/2025 à 167 805 448 dinars",
+      "snippet_n_1": "141 663 231 dinars pour l’exercice précédent",
+      "pct_change": 18.45
+    },
+    "charges_sinistres": {
+      "val_n": 100435205,
+      "val_n_1": 89209651,
+      "page_n": 18,
+      "page_n_1": 18,
+      "snippet_n": "Total charges de sinistre 100 435 205",
+      "snippet_n_1": "89 209 651",
+      "pct_change": 12.58
+    },
+    "provisions_mathématiques": {
+      "val_n": 857546125,
+      "val_n_1": 769297931,
+      "page_n": 16,
+      "page_n_1": 16,
+      "snippet_n": "Provisions mathématiques Epargne 857 546 125 769 297 931",
+      "snippet_n_1": "769 297 931",
+      "pct_change": 11.47
+    },
+    "resultat_technique": {
+      "val_n": 20397838,
+      "val_n_1": 21778102,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "RTV Sous total (résultat technique de l'assurance et/ou de la réassurance vie) 20 397 838",
+      "snippet_n_1": "21 778 102",
+      "pct_change": -6.34
+    },
+    "resultat_net": {
+      "val_n": 12805091,
+      "val_n_1": 11900218,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "CP6 Résultat Exercice 12 805 091",
+      "snippet_n_1": "11 900 218",
+      "pct_change": 7.6
+    }
+  },
+  "global": {
+    "fonds_propres": {
+      "val_n": 73211792,
+      "val_n_1": 68196702,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "Total capitaux propres avant affectation 73 211 792",
+      "snippet_n_1": "68 196 702",
+      "pct_change": 7.35
+    },
+    "total_bilan": {
+      "val_n": 1023451730,
+      "val_n_1": 920199435,
+      "page_n": 2,
+      "page_n_1": 2,
+      "snippet_n": "Total 1 035 453 865 12 002 135 1 023 451 730",
+      "snippet_n_1": "920 199 435",
+      "pct_change": 11.22
+    },
+    "produits_financiers": {
+      "val_n": 73456103,
+      "val_n_1": 65707006,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRV21 Revenus des placements 72 370 063 + PRNT11 1 086 040",
+      "snippet_n_1": "64 386 238 + 1 320 768",
+      "pct_change": 11.79
+    },
+    "impot_sur_les_benefices": {
+      "val_n": 8731282,
+      "val_n_1": 10098487,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "CHNT4 Impôts sur le résultat - 8 731 282",
+      "snippet_n_1": "10 098 487",
+      "pct_change": -13.54
+    }
+  }
+}
