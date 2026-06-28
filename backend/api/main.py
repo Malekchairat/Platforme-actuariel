@@ -1,20 +1,34 @@
 from __future__ import annotations
 
+import os
+import sys
+from typing import Any
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
+
+# 1. Importer ta configuration centralisée (.env chargé par config.py)
+from backend.etl import config
+
+# 2. Injecter les variables lues par l'outil psql en arrière-plan
+os.environ["PGHOST"] = str(config.DB_HOST)
+os.environ["PGPORT"] = str(config.DB_PORT)
+os.environ["PGUSER"] = str(config.DB_USER)
+os.environ["PGPASSWORD"] = str(config.DB_PASSWORD)
+os.environ["PGDATABASE"] = str(config.DB_NAME)
 
 from .artifacts import load_csv_artifact, load_json_artifact
 from .db import query_csv, query_scalar
 from .financial_routes import router as financial_router
+import backend.api.financial_routes  # Import explicite pour le diagnostic
 
 
 app = FastAPI(title="Copilot Actuariel API", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  # À restreindre en production
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
 )
 
@@ -24,6 +38,20 @@ app.include_router(financial_router)
 @app.get("/health")
 def health() -> dict[str, str]:
     return {"status": "ok"}
+
+
+@app.get("/health/debug-paths")
+def debug_paths() -> dict[str, Any]:
+    """
+    Endpoint de diagnostic critique : affiche les chemins réels 
+    des fichiers que Python charge en mémoire vive.
+    """
+    return {
+        "message": "Vérification des dossiers actifs",
+        "main_file_path": __file__,
+        "financial_routes_path": backend.api.financial_routes.__file__,
+        "executable_python": sys.executable,
+    }
 
 
 @app.get("/health/db")
@@ -116,5 +144,5 @@ def statements_sample(limit: int = 25) -> list[dict[str, str]]:
 
 if __name__ == "__main__":
     import uvicorn
-
-    uvicorn.run("backend.api.main:app", host="127.0.0.1", port=8000, reload=False)
+    # Mis à jour par défaut sur ton port de secours fonctionnel 8055
+    uvicorn.run("backend.api.main:app", host="127.0.0.1", port=8055, reload=False)

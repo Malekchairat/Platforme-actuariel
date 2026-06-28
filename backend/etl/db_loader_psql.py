@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
 from pathlib import Path
 from typing import Any
@@ -15,6 +16,7 @@ from typing import Any
 BASE = Path(__file__).parent.parent.parent
 EXTRACTED_DIR = BASE / "data" / "extracted" / "tables"
 PROCESSED_DIR = BASE / "data" / "processed"
+RAW_PDF_DIR = BASE / "data" / "raw" / "etats_financiers"
 SCHEMA_SQL = BASE / "db" / "schema_actuariel_bh.sql"
 CANONICAL_KPIS_CSV = PROCESSED_DIR / "canonical_kpis.csv"
 STATEMENT_ROWS_CSV = PROCESSED_DIR / "canonical_statement_rows.csv"
@@ -33,7 +35,6 @@ def run_psql(sql: str) -> None:
         os.getenv("PGDATABASE", "copilot_actuariel"),
     ]
     env = os.environ.copy()
-    # ensure psql reads password from PGPASSWORD env
     proc = subprocess.run(cmd, input=sql, text=True, encoding='utf-8', env=env, capture_output=True)
     if proc.returncode != 0:
         print(proc.stdout)
@@ -69,6 +70,79 @@ def sql_number(value: Any) -> str:
         return str(float(text))
     except ValueError:
         return "NULL"
+
+
+def slugify(text: str) -> str:
+    """Génère un slug propre pour la colonne company_slug (ex: 'bna_assurances')"""
+    text = text.lower().strip()
+    text = re.sub(r"[^a-z0-9\s_-]", "", text)
+    text = re.sub(r"[\s_-]+", "_", text)
+    return text
+
+
+def delete_by_source_file(filename: str) -> None:
+    """
+    Purge toutes les entrées liées à un fichier source spécifique dans PostgreSQL.
+    """
+    print(f"Purging data for source file: {filename} from PostgreSQL...")
+    sql = f"""
+    DELETE FROM actuariel.kpis WHERE source_fichier = {sql_literal(filename)};
+    DELETE FROM actuariel.extracted_table_rows WHERE source_fichier = {sql_literal(filename)};
+    DELETE FROM actuariel.statement_rows WHERE source_fichier = {sql_literal(filename)};
+    """
+    run_psql(sql)
+    print(f"Purge complete for {filename}.")
+
+
+def load_json_to_insurance_reports(file_path: Path) -> bool:
+    """
+    Lit un fichier JSON processed hiérarchisé et l'insère directement 
+    dans la table flexible 'insurance_reports' sous forme de jsonb.
+    """
+    try:
+        raw_content = file_path.read_text(encoding="utf-8")
+        data = json.loads(raw_content)
+    except Exception as e:
+        print(f"   ❌ Erreur de lecture du fichier {file_path.name}: {e}")
+        return False
+
+    company_name = data.get("company", file_path.stem.split('_')[0]).strip()
+    company_slug = slugify(company_name)
+    
+    year_match = re.search(r"\d{4}", file_path.name)
+    exercise_year = year_match.group(0) if year_match else "2025"
+    
+    json_data_sql = raw_content.replace("'", "''")
+
+    pdf_filename = f"Etat financier {company_name} {exercise_year}.pdf"
+    pdf_path = RAW_PDF_DIR / pdf_filename
+    if not pdf_path.exists():
+        pdf_filename = file_path.stem + ".pdf"
+        
+    pdf_file_path_val = f"data/raw/etats_financiers/{pdf_filename}"
+
+    print(f"   -> Mapping : {company_name} ({exercise_year}) [Slug: {company_slug}]")
+
+    sql = f"""
+    DELETE FROM insurance_reports WHERE company_slug = {sql_literal(company_slug)} AND exercise_year = {sql_literal(exercise_year)};
+    
+    INSERT INTO insurance_reports (
+        company_slug, exercise_year, company_name, extracted_data, pdf_file_path, created_at
+    ) VALUES (
+        {sql_literal(company_slug)}, 
+        {sql_literal(exercise_year)}, 
+        {sql_literal(company_name)}, 
+        '{json_data_sql}'::jsonb, 
+        {sql_literal(pdf_file_path_val)}, 
+        NOW()
+    );
+    """
+    try:
+        run_psql(sql)
+        return True
+    except Exception as e:
+        print(f"   ❌ Erreur lors de l'insertion dans insurance_reports : {e}")
+        return False
 
 
 def load_canonical_kpis() -> tuple[int, int]:
@@ -157,7 +231,6 @@ def load_kpis() -> tuple[int, int]:
 
 
 def jsonize_row(row: dict[str, Any]) -> str:
-    # remove None/empty keys
     clean = {k: v for k, v in row.items() if v is not None and str(v).strip() != ""}
     return json.dumps(clean, ensure_ascii=False).replace("'", "''")
 
@@ -174,6 +247,8 @@ def load_table_rows() -> tuple[int, int]:
         with p.open(encoding="utf-8") as fh:
             reader = csv.DictReader(fh)
             rows = list(reader)
+        
+        sql_buffer = []
         for row in rows:
             societe = row.get('societe') or 'INCONNU'
             page = row.get('page') or 'NULL'
@@ -187,8 +262,13 @@ def load_table_rows() -> tuple[int, int]:
             ) ON CONFLICT (source_fichier, page, table_num, row_hash)
             DO UPDATE SET row_data = EXCLUDED.row_data, updated_at = NOW();
             """
-            run_psql(sql)
+            sql_buffer.append(sql)
             total_rows += 1
+            if len(sql_buffer) >= 200:
+                run_psql("\n".join(sql_buffer))
+                sql_buffer = []
+        if sql_buffer:
+            run_psql("\n".join(sql_buffer))
         total_files += 1
     return total_files, total_rows
 
@@ -203,6 +283,7 @@ def load_statement_rows() -> tuple[int, int]:
         rows = list(csv.DictReader(fh))
 
     loaded = 0
+    sql_buffer = []
     for row in rows:
         row_hash_payload = json.dumps(
             {
@@ -236,8 +317,13 @@ def load_statement_rows() -> tuple[int, int]:
             source_text = EXCLUDED.source_text,
             updated_at = NOW();
         """
-        run_psql(sql)
+        sql_buffer.append(sql)
         loaded += 1
+        if len(sql_buffer) >= 200:
+            run_psql("\n".join(sql_buffer))
+            sql_buffer = []
+    if sql_buffer:
+        run_psql("\n".join(sql_buffer))
     return 1, loaded
 
 

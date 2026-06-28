@@ -4,6 +4,7 @@ import asyncio
 import json
 import shutil
 import uuid
+import re
 from pathlib import Path
 from typing import Any
 
@@ -12,6 +13,8 @@ from fastapi import APIRouter, File, HTTPException, UploadFile
 from backend.etl.classify_and_extract import process_uploaded_document
 from backend.etl.config import ALLOWED_EXTENSIONS, PROCESSED_DIR
 from backend.etl.gemini_service import GeminiQuotaError, GeminiServiceError
+from backend.api.db import query_scalar
+from backend.etl.db_loader_psql import load_json_to_insurance_reports
 
 router = APIRouter(prefix="/financial", tags=["financial"])
 
@@ -67,6 +70,52 @@ def get_processed(file_id: str) -> dict[str, Any]:
     return payload
 
 
+@router.delete("/processed/{file_id}")
+def delete_processed(file_id: str) -> dict[str, Any]:
+    """
+    Supprime définitivement un rapport financier du disque et de la table PostgreSQL.
+    """
+    print(f"🔥 Requête DELETE reçue pour le fichier : {file_id}")
+    path = PROCESSED_DIR / f"{file_id}.json"
+    if not path.exists():
+        raise HTTPException(status_code=404, detail=f"Fichier JSON introuvable sur le disque : {file_id}")
+
+    try:
+        # 1. Lire le fichier pour extraire dynamiquement le nom de la compagnie
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        company_name = payload.get("company", "").strip()
+        
+        # Recréer le slug exact correspondant à la base de données
+        text_lower = company_name.lower().strip()
+        text_clean = re.sub(r"[^a-z0-9\s_-]", "", text_lower)
+        company_slug = re.sub(r"[\s_-]+", "_", text_clean)
+        
+        # Extraire l'année à partir du file_id (ex: ASTREE_2025 -> 2025)
+        year_match = re.search(r"\d{4}", file_id)
+        exercise_year = year_match.group(0) if year_match else "2025"
+
+        # 2. Exécuter la purge dans PostgreSQL via le schéma flexible
+        sql_delete = f"""
+        DELETE FROM insurance_reports 
+        WHERE company_slug = '{company_slug}' AND exercise_year = '{exercise_year}';
+        SELECT 'ok';
+        """
+        query_scalar(sql_delete)
+
+        # 3. Supprimer le fichier JSON physique du disque
+        path.unlink()
+
+        return {
+            "success": True,
+            "message": f"Le portefeuille de {company_name} ({exercise_year}) a été supprimé de la DB et du disque."
+        }
+    except Exception as exc:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Erreur interne lors de la suppression : {str(exc)}"
+        )
+
+
 @router.post("/import")
 async def import_financial_document(file: UploadFile = File(...)) -> dict[str, Any]:
     if not file.filename:
@@ -97,25 +146,20 @@ async def import_financial_document(file: UploadFile = File(...)) -> dict[str, A
             str(temp_path),
             file.filename,
         )
+        
+        if result.get("success") is True or result.get("status") == "processed":
+            output_file = result.get("output_file")
+            if output_file and Path(output_file).exists():
+                await asyncio.to_thread(load_json_to_insurance_reports, Path(output_file))
+                result["database_indexed"] = True
+
         return result
     except GeminiQuotaError as exc:
-        return {
-            "success": False,
-            "status": "quota_exceeded",
-            "message": str(exc),
-        }
+        return {"success": False, "status": "quota_exceeded", "message": str(exc)}
     except GeminiServiceError as exc:
-        return {
-            "success": False,
-            "status": "gemini_error",
-            "message": str(exc),
-        }
+        return {"success": False, "status": "gemini_error", "message": str(exc)}
     except Exception as exc:
-        return {
-            "success": False,
-            "status": "error",
-            "message": f"Erreur lors du traitement : {exc}",
-        }
+        return {"success": False, "status": "error", "message": f"Erreur lors du traitement : {exc}"}
     finally:
         if temp_path.exists():
             temp_path.unlink()

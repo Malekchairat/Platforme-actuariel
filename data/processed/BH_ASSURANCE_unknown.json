@@ -1,0 +1,234 @@
+{
+  "company": "BH ASSURANCE",
+  "non_vie": {
+    "primes_emises": {
+      "val_n": 120477756,
+      "val_n_1": 110970904,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRNV11 Primes émises et acceptées 120 477 756",
+      "snippet_n_1": "PRNV11 Primes émises et acceptées 110 970 904",
+      "pct_change": 8.57
+    },
+    "primes_cedees": {
+      "val_n": -24322243,
+      "val_n_1": -18518847,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRNV11 Primes émises et acceptées 120 477 756 -24 322 243",
+      "snippet_n_1": "PRNV11 Primes émises et acceptées 110 970 904 -18 518 847",
+      "pct_change": 31.34
+    },
+    "primes_acquises": {
+      "val_n": 115849668,
+      "val_n_1": 108320535,
+      "page_n": 4,
+      "page_n_1": 30,
+      "snippet_n": "115 849 668 -22 899 354 92 950 314",
+      "snippet_n_1": "Primes acquises 115 849 668 108 320 535",
+      "pct_change": 6.95
+    },
+    "charges_sinistres": {
+      "val_n": -79832109,
+      "val_n_1": -68295568,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHNV1 Charges de sinistres -83 080 426 3 248 317 -79 832 109",
+      "snippet_n_1": "CHNV1 Charges de sinistres -68 295 568",
+      "pct_change": 16.89
+    },
+    "part_reassureurs_sinistres": {
+      "val_n": 3248317,
+      "val_n_1": null,
+      "page_n": 4,
+      "page_n_1": null,
+      "snippet_n": "CHNV1 Charges de sinistres -83 080 426 3 248 317 -79 832 109",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_acquisition": {
+      "val_n": -12621243,
+      "val_n_1": -10824314,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHNV41 Frais d'acquisition -12 621 243",
+      "snippet_n_1": "CHNV41 Frais d'acquisition -10 824 314",
+      "pct_change": 16.6
+    },
+    "frais_d_administration": {
+      "val_n": -17950835,
+      "val_n_1": -16679750,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHNV43 Frais d'administration -17 950 835",
+      "snippet_n_1": "CHNV43 Frais d'administration -16 679 750",
+      "pct_change": 7.62
+    },
+    "charges_exploitation": {
+      "val_n": -23628937,
+      "val_n_1": -23181904,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "-30 186 922 6 557 985 -23 628 937",
+      "snippet_n_1": "-23 181 904",
+      "pct_change": 1.93
+    },
+    "provisions_primes_non_acquises": {
+      "val_n": 36688013,
+      "val_n_1": 32059925,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "PA310 provision pour primes non acquises 36 688 013 32 059 925",
+      "snippet_n_1": "PA310 provision pour primes non acquises 36 688 013 32 059 925",
+      "pct_change": 14.44
+    },
+    "provisions_sinistres_a_payer": {
+      "val_n": 90838285,
+      "val_n_1": 79149733,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "PA331 provision pour sinistres (non vie) 90 838 285 79 149 733",
+      "snippet_n_1": "PA331 provision pour sinistres (non vie) 90 838 285 79 149 733",
+      "pct_change": 14.77
+    },
+    "provisions_techniques": {
+      "val_n": 388576332,
+      "val_n_1": 353579595,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "388 576 332 353 579 595",
+      "snippet_n_1": "388 576 332 353 579 595",
+      "pct_change": 9.9
+    },
+    "resultat_technique": {
+      "val_n": -3291577,
+      "val_n_1": 1737138,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "RTNV Sous Total : Resultat tchnique de l'assurance non vie 9 801 475 -13 093 052 -3 291 577",
+      "snippet_n_1": "RTNV Sous Total : Resultat tchnique de l'assurance non vie 1 737 138",
+      "pct_change": -289.48
+    },
+    "resultat_net": {
+      "val_n": 11126783,
+      "val_n_1": 11013950,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "Resultat net de l’exercice 11 126 783",
+      "snippet_n_1": "Resultat net de l’exercice 11 013 950",
+      "pct_change": 1.02
+    },
+    "autres_charges": {
+      "val_n": -177849,
+      "val_n_1": -1376221,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHNV5 Autres charges tecniques -177 849",
+      "snippet_n_1": "CHNV5 Autres charges tecniques -1 376 221",
+      "pct_change": -87.08
+    }
+  },
+  "vie": {
+    "primes_emises": {
+      "val_n": 88233532,
+      "val_n_1": 88651909,
+      "page_n": 5,
+      "page_n_1": 27,
+      "snippet_n": "PRV11 Primes émises et acceptées 88 233 532",
+      "snippet_n_1": "Sous-total 1 88 233 532 88 651 909",
+      "pct_change": -0.47
+    },
+    "primes_cedees": {
+      "val_n": -25321338,
+      "val_n_1": -25317703,
+      "page_n": 5,
+      "page_n_1": 27,
+      "snippet_n": "Primes cédées -25 321 338",
+      "snippet_n_1": "Primes cédées -25 321 338 -25 317 703",
+      "pct_change": 0.01
+    },
+    "primes_acquises": {
+      "val_n": 62912194,
+      "val_n_1": 63334206,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "62 912 194 63 334 206",
+      "snippet_n_1": "62 912 194 63 334 206",
+      "pct_change": -0.67
+    },
+    "charges_sinistres": {
+      "val_n": -40885762,
+      "val_n_1": -23361344,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "-40 885 762",
+      "snippet_n_1": "-23 361 344",
+      "pct_change": 75.01
+    },
+    "provisions_mathématiques": {
+      "val_n": 234108158,
+      "val_n_1": 216362512,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "PA320 provision pour assurance vie 234 108 158 216 362 512",
+      "snippet_n_1": "PA320 provision pour assurance vie 234 108 158 216 362 512",
+      "pct_change": 8.2
+    },
+    "resultat_technique": {
+      "val_n": 12390398,
+      "val_n_1": 9716517,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "RTV Sous Total : Resultat tchnique de l'assurance vie 12 390 398",
+      "snippet_n_1": "RTV Sous Total : Resultat tchnique de l'assurance vie 9 716 517",
+      "pct_change": 27.52
+    },
+    "resultat_net": {
+      "val_n": 11126783,
+      "val_n_1": 11013950,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "Resultat net de l’exercice 11 126 783",
+      "snippet_n_1": "Resultat net de l’exercice 11 013 950",
+      "pct_change": 1.02
+    }
+  },
+  "global": {
+    "fonds_propres": {
+      "val_n": 115113338,
+      "val_n_1": 107971569,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "total capitaux propres avant affectation 115 113 338 107 971 569",
+      "snippet_n_1": "total capitaux propres avant affectation 115 113 338 107 971 569",
+      "pct_change": 6.61
+    },
+    "total_bilan": {
+      "val_n": 611172463,
+      "val_n_1": 564500308,
+      "page_n": 2,
+      "page_n_1": 2,
+      "snippet_n": "611 172 463 564 500 308",
+      "snippet_n_1": "611 172 463 564 500 308",
+      "pct_change": 8.27
+    },
+    "produits_financiers": {
+      "val_n": 34046915,
+      "val_n_1": 29959000,
+      "page_n": 27,
+      "page_n_1": 12,
+      "snippet_n": "Les produits des placements globaux (vie et non vie) de la société totalisent au 31/12/2025 un montant de 34 046 915 DT",
+      "snippet_n_1": "Des produits financiers passant de 29,959 MD fin 2024",
+      "pct_change": 13.65
+    },
+    "impot_sur_les_benefices": {
+      "val_n": -2759706,
+      "val_n_1": -4628804,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "CHNT4 Impôts sur le résultat -2 759 706 -4 628 804",
+      "snippet_n_1": "CHNT4 Impôts sur le résultat -2 759 706 -4 628 804",
+      "pct_change": -40.38
+    }
+  }
+}

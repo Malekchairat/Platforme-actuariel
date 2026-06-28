@@ -10,6 +10,12 @@ export default function ImportPage() {
   const router = useRouter();
   const setCompanies = useAppStore((s) => s.setCompanies);
 
+  const refreshGlobalStore = async () => {
+    clearDataCache();
+    const companies = await getCompanies();
+    setCompanies(companies);
+  };
+
   return (
     <>
       <AppHeader
@@ -20,11 +26,14 @@ export default function ImportPage() {
 
       <div className="mx-auto max-w-3xl space-y-6 p-8">
         <DataImportPanel
+          // IMPORTATION : Redirige vers le dashboard après succès
           onImportSuccess={async () => {
-            clearDataCache();
-            const companies = await getCompanies();
-            setCompanies(companies);
+            await refreshGlobalStore();
             router.push("/dashboard");
+          }}
+          // SUPPRESSION : Reste sur la page et met à jour uniquement l'état global
+          onDeleteSuccess={async () => {
+            await refreshGlobalStore();
           }}
         />
 
