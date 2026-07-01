@@ -10,13 +10,14 @@ import {
   PieChart,
   Shield,
   Upload,
-  ArrowLeftRight, // 1. Nouvelle icône actuarielle ajoutée ici
+  ArrowLeftRight,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navItems = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/benchmark", label: "Benchmarking", icon: ArrowLeftRight }, // 2. Ajout parfait du nouvel onglet ici
+  { href: "/benchmark", label: "Benchmarking", icon: ArrowLeftRight },
+  { href: "/classement", label: "Classement Marché", icon: BarChart3 },
   { href: "/financial-statements", label: "États financiers", icon: FileSpreadsheet },
   { href: "/portfolios", label: "Portefeuilles", icon: PieChart },
   { href: "/analysis", label: "Analyse IA", icon: MessageSquare },

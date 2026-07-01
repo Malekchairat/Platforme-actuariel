@@ -11,7 +11,7 @@
       "pct_change": 35.13
     },
     "primes_cedees": {
-      "val_n": 49995771,
+      "val_n": -49995771,
       "val_n_1": null,
       "page_n": 4,
       "page_n_1": null,
@@ -29,8 +29,8 @@
       "pct_change": 11.4
     },
     "charges_sinistres": {
-      "val_n": 156944759,
-      "val_n_1": 146386655,
+      "val_n": -156944759,
+      "val_n_1": -146386655,
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "CHNV1 Charges de Sinsitres (174 453 366) 17 508 607 (156 944 759) (146 386 655) (146 386 655)",
@@ -47,8 +47,8 @@
       "pct_change": null
     },
     "frais_d_acquisition": {
-      "val_n": 55499268,
-      "val_n_1": 48987999,
+      "val_n": -55499268,
+      "val_n_1": -48987999,
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "CHNV41 Frais d'acquisition (55 499 268) (55 499 268) (48 987 999) (48 987 999)",
@@ -56,8 +56,8 @@
       "pct_change": 13.29
     },
     "frais_d_administration": {
-      "val_n": 4888269,
-      "val_n_1": 4695336,
+      "val_n": -4888269,
+      "val_n_1": -4695336,
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "CHNV43 Frais d'administration (4 888 269) (4 888 269) (4 695 336) (4 695 336)",
@@ -65,8 +65,8 @@
       "pct_change": 4.11
     },
     "charges_exploitation": {
-      "val_n": 44816549,
-      "val_n_1": 42709231,
+      "val_n": -44816549,
+      "val_n_1": -42709231,
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "CHNV4 Frais d'exploitation (57 795 321) 12 978 772 (44 816 549) (42 709 231) (42 709 231)",
@@ -119,13 +119,13 @@
       "pct_change": 10.83
     },
     "autres_charges": {
-      "val_n": null,
-      "val_n_1": null,
-      "page_n": null,
-      "page_n_1": null,
-      "snippet_n": null,
-      "snippet_n_1": null,
-      "pct_change": null
+      "val_n": -9634398,
+      "val_n_1": -6072507,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHNV5 Autres charges techniques (9 634 398) (9 634 398) (6 072 507) (6 072 507)",
+      "snippet_n_1": "CHNV5 Autres charges techniques (9 634 398) (9 634 398) (6 072 507) (6 072 507)",
+      "pct_change": 58.66
     }
   },
   "vie": {
@@ -139,7 +139,7 @@
       "pct_change": 23.88
     },
     "primes_cedees": {
-      "val_n": 872611,
+      "val_n": -872611,
       "val_n_1": null,
       "page_n": 5,
       "page_n_1": null,
@@ -157,8 +157,8 @@
       "pct_change": 22.71
     },
     "charges_sinistres": {
-      "val_n": 53452083,
-      "val_n_1": 30316462,
+      "val_n": -53452083,
+      "val_n_1": -30316462,
       "page_n": 5,
       "page_n_1": 5,
       "snippet_n": "CHV1 Charges de sinsitres (54 809 758) 1 357 675 (53 452 083) (30 053 906) (30 316 462)",
@@ -166,13 +166,13 @@
       "pct_change": 76.31
     },
     "provisions_mathématiques": {
-      "val_n": 347337685,
-      "val_n_1": 293987633,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "PA320 Provision d'assurance vie 347 337 685 293 987 633 293 987 633",
-      "snippet_n_1": "PA320 Provision d'assurance vie 347 337 685 293 987 633 293 987 633",
-      "pct_change": 18.15
+      "val_n": -53311922,
+      "val_n_1": -53800713,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "CHV21 Provisions d'assurance vie (53 350 052) 38 130 (53 311 922) (53 800 713) (53 800 713)",
+      "snippet_n_1": "CHV21 Provisions d'assurance vie (53 350 052) 38 130 (53 311 922) (53 800 713) (53 800 713)",
+      "pct_change": -0.91
     },
     "resultat_technique": {
       "val_n": 9868012,
@@ -213,17 +213,17 @@
       "pct_change": 11.04
     },
     "produits_financiers": {
-      "val_n": 26742062,
-      "val_n_1": 26371316,
-      "page_n": 32,
-      "page_n_1": 32,
-      "snippet_n": "Produits des placements Assurance Non Vie 26 742 062",
-      "snippet_n_1": "26 371 316",
-      "pct_change": 1.41
+      "val_n": 61002973,
+      "val_n_1": 53400372,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "PRNT11 Revenus des placements 61 002 973 53 400 372 53 400 372",
+      "snippet_n_1": "PRNT11 Revenus des placements 61 002 973 53 400 372 53 400 372",
+      "pct_change": 14.24
     },
     "impot_sur_les_benefices": {
-      "val_n": 16374808,
-      "val_n_1": 12017679,
+      "val_n": -16374808,
+      "val_n_1": -12017679,
       "page_n": 6,
       "page_n_1": 6,
       "snippet_n": "CHNT4 Impôts sur le Résultat - 16 374 808 - 1 2 017 679 - 12 017 679",

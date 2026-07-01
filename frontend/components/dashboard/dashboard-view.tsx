@@ -74,7 +74,7 @@ export function DashboardView() {
   const totalSinistresNet = nonVieSinistres + vieSinistres;
 
   // --- FAMILLE 1 : REVUE D'ACTIVITÉ & RÉASSURANCE ---
-  const tauxCessionNonVie = nonViePrimes > 0 ? (nonViePrimesCedees / nonViePrimes) * 100 : 0;
+  const tauxCessionNonVie = nonViePrimes > 0 ? (Math.abs(nonViePrimesCedees) / nonViePrimes) * 100 : 0;
   const tauxRetentionNonVie = 100 - tauxCessionNonVie;
   const tauxPrimesSurPT = nonViePT > 0 ? (nonViePrimes / nonViePT) * 100 : 0;
 
@@ -88,8 +88,9 @@ export function DashboardView() {
   const risqueCreditReassureurs = globalCP > 0 ? (resolveMetricNumber(financial?.non_vie?.part_reassureurs_dans_pt) / globalCP) * 100 : 0;
 
   // --- FAMILLE 4 : PERFORMANCE OPÉRATIONNELLE & DUPONT ---
-  const lossRatioNonVie = nonViePrimesAcquises > 0 ? (nonVieSinistres / nonViePrimesAcquises) * 100 : 0;
-  const expenseRatioNonVie = nonViePrimes > 0 ? ((nonVieAcquisition + nonVieAdmin) / nonViePrimes) * 100 : 0;
+  // Utilisation de Math.abs() pour garantir la conformité des ratios suite à la normalisation négative des charges
+  const lossRatioNonVie = nonViePrimesAcquises > 0 ? (Math.abs(nonVieSinistres) / nonViePrimesAcquises) * 100 : 0;
+  const expenseRatioNonVie = nonViePrimes > 0 ? ((Math.abs(nonVieAcquisition) + Math.abs(nonVieAdmin)) / nonViePrimes) * 100 : 0;
   const combinedRatioNonVie = lossRatioNonVie + expenseRatioNonVie;
   const roeDupont = globalCP > 0 ? (resultNetGlobal / globalCP) * 100 : 0;
 

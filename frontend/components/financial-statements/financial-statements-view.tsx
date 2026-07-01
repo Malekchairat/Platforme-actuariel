@@ -13,7 +13,6 @@ export function FinancialStatementsView() {
 
   const load = useCallback(async (companyId: string) => {
     setLoading(true);
-    // Récupération directe du dictionnaire JSON brut traité par le backend
     const data = await getFinancialData(companyId);
     setFinancial(data);
     setLoading(false);
@@ -35,11 +34,29 @@ export function FinancialStatementsView() {
       };
 
       const label = key.replace(/_/g, " ");
-      const trend = metric.pct_change !== null ? `${metric.pct_change > 0 ? "+" : ""}${metric.pct_change}%` : "-";
+      const pctChange = metric.pct_change;
+      const trend = pctChange !== null ? `${pctChange > 0 ? "+" : ""}${pctChange}%` : "-";
+
+      // Identification des lignes de charges, frais ou impôts
+      const keyLower = key.toLowerCase();
+      const isExpense = 
+        keyLower.includes("sinistre") || 
+        keyLower.includes("charge") || 
+        keyLower.includes("frais") || 
+        keyLower.includes("impot") ||
+        keyLower.includes("cedees");
+
+      // Inversion intelligente de la couleur de variation
+      // Pour une charge : Hausse (pct_change > 0) = Mauvais (Rouge) | Baisse (pct_change < 0) = Bon (Vert)
+      let trendColorClass = "";
+      if (pctChange !== null && pctChange !== 0) {
+        const isPositiveChange = pctChange > 0;
+        const isGood = isExpense ? !isPositiveChange : isPositiveChange;
+        trendColorClass = isGood ? "text-emerald-600" : "text-red-600";
+      }
 
       return (
         <tr key={key} className="border-b border-border/40 hover:bg-muted/30 transition-colors group relative">
-          {/* Libellé du poste avec boîte d'audit interactive au survol */}
           <td className="py-3 px-4 font-medium text-sm flex items-center gap-1 capitalize">
             {label}
             <HelpCircle className="h-3.5 w-3.5 opacity-40 group-hover:opacity-100 cursor-help text-muted-foreground transition-opacity" />
@@ -55,7 +72,7 @@ export function FinancialStatementsView() {
           </td>
           <td className="py-3 px-4 text-right text-sm font-mono">{formatValue(metric.val_n)}</td>
           <td className="py-3 px-4 text-right text-sm font-mono text-muted-foreground">{formatValue(metric.val_n_1)}</td>
-          <td className={`py-3 px-4 text-right text-sm font-bold font-mono ${metric.pct_change > 0 ? "text-emerald-600" : metric.pct_change < 0 ? "text-red-600" : ""}`}>{trend}</td>
+          <td className={`py-3 px-4 text-right text-sm font-bold font-mono ${trendColorClass}`}>{trend}</td>
         </tr>
       );
     });

@@ -64,6 +64,63 @@ def run_gemini_chunk(chunk_text: str, filename: str) -> dict[str, Any]:
     return generate_json(prompt)
 
 
+def standardize_financial_signs(result: dict[str, Any]) -> dict[str, Any]:
+    """
+    Parcourt le dictionnaire extrait et s'assure que toutes les charges 
+    financières et cessions de réassurance sont enregistrées sous forme négative,
+    en utilisant une détection souple par mots-clés pour éviter les variations structurelles.
+    """
+    # Mots-clés universels identifiant qu'un poste comptable est une charge/sortie
+    expense_keywords = [
+        "sinistre", 
+        "cedees", 
+        "acquisition", 
+        "administration", 
+        "impot", 
+        "charge"
+    ]
+    
+    # Parcourir les trois compartiments du schéma d'assurance
+    for section in ["vie", "non_vie", "global"]:
+        if section in result and isinstance(result[section], dict):
+            # Copie des clés pour se prémunir des mutations concurrentes
+            keys = list(result[section].keys())
+            for key in keys:
+                val = result[section][key]
+                if val is not None:
+                    # Normalisation textuelle pour une correspondance souple
+                    normalized_key = key.lower().replace("_", " ").strip()
+                    
+                    # Vérifier si la clé contient un des marqueurs de coûts
+                    is_expense = any(kw in normalized_key for kw in expense_keywords)
+                    
+                    # RÈGLE D'EXCEPTION ACTUARIELLE : 
+                    # La "part des réassureurs" dans les sinistres ou provisions est un recouvrement (flux entrant positif).
+                    # On annule la catégorisation en charge sauf s'il s'agit explicitement de cessions de primes.
+                    if "part" in normalized_key or "reassureur" in normalized_key:
+                        if "cedees" not in normalized_key:
+                            is_expense = False
+                    
+                    if is_expense:
+                        try:
+                            # Cas 1 : Structure d'audit enrichie avec historique de suivi {"val_n": ..., "val_n_1": ...}
+                            if isinstance(val, dict):
+                                for val_key in ["val_n", "val_n_1"]:
+                                    if val_key in val and val[val_key] is not None:
+                                        numeric_val = float(val[val_key])
+                                        if numeric_val > 0:
+                                            result[section][key][val_key] = -numeric_val
+                            # Cas 2 : Valeur numérique directe brute
+                            else:
+                                numeric_val = float(val)
+                                if numeric_val > 0:
+                                    result[section][key] = -numeric_val
+                        except (ValueError, TypeError):
+                            continue
+                        
+    return result
+
+
 def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
     """Exécute l'extraction de bout en bout avec protection du budget de jetons."""
     path = Path(file_path)
@@ -72,7 +129,7 @@ def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
     if path.suffix.lower() == ".json":
         payload = json.loads(path.read_text(encoding="utf-8"))
         if is_valid_financial_result(payload):
-            return payload
+            return standardize_financial_signs(payload) # Protection et correction sur import JSON direct
 
     # 1. Extraction brute des pages par script de mise en page
     pages = extract_document_pages(path)
@@ -88,6 +145,8 @@ def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
         result = run_gemini_chunk(chunk, filename)
         final_result = merge_results(final_result, result)
 
+    # --- CORRECTION ET HARMONISATION SYNTAXIQUE DES SIGNES COMPTABLES ---
+    final_result = standardize_financial_signs(final_result)
     return final_result
 
 

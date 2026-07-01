@@ -163,3 +163,87 @@ async def import_financial_document(file: UploadFile = File(...)) -> dict[str, A
     finally:
         if temp_path.exists():
             temp_path.unlink()
+
+
+@router.get("/ranking")
+def get_market_ranking(metric: str = "primes_emises", segment: str = "non_vie") -> list[dict[str, Any]]:
+    """
+    Retourne le classement de toutes les compagnies d'assurance triées par une métrique spécifique[cite: 5].
+    Métriques supportées : primes_emises, resultat_net, resultat_technique, placements_nets, taux_effectif_impot[cite: 5]
+    Segments supportés : non_vie, vie, global[cite: 5]
+    """
+    ranking_list = []
+    
+    if not PROCESSED_DIR.exists():
+        return ranking_list[cite: 5]
+
+    for path in PROCESSED_DIR.glob("*.json"):
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+
+        if not isinstance(payload, dict) or not _is_financial_json(payload):
+            continue
+
+        company_name = payload.get("company", path.stem)
+        value = 0.0
+        
+        try:
+            if metric in ["primes_emises", "resultat_net", "resultat_technique"]:
+                section = payload.get(segment, {})
+                if isinstance(section, dict) and metric in section:
+                    metric_obj = section.get(metric)
+                    if isinstance(metric_obj, dict):
+                        value = metric_obj.get("val_n")
+
+            elif metric == "placements_nets":
+                global_section = payload.get("global", {})
+                if isinstance(global_section, dict):
+                    prod_fin = global_section.get("produits_financiers")
+                    if isinstance(prod_fin, dict):
+                        value = prod_fin.get("val_n")
+
+            elif metric == "taux_effectif_impot":
+                global_section = payload.get("global", {})
+                non_vie_section = payload.get("non_vie", {})
+                vie_section = payload.get("vie", {})
+                
+                impot = 0.0
+                if isinstance(global_section, dict) and isinstance(global_section.get("impot_sur_les_benefices"), dict):
+                    impot = abs(global_section["impot_sur_les_benefices"].get("val_n") or 0.0)
+                
+                res_net_nv = 0.0
+                if isinstance(non_vie_section, dict) and isinstance(non_vie_section.get("resultat_net"), dict):
+                    res_net_nv = non_vie_section["resultat_net"].get("val_n") or 0.0
+                    
+                res_net_v = 0.0
+                if isinstance(vie_section, dict) and isinstance(vie_section.get("resultat_net"), dict):
+                    res_net_v = vie_section["resultat_net"].get("val_n") or 0.0
+                    
+                total_res = float(res_net_nv) + float(res_net_v)
+                
+                if total_res > 0:
+                    value = round((float(impot) / (total_res + float(impot))) * 100, 2)
+                else:
+                    value = 0.0
+
+            value = float(value) if value is not None else 0.0
+        except Exception:
+            value = 0.0
+
+        ranking_list.append({
+            "company": company_name,
+            "value": value,
+            "file_id": path.stem
+        })
+
+    try:
+        ranking_list.sort(key=lambda x: x.get("value", 0.0), reverse=True)
+    except Exception:
+        pass
+    
+    for index, item in enumerate(ranking_list):
+        item["rank"] = index + 1
+
+    return ranking_list

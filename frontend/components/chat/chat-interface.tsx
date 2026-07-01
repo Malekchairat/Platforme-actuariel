@@ -1,13 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Send, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { MessageBubble } from "./message-bubble";
-import { askAnalysis } from "@/lib/mock-api";
+import { useAppStore } from "@/lib/store";
 
 interface ChatMessage {
   id: string;
@@ -18,22 +18,28 @@ interface ChatMessage {
 }
 
 const SUGGESTIONS = [
-  "Quels portefeuilles sont les moins rentables ?",
-  "Pourquoi les sinistres ont augmenté ?",
-  "Quel est le ratio fonds propres / bilan ?",
+  "Quels portefeuilles ou branches sont les moins rentables ?",
+  "Pourquoi les charges de sinistres ont-elles augmenté ?",
+  "Quelle est l'explication de la variation du résultat technique ?",
 ];
 
 export function ChatInterface() {
-  const [messages, setMessages] = useState<ChatMessage[]>([
-    {
-      id: "welcome",
-      role: "assistant",
-      content:
-        "Bonjour. Je suis l'assistant d'analyse actuarielle (mode démo). Posez une question sur les portefeuilles, sinistres ou la rentabilité STAR 2025.",
-    },
-  ]);
+  const selectedCompanyId = useAppStore((s) => s.selectedCompanyId);
+  const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
+
+  // Réinitialiser le message de bienvenue à chaque changement de compagnie sélectionnée
+  useEffect(() => {
+    const companyCleanName = selectedCompanyId.replace(/_2025/g, "").toUpperCase();
+    setMessages([
+      {
+        id: "welcome",
+        role: "assistant",
+        content: `Bonjour. Je suis votre Copilot Actuariel connecté à la balance de ${companyCleanName}. Posez-moi vos questions complexes sur ses sinistres, ses ratios ou l'explication de ses performances.`,
+      },
+    ]);
+  }, [selectedCompanyId]);
 
   async function handleSubmit(question: string) {
     if (!question.trim() || loading) return;
@@ -49,15 +55,40 @@ export function ChatInterface() {
     setLoading(true);
 
     try {
-      const response = await askAnalysis(question);
+      // Requête en direct vers l'infrastructure de raisonnement Llama-3.3 via le backend
+      const response = await fetch("http://localhost:8055/api/copilot/chat", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          company_id: selectedCompanyId,
+          question: question.trim(),
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error("Erreur de communication avec le serveur.");
+      }
+
+      const data = await response.json();
+
       setMessages((prev) => [
         ...prev,
         {
           id: `assistant-${Date.now()}`,
           role: "assistant",
-          content: response.answer.replace(/\*\*(.*?)\*\*/g, "$1"),
-          sql: response.sql,
-          explanation: response.explanation,
+          content: data.answer,
+          explanation: data.explanation || "Analyse fournie par le modèle de raisonnement Groq.",
+        },
+      ]);
+    } catch (error) {
+      setMessages((prev) => [
+        ...prev,
+        {
+          id: `error-${Date.now()}`,
+          role: "assistant",
+          content: "Désolé, je n'ai pas pu analyser ces données. Vérifiez que votre serveur backend est actif sur le port 8055 et que la clé GROQ_API_KEY est configurée.",
         },
       ]);
     } finally {
@@ -66,17 +97,20 @@ export function ChatInterface() {
   }
 
   return (
-    <Card className="flex h-[calc(100vh-12rem)] flex-col border-border/60 shadow-sm">
-      <CardHeader className="border-b border-border pb-4">
+    <Card className="flex h-[calc(100vh-12rem)] max-h-[calc(100vh-12rem)] flex-col border-border/60 shadow-sm overflow-hidden">
+      <CardHeader className="border-b border-border pb-4 shrink-0">
         <CardTitle className="flex items-center gap-2 text-base font-semibold">
           <Sparkles className="h-4 w-4 text-primary" />
-          Assistant d&apos;analyse
+          Assistant d&apos;analyse Actuarielle IA
         </CardTitle>
       </CardHeader>
 
-      <CardContent className="flex flex-1 flex-col gap-4 overflow-hidden p-0">
-        <ScrollArea className="flex-1 px-6 py-4">
-          <div className="space-y-4">
+      {/* 🛠️ FIX FIXATION : Ajout de min-h-0 et overflow-hidden pour forcer flex-1 à respecter la hauteur */}
+      <CardContent className="flex flex-1 flex-col overflow-hidden p-0 min-h-0">
+        
+        {/* Zone des messages qui défile indépendamment */}
+        <ScrollArea className="flex-1 w-full px-6 py-4">
+          <div className="space-y-4 pb-4">
             {messages.map((msg) => (
               <MessageBubble
                 key={msg.id}
@@ -87,12 +121,15 @@ export function ChatInterface() {
               />
             ))}
             {loading && (
-              <p className="text-sm text-muted-foreground">Analyse en cours...</p>
+              <p className="text-sm text-muted-foreground animate-pulse">
+                Copilot est en train de croiser les indicateurs...
+              </p>
             )}
           </div>
         </ScrollArea>
 
-        <div className="space-y-3 border-t border-border px-6 py-4">
+        {/* 🛠️ FIX BLOCAGE BAS : Ajout de shrink-0 pour figer la boîte à suggestions et le formulaire en bas de carte */}
+        <div className="space-y-3 border-t border-border px-6 py-4 bg-card shrink-0 z-10">
           <div className="flex flex-wrap gap-2">
             {SUGGESTIONS.map((s) => (
               <Button
@@ -118,8 +155,9 @@ export function ChatInterface() {
             <Input
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              placeholder="Posez votre question..."
+              placeholder="Posez une question sur le pourquoi de ces résultats..."
               disabled={loading}
+              className="flex-1"
             />
             <Button type="submit" disabled={loading || !input.trim()}>
               <Send className="h-4 w-4" />

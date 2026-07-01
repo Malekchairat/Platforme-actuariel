@@ -31,6 +31,13 @@ export interface ImportResponse {
   data?: Record<string, unknown>;
 }
 
+export interface RankingItem {
+  company: string;
+  value: number;
+  file_id: string;
+  rank: number;
+}
+
 function backendUnreachableMessage(): string {
   return (
     `Impossible de joindre le backend (${API_BASE}). ` +
@@ -66,6 +73,10 @@ export async function fetchProcessedCompanies(): Promise<ProcessedCompany[]> {
 
 export async function fetchProcessedData(companyId: string): Promise<Record<string, unknown>> {
   return request<Record<string, unknown>>(`/financial/processed/${companyId}`);
+}
+
+export async function fetchMarketRanking(metric: string, segment: string): Promise<RankingItem[]> {
+  return request<RankingItem[]>(`/financial/ranking?metric=${metric}&segment=${segment}`);
 }
 
 export async function importFinancialFile(file: File): Promise<ImportResponse> {

@@ -1,0 +1,234 @@
+{
+  "company": "Assurances Hayett",
+  "non_vie": {
+    "primes_emises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_cedees": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "part_reassureurs_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_acquisition": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_administration": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_exploitation": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_primes_non_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_sinistres_a_payer": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_techniques": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_net": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "autres_charges": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "vie": {
+    "primes_emises": {
+      "val_n": 133080536,
+      "val_n_1": 111337036,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRV11 Primes émises et acceptées 134 206 304 -1 125 768 133 080 536",
+      "snippet_n_1": "133 080 536 111 337 036",
+      "pct_change": 19.53
+    },
+    "primes_cedees": {
+      "val_n": -1125768.0,
+      "val_n_1": null,
+      "page_n": 4,
+      "page_n_1": null,
+      "snippet_n": "PRV11 Primes émises et acceptées 134 206 304 -1 125 768",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": -70531784.0,
+      "val_n_1": -53824811.0,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHV1 Charges de sinistres ... -70 531 784",
+      "snippet_n_1": "CHV1 Charges de sinistres ... -53 824 811",
+      "pct_change": 31.04
+    },
+    "provisions_mathématiques": {
+      "val_n": 511351957,
+      "val_n_1": 439630062,
+      "page_n": 20,
+      "page_n_1": 20,
+      "snippet_n": "Provisions Mathématiques 439 630 062 71 721 895 511 351 957",
+      "snippet_n_1": "Provisions Mathématiques 439 630 062",
+      "pct_change": 16.31
+    },
+    "resultat_technique": {
+      "val_n": 15041401,
+      "val_n_1": 13642315,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "RTV RESULTAT TECHNIQUE DE L'ASSURANCE VIE ... 15 041 401",
+      "snippet_n_1": "RTV RESULTAT TECHNIQUE DE L'ASSURANCE VIE ... 13 642 315",
+      "pct_change": 10.26
+    },
+    "resultat_net": {
+      "val_n": 10261406,
+      "val_n_1": 9018583,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "Résultat net de l'exercice 10 261 406",
+      "snippet_n_1": "Résultat net de l'exercice 9 018 583",
+      "pct_change": 13.78
+    }
+  },
+  "global": {
+    "fonds_propres": {
+      "val_n": 61146631,
+      "val_n_1": 56885224,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "Total capitaux propres avant affectation P1 61 146 631",
+      "snippet_n_1": "Total capitaux propres avant affectation P1 56 885 224",
+      "pct_change": 7.49
+    },
+    "total_bilan": {
+      "val_n": 631233004,
+      "val_n_1": 540650308,
+      "page_n": 2,
+      "page_n_1": 2,
+      "snippet_n": "TOTAL ACTIF 631 233 004",
+      "snippet_n_1": "TOTAL ACTIF 540 650 308",
+      "pct_change": 16.75
+    },
+    "produits_financiers": {
+      "val_n": 47904097,
+      "val_n_1": 42247291,
+      "page_n": 21,
+      "page_n_1": 21,
+      "snippet_n": "Les produits des placements s’élèvent au 31/12/2025 à 47 904 097 dinars",
+      "snippet_n_1": "Les produits des placements s’élèvent au 31/12/2024 à 42 247 291 dinars",
+      "pct_change": 13.39
+    },
+    "impot_sur_les_benefices": {
+      "val_n": -8160702.0,
+      "val_n_1": -6719682.0,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "CHNT4 Impôt sur le résultat -8 160 702",
+      "snippet_n_1": "CHNT4 Impôt sur le résultat -6 719 682",
+      "pct_change": 21.44
+    }
+  }
+}

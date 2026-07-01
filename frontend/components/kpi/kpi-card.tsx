@@ -15,7 +15,21 @@ function formatValue(kpi: KPI): string {
 }
 
 export function KpiCard({ kpi }: KpiCardProps) {
-  const isPositive = (kpi.change ?? 0) >= 0;
+  const changeValue = kpi.change ?? 0;
+  const isChangePositive = changeValue >= 0;
+
+  // Détection des KPIs de type "charges" ou "coûts"
+  const labelLower = kpi.label.toLowerCase();
+  const isExpense = 
+    labelLower.includes("sinistre") || 
+    labelLower.includes("charge") || 
+    labelLower.includes("frais") || 
+    labelLower.includes("impôt") ||
+    labelLower.includes("cession");
+
+  // Logique de couleur inversée si c'est une charge
+  // Hausse de charge = Rouge | Baisse de charge = Vert
+  const isGoodTrend = isExpense ? !isChangePositive : isChangePositive;
 
   return (
     <Card className="border-border/60 shadow-sm">
@@ -30,16 +44,16 @@ export function KpiCard({ kpi }: KpiCardProps) {
           <div
             className={cn(
               "mt-2 flex items-center gap-1 text-xs font-medium",
-              isPositive ? "text-emerald-600" : "text-red-600",
+              isGoodTrend ? "text-emerald-600" : "text-red-600",
             )}
           >
-            {isPositive ? (
+            {isChangePositive ? (
               <ArrowUpRight className="h-3.5 w-3.5" />
             ) : (
               <ArrowDownRight className="h-3.5 w-3.5" />
             )}
             <span>
-              {isPositive ? "+" : ""}
+              {isChangePositive ? "+" : ""}
               {kpi.change}% {kpi.changeLabel}
             </span>
           </div>

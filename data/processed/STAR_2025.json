@@ -1,0 +1,234 @@
+{
+  "company": "Société Tunisienne d’Assurances et de Réassurances –STAR",
+  "non_vie": {
+    "primes_emises": {
+      "val_n": 220599507,
+      "val_n_1": 179231512,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRNV11 Primes émises et acceptées + 220 599 507 26 624 602 193 974 905 179 231 512 330 891 215",
+      "snippet_n_1": "PRNV11 Primes émises et acceptées + 220 599 507 26 624 602 193 974 905 179 231 512 330 891 215",
+      "pct_change": 23.08
+    },
+    "primes_cedees": {
+      "val_n": -26624602.0,
+      "val_n_1": null,
+      "page_n": 4,
+      "page_n_1": null,
+      "snippet_n": "PRNV11 Primes émises et acceptées + 220 599 507 26 624 602 193 974 905 179 231 512 330 891 215",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": 163967832,
+      "val_n_1": 155840016,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "190 330 006 26 362 174 163 967 832 155 840 016 328 301 113",
+      "snippet_n_1": "190 330 006 26 362 174 163 967 832 155 840 016 328 301 113",
+      "pct_change": 5.22
+    },
+    "charges_sinistres": {
+      "val_n": -147527706.0,
+      "val_n_1": -150311297.0,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "152 955 114 -5 427 408 147 527 706 150 311 297 295 633 873",
+      "snippet_n_1": "152 955 114 -5 427 408 147 527 706 150 311 297 295 633 873",
+      "pct_change": -1.85
+    },
+    "part_reassureurs_sinistres": {
+      "val_n": 5427408,
+      "val_n_1": null,
+      "page_n": 4,
+      "page_n_1": null,
+      "snippet_n": "152 955 114 -5 427 408 147 527 706 150 311 297 295 633 873",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_acquisition": {
+      "val_n": -38540187.0,
+      "val_n_1": -31932037.0,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHNV41 Frais d'acquisition - 38 540 187 0 38 540 187 31 932 037 61 649 238",
+      "snippet_n_1": "CHNV41 Frais d'acquisition - 38 540 187 0 38 540 187 31 932 037 61 649 238",
+      "pct_change": 20.69
+    },
+    "frais_d_administration": {
+      "val_n": -19135549.0,
+      "val_n_1": -14852456.0,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "CHNV43 Frais d'administration - 19 135 549 0 19 135 549 14 852 456 26 368 280",
+      "snippet_n_1": "CHNV43 Frais d'administration - 19 135 549 0 19 135 549 14 852 456 26 368 280",
+      "pct_change": 28.84
+    },
+    "charges_exploitation": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_primes_non_acquises": {
+      "val_n": 140518755,
+      "val_n_1": 130476110,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "PA310 Provision pour primes non acquises 140 518 755 130 476 110 110 249 254",
+      "snippet_n_1": "PA310 Provision pour primes non acquises 140 518 755 130 476 110 110 249 254",
+      "pct_change": 7.7
+    },
+    "provisions_sinistres_a_payer": {
+      "val_n": -701875747.0,
+      "val_n_1": -688707011.0,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "PA331 Provision pour sinistres (non vie) 701 875 747 688 707 011 696 829 163",
+      "snippet_n_1": "PA331 Provision pour sinistres (non vie) 701 875 747 688 707 011 696 829 163",
+      "pct_change": 1.91
+    },
+    "provisions_techniques": {
+      "val_n": 1031431457,
+      "val_n_1": 983484244,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "1 031 431 457 983 484 244 981 457 298",
+      "snippet_n_1": "1 031 431 457 983 484 244 981 457 298",
+      "pct_change": 4.88
+    },
+    "resultat_technique": {
+      "val_n": 934873,
+      "val_n_1": -5487684,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "RTNV +/- 14 599 216 13 664 343 934 873 -5 487 684 -133 141",
+      "snippet_n_1": "RTNV +/- 14 599 216 13 664 343 934 873 -5 487 684 -133 141",
+      "pct_change": -117.04
+    },
+    "resultat_net": {
+      "val_n": 21317114,
+      "val_n_1": 14729719,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "Résultat net de l'exercice 21 317 114 14 729 719 29 813 006",
+      "snippet_n_1": "Résultat net de l'exercice 21 317 114 14 729 719 29 813 006",
+      "pct_change": 44.72
+    },
+    "autres_charges": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "vie": {
+    "primes_emises": {
+      "val_n": 30344427,
+      "val_n_1": 25175405,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "PRV11 Primes émises et acceptées + 30 344 427 381 500 29 962 927 25 175 405 51 381 189",
+      "snippet_n_1": "PRV11 Primes émises et acceptées + 30 344 427 381 500 29 962 927 25 175 405 51 381 189",
+      "pct_change": 20.53
+    },
+    "primes_cedees": {
+      "val_n": -381500.0,
+      "val_n_1": null,
+      "page_n": 5,
+      "page_n_1": null,
+      "snippet_n": "PRV11 Primes émises et acceptées + 30 344 427 381 500 29 962 927 25 175 405 51 381 189",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": 30344427,
+      "val_n_1": null,
+      "page_n": 32,
+      "page_n_1": null,
+      "snippet_n": "Primes Acquises 30 344 427",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": -6873796.0,
+      "val_n_1": -7190633.0,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "CHV11 Montants payés - 6 560 512 0 6 560 512 6 264 860 11 632 404",
+      "snippet_n_1": "CHV11 Montants payés - 6 560 512 0 6 560 512 6 264 860 11 632 404",
+      "pct_change": -4.41
+    },
+    "provisions_mathématiques": {
+      "val_n": 122594568,
+      "val_n_1": 100820758,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "PA320 Provision d'assurance vie 122 594 568 100 820 758 111 141 143",
+      "snippet_n_1": "PA320 Provision d'assurance vie 122 594 568 100 820 758 111 141 143",
+      "pct_change": 21.6
+    },
+    "resultat_technique": {
+      "val_n": 11608594,
+      "val_n_1": 8158589,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "RTV 10 782 888 -825 706 11 608 594 8 158 589 14 438 937",
+      "snippet_n_1": "RTV 10 782 888 -825 706 11 608 594 8 158 589 14 438 937",
+      "pct_change": 42.29
+    },
+    "resultat_net": {
+      "val_n": 21317114,
+      "val_n_1": null,
+      "page_n": 26,
+      "page_n_1": null,
+      "snippet_n": "Résultat Net au 30/06/2025 21 317 114",
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "global": {
+    "fonds_propres": {
+      "val_n": 431579759,
+      "val_n_1": 414813906,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "Total capitaux propres avant affectation 431 579 759 414 813 906 429 897 743",
+      "snippet_n_1": "Total capitaux propres avant affectation 431 579 759 414 813 906 429 897 743",
+      "pct_change": 4.04
+    },
+    "total_bilan": {
+      "val_n": 1654265562,
+      "val_n_1": 1564821032,
+      "page_n": 2,
+      "page_n_1": 2,
+      "snippet_n": "Total de l'actif 1 817 095 261 162 829 699 1 654 265 562 1 564 821 032 1 571 835 370",
+      "snippet_n_1": "Total de l'actif 1 817 095 261 162 829 699 1 654 265 562 1 564 821 032 1 571 835 370",
+      "pct_change": 5.72
+    },
+    "produits_financiers": {
+      "val_n": 64219991,
+      "val_n_1": 55341564,
+      "page_n": 24,
+      "page_n_1": 24,
+      "snippet_n": "Les produits des placements nets des charges totalisent un montant de 64 219 991 dinars au 30 juin 2025 contre 55 341 564 dinars au 30 juin 2024",
+      "snippet_n_1": "Les produits des placements nets des charges totalisent un montant de 64 219 991 dinars au 30 juin 2025 contre 55 341 564 dinars au 30 juin 2024",
+      "pct_change": 16.04
+    },
+    "impot_sur_les_benefices": {
+      "val_n": -8633200.0,
+      "val_n_1": -1833650.0,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "CHNT4 Impôts sur le résultat - 8 633 200 1 833 650 10 785 200",
+      "snippet_n_1": "CHNT4 Impôts sur le résultat - 8 633 200 1 833 650 10 785 200",
+      "pct_change": 370.82
+    }
+  }
+}
