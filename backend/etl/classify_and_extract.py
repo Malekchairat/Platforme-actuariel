@@ -13,6 +13,7 @@ from .gemini_service import GeminiQuotaError, GeminiServiceError
 
 
 def process_uploaded_document(file_path: str, original_filename: str) -> dict[str, Any]:
+    # 1. Classification initiale du type de document
     classification = classify_document(file_path, original_filename)
 
     if not classification.get("related"):
@@ -23,8 +24,17 @@ def process_uploaded_document(file_path: str, original_filename: str) -> dict[st
             "classification": classification,
         }
 
+    # 2. Tentative d'extraction avec capture des exceptions métiers et techniques
     try:
         extracted = extract_financial_data(file_path)
+    except ValueError as exc:
+        # Intercepte la protection métier liée au refus des rapports consolidés
+        return {
+            "success": False,
+            "status": "rejected",
+            "message": str(exc),
+            "classification": classification,
+        }
     except GeminiQuotaError as exc:
         return {
             "success": False,
@@ -40,6 +50,7 @@ def process_uploaded_document(file_path: str, original_filename: str) -> dict[st
             "classification": classification,
         }
 
+    # 3. Validation de la conformité du résultat final
     if not is_valid_financial_result(extracted):
         return {
             "success": False,
@@ -52,6 +63,7 @@ def process_uploaded_document(file_path: str, original_filename: str) -> dict[st
             "data": extracted,
         }
 
+    # 4. Sauvegarde locale et indexation de la balance dans PostgreSQL
     output_path = build_output_path(extracted, original_filename)
     save_result(extracted, output_path)
 

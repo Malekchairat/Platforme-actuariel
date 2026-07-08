@@ -31,21 +31,21 @@ def build_extraction_prompt(chunk_text: str, filename: str) -> str:
 You are an expert actuarial financial auditor processing official insurance financial state documents.
 Extract the values accurately matching the provided schema template.
 
-CRITICAL DISCIPLINE RULES:
-1. TECHNICAL RESULT VS NET RESULT:
-   - "resultat_technique": This is the pure insurance Underwriting Account result Balance ("Solde du compte technique") before investment income outside core underwriting and before taxes.
-   - "resultat_net": This is the corporate bottom-line final net income after taxes ("Résultat Net de l'exercice").
-2. SEGMENTED BRANCH AUDITING (NEW RULE):
-   - "automobile": Look specifically for columns or rows segmenting the Automobile branch ("Branche Automobile" or "Assurance Auto"). Extract its written premiums, earned premiums ("primes acquises"), and claims expenses.
-   - "sante": Look for Health/Group Medical insurance segments ("Branche Maladie", "Assurance Groupe", "Santé").
-   - "risques_divers": Combine Fire, Liability, and Transport segments ("Incendie", "Responsabilité Civile", "Risques Divers", "IRD") if a generic table summarizes them.
-3. HUMAN RESOURCES DATA (NEW RULE):
-   - "charges_personnel": Extract the total personnel expenses ("Charges de personnel" or "Masse salariale").
-   - "effectif": Extract the total number of official corporate employees or staff ("Effectif moyen" or "Nombre de salariés") if explicitly present in the notes.
-4. SMART PROPERTY AUDITING:
-   - Locate current exercise and map to "val_n". Locate prior year column (N-1 or Retraité) and map to "val_n_1".
-   - Extract the complete exact original row string where the data was located into "snippet_n" and "snippet_n_1".
-5. NEVER run calculations or percentage divisions yourself. Leave missing properties as null.
+CRITICAL DISCIPLINE AND VALIDATION RULES:
+1. NO PAGE ASSUMPTIONS:
+   - Insurance annual reports do NOT have fixed page numbers. Identify sections and tables solely using semantic match of section titles.
+2. TECHNICAL BRANCH AUDITING:
+   - Identify tables or notes containing concepts like: "Ventilation des primes", "Nature de risque", "Compte technique par branche", "Résultat technique par branche", "Provisions techniques par nature de risque", "Mouvements".
+   - "automobile": Map data ONLY from official rows/columns referring explicitly to "Automobile" or "Assurance Auto".
+   - "sante": Map data ONLY from "Maladie", "Assurance Groupe", "Groupe Médical", or "Santé".
+   - "risques_divers": Combine Fire, Liability, and Transport segments ("Incendie", "Responsabilité Civile", "Risques Divers", "IRD", "Transport") ONLY if explicitly summarized together in a generic table by the insurer.
+3. ABSOLUTE PROHIBITION OF INFERENCE & ESTIMATION:
+   - NEVER calculate profitability percentages or profit margins yourself. Leave them as null if not directly readable.
+   - NEVER distribute total claims or total premiums proportionally among branches using percentages.
+   - If a branch value or column is missing or not explicitly provided in the tables or notes, leave its sub-properties as null.
+4. METRIC MAPPING RULES:
+   - Map current exercise value to "val_n" and prior year to "val_n_1".
+   - Extract the complete exact original row text where the numbers were located into "snippet_n" and "snippet_n_1".
 
 Target JSON Schema Layout:
 {json.dumps(OUTPUT_SCHEMA, ensure_ascii=False, indent=2)}
@@ -80,7 +80,6 @@ def standardize_financial_signs(result: dict[str, Any]) -> dict[str, Any]:
                     normalized_key = key.lower().replace("_", " ").strip()
                     is_expense = any(kw in normalized_key for kw in expense_keywords)
                     
-                    # Ignorer les recouvrements réassurance
                     if "part" in normalized_key or "reassureur" in normalized_key:
                         if "cedees" not in normalized_key:
                             is_expense = False
@@ -104,7 +103,7 @@ def standardize_financial_signs(result: dict[str, Any]) -> dict[str, Any]:
 
 
 def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
-    """Exécute l'extraction de bout en bout avec blocage des rapports consolidés."""
+    """Exécute l'extraction sémantique de bout en bout avec filtrage thématique ciblé."""
     path = Path(file_path)
     filename = path.name
 
@@ -113,10 +112,8 @@ def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
         if is_valid_financial_result(payload):
             return standardize_financial_signs(payload)
 
-    # 1. Extraction brute des pages
     pages = extract_document_pages(path)
     
-    # --- PROTECTION METIER : REFUS DES ETATS CONSOLIDES ---
     full_raw_text = "".join([p.get("text", "") for p in pages]).lower()
     if "états financiers consolidés" in full_raw_text or "comptes consolidés" in full_raw_text:
         raise ValueError(
@@ -124,13 +121,25 @@ def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
             "L'analyse prudentielle CGA requiert l'utilisation exclusive des états financiers INDIVIDUELS."
         )
     
-    # 2. Filtrage des pages financières
-    pages = filter_relevant_pages(pages)
-    chunks = build_chunks(pages)
+    # Stratégie d'identification sémantique : Ciblage des concepts comptables critiques
+    semantic_keywords = [
+        "ventilation", "nature de risque", "compte technique", 
+        "résultat technique", "provisions techniques", "primes émises",
+        "répartition", "mouvements", "masse salariale", "effectif"
+    ]
+    
+    filtered_pages = []
+    for p in pages:
+        text_lower = p.get("text", "").lower()
+        if any(kw in text_lower for kw in semantic_keywords):
+            filtered_pages.append(p)
+            
+    if not filtered_pages:
+        filtered_pages = filter_relevant_pages(pages)
 
+    chunks = build_chunks(filtered_pages)
     final_result = empty_schema()
 
-    # 3. Traitement parallélisé via Gemini
     for chunk in chunks:
         result = run_gemini_chunk(chunk, filename)
         final_result = merge_results(final_result, result)

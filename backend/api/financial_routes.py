@@ -20,7 +20,7 @@ router = APIRouter(prefix="/financial", tags=["financial"])
 
 
 def _is_financial_json(payload: dict[str, Any]) -> bool:
-    return all(key in payload for key in ("company", "non_vie", "vie", "global"))
+    return isinstance(payload, dict) and "company" in payload and "global" in payload
 
 
 def _list_processed_files() -> list[dict[str, str]]:
@@ -135,13 +135,11 @@ async def import_financial_document(file: UploadFile = File(...)) -> dict[str, A
             temp_path.unlink()
 
 
-# 🛠️ REÉCRITURE CRITIQUE : Calcul analytique réel par branche et ratios S/P
 @router.get("/ranking")
 def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_globale") -> list[dict[str, Any]]:
     """
-    Moteur de classement dynamique unifié interconnectant les sous-branches de l'ETL.
-    Segments acceptés : vue_globale, automobile, sante, risques_divers, non_vie, vie
-    Indicateurs calculés : primes_emises, resultat_technique, resultat_net, ratio_sp, taux_effectif_impot
+    Moteur de classement unifié sur les données réelles issues des états financiers.
+    Vérifie la cohérence comptable avec une tolérance de 1% sur la somme des branches.
     """
     ranking_list = []
     if not PROCESSED_DIR.exists():
@@ -157,10 +155,28 @@ def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_global
             continue
 
         company_name = payload.get("company", path.stem)
-        value = 0.0
+        value = 0.0  # Initialisation à 0.0 par défaut pour éviter un état de plantage
         
         try:
-            # 1. GESTION DU CRITÈRE COMPTABLE DES PRÉLÈVEMENTS FISCAUX (TAUX EFFECTIF IS)
+            # --- ÉTAPE DE RÉCONCILIATION COMPTABLE DES BRANCHES (TOLÉRANCE 1%) ---
+            total_non_vie_primes = 0.0
+            nv_primes_obj = payload.get("non_vie", {}).get("primes_emises", {})
+            if isinstance(nv_primes_obj, dict):
+                total_non_vie_primes = float(nv_primes_obj.get("val_n") or 0.0)
+
+            sum_extracted_branches = 0.0
+            for b_key in ["automobile", "sante", "risques_divers"]:
+                b_primes = payload.get(b_key, {}).get("primes_emises", {}).get("val_n")
+                if b_primes is not None:
+                    sum_extracted_branches += float(b_primes)
+
+            is_coherent = True
+            if sum_extracted_branches > 0 and total_non_vie_primes > 0:
+                diff_pct = abs(sum_extracted_branches - total_non_vie_primes) / total_non_vie_primes
+                if diff_pct > 0.01:
+                    is_coherent = False  # Écart critique constaté : blocage prudentiel de la vue sectorielle
+
+            # 1. TRAITEMENT DU TAUX D'IMPÔT
             if metric == "taux_effectif_impot":
                 global_data = payload.get("global", {})
                 impotbrut = 0.0
@@ -174,26 +190,23 @@ def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_global
                 brut_total = total_net + impotbrut
                 value = round((impotbrut / brut_total) * 100, 2) if brut_total > 0 else 0.0
 
-            # 2. GESTION DU RATIO ACTUARIEL S/P VENTILÉ (SINISTRALITÉ PAR BRANCHE)
+            # 2. RATIO S/P STRICT BRANCHE PAR BRANCHE (SANS COPIE NI ALLOCATION PROPORTIONNELLE)
             elif metric == "ratio_sp":
-                # Si vue globale, on applique le S/P sur le segment Non-Vie principal (moteur I.R.D/Auto)
                 target_key = "non_vie" if segment == "vue_globale" else segment
                 section_data = payload.get(target_key, {})
                 
-                if isinstance(section_data, dict):
-                    sin_obj = section_data.get("charges_sinistres")
-                    # Fallback sur les primes émises si les primes acquises sectorielles manquent
-                    pr_obj = section_data.get("primes_acquises") or section_data.get("primes_emises")
+                if isinstance(section_data, dict) and is_coherent:
+                    sin_obj = section_data.get("charges_sinistres") or section_data.get("sinistres")
+                    pr_obj = section_data.get("primes_acquises") or section_data.get("primes_emises") or section_data.get("primes")
                     
-                    sin_val = abs(float(sin_obj.get("val_n") or 0.0)) if isinstance(sin_obj, dict) else 0.0
-                    pr_val = float(pr_obj.get("val_n") or 0.0) if isinstance(pr_obj, dict) else 0.0
-                    
-                    value = round((sin_val / pr_val) * 100, 2) if pr_val > 0 else 0.0
+                    if sin_obj and pr_obj:
+                        sin_val = abs(float(sin_obj.get("val_n") or 0.0)) if isinstance(sin_obj, dict) else 0.0
+                        pr_val = float(pr_obj.get("val_n") or 0.0) if isinstance(pr_obj, dict) else 0.0
+                        value = round((sin_val / pr_val) * 100, 2) if pr_val > 0 else 0.0
 
-            # 3. GESTION DES INDICATEURS DE VOLUMES COMPTABLES STANDARDS (CA, RÉSULTATS)
+            # 3. EXTRACTION COMPTABLE REELLE DES CHIFFRES D'AFFAIRES ET MARGES TECHNIQUES
             else:
                 if segment == "vue_globale":
-                    # Somme consolidée des deux grands compartiments métiers
                     v1 = 0.0
                     if isinstance(payload.get("non_vie", {}).get(metric), dict):
                         v1 = float(payload["non_vie"][metric].get("val_n") or 0.0)
@@ -202,26 +215,34 @@ def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_global
                         v2 = float(payload["vie"][metric].get("val_n") or 0.0)
                     value = v1 + v2
                 else:
-                    # Extraction directe depuis le dictionnaire de sous-branche
-                    section_data = payload.get(segment, {})
-                    if isinstance(section_data, dict) and metric in section_data:
-                        metric_obj = section_data.get(metric)
-                        if isinstance(metric_obj, dict):
-                            value = float(metric_obj.get("val_n") or 0.0)
+                    if is_coherent:
+                        section_data = payload.get(segment, {})
+                        if isinstance(section_data, dict):
+                            metric_key = metric
+                            if metric not in section_data:
+                                if metric == "primes_emises" and "primes" in section_data: metric_key = "primes"
+                                elif metric == "charges_sinistres" and "sinistres" in section_data: metric_key = "sinistres"
+                                elif metric == "resultat_technique" and "resultat" in section_data: metric_key = "resultat"
 
-            value = float(value) if value is not None else 0.0
+                            metric_obj = section_data.get(metric_key)
+                            if isinstance(metric_obj, dict) and metric_obj.get("val_n") is not None:
+                                value = float(metric_obj.get("val_n"))
+                            elif isinstance(metric_obj, (int, float)):
+                                value = float(metric_obj)
+
+            # CORRECTION CRITIQUE : Sécurité repli à 0.0 au lieu de None pour garder le flux graphique actif
+            if value is None:
+                value = 0.0
         except Exception:
             value = 0.0
 
         ranking_list.append({
             "company": company_name,
-            "value": value,
+            "value": float(value),
             "file_id": path.stem
         })
 
-    # Tri des assureurs par ordre de performance décroissante
     ranking_list.sort(key=lambda x: x.get("value", 0.0), reverse=True)
-    
     for index, item in enumerate(ranking_list):
         item["rank"] = index + 1
     return ranking_list

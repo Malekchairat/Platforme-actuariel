@@ -5,15 +5,25 @@ import copy
 import re
 from typing import Any
 
-# Structure de stockage d'un indicateur avec sa propre piste d'audit pour le survol
+# Structure de stockage d'un indicateur comptable avec sa propre piste d'audit pour le survol
 METRIC_TEMPLATE: dict[str, Any] = {
     "val_n": None,       # Chiffre brut de l'année en cours (Exercice N)
     "val_n_1": None,     # Chiffre brut de l'année précédente (Exercice N-1)
-    "page_n": None,      # Numéro de page d'extraction de l'année N
-    "page_n_1": None,    # Numéro de page d'extraction de l'année N-1
-    "snippet_n": None,   # Extrait textuel de ligne d'origine (Année N)
-    "snippet_n_1": None, # Extrait textuel de ligne d'origine (Année N-1)
-    "pct_change": None   # Calculé programmatiquement en Python pur
+    "page_n": None,      # Numéro de page d'extraction sémantique de l'année N
+    "page_n_1": None,    # Numéro de page d'extraction sémantique de l'année N-1
+    "snippet_n": None,   # Extrait textuel de la table d'origine (Année N)
+    "snippet_n_1": None, # Extrait textuel de la table d'origine (Année N-1)
+    "pct_change": None   # Calculé programmatiquement en Python pur (jamais par le LLM)
+}
+
+# Structure d'une branche technique brute (Annexe 12 / Ventilation par nature de risque)
+BRANCH_TEMPLATE: dict[str, Any] = {
+    "primes_emises": dict(METRIC_TEMPLATE),
+    "primes_acquises": dict(METRIC_TEMPLATE),
+    "charges_sinistres": dict(METRIC_TEMPLATE),
+    "resultat_technique": dict(METRIC_TEMPLATE),
+    "pna": dict(METRIC_TEMPLATE),  # Provisions pour primes non acquises
+    "psp": dict(METRIC_TEMPLATE)   # Provisions pour sinistres à payer
 }
 
 OUTPUT_SCHEMA: dict[str, Any] = {
@@ -43,37 +53,23 @@ OUTPUT_SCHEMA: dict[str, Any] = {
         "resultat_technique": dict(METRIC_TEMPLATE),      
         "resultat_net": dict(METRIC_TEMPLATE),
     },
-    "automobile": {
-        "primes_emises": dict(METRIC_TEMPLATE),
-        "primes_acquises": dict(METRIC_TEMPLATE),
-        "charges_sinistres": dict(METRIC_TEMPLATE),
-        "resultat_technique": dict(METRIC_TEMPLATE),
-    },
-    "sante": {
-        "primes_emises": dict(METRIC_TEMPLATE),
-        "primes_acquises": dict(METRIC_TEMPLATE),
-        "charges_sinistres": dict(METRIC_TEMPLATE),
-        "resultat_technique": dict(METRIC_TEMPLATE),
-    },
-    "risques_divers": {
-        "primes_emises": dict(METRIC_TEMPLATE),
-        "primes_acquises": dict(METRIC_TEMPLATE),
-        "charges_sinistres": dict(METRIC_TEMPLATE),
-        "resultat_technique": dict(METRIC_TEMPLATE),
-    },
+    # Blocs sectoriels réels extraits (Valeurs comptables brutes uniquement)
+    "automobile": dict(BRANCH_TEMPLATE),
+    "sante": dict(BRANCH_TEMPLATE),
+    "risques_divers": dict(BRANCH_TEMPLATE),
     "global": {
         "fonds_propres": dict(METRIC_TEMPLATE),
         "total_bilan": dict(METRIC_TEMPLATE),
         "produits_financiers": dict(METRIC_TEMPLATE),
         "impot_sur_les_benefices": dict(METRIC_TEMPLATE), 
-        "charges_personnel": dict(METRIC_TEMPLATE),        # Nouvelle demande RH
-        "effectif": dict(METRIC_TEMPLATE),                 # Nouvelle demande RH
+        "charges_personnel": dict(METRIC_TEMPLATE),
+        "effectif": dict(METRIC_TEMPLATE),
     },
 }
 
 
 def empty_schema() -> dict[str, Any]:
-    """Génère une copie profonde propre du schéma d'indicateurs."""
+    """Génère une copie profonde propre du schéma réglementaire d'indicateurs."""
     return copy.deepcopy(OUTPUT_SCHEMA)
 
 
@@ -96,7 +92,7 @@ def safe_json_parse(text: str) -> dict[str, Any]:
 
 def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, Any]:
     """
-    Fusionne de manière itérative les extractions de chaque bloc de pages.
+    Fusionne de manière itérative les extractions sémantiques de chaque bloc de pages.
     Empêche les blocs vides ou incomplets d'effacer les données déjà extraites.
     """
     if incoming.get("company") and not base.get("company"):

@@ -1,0 +1,366 @@
+{
+  "company": "COMPAGNIE NOUVELLE D’ASSURANCE (ATTIJARI ASSURANCE)",
+  "non_vie": {
+    "primes_emises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_cedees": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "part_reassureurs_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_acquisition": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "frais_d_administration": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_exploitation": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_primes_non_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_sinistres_a_payer": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "provisions_techniques": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_net": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "autres_charges": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "vie": {
+    "primes_emises": {
+      "val_n": 168582816,
+      "val_n_1": 141663231,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRV11 Primes émises et acceptées + 168 582 816 777 368 167 805 448 141 663 231",
+      "snippet_n_1": "PRV11 Primes émises et acceptées + 168 582 816 777 368 167 805 448 141 663 231",
+      "pct_change": 19.0
+    },
+    "primes_cedees": {
+      "val_n": -777368.0,
+      "val_n_1": -701010.0,
+      "page_n": 4,
+      "page_n_1": 17,
+      "snippet_n": "PRV11 Primes émises et acceptées + 168 582 816 777 368 167 805 448 141 663 231",
+      "snippet_n_1": "Primes cédées -777 368 -701 010 -76 358 10,89%",
+      "pct_change": 10.89
+    },
+    "primes_acquises": {
+      "val_n": 167805448,
+      "val_n_1": 141663231,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRV11 Primes émises et acceptées + 168 582 816 777 368 167 805 448 141 663 231",
+      "snippet_n_1": "PRV11 Primes émises et acceptées + 168 582 816 777 368 167 805 448 141 663 231",
+      "pct_change": 18.45
+    },
+    "charges_sinistres": {
+      "val_n": -100435205.0,
+      "val_n_1": -89209651.0,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "sous total 3 101 370 879 935 674 100 435 205 89 209 651",
+      "snippet_n_1": "sous total 3 101 370 879 935 674 100 435 205 89 209 651",
+      "pct_change": 12.58
+    },
+    "provisions_mathématiques": {
+      "val_n": 873233459,
+      "val_n_1": 783495737,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "PA320 Provision d'assurances vie 873 233 459 783 495 737",
+      "snippet_n_1": "PA320 Provision d'assurances vie 873 233 459 783 495 737",
+      "pct_change": 11.45
+    },
+    "resultat_technique": {
+      "val_n": 20397838,
+      "val_n_1": 21778102,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "RTV Sous total (résultat technique de l'assurance et/ou de la 20 272 506 -125 332 20 397 838 21 778 102",
+      "snippet_n_1": "RTV Sous total (résultat technique de l'assurance et/ou de la 20 272 506 -125 332 20 397 838 21 778 102",
+      "pct_change": -6.34
+    },
+    "resultat_net": {
+      "val_n": 12805091,
+      "val_n_1": 11900218,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "Résultat net de l'exercice 12 805 091 11 900 218",
+      "snippet_n_1": "Résultat net de l'exercice 12 805 091 11 900 218",
+      "pct_change": 7.6
+    }
+  },
+  "automobile": {
+    "primes_emises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "sante": {
+    "primes_emises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "risques_divers": {
+    "primes_emises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "global": {
+    "fonds_propres": {
+      "val_n": 73211792,
+      "val_n_1": 68196702,
+      "page_n": 3,
+      "page_n_1": 3,
+      "snippet_n": "Total capitaux propres avant affectation 73 211 792 68 196 702",
+      "snippet_n_1": "Total capitaux propres avant affectation 73 211 792 68 196 702",
+      "pct_change": 7.35
+    },
+    "total_bilan": {
+      "val_n": 1023451730,
+      "val_n_1": 920199435,
+      "page_n": 2,
+      "page_n_1": 2,
+      "snippet_n": "Total 1 035 453 865 12 002 135 1 023 451 730 931 023 015 10 823 579 920 199 435",
+      "snippet_n_1": "Total 1 035 453 865 12 002 135 1 023 451 730 931 023 015 10 823 579 920 199 435",
+      "pct_change": 11.22
+    },
+    "produits_financiers": {
+      "val_n": 72370063,
+      "val_n_1": 64386238,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "PRV21 Revenus des placements + 72 370 063 0 72 370 063 64 386 238",
+      "snippet_n_1": "PRV21 Revenus des placements + 72 370 063 0 72 370 063 64 386 238",
+      "pct_change": 12.4
+    },
+    "impot_sur_les_benefices": {
+      "val_n": -8731282.0,
+      "val_n_1": -10098487.0,
+      "page_n": 5,
+      "page_n_1": 5,
+      "snippet_n": "CHNT4 Impôts sur le résultat - 8 731 282 10 098 487",
+      "snippet_n_1": "CHNT4 Impôts sur le résultat - 8 731 282 10 098 487",
+      "pct_change": -13.54
+    },
+    "charges_personnel": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "effectif": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  }
+}

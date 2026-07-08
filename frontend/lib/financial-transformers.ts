@@ -230,12 +230,14 @@ export function buildPortfolios(data: any): Portfolio[] {
 
   const nvPrimes = resolveMetricNumber(data?.non_vie?.primes_emises);
   const nvSinistres = resolveMetricNumber(data?.non_vie?.charges_sinistres);
-  const nvNet = resolveMetricNumber(data?.non_vie?.resultat_net);
+  
+  // CORRECTION CRITIQUE : Utilisation du résultat technique Non-Vie à la place du résultat net
+  const nvTechnicalResult = resolveMetricNumber(data?.non_vie?.resultat_technique);
 
   const nonViePortfolios = nonVieSegments.map((seg, i) => {
     const primes = Math.round(nvPrimes * seg.share);
     const sinistres = Math.round(nvSinistres * seg.share);
-    const resultat = Math.round(nvNet * seg.share);
+    const resultat = Math.round(nvTechnicalResult * seg.share);
     const profitability = primes > 0 ? (resultat / primes) * 100 : 0;
     const riskLevel: Portfolio["riskLevel"] =
       profitability < 0.5 ? "high" : profitability < 2 ? "medium" : "low";
@@ -255,12 +257,14 @@ export function buildPortfolios(data: any): Portfolio[] {
 
   const vPrimes = resolveMetricNumber(data?.vie?.primes_emises);
   const vSinistres = resolveMetricNumber(data?.vie?.charges_sinistres);
-  const vNet = resolveMetricNumber(data?.vie?.resultat_net);
+  
+  // CORRECTION CRITIQUE : Utilisation du résultat technique Vie à la place du résultat net
+  const vTechnicalResult = resolveMetricNumber(data?.vie?.resultat_technique);
 
   const viePortfolios = vieSegments.map((seg, i) => {
     const primes = Math.round(vPrimes * seg.share);
     const sinistres = Math.round(vSinistres * seg.share);
-    const resultat = Math.round(vNet * seg.share);
+    const resultat = Math.round(vTechnicalResult * seg.share);
     const profitability = primes > 0 ? (resultat / primes) * 100 : 0;
     const riskLevel: Portfolio["riskLevel"] = profitability < 5 ? "medium" : "low";
 
