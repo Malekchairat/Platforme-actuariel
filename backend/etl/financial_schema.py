@@ -43,11 +43,31 @@ OUTPUT_SCHEMA: dict[str, Any] = {
         "resultat_technique": dict(METRIC_TEMPLATE),      
         "resultat_net": dict(METRIC_TEMPLATE),
     },
+    "automobile": {
+        "primes_emises": dict(METRIC_TEMPLATE),
+        "primes_acquises": dict(METRIC_TEMPLATE),
+        "charges_sinistres": dict(METRIC_TEMPLATE),
+        "resultat_technique": dict(METRIC_TEMPLATE),
+    },
+    "sante": {
+        "primes_emises": dict(METRIC_TEMPLATE),
+        "primes_acquises": dict(METRIC_TEMPLATE),
+        "charges_sinistres": dict(METRIC_TEMPLATE),
+        "resultat_technique": dict(METRIC_TEMPLATE),
+    },
+    "risques_divers": {
+        "primes_emises": dict(METRIC_TEMPLATE),
+        "primes_acquises": dict(METRIC_TEMPLATE),
+        "charges_sinistres": dict(METRIC_TEMPLATE),
+        "resultat_technique": dict(METRIC_TEMPLATE),
+    },
     "global": {
         "fonds_propres": dict(METRIC_TEMPLATE),
         "total_bilan": dict(METRIC_TEMPLATE),
         "produits_financiers": dict(METRIC_TEMPLATE),
         "impot_sur_les_benefices": dict(METRIC_TEMPLATE), 
+        "charges_personnel": dict(METRIC_TEMPLATE),        # Nouvelle demande RH
+        "effectif": dict(METRIC_TEMPLATE),                 # Nouvelle demande RH
     },
 }
 
@@ -82,7 +102,8 @@ def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, A
     if incoming.get("company") and not base.get("company"):
         base["company"] = incoming["company"]
 
-    for section in ("non_vie", "vie", "global"):
+    sections = ("non_vie", "vie", "automobile", "sante", "risques_divers", "global")
+    for section in sections:
         if section not in incoming or not isinstance(incoming[section], dict):
             continue
             
@@ -103,7 +124,8 @@ def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, A
 
 def calculate_all_variations(data: dict[str, Any]) -> dict[str, Any]:
     """Calcule de façon déterministe en Python les variations d'une année sur l'autre."""
-    for section in ("non_vie", "vie", "global"):
+    sections = ("non_vie", "vie", "automobile", "sante", "risques_divers", "global")
+    for section in sections:
         for key in data.get(section, {}):
             metric = data[section][key]
             val_n = metric.get("val_n")
@@ -127,7 +149,8 @@ def is_valid_financial_result(result: dict[str, Any]) -> bool:
         return False
 
     filled = 0
-    for section in ("non_vie", "vie", "global"):
+    sections = ("non_vie", "vie", "automobile", "sante", "risques_divers", "global")
+    for section in sections:
         if section not in result or not isinstance(result[section], dict):
             continue
         for metric in result[section].values():
