@@ -1,77 +1,82 @@
 from __future__ import annotations
 
 import json
-import copy
 import re
 from typing import Any
 
-# Structure de stockage d'un indicateur comptable avec sa propre piste d'audit pour le survol
-METRIC_TEMPLATE: dict[str, Any] = {
-    "val_n": None,       # Chiffre brut de l'année en cours (Exercice N)
-    "val_n_1": None,     # Chiffre brut de l'année précédente (Exercice N-1)
-    "page_n": None,      # Numéro de page d'extraction sémantique de l'année N
-    "page_n_1": None,    # Numéro de page d'extraction sémantique de l'année N-1
-    "snippet_n": None,   # Extrait textuel de la table d'origine (Année N)
-    "snippet_n_1": None, # Extrait textuel de la table d'origine (Année N-1)
-    "pct_change": None   # Calculé programmatiquement en Python pur (jamais par le LLM)
-}
+# --- FACTORY FUNCTIONS FOR MEMORY ISOLATION ---
+# By using functions instead of static dictionaries, we prevent the Python 
+# shallow-copy bug where multiple branches share the same memory reference.
 
-# Structure d'une branche technique brute (Annexe 12 / Ventilation par nature de risque)
-BRANCH_TEMPLATE: dict[str, Any] = {
-    "primes_emises": dict(METRIC_TEMPLATE),
-    "primes_acquises": dict(METRIC_TEMPLATE),
-    "charges_sinistres": dict(METRIC_TEMPLATE),
-    "resultat_technique": dict(METRIC_TEMPLATE),
-    "pna": dict(METRIC_TEMPLATE),  # Provisions pour primes non acquises
-    "psp": dict(METRIC_TEMPLATE)   # Provisions pour sinistres à payer
-}
+def create_metric() -> dict[str, Any]:
+    """Génère un dictionnaire d'indicateur avec une piste d'audit isolée en mémoire."""
+    return {
+        "val_n": None,       # Chiffre brut de l'année en cours (Exercice N)
+        "val_n_1": None,     # Chiffre brut de l'année précédente (Exercice N-1)
+        "page_n": None,      # Numéro de page d'extraction sémantique de l'année N
+        "page_n_1": None,    # Numéro de page d'extraction sémantique de l'année N-1
+        "snippet_n": None,   # Extrait textuel de la table d'origine (Année N)
+        "snippet_n_1": None, # Extrait textuel de la table d'origine (Année N-1)
+        "pct_change": None   # Calculé programmatiquement en Python pur
+    }
 
-OUTPUT_SCHEMA: dict[str, Any] = {
-    "company": None,
-    "non_vie": {
-        "primes_emises": dict(METRIC_TEMPLATE),
-        "primes_cedees": dict(METRIC_TEMPLATE),          
-        "primes_acquises": dict(METRIC_TEMPLATE),
-        "charges_sinistres": dict(METRIC_TEMPLATE),
-        "part_reassureurs_sinistres": dict(METRIC_TEMPLATE), 
-        "frais_d_acquisition": dict(METRIC_TEMPLATE),     
-        "frais_d_administration": dict(METRIC_TEMPLATE),    
-        "charges_exploitation": dict(METRIC_TEMPLATE),
-        "provisions_primes_non_acquises": dict(METRIC_TEMPLATE), 
-        "provisions_sinistres_a_payer": dict(METRIC_TEMPLATE),   
-        "provisions_techniques": dict(METRIC_TEMPLATE),
-        "resultat_technique": dict(METRIC_TEMPLATE),      
-        "resultat_net": dict(METRIC_TEMPLATE),
-        "autres_charges": dict(METRIC_TEMPLATE),
-    },
-    "vie": {
-        "primes_emises": dict(METRIC_TEMPLATE),
-        "primes_cedees": dict(METRIC_TEMPLATE),          
-        "primes_acquises": dict(METRIC_TEMPLATE),
-        "charges_sinistres": dict(METRIC_TEMPLATE),
-        "provisions_mathématiques": dict(METRIC_TEMPLATE),
-        "resultat_technique": dict(METRIC_TEMPLATE),      
-        "resultat_net": dict(METRIC_TEMPLATE),
-    },
-    # Blocs sectoriels réels extraits (Valeurs comptables brutes uniquement)
-    "automobile": dict(BRANCH_TEMPLATE),
-    "sante": dict(BRANCH_TEMPLATE),
-    "risques_divers": dict(BRANCH_TEMPLATE),
-    "global": {
-        "fonds_propres": dict(METRIC_TEMPLATE),
-        "total_bilan": dict(METRIC_TEMPLATE),
-        "produits_financiers": dict(METRIC_TEMPLATE),
-        "impot_sur_les_benefices": dict(METRIC_TEMPLATE), 
-        "charges_personnel": dict(METRIC_TEMPLATE),
-        "effectif": dict(METRIC_TEMPLATE),
-    },
-}
-
+def create_branch() -> dict[str, Any]:
+    """Génère une structure de branche technique avec des références mémoire uniques."""
+    return {
+        "primes_emises": create_metric(),
+        "primes_acquises": create_metric(),
+        "charges_sinistres": create_metric(),
+        "resultat_technique": create_metric(),
+        "pna": create_metric(),  # Provisions pour primes non acquises
+        "psp": create_metric()   # Provisions pour sinistres à payer
+    }
 
 def empty_schema() -> dict[str, Any]:
-    """Génère une copie profonde propre du schéma réglementaire d'indicateurs."""
-    return copy.deepcopy(OUTPUT_SCHEMA)
+    """Génère un schéma réglementaire d'indicateurs entièrement vierge et isolé."""
+    return {
+        "company": None,
+        "non_vie": {
+            "primes_emises": create_metric(),
+            "primes_cedees": create_metric(),          
+            "primes_acquises": create_metric(),
+            "charges_sinistres": create_metric(),
+            "part_reassureurs_sinistres": create_metric(), 
+            "frais_d_acquisition": create_metric(),     
+            "frais_d_administration": create_metric(),    
+            "charges_exploitation": create_metric(),
+            "provisions_primes_non_acquises": create_metric(), 
+            "provisions_sinistres_a_payer": create_metric(),   
+            "provisions_techniques": create_metric(),
+            "resultat_technique": create_metric(),      
+            "resultat_net": create_metric(),
+            "autres_charges": create_metric(),
+        },
+        "vie": {
+            "primes_emises": create_metric(),
+            "primes_cedees": create_metric(),          
+            "primes_acquises": create_metric(),
+            "charges_sinistres": create_metric(),
+            "provisions_mathématiques": create_metric(),
+            "resultat_technique": create_metric(),      
+            "resultat_net": create_metric(),
+        },
+        # Blocs sectoriels réels extraits - Désormais strictement isolés
+        "automobile": create_branch(),
+        "sante": create_branch(),
+        "incendie": create_branch(),     # <-- À AJOUTER
+        "transport": create_branch(),    # <-- À AJOUTER
+        "risques_divers": create_branch(),
+        "global": {
+            "fonds_propres": create_metric(),
+            "total_bilan": create_metric(),
+            "produits_financiers": create_metric(),
+            "impot_sur_les_benefices": create_metric(), 
+            "charges_personnel": create_metric(),
+            "effectif": create_metric(),
+        },
+    }
 
+OUTPUT_SCHEMA: dict[str, Any] = empty_schema()
 
 def safe_json_parse(text: str) -> dict[str, Any]:
     """Extrait et valide de façon robuste les objets JSON retournés par l'API."""
@@ -88,7 +93,6 @@ def safe_json_parse(text: str) -> dict[str, Any]:
             pass
 
     return empty_schema()
-
 
 def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, Any]:
     """
@@ -117,7 +121,6 @@ def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, A
 
     return calculate_all_variations(base)
 
-
 def calculate_all_variations(data: dict[str, Any]) -> dict[str, Any]:
     """Calcule de façon déterministe en Python les variations d'une année sur l'autre."""
     sections = ("non_vie", "vie", "automobile", "sante", "risques_divers", "global")
@@ -137,7 +140,6 @@ def calculate_all_variations(data: dict[str, Any]) -> dict[str, Any]:
                 metric["pct_change"] = None
                 
     return data
-
 
 def is_valid_financial_result(result: dict[str, Any]) -> bool:
     """Valide la conformité structurelle minimale du résultat."""

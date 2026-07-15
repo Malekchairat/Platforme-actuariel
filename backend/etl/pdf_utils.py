@@ -13,9 +13,57 @@ def extract_text_from_pdf(pdf_path: str | Path) -> list[dict[str, str | int]]:
 
     with pdfplumber.open(pdf_path) as pdf:
         for i, page in enumerate(pdf.pages):
-            text = page.extract_text()
-            if text:
-                pages.append({"page_number": i + 1, "text": text})
+            # 1. Extraction classique par défaut (Sécurité maximale pour ne pas casser l'existant)
+            base_text = page.extract_text()
+            
+            if not base_text:
+                continue
+
+            final_text = base_text
+            text_lower = base_text.lower()
+            
+            # 2. DÉTECTION CIBLÉE : Est-ce la fameuse page du portefeuille / Annexe 13 ou 15 ?
+            is_portfolio_page = any(kw in text_lower for kw in [
+                "annexe 13", "annexe n° 13", "annexe n°13",
+                "annexe 15", "annexe n° 15", "annexe n°15",
+                "résultat technique par catégorie",
+                "compte technique par branche",
+                "ventilation par branche"
+            ])
+
+            if is_portfolio_page:
+                # 3. EXTRACTION CHIRURGICALE : On active le moteur de tableaux de pdfplumber
+                # "vertical_strategy": "text" force pdfplumber à créer des colonnes 
+                # en se basant sur l'alignement vertical des mots (parfait pour les tableaux sans bordures)
+                table_settings = {
+                    "vertical_strategy": "text", 
+                    "horizontal_strategy": "text"
+                }
+                tables = page.extract_tables(table_settings)
+                
+                if tables:
+                    table_str = "\n\n--- DÉBUT DE LA RECONSTRUCTION GÉOMÉTRIQUE DU TABLEAU (PORTFEUILLE) ---\n"
+                    for table in tables:
+                        for row in table:
+                            # Nettoyage de chaque cellule et assemblage avec des " | "
+                            # On remplace les vides par "VIDE" ou tiret pour aider le LLM à garder l'alignement
+                            clean_row = [str(cell).replace('\n', ' ').strip() if cell else "-" for cell in row]
+                            table_str += " | ".join(clean_row) + "\n"
+                    table_str += "--- FIN DE LA RECONSTRUCTION DU TABLEAU ---\n\n"
+                    
+                    # On ajoute ce tableau propre à la fin du texte brut de la page
+                    final_text = base_text + table_str
+                else:
+                    # Plan B de secours : Si la stratégie tableau échoue, on tente le layout spatial
+                    # qui préserve physiquement les espaces entre les colonnes
+                    try:
+                        layout_text = page.extract_text(layout=True)
+                        if layout_text:
+                            final_text = layout_text
+                    except Exception:
+                        pass # Si version pdfplumber trop ancienne, on garde le base_text
+
+            pages.append({"page_number": i + 1, "text": final_text})
 
     return pages
 

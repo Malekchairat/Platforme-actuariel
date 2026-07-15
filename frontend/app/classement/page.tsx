@@ -24,6 +24,47 @@ import {
 import { fetchMarketRanking, RankingItem } from "@/lib/api-client"; 
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, PieChart, Pie, Legend } from "recharts";
+import { HelpCircle } from "lucide-react";
+
+function SourcePopover({ source }: { source?: RankingItem["source"] }) {
+  if (!source) return null;
+
+  return (
+    <div className="absolute left-1/2 top-full z-[100] mt-2 hidden w-96 -translate-x-1/2 rounded-xl border border-slate-600 bg-slate-950 p-3 text-[11px] leading-5 text-slate-50 shadow-2xl ring-1 ring-black/40 group-hover:block">
+      <p className="mb-2 font-semibold text-cyan-300">Piste d&apos;audit Actuarielle :</p>
+      <p className="mb-1">
+        📍 <strong>Page Exercice N :</strong> Page {source.page_n ?? "N/A"}
+      </p>
+      <p className="mb-2 max-w-full overflow-x-auto rounded-md bg-slate-900 p-2 font-mono text-slate-200">
+        &quot;{source.snippet_n ?? "N/A"}&quot;
+      </p>
+      <p className="mb-1">
+        📍 <strong>Page Exercice N-1 :</strong> Page {source.page_n_1 ?? "N/A"}
+      </p>
+      <p className="max-w-full overflow-x-auto rounded-md bg-slate-900 p-2 font-mono text-slate-200">
+        &quot;{source.snippet_n_1 ?? "N/A"}&quot;
+      </p>
+    </div>
+  );
+}
+
+function ValueWithSource({
+  value,
+  source,
+  formatter,
+}: {
+  value: number;
+  source?: RankingItem["source"];
+  formatter: (value: number) => string;
+}) {
+  return (
+    <div className="group relative inline-flex items-center gap-1 pr-4">
+      <span>{formatter(value)}</span>
+      {source && <HelpCircle className="h-3.5 w-3.5 opacity-40 transition-opacity group-hover:opacity-100" />}
+      <SourcePopover source={source} />
+    </div>
+  );
+}
 
 export default function ClassementPage() {
   const [metric, setMetric] = useState<string>("primes_emises");
@@ -50,74 +91,9 @@ export default function ClassementPage() {
         }
       } catch (err: any) {
         if (!isMounted) return;
-        console.warn("Mode fallback activé suite à l'absence de données réelles :", err.message);
-        setError("Affichage des données de simulation actuarielle. Connectez et démarrez le backend pour synchroniser les extractions de la base PostgreSQL en direct.");
-        
-        // Génération d'un jeu de données de simulation ultra-complet pour toutes les branches
-        let baseMultiplier = 1;
-        if (segment === "automobile") baseMultiplier = 0.45;
-        else if (segment === "sante") baseMultiplier = 0.25;
-        else if (segment === "risques_divers") baseMultiplier = 0.20;
-
-        let mockData: RankingItem[] = [];
-
-        if (metric === "primes_emises") {
-          mockData = [
-            { company: "GAT ASSURANCES", value: 285886354 * baseMultiplier, file_id: "GAT_2025", rank: 1 },
-            { company: "COMAR", value: 273345982 * baseMultiplier, file_id: "COMAR_2025", rank: 2 },
-            { company: "MAGHREBIA", value: 293448347 * baseMultiplier, file_id: "MAGHREBIA_2025", rank: 3 },
-            { company: "BIAT ASSURANCE", value: 208346299 * baseMultiplier, file_id: "BIAT_2025", rank: 4 },
-            { company: "BNA ASSURANCES", value: 146264097 * baseMultiplier, file_id: "BNA_2025", rank: 5 },
-            { company: "ASTREE", value: 90937720 * baseMultiplier, file_id: "ASTREE_2025", rank: 6 },
-          ];
-        } else if (metric === "resultat_technique") {
-          mockData = [
-            { company: "COMAR", value: 72204915 * baseMultiplier, file_id: "COMAR_2025", rank: 1 },
-            { company: "GAT ASSURANCES", value: 33152936 * baseMultiplier, file_id: "GAT_2025", rank: 2 },
-            { company: "MAGHREBIA", value: 17210192 * baseMultiplier, file_id: "MAGHREBIA_2025", rank: 3 },
-            { company: "BNA ASSURANCES", value: 13037853 * baseMultiplier, file_id: "BNA_2025", rank: 4 },
-            { company: "BIAT ASSURANCE", value: 12202000 * baseMultiplier, file_id: "BIAT_2025", rank: 5 },
-            { company: "ASTREE", value: 5430000 * baseMultiplier, file_id: "ASTREE_2025", rank: 6 },
-          ];
-        } else if (metric === "resultat_net") {
-          mockData = [
-            { company: "COMAR", value: 82150543, file_id: "COMAR_2025", rank: 1 },
-            { company: "MAGHREBIA", value: 43432196, file_id: "MAGHREBIA_2025", rank: 2 },
-            { company: "GAT ASSURANCES", value: 35683697, file_id: "GAT_2025", rank: 3 },
-            { company: "BNA ASSURANCES", value: 17045881, file_id: "BNA_2025", rank: 4 },
-            { company: "BIAT ASSURANCE", value: 14380000, file_id: "BIAT_2025", rank: 5 },
-            { company: "ASTREE", value: 8742535, file_id: "ASTREE_2025", rank: 6 },
-          ];
-        } else if (metric === "ratio_sp") {
-          // Pour le S/P, simulation de pourcentages réalistes par branche
-          const offset = segment === "automobile" ? 12 : (segment === "sante" ? 8 : -5);
-          mockData = [
-            { company: "BNA ASSURANCES", value: 61.2 + offset, file_id: "BNA_2025", rank: 1 },
-            { company: "COMAR", value: 64.1 + offset, file_id: "COMAR_2025", rank: 2 },
-            { company: "GAT ASSURANCES", value: 66.5 + offset, file_id: "GAT_2025", rank: 3 },
-            { company: "ASTREE", value: 68.9 + offset, file_id: "ASTREE_2025", rank: 4 },
-            { company: "MAGHREBIA", value: 71.3 + offset, file_id: "MAGHREBIA_2025", rank: 5 },
-            { company: "BIAT ASSURANCE", value: 74.8 + offset, file_id: "BIAT_2025", rank: 6 },
-          ];
-        } else if (metric === "taux_effectif_impot") {
-          // Simulation du taux effectif d'impôt (IS / Résultat Brut)
-          mockData = [
-            { company: "ASTREE", value: 31.4, file_id: "ASTREE_2025", rank: 1 },
-            { company: "GAT ASSURANCES", value: 29.6, file_id: "GAT_2025", rank: 2 },
-            { company: "COMAR", value: 24.8, file_id: "COMAR_2025", rank: 3 },
-            { company: "BNA ASSURANCES", value: 22.1, file_id: "BNA_2025", rank: 4 },
-            { company: "MAGHREBIA", value: 19.5, file_id: "MAGHREBIA_2025", rank: 5 },
-            { company: "BIAT ASSURANCE", value: 18.2, file_id: "BIAT_2025", rank: 6 },
-          ];
-        }
-
-        // Tri adaptatif : le Ratio S/P le plus bas représente la meilleure performance technique,
-        // mais pour garder un leaderboard homogène, on ordonne par valeur selon les règles métiers.
-        const sortedData = [...mockData]
-          .sort((a, b) => b.value - a.value)
-          .map((item, idx) => ({ ...item, rank: idx + 1 }));
-
-        setRankingData(sortedData);
+        console.warn("Impossible de charger le classement réel :", err.message);
+        setError("Aucune donnée de classement n'est disponible pour le segment sélectionné. Vérifiez le backend et les extractions JSON.");
+        setRankingData([]);
       } finally {
         if (isMounted) {
           setIsLoading(false);
@@ -459,7 +435,9 @@ export default function ClassementPage() {
                         {item.file_id || "N/A"}
                       </TableCell>
                       <TableCell className="py-3 text-right pr-6 font-black font-mono text-slate-900 dark:text-white">
-                        {formatNumber(item.value)}
+                        <div className="group relative inline-flex justify-end">
+                          <ValueWithSource value={item.value} source={item.source} formatter={formatNumber} />
+                        </div>
                       </TableCell>
                     </TableRow>
                   ))}

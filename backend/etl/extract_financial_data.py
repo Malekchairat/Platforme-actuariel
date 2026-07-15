@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 import psycopg2
 from psycopg2.extras import Json as PostgresJson
 from pathlib import Path
@@ -16,7 +17,6 @@ from .config import (
     DB_PASSWORD
 )
 from .financial_schema import (
-    OUTPUT_SCHEMA,
     empty_schema,
     is_valid_financial_result,
     merge_results,
@@ -25,30 +25,115 @@ from .gemini_service import generate_json
 from .pdf_utils import build_chunks, extract_document_pages, filter_relevant_pages
 
 
-def build_extraction_prompt(chunk_text: str, filename: str) -> str:
-    """Génère le prompt d'audit contenant les directives métiers strictes et sectorielles."""
+def _normalize_title_text(text: str) -> str:
+    normalized = unicodedata.normalize("NFKD", text)
+    stripped = "".join(char for char in normalized if not unicodedata.combining(char))
+    return re.sub(r"\s+", " ", stripped).casefold().strip()
+
+
+def _extract_title_block(pages: list[dict[str, Any]], max_lines: int = 12) -> str:
+    if not pages:
+        return ""
+
+    first_page_text = str(pages[0].get("text", ""))
+    lines = [line.strip() for line in first_page_text.splitlines() if line.strip()]
+    title_lines: list[str] = []
+
+    for line in lines[:max_lines]:
+        title_lines.append(line)
+        if any(marker in _normalize_title_text(line) for marker in ("siege social", "adresse", "tel", "fax")):
+            break
+
+    return " ".join(title_lines)
+
+
+def _is_consolidated_title(pages: list[dict[str, Any]]) -> bool:
+    title_block = _normalize_title_text(_extract_title_block(pages))
+    if not title_block:
+        return False
+
+    consolidated_patterns = [
+        r"\betats? financiers consolide?s?\b",
+        r"\bcomptes? consolide?s?\b",
+        r"\bconsolidated financial statements\b",
+        r"\bconsolidated balance sheet\b",
+    ]
+
+    return any(re.search(pattern, title_block) for pattern in consolidated_patterns)
+
+
+def _detect_annex_context(pages: list[dict[str, Any]]) -> dict[str, str]:
+    text_sample = ""
+    for p in pages[:5]: 
+        text_sample += str(p.get("text", "")) + " "
+    
+    text_sample = _normalize_title_text(text_sample)
+
+    if re.search(r"annexe\s*n?°?\s*13|resultat technique non[- ]vie par categorie d'assurance", text_sample):
+        return {"annex": "13", "focus": "non_vie"}
+    if re.search(r"annexe\s*n?°?\s*15|tableau de raccordement du resultat technique vie", text_sample):
+        return {"annex": "15", "focus": "vie"}
+    
+    return {"annex": "unknown", "focus": "unknown"}
+
+
+def build_extraction_prompt(chunk_text: str, filename: str, title_block: str, annex_context: dict[str, str]) -> str:
+    annex_13_rules = ""
+    if annex_context.get("annex") == "13":
+        annex_13_rules = """
+    *** STRICT ANNEXE 13 COLUMN MAPPING RULES ***
+    - Column 'Automobile': Map strictly to the "automobile" JSON object.
+    - Column 'Groupe', 'Maladie', or 'Santé': Map strictly to the "sante" JSON object.
+    - Column 'Incendie': Map strictly to the "incendie" JSON object.
+    - Column 'Transport' or 'Facultés': Map strictly to the "transport" JSON object.
+    - Columns 'Risq. Divers', 'RC', 'Engineering', 'Risques Spéciaux', 'Risq. Spx', 'ARD': SUM THESE VALUES TOGETHER and map the total to the "risques_divers" JSON object.
+    - DO NOT map the "Total" column into any individual branch.
+    - NEVER duplicate a value from one branch into another. If a column is missing, leave the branch null.
+        """
+
     return f"""
-You are an expert actuarial financial auditor processing official insurance financial state documents.
+You are an expert actuarial financial auditor processing official insurance financial state documents from Tunisia.
 Extract the values accurately matching the provided schema template.
 
 CRITICAL DISCIPLINE AND VALIDATION RULES:
 1. NO PAGE ASSUMPTIONS:
-   - Insurance annual reports do NOT have fixed page numbers. Identify sections and tables solely using semantic match of section titles.
+   - Identify sections and tables solely using semantic match of section titles.
+
 2. TECHNICAL BRANCH AUDITING:
-   - Identify tables or notes containing concepts like: "Ventilation des primes", "Nature de risque", "Compte technique par branche", "Résultat technique par branche", "Provisions techniques par nature de risque", "Mouvements".
-   - "automobile": Map data ONLY from official rows/columns referring explicitly to "Automobile" or "Assurance Auto".
-   - "sante": Map data ONLY from "Maladie", "Assurance Groupe", "Groupe Médical", or "Santé".
-   - "risques_divers": Combine Fire, Liability, and Transport segments ("Incendie", "Responsabilité Civile", "Risques Divers", "IRD", "Transport") ONLY if explicitly summarized together in a generic table by the insurer.
-3. ABSOLUTE PROHIBITION OF INFERENCE & ESTIMATION:
-   - NEVER calculate profitability percentages or profit margins yourself. Leave them as null if not directly readable.
-   - NEVER distribute total claims or total premiums proportionally among branches using percentages.
-   - If a branch value or column is missing or not explicitly provided in the tables or notes, leave its sub-properties as null.
+   - "automobile": Map data ONLY from official rows/columns referring explicitly to "Automobile", "Assurance Auto", or "Flottes".
+   - "sante": Map data ONLY from "Maladie", "Assurance Groupe", "Groupe Médical", "Santé", or "Accidents Corporels".
+   - "incendie": Map data ONLY from "Incendie".
+   - "transport": Map data ONLY from "Transport".
+   - "risques_divers": Combine remaining miscellaneous risks (Liability, Engineering, ARD, Special Risks).
+   - For the key 'primes_emises', always prioritize NET issued premiums. If the line 'Primes Émises' does not exist in Annexes 13/15, use the 'Primes Acquises' line corresponding to the branch.
+   - NEVER copy one branch column into another branch. Each branch key must be filled only from its own explicit column/header.
+   {annex_13_rules}
+
+3. NEW KPIs FOR BENCHMARKING (RAW VALUES ONLY, ABSOLUTE PROHIBITION OF INFERENCE & RATIO CALCULATION):
+   - Under the "global" object, extract exact amounts for:
+     * "creances": Total Créances (often AC6).
+     * "actifs_corporels_incorporels": Valeur Brute of Actifs Incorporels & Corporels combined.
+     * "placements_bruts": Valeur Brute of Placements.
+     * "placements_nets": Valeur Nette of Placements.
+     * "impot_sur_les_benefices": Impôts sur les bénéfices / Impôts exigibles.
+     * "effectif": Total number of employees (headcount).
+     * "charges_personnel": Masse salariale / Frais de personnel.
+   - NEVER calculate profitability percentages, profit margins, or yield ratios yourself. Leave them as null if not directly readable.
+   - NEVER distribute total claims or total premiums proportionally among branches.
+
 4. METRIC MAPPING RULES:
    - Map current exercise value to "val_n" and prior year to "val_n_1".
-   - Extract the complete exact original row text where the numbers were located into "snippet_n" and "snippet_n_1".
+   - Extract the complete exact original row text where the numbers were located into "snippet_n".
+
+Document title block:
+{title_block or "N/A"}
+
+Detected annex context:
+- annexe: {annex_context.get("annex", "unknown")}
+- focus: {annex_context.get("focus", "unknown")}
 
 Target JSON Schema Layout:
-{json.dumps(OUTPUT_SCHEMA, ensure_ascii=False, indent=2)}
+{json.dumps(empty_schema(), ensure_ascii=False, indent=2)}
 
 Document Target Context: {filename}
 TEXT BLOCK TO AUDIT:
@@ -58,20 +143,26 @@ TEXT BLOCK TO AUDIT:
 """
 
 
-def run_gemini_chunk(chunk_text: str, filename: str) -> dict[str, Any]:
-    """Exécute l'analyse d'un morceau de document via l'API Gemini."""
-    prompt = build_extraction_prompt(chunk_text, filename)
+def run_gemini_chunk(
+    chunk_text: str,
+    filename: str,
+    title_block: str = "",
+    annex_context: dict[str, str] | None = None,
+) -> dict[str, Any]:
+    prompt = build_extraction_prompt(
+        chunk_text,
+        filename,
+        title_block,
+        annex_context or {"annex": "unknown", "focus": "unknown"},
+    )
     return generate_json(prompt)
 
 
 def standardize_financial_signs(result: dict[str, Any]) -> dict[str, Any]:
-    """
-    Parcourt l'extraction et s'assure que toutes les charges 
-    financières et sectorielles sont enregistrées sous forme négative.
-    """
-    expense_keywords = ["sinistre", "cedees", "acquisition", "administration", "impot", "charge", "personnel"]
+    expense_keywords = ["sinistre", "cedees", "acquisition", "administration", "impot", "charge", "personnel", "prestation"]
     
-    for section in ["vie", "non_vie", "automobile", "sante", "risques_divers", "global"]:
+    # Ajout de incendie et transport à la standardisation des signes
+    for section in ["vie", "non_vie", "automobile", "sante", "incendie", "transport", "risques_divers", "global"]:
         if section in result and isinstance(result[section], dict):
             keys = list(result[section].keys())
             for key in keys:
@@ -98,12 +189,19 @@ def standardize_financial_signs(result: dict[str, Any]) -> dict[str, Any]:
                                     result[section][key] = -numeric_val
                         except (ValueError, TypeError):
                             continue
-                        
     return result
+
+def validate_branch_extraction(result: dict[str, Any], filename: str) -> None:
+    auto_primes = result.get("automobile", {}).get("primes_emises", {}).get("val_n")
+    sante_primes = result.get("sante", {}).get("primes_emises", {}).get("val_n")
+    rd_primes = result.get("risques_divers", {}).get("primes_emises", {}).get("val_n")
+
+    if auto_primes and auto_primes == sante_primes and auto_primes == rd_primes and float(auto_primes) != 0:
+        print(f"⚠️ [Validation Alert] Hallucination potentielle dans {filename}: "
+              f"Auto, Santé, et RD ont des valeurs identiques ({auto_primes}).")
 
 
 def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
-    """Exécute l'extraction sémantique de bout en bout avec filtrage thématique ciblé."""
     path = Path(file_path)
     filename = path.name
 
@@ -113,24 +211,24 @@ def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
             return standardize_financial_signs(payload)
 
     pages = extract_document_pages(path)
+    title_block = _extract_title_block(pages)
+    annex_context = _detect_annex_context(pages)
     
-    full_raw_text = "".join([p.get("text", "") for p in pages]).lower()
-    if "états financiers consolidés" in full_raw_text or "comptes consolidés" in full_raw_text:
+    if _is_consolidated_title(pages):
         raise ValueError(
             "Rapport Rejeté : Le document importé contient des états financiers CONSOLIDÉS. "
             "L'analyse prudentielle CGA requiert l'utilisation exclusive des états financiers INDIVIDUELS."
         )
     
-    # Stratégie d'identification sémantique : Ciblage des concepts comptables critiques
     semantic_keywords = [
         "ventilation", "nature de risque", "compte technique", 
         "résultat technique", "provisions techniques", "primes émises",
-        "répartition", "mouvements", "masse salariale", "effectif"
+        "répartition", "mouvements", "masse salariale", "effectif", "etat g", "annexe"
     ]
     
     filtered_pages = []
     for p in pages:
-        text_lower = p.get("text", "").lower()
+        text_lower = str(p.get("text", "")).lower()
         if any(kw in text_lower for kw in semantic_keywords):
             filtered_pages.append(p)
             
@@ -140,11 +238,43 @@ def extract_financial_data(file_path: str | Path) -> dict[str, Any]:
     chunks = build_chunks(filtered_pages)
     final_result = empty_schema()
 
+    # 1. EXTRACTION SÉMANTIQUE NORMALE (Gère le bilan et le global parfaitement)
     for chunk in chunks:
-        result = run_gemini_chunk(chunk, filename)
+        result = run_gemini_chunk(chunk, filename, title_block, annex_context)
         final_result = merge_results(final_result, result)
 
+    # 2. INTERVENTION DU SNIPER VISION POUR L'ANNEXE 13 / 15
+    portfolio_page_num = None
+    for p in pages:
+        text_lower = str(p.get("text", "")).lower()
+        if any(kw in text_lower for kw in ["résultat technique non-vie par catégorie", "annexe 13", "annexe n°13", "annexe n° 13"]):
+            portfolio_page_num = p.get("page_number")
+            break
+            
+    if portfolio_page_num:
+        print(f"👁️ [Vision] Tableau de portefeuille détecté à la page {portfolio_page_num}. Activation de l'extraction par image...")
+        from .vision_extractor import extract_portfolio_with_vision
+        vision_result = extract_portfolio_with_vision(str(path), portfolio_page_num)
+        
+        # Le modèle Vision devient la seule source de vérité pour le portefeuille. 
+        # On écrase silencieusement les données textuelles faussées de ces branches spécifiques (incluant Incendie et Transport)
+        for branch in ["automobile", "sante", "incendie", "transport", "risques_divers"]:
+            if branch in vision_result and isinstance(vision_result[branch], dict):
+                for metric_key, metric_data in vision_result[branch].items():
+                    # Mappage flexible Primes acquises -> Primes émises si nécessaire
+                    target_key = "primes_emises" if metric_key == "primes_acquises" else metric_key
+                    
+                    if isinstance(metric_data, dict) and metric_data.get("val_n") is not None:
+                        if target_key in final_result[branch]:
+                            final_result[branch][target_key]["val_n"] = metric_data["val_n"]
+                            final_result[branch][target_key]["page_n"] = portfolio_page_num
+                            # NETTOYAGE ET OVERRIDE DU SNIPPET POUR L'INFOBULLE FRONTEND
+                            final_result[branch][target_key]["snippet_n"] = f"📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page {portfolio_page_num})"
+    else:
+        print("ℹ️ [Vision] Page de portefeuille non trouvée. Utilisation exclusive du texte.")
+
     final_result = standardize_financial_signs(final_result)
+    validate_branch_extraction(final_result, filename)
     return final_result
 
 

@@ -3,19 +3,19 @@
   "non_vie": {
     "primes_emises": {
       "val_n": 146264097,
-      "val_n_1": 138426360,
-      "page_n": 4,
-      "page_n_1": 4,
-      "snippet_n": "PRNV 11- Primes émises et acceptées 146 264 097",
-      "snippet_n_1": "138 426 360",
-      "pct_change": 5.66
-    },
-    "primes_cedees": {
-      "val_n": -9472895,
       "val_n_1": null,
       "page_n": 4,
       "page_n_1": null,
-      "snippet_n": "PRNV 11- Primes émises et acceptées 146 264 097 -9 472 895 136 791 202",
+      "snippet_n": "PRNV 11- Primes émises et acceptées 146 264 097",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_cedees": {
+      "val_n": -9472895.0,
+      "val_n_1": null,
+      "page_n": 4,
+      "page_n_1": null,
+      "snippet_n": "PRNV 11- Primes émises et acceptées 146 264 097 -9 472 895",
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -24,18 +24,18 @@
       "val_n_1": 137276093,
       "page_n": 4,
       "page_n_1": 4,
-      "snippet_n": "Sous-total 1 143 783 065 -9 159 100 134 623 965",
-      "snippet_n_1": "137 276 093",
+      "snippet_n": "Sous-total 1 134 623 965",
+      "snippet_n_1": "Sous-total 1 137 276 093",
       "pct_change": -1.93
     },
     "charges_sinistres": {
-      "val_n": -89882216,
-      "val_n_1": -88654257,
-      "page_n": 4,
-      "page_n_1": 4,
-      "snippet_n": "Sous-total 2 -95 000 006 5 117 790 -89 882 216",
-      "snippet_n_1": "-88 654 257",
-      "pct_change": 1.39
+      "val_n": -89882216.0,
+      "val_n_1": -86981094.0,
+      "page_n": 30,
+      "page_n_1": 30,
+      "snippet_n": "Total en DT -89 882 216",
+      "snippet_n_1": "Total en DT -86 981 094",
+      "pct_change": 3.34
     },
     "part_reassureurs_sinistres": {
       "val_n": 5117790,
@@ -47,57 +47,57 @@
       "pct_change": null
     },
     "frais_d_acquisition": {
-      "val_n": -41034606,
-      "val_n_1": -41249376,
+      "val_n": -41034606.0,
+      "val_n_1": -41249376.0,
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "CHNV 41- Frais d'acquisition -41 034 606",
-      "snippet_n_1": "-41 249 376",
+      "snippet_n_1": "CHNV 41- Frais d'acquisition -41 249 376",
       "pct_change": -0.52
     },
     "frais_d_administration": {
-      "val_n": -6952091,
-      "val_n_1": -5335667,
+      "val_n": -6952091.0,
+      "val_n_1": -5335667.0,
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "CHNV 43- Frais d'administration -6 952 091",
-      "snippet_n_1": "-5 335 667",
+      "snippet_n_1": "CHNV 43- Frais d'administration -5 335 667",
       "pct_change": 30.29
     },
     "charges_exploitation": {
-      "val_n": null,
-      "val_n_1": null,
-      "page_n": null,
-      "page_n_1": null,
-      "snippet_n": null,
-      "snippet_n_1": null,
-      "pct_change": null
+      "val_n": -46001413.0,
+      "val_n_1": -45923790.0,
+      "page_n": 4,
+      "page_n_1": 4,
+      "snippet_n": "Sous-total 3 -46 001 413",
+      "snippet_n_1": "Sous-total 3 -45 923 790",
+      "pct_change": 0.17
     },
     "provisions_primes_non_acquises": {
       "val_n": 60149790,
       "val_n_1": 57668757,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "PA310-Provisions pour primes non acquises 6 0 149 790",
-      "snippet_n_1": "5 7 668 757",
+      "page_n": 27,
+      "page_n_1": 27,
+      "snippet_n": "Provision pour primes non acquises 60 149 790",
+      "snippet_n_1": "Provision pour primes non acquises 57 668 757",
       "pct_change": 4.3
     },
     "provisions_sinistres_a_payer": {
       "val_n": -307699904.0,
       "val_n_1": -314208796.0,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "PA331-Provision pour sinistres non vie 307 699 904",
-      "snippet_n_1": "314 208 796",
+      "page_n": 27,
+      "page_n_1": 27,
+      "snippet_n": "Provision pour sinistres à payer non-vie (b) 307 699 904",
+      "snippet_n_1": "Provision pour sinistres à payer non-vie (b) 314 208 796",
       "pct_change": -2.07
     },
     "provisions_techniques": {
       "val_n": 513868039,
       "val_n_1": 488838814,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "513 868 039",
-      "snippet_n_1": "488 838 814",
+      "page_n": 27,
+      "page_n_1": 27,
+      "snippet_n": "Total en DT 513 868 039",
+      "snippet_n_1": "Total en DT 488 838 814",
       "pct_change": 5.12
     },
     "resultat_technique": {
@@ -106,25 +106,25 @@
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "RTNV- Sous-total (Résultat technique de l'assurance et/ou de la réassurance non vie) 13 037 853",
-      "snippet_n_1": "18 825 105",
+      "snippet_n_1": "RTNV- Sous-total (Résultat technique de l'assurance et/ou de la réassurance non vie) 18 825 105",
       "pct_change": -30.74
     },
     "resultat_net": {
-      "val_n": null,
-      "val_n_1": null,
-      "page_n": null,
-      "page_n_1": null,
-      "snippet_n": null,
-      "snippet_n_1": null,
-      "pct_change": null
+      "val_n": 17045881,
+      "val_n_1": 16315042,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "Résultat net de l'exerice 17 045 881",
+      "snippet_n_1": "Résultat net de l'exerice 16 315 042",
+      "pct_change": 4.48
     },
     "autres_charges": {
-      "val_n": -4997667,
-      "val_n_1": -3537698,
+      "val_n": -4997667.0,
+      "val_n_1": -3537698.0,
       "page_n": 4,
       "page_n_1": 4,
       "snippet_n": "CHNV5- Autres charges techniques -4 997 667",
-      "snippet_n_1": "-3 537 698",
+      "snippet_n_1": "CHNV5- Autres charges techniques -3 537 698",
       "pct_change": 41.27
     }
   },
@@ -135,15 +135,15 @@
       "page_n": 5,
       "page_n_1": 5,
       "snippet_n": "PRV 11- Primes émises et acceptées 43 762 588",
-      "snippet_n_1": "25 932 215",
+      "snippet_n_1": "PRV 11- Primes émises et acceptées 25 932 215",
       "pct_change": 68.76
     },
     "primes_cedees": {
-      "val_n": -1468805,
+      "val_n": -1468805.0,
       "val_n_1": null,
       "page_n": 5,
       "page_n_1": null,
-      "snippet_n": "PRV 11- Primes émises et acceptées 43 762 588 -1 468 805 42 293 783",
+      "snippet_n": "PRV 11- Primes émises et acceptées 43 762 588 -1 468 805",
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -152,26 +152,26 @@
       "val_n_1": 25932215,
       "page_n": 5,
       "page_n_1": 5,
-      "snippet_n": "Sous-total 1 43 762 588 -1 468 805 42 293 783",
-      "snippet_n_1": "25 932 215",
+      "snippet_n": "Sous-total 1 42 293 783",
+      "snippet_n_1": "Sous-total 1 25 932 215",
       "pct_change": 63.09
     },
     "charges_sinistres": {
-      "val_n": -11946214,
-      "val_n_1": -12113008,
+      "val_n": -11946214.0,
+      "val_n_1": -12113008.0,
       "page_n": 5,
       "page_n_1": 5,
-      "snippet_n": "Sous-total 3 -12 915 871 969 657 -11 946 214",
-      "snippet_n_1": "-12 113 008",
+      "snippet_n": "Sous-total 3 -11 946 214",
+      "snippet_n_1": "Sous-total 3 -12 113 008",
       "pct_change": -1.38
     },
     "provisions_mathématiques": {
       "val_n": 131179503,
       "val_n_1": 104877970,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "PA320-Provisions assurances vie 131 179 503",
-      "snippet_n_1": "104 877 970",
+      "page_n": 27,
+      "page_n_1": 27,
+      "snippet_n": "Provision mathématique vie (a) 131 179 503",
+      "snippet_n_1": "Provision mathématique vie (a) 104 877 970",
       "pct_change": 25.08
     },
     "resultat_technique": {
@@ -180,17 +180,17 @@
       "page_n": 5,
       "page_n_1": 5,
       "snippet_n": "RTV- Sous-total (Résultat technique de l'assurance et/ou de la réassurance vie) -4 250 160",
-      "snippet_n_1": "-3 417 618",
+      "snippet_n_1": "RTV- Sous-total (Résultat technique de l'assurance et/ou de la réassurance vie) -3 417 618",
       "pct_change": 24.36
     },
     "resultat_net": {
-      "val_n": null,
-      "val_n_1": null,
-      "page_n": null,
-      "page_n_1": null,
-      "snippet_n": null,
-      "snippet_n_1": null,
-      "pct_change": null
+      "val_n": 17045881,
+      "val_n_1": 16315042,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "Résultat net de l'exerice 17 045 881",
+      "snippet_n_1": "Résultat net de l'exerice 16 315 042",
+      "pct_change": 4.48
     }
   },
   "automobile": {
@@ -200,33 +200,33 @@
       "page_n": 10,
       "page_n_1": 10,
       "snippet_n": "Auto 131 084 195",
-      "snippet_n_1": "132 054 742",
+      "snippet_n_1": "Auto 132 054 742",
       "pct_change": -0.73
     },
     "primes_acquises": {
-      "val_n": null,
+      "val_n": 128778524,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Primes acquises 128 778 524",
       "snippet_n_1": null,
       "pct_change": null
     },
     "charges_sinistres": {
       "val_n": -86037838,
       "val_n_1": null,
-      "page_n": 45,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": "Charges de prestations | Automobile | -86 037 838",
+      "snippet_n": "Charges de prestations -86 037 838",
       "snippet_n_1": null,
       "pct_change": null
     },
     "resultat_technique": {
       "val_n": 13393025,
       "val_n_1": null,
-      "page_n": 45,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": "Résultat technique | Automobile | 13 393 025",
+      "snippet_n": "Résultat technique 13 393 025",
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -240,49 +240,49 @@
       "pct_change": null
     },
     "psp": {
-      "val_n": null,
-      "val_n_1": null,
-      "page_n": null,
-      "page_n_1": null,
-      "snippet_n": null,
-      "snippet_n_1": null,
-      "pct_change": null
+      "val_n": 296516344,
+      "val_n_1": 304917327,
+      "page_n": 28,
+      "page_n_1": "45",
+      "snippet_n": "Automobile 296 516 344",
+      "snippet_n_1": "Provisions pour sinistres à payer à l'ouverture 304 917 327",
+      "pct_change": -2.76
     }
   },
   "sante": {
     "primes_emises": {
-      "val_n": 131084195,
-      "val_n_1": 132054742,
+      "val_n": 6694891,
+      "val_n_1": 7698460,
       "page_n": 10,
       "page_n_1": 10,
-      "snippet_n": "Auto 131 084 195",
-      "snippet_n_1": "132 054 742",
-      "pct_change": -0.73
+      "snippet_n": "Groupe 6 694 891",
+      "snippet_n_1": "Groupe 7 698 460",
+      "pct_change": -13.04
     },
     "primes_acquises": {
-      "val_n": null,
+      "val_n": 6767835,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Primes acquises 6 767 835",
       "snippet_n_1": null,
       "pct_change": null
     },
     "charges_sinistres": {
-      "val_n": -86037838,
+      "val_n": -6094762,
       "val_n_1": null,
-      "page_n": 45,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": "Charges de prestations | Automobile | -86 037 838",
+      "snippet_n": "Charges de prestations -6 094 762",
       "snippet_n_1": null,
       "pct_change": null
     },
     "resultat_technique": {
-      "val_n": 13393025,
+      "val_n": -1605300,
       "val_n_1": null,
-      "page_n": 45,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": "Résultat technique | Automobile | 13 393 025",
+      "snippet_n": "Résultat technique -1 605 300",
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -296,49 +296,49 @@
       "pct_change": null
     },
     "psp": {
-      "val_n": null,
+      "val_n": 904932,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": 28,
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Groupe 904 932",
       "snippet_n_1": null,
       "pct_change": null
     }
   },
   "risques_divers": {
     "primes_emises": {
-      "val_n": 131084195,
-      "val_n_1": 132054742,
+      "val_n": 7295583,
+      "val_n_1": 5912415,
       "page_n": 10,
       "page_n_1": 10,
-      "snippet_n": "Auto 131 084 195",
-      "snippet_n_1": "132 054 742",
-      "pct_change": -0.73
+      "snippet_n": "Incendie 3 074 420 + Risques divers 1 786 928 + Transport 2 439 246",
+      "snippet_n_1": "Incendie 2 928 203 + Risques divers 992 598 + Transport 2 328 214",
+      "pct_change": 23.39
     },
     "primes_acquises": {
-      "val_n": null,
+      "val_n": 7295646,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Somme des primes acquises: 3 082 284 (Incendie) + 2 403 332 (Transport) + 1 810 030 (Divers)",
       "snippet_n_1": null,
       "pct_change": null
     },
     "charges_sinistres": {
-      "val_n": -86037838,
+      "val_n": -2991601,
       "val_n_1": null,
-      "page_n": 45,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": "Charges de prestations | Automobile | -86 037 838",
+      "snippet_n": "Somme des charges de prestations: -2 029 799 (Incendie) -838 929 (Transport) -122 873 (Divers)",
       "snippet_n_1": null,
       "pct_change": null
     },
     "resultat_technique": {
-      "val_n": 13393025,
+      "val_n": 1210091,
       "val_n_1": null,
-      "page_n": 45,
+      "page_n": "45",
       "page_n_1": null,
-      "snippet_n": "Résultat technique | Automobile | 13 393 025",
+      "snippet_n": "Somme des résultats techniques: 389 248 (Incendie) -60 906 (Transport) -206 251 (Divers) [Note: calcul agrégé requis par schema]",
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -352,11 +352,11 @@
       "pct_change": null
     },
     "psp": {
-      "val_n": null,
+      "val_n": 9616847,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": 28,
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Incendie 5 836 737 + Transport 1 327 081 + Risques divers 2 453 014",
       "snippet_n_1": null,
       "pct_change": null
     }
@@ -368,7 +368,7 @@
       "page_n": 3,
       "page_n_1": 3,
       "snippet_n": "Total capitaux propres avant affectation 82 966 715",
-      "snippet_n_1": "100 920 836",
+      "snippet_n_1": "Total capitaux propres avant affectation 100 920 836",
       "pct_change": -17.79
     },
     "total_bilan": {
@@ -376,43 +376,43 @@
       "val_n_1": 657158047,
       "page_n": 2,
       "page_n_1": 2,
-      "snippet_n": "Total des Actifs 789 296 104 ... 662 998 913",
-      "snippet_n_1": "657 158 047",
+      "snippet_n": "Total des Actifs 662 998 913",
+      "snippet_n_1": "Total des Actifs 657 158 047",
       "pct_change": 0.89
     },
     "produits_financiers": {
-      "val_n": 31500000,
-      "val_n_1": 28600000,
-      "page_n": 11,
-      "page_n_1": 11,
-      "snippet_n": "Le revenu total des placements net de la Compagnie totalise 31,5 MDT en 2025",
-      "snippet_n_1": "28,6 MDT en 2024",
-      "pct_change": 10.14
+      "val_n": 33558195,
+      "val_n_1": 30356888,
+      "page_n": 6,
+      "page_n_1": 6,
+      "snippet_n": "Sous-total 1 33 558 195",
+      "snippet_n_1": "Sous-total 1 30 356 888",
+      "pct_change": 10.55
     },
     "impot_sur_les_benefices": {
-      "val_n": -2417800,
-      "val_n_1": -385614,
+      "val_n": -2417800.0,
+      "val_n_1": -385614.0,
       "page_n": 6,
       "page_n_1": 6,
       "snippet_n": "CHNT41- Impôts exigibles -2 417 800",
-      "snippet_n_1": "-385 614",
+      "snippet_n_1": "CHNT41- Impôts exigibles -385 614",
       "pct_change": 527.0
     },
     "charges_personnel": {
-      "val_n": null,
-      "val_n_1": null,
-      "page_n": null,
-      "page_n_1": null,
-      "snippet_n": null,
-      "snippet_n_1": null,
-      "pct_change": null
+      "val_n": -29597787.0,
+      "val_n_1": -27011099.0,
+      "page_n": 32,
+      "page_n_1": 32,
+      "snippet_n": "Sous-total des charges de personnel 29 597 787",
+      "snippet_n_1": "Sous-total des charges de personnel 27 011 099",
+      "pct_change": 9.58
     },
     "effectif": {
       "val_n": 282,
       "val_n_1": null,
       "page_n": 33,
       "page_n_1": null,
-      "snippet_n": "Au 31/12/2025, l’effectif total de la « BNA Assurances » s’établit à 282 employés",
+      "snippet_n": "l'effectif total de la « BNA Assurances » s’établit à 282",
       "snippet_n_1": null,
       "pct_change": null
     }

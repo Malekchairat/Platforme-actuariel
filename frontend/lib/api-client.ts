@@ -36,6 +36,13 @@ export interface RankingItem {
   value: number;
   file_id: string;
   rank: number;
+  source?: {
+    page_n: number | string | null;
+    page_n_1: number | string | null;
+    snippet_n: string | null;
+    snippet_n_1: string | null;
+    pct_change: number | null;
+  };
 }
 
 function backendUnreachableMessage(): string {

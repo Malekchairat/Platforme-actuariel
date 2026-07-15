@@ -4,6 +4,15 @@ import re
 from dataclasses import dataclass
 from typing import Any
 
+# Ajout des clusters stricts pour le mapping des branches de l'Annexe 13
+BRANCH_KEYWORDS = {
+    "automobile": [r"\bauto\b", r"automobile", r"flottes?"],
+    "sante": [r"santé", r"sante", r"maladie", r"groupe", r"accidents? corporels?"],
+    "risques_divers": [
+        r"incendie", r"transport", r"risques? divers", 
+        r"risques? sp[eé]ciaux", r"rc", r"responsabilit[eé] civile", r"assistance"
+    ]
+}
 
 METRIC_PATTERNS = {
     "primes_emises": [
@@ -30,7 +39,6 @@ METRIC_PATTERNS = {
     "fonds_propres": [r"fonds\s+propres?"],
     "ratio_sp": [r"ratio\s+s/?p", r"s/?p"],
 }
-
 
 NUMERIC_TOKEN = re.compile(
     r"<\s*[-+]?(?:\d{1,3}(?:[\s\u00a0]\d{3})+|\d+(?:[,.]\d+)?)\s*>"
@@ -72,6 +80,15 @@ def classify_metric(text: str) -> str | None:
         for pattern in patterns:
             if re.search(pattern, normalized):
                 return metric
+    return None
+
+def classify_branch_column(header_text: str) -> str | None:
+    """Classifie un en-tête de colonne vers sa branche de destination exacte."""
+    normalized = normalize_text(header_text)
+    for branch, patterns in BRANCH_KEYWORDS.items():
+        for pattern in patterns:
+            if re.search(pattern, normalized):
+                return branch
     return None
 
 

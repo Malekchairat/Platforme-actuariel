@@ -6,8 +6,8 @@
       "val_n_1": 110970904,
       "page_n": "4",
       "page_n_1": "4",
-      "snippet_n": "PRNV11 Primes émises et acceptées 120 477 756 -24 322 243 96 155 513 92 452 057",
-      "snippet_n_1": "PRNV11 Primes émises et acceptées 120 477 756 -24 322 243 96 155 513 92 452 057",
+      "snippet_n": "PRNV11 Primes émises et acceptées 120 477 756",
+      "snippet_n_1": "PRNV11 Primes émises et acceptées 110 970 904",
       "pct_change": 8.57
     },
     "primes_cedees": {
@@ -15,8 +15,8 @@
       "val_n_1": -18518847,
       "page_n": "4",
       "page_n_1": "30",
-      "snippet_n": "PRNV11 Primes émises et acceptées 120 477 756 -24 322 243 96 155 513 92 452 057",
-      "snippet_n_1": "Primes cédées -24 322 243 -18 518 847 -5 803 396",
+      "snippet_n": "PRNV11 Primes émises et acceptées 120 477 756 -24 322 243",
+      "snippet_n_1": "Primes cédées -24 322 243 -18 518 847",
       "pct_change": 31.34
     },
     "primes_acquises": {
@@ -24,8 +24,8 @@
       "val_n_1": 89318956,
       "page_n": "4",
       "page_n_1": "4",
-      "snippet_n": "115 849 668 -22 899 354 92 950 314 89 318 956",
-      "snippet_n_1": "115 849 668 -22 899 354 92 950 314 89 318 956",
+      "snippet_n": "115 849 668 -22 899 354 92 950 314",
+      "snippet_n_1": "92 950 314 89 318 956",
       "pct_change": 4.07
     },
     "charges_sinistres": {
@@ -33,16 +33,16 @@
       "val_n_1": -68295568,
       "page_n": "4",
       "page_n_1": "4",
-      "snippet_n": "-83 080 426 3 248 317 -79 832 109 -68 295 568",
-      "snippet_n_1": "-83 080 426 3 248 317 -79 832 109 -68 295 568",
+      "snippet_n": "CHNV1 Charges de sinistres ... -79 832 109",
+      "snippet_n_1": "CHNV1 Charges de sinistres ... -68 295 568",
       "pct_change": 16.89
     },
     "part_reassureurs_sinistres": {
-      "val_n": null,
+      "val_n": 3248317,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "4",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "CHNV11 Montants payés -71 391 874 4 102 107 -67 289 767 ... -83 080 426 3 248 317",
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -51,17 +51,17 @@
       "val_n_1": -10824314,
       "page_n": "4",
       "page_n_1": "4",
-      "snippet_n": "CHNV41 Frais d'acquisition -12 621 243 -12 621 243 -10 824 314",
-      "snippet_n_1": "CHNV41 Frais d'acquisition -12 621 243 -12 621 243 -10 824 314",
+      "snippet_n": "CHNV41 Frais d'acquisition -12 621 243",
+      "snippet_n_1": "CHNV41 Frais d'acquisition -10 824 314",
       "pct_change": 16.6
     },
     "frais_d_administration": {
       "val_n": -17950835,
       "val_n_1": -16679750,
       "page_n": "4",
-      "page_n_1": "4",
-      "snippet_n": "CHNV43 Frais d'administration -17 950 835 -17 950 835 -16 679 750",
-      "snippet_n_1": "CHNV43 Frais d'administration -17 950 835 -17 950 835 -16 679 750",
+      "page_n_1": "32",
+      "snippet_n": "CHNV43 Frais d'administration -17 950 835",
+      "snippet_n_1": "La part attribuée au compte de résultat technique non-vie au 31/12/2025 est de 17 950 835 DT contre 16 679 750 DT",
       "pct_change": 7.62
     },
     "charges_exploitation": {
@@ -78,8 +78,8 @@
       "val_n_1": 32059925,
       "page_n": "3",
       "page_n_1": "3",
-      "snippet_n": "PA310 provision pour primes non acquises 36 688 013 32 059 925",
-      "snippet_n_1": "PA310 provision pour primes non acquises 36 688 013 32 059 925",
+      "snippet_n": "PA310 provision pour primes non acquises 36 688 013",
+      "snippet_n_1": "PA310 provision pour primes non acquises 32 059 925",
       "pct_change": 14.44
     },
     "provisions_sinistres_a_payer": {
@@ -87,36 +87,36 @@
       "val_n_1": -79149733.0,
       "page_n": "3",
       "page_n_1": "3",
-      "snippet_n": "PA331 provision pour sinistres (non vie) 90 838 285 79 149 733",
-      "snippet_n_1": "PA331 provision pour sinistres (non vie) 90 838 285 79 149 733",
+      "snippet_n": "PA331 provision pour sinistres (non vie) 90 838 285",
+      "snippet_n_1": "PA331 provision pour sinistres (non vie) 79 149 733",
       "pct_change": 14.77
     },
     "provisions_techniques": {
-      "val_n": 388576332,
-      "val_n_1": 353579595,
-      "page_n": "3",
-      "page_n_1": "3",
-      "snippet_n": "388 576 332 353 579 595",
-      "snippet_n_1": "388 576 332 353 579 595",
-      "pct_change": 9.9
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
     },
     "resultat_technique": {
       "val_n": -3291577,
       "val_n_1": 1737138,
-      "page_n": "6",
-      "page_n_1": "6",
-      "snippet_n": "RTNV Résultat technique de l'assurance et ou de la réassurance non vie -3 291 577 1 737 138",
-      "snippet_n_1": "RTNV Résultat technique de l'assurance et ou de la réassurance non vie -3 291 577 1 737 138",
+      "page_n": "4",
+      "page_n_1": "4",
+      "snippet_n": "RTNV Sous Total : Resultat tchnique de l'assurance non vie -3 291 577",
+      "snippet_n_1": "RTNV Sous Total : Resultat tchnique de l'assurance non vie 1 737 138",
       "pct_change": -289.48
     },
     "resultat_net": {
-      "val_n": 11126783,
-      "val_n_1": 11013950,
-      "page_n": "6",
-      "page_n_1": "6",
-      "snippet_n": "Resultat net de l’exercice 11 126 783 11 013 950",
-      "snippet_n_1": "Resultat net de l’exercice 11 126 783 11 013 950",
-      "pct_change": 1.02
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
     },
     "autres_charges": {
       "val_n": null,
@@ -152,8 +152,8 @@
       "val_n_1": 63334206,
       "page_n": "5",
       "page_n_1": "5",
-      "snippet_n": "62 912 194 63 334 206",
-      "snippet_n_1": "62 912 194 63 334 206",
+      "snippet_n": "62 912 194",
+      "snippet_n_1": "63 334 206",
       "pct_change": -0.67
     },
     "charges_sinistres": {
@@ -161,26 +161,26 @@
       "val_n_1": -23361344,
       "page_n": "5",
       "page_n_1": "5",
-      "snippet_n": "-40 885 762 -23 361 344",
-      "snippet_n_1": "-40 885 762 -23 361 344",
+      "snippet_n": "CHV1 Charges de sinistres -40 885 762",
+      "snippet_n_1": "CHV1 Charges de sinistres -23 361 344",
       "pct_change": 75.01
     },
     "provisions_mathématiques": {
       "val_n": 234108158,
       "val_n_1": 216362512,
-      "page_n": "3",
-      "page_n_1": "3",
-      "snippet_n": "PA320 provision pour assurance vie 234 108 158 216 362 512",
-      "snippet_n_1": "PA320 provision pour assurance vie 234 108 158 216 362 512",
+      "page_n": "25",
+      "page_n_1": "25",
+      "snippet_n": "Provisions mathématiques Vie 234 108 158",
+      "snippet_n_1": "Provisions mathématiques Vie 216 362 512",
       "pct_change": 8.2
     },
     "resultat_technique": {
       "val_n": 12390398,
       "val_n_1": 9716517,
-      "page_n": "6",
-      "page_n_1": "6",
-      "snippet_n": "RTV Résultat technique de l'assurance et ou de la réassurance vie 12 390 398 9 716 517",
-      "snippet_n_1": "RTV Résultat technique de l'assurance et ou de la réassurance vie 12 390 398 9 716 517",
+      "page_n": "5",
+      "page_n_1": "5",
+      "snippet_n": "RTV Sous Total : Resultat tchnique de l'assurance vie 12 390 398",
+      "snippet_n_1": "RTV Sous Total : Resultat tchnique de l'assurance vie 9 716 517",
       "pct_change": 27.52
     },
     "resultat_net": {
@@ -199,8 +199,8 @@
       "val_n_1": 41793000,
       "page_n": "30",
       "page_n_1": "30",
-      "snippet_n": "AUTO 49 985 123 41 793 000",
-      "snippet_n_1": "AUTO 49 985 123 41 793 000",
+      "snippet_n": "AUTO 49 985 123",
+      "snippet_n_1": "AUTO 41 793 000",
       "pct_change": 19.6
     },
     "primes_acquises": {
@@ -213,22 +213,40 @@
       "pct_change": null
     },
     "charges_sinistres": {
-      "val_n": null,
+      "val_n": -39403104,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "38",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Charges de prestation -39 403 104",
       "snippet_n_1": null,
       "pct_change": null
     },
     "resultat_technique": {
-      "val_n": null,
+      "val_n": 708742,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "38",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Résultat technique 708 742",
       "snippet_n_1": null,
       "pct_change": null
+    },
+    "pna": {
+      "val_n": 22783006,
+      "val_n_1": 19321020,
+      "page_n": "25",
+      "page_n_1": "25",
+      "snippet_n": "AUTO 22 783 006",
+      "snippet_n_1": "AUTO 19 321 020",
+      "pct_change": 17.92
+    },
+    "psp": {
+      "val_n": 71642691,
+      "val_n_1": 60933205,
+      "page_n": "26",
+      "page_n_1": "26",
+      "snippet_n": "AUTO 71 642 691",
+      "snippet_n_1": "AUTO 60 933 205",
+      "pct_change": 17.58
     }
   },
   "sante": {
@@ -237,46 +255,64 @@
       "val_n_1": 45326470,
       "page_n": "30",
       "page_n_1": "30",
-      "snippet_n": "MALADIE 41 625 814 45 326 470",
-      "snippet_n_1": "MALADIE 41 625 814 45 326 470",
+      "snippet_n": "MALADIE 41 625 814",
+      "snippet_n_1": "MALADIE 45 326 470",
       "pct_change": -8.16
     },
     "primes_acquises": {
-      "val_n": null,
+      "val_n": 41622376,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "38",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Primes acquises 41 622 376",
       "snippet_n_1": null,
       "pct_change": null
     },
     "charges_sinistres": {
-      "val_n": null,
+      "val_n": -39491173,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "38",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Charges de prestation -39 491 173",
       "snippet_n_1": null,
       "pct_change": null
     },
     "resultat_technique": {
-      "val_n": null,
+      "val_n": -6167097,
       "val_n_1": null,
-      "page_n": null,
+      "page_n": "38",
       "page_n_1": null,
-      "snippet_n": null,
+      "snippet_n": "Résultat technique -6 167 097",
       "snippet_n_1": null,
       "pct_change": null
+    },
+    "pna": {
+      "val_n": 154824,
+      "val_n_1": 151386,
+      "page_n": "26",
+      "page_n_1": "26",
+      "snippet_n": "GROUPE MALADIE 154 824",
+      "snippet_n_1": "GROUPE MALADIE 151 386",
+      "pct_change": 2.27
+    },
+    "psp": {
+      "val_n": 12110739,
+      "val_n_1": 11807395,
+      "page_n": "26",
+      "page_n_1": "26",
+      "snippet_n": "GROUPE MALADIE 12 110 739",
+      "snippet_n_1": "GROUPE MALADIE 11 807 395",
+      "pct_change": 2.57
     }
   },
   "risques_divers": {
     "primes_emises": {
       "val_n": 24555638,
-      "val_n_1": 19323761,
+      "val_n_1": 19324162,
       "page_n": "30",
       "page_n_1": "30",
-      "snippet_n": "ARD 4 111 301 + INCENDIE 14 415 685 + TRANSPORT 6 028 651",
-      "snippet_n_1": "ARD 3 470 240 + INCENDIE 9 822 624 + TRANSPORT 6 031 297",
+      "snippet_n": "ARD 4 111 301 + INCENDIE 14 415 685 + ENGINEERING 4 311 182 + TRANSPORT 6 028 651 = 28 866 819 (Total ARD/Incendie/Eng/Trans)",
+      "snippet_n_1": "Calculated by sum (4111301+14415685+4311182+6028651) vs (3470240+9822624+4527273+6031297)",
       "pct_change": 27.07
     },
     "primes_acquises": {
@@ -305,10 +341,8 @@
       "snippet_n": null,
       "snippet_n_1": null,
       "pct_change": null
-    }
-  },
-  "global": {
-    "fonds_propres": {
+    },
+    "pna": {
       "val_n": null,
       "val_n_1": null,
       "page_n": null,
@@ -317,31 +351,51 @@
       "snippet_n_1": null,
       "pct_change": null
     },
+    "psp": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "global": {
+    "fonds_propres": {
+      "val_n": 115113338,
+      "val_n_1": 107971569,
+      "page_n": "3",
+      "page_n_1": "3",
+      "snippet_n": "total capitaux propres avant affectation 115 113 338",
+      "snippet_n_1": "total capitaux propres avant affectation 107 971 569",
+      "pct_change": 6.61
+    },
     "total_bilan": {
       "val_n": 611172463,
       "val_n_1": 564500308,
       "page_n": "2",
       "page_n_1": "2",
-      "snippet_n": "611 172 463 564 500 308",
-      "snippet_n_1": "611 172 463 564 500 308",
+      "snippet_n": "611 172 463",
+      "snippet_n_1": "564 500 308",
       "pct_change": 8.27
     },
     "produits_financiers": {
       "val_n": 34046915,
-      "val_n_1": 29959000,
-      "page_n": "27",
-      "page_n_1": "12",
-      "snippet_n": "Les produits des placements globaux (vie et non vie) de la société totalisent au 31/12/2025 un montant de 34 046 915 DT.",
-      "snippet_n_1": "Des produits financiers passant de 29,959 MD fin 2024 à 34,047 MD en 2025",
-      "pct_change": 13.65
+      "val_n_1": null,
+      "page_n": "37",
+      "page_n_1": null,
+      "snippet_n": "Total produits des placements (PRV 21+PRNT 11) 34 046 915",
+      "snippet_n_1": null,
+      "pct_change": null
     },
     "impot_sur_les_benefices": {
-      "val_n": -2759706,
-      "val_n_1": -4628804,
+      "val_n": -2759706.0,
+      "val_n_1": -4628804.0,
       "page_n": "6",
       "page_n_1": "6",
-      "snippet_n": "CHNT4 Impôts sur le résultat -2 759 706 -4 628 804",
-      "snippet_n_1": "CHNT4 Impôts sur le résultat -2 759 706 -4 628 804",
+      "snippet_n": "CHNT4 Impôts sur le résultat -2 759 706",
+      "snippet_n_1": "CHNT4 Impôts sur le résultat -4 628 804",
       "pct_change": -40.38
     },
     "charges_personnel": {
@@ -349,8 +403,8 @@
       "val_n_1": -11655015.0,
       "page_n": "29",
       "page_n_1": "29",
-      "snippet_n": "12 516 788 11 655 015",
-      "snippet_n_1": "12 516 788 11 655 015",
+      "snippet_n": "12 516 788",
+      "snippet_n_1": "11 655 015",
       "pct_change": 7.39
     },
     "effectif": {
@@ -358,8 +412,8 @@
       "val_n_1": 101,
       "page_n": "29",
       "page_n_1": "29",
-      "snippet_n": "Total Personnels 119 101 86",
-      "snippet_n_1": "Total Personnels 119 101 86",
+      "snippet_n": "Total Personnels 119",
+      "snippet_n_1": "Total Personnels 101",
       "pct_change": 17.82
     }
   }

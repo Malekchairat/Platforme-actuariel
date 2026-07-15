@@ -9,6 +9,14 @@ export interface MetricDetail {
   [key: string]: unknown;
 }
 
+export interface MetricSource {
+  page_n: number | string | null;
+  page_n_1: number | string | null;
+  snippet_n: string | null;
+  snippet_n_1: string | null;
+  pct_change: number | null;
+}
+
 export type MetricValue = number | MetricDetail | null | undefined;
 
 export interface NonVieData {
@@ -33,6 +41,15 @@ export interface GlobalData {
   fonds_propres: MetricValue;
   total_bilan: MetricValue;
   produits_financiers: MetricValue;
+  // --- NOUVEAUX KPIS BENCHMARK ---
+  resultat_net?: MetricValue;
+  effectif?: MetricValue;
+  charges_personnel?: MetricValue;
+  creances?: MetricValue;
+  actifs_corporels_incorporels?: MetricValue;
+  placements_bruts?: MetricValue;
+  placements_nets?: MetricValue;
+  impot_sur_les_benefices?: MetricValue;
 }
 
 export interface FinancialData {
@@ -81,20 +98,13 @@ export interface Portfolio {
   profitability: number;
   riskLevel: "low" | "medium" | "high";
   trend: { period: string; value: number }[];
-}
-
-export interface AnalysisResponse {
-  answer: string;
-  sql: string;
-  explanation: string;
+  primesSource?: MetricSource;
+  sinistresSource?: MetricSource;
+  resultatSource?: MetricSource;
 }
 
 export interface TableRow {
   label: string;
   value: number;
-  section?: string;
-  previousValue?: number | null;
-  page?: number | null;
-  snippet?: string | null;
-  pctChange?: number | null;
+  section: string;
 }

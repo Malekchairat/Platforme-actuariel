@@ -3,29 +3,29 @@
   "non_vie": {
     "primes_emises": {
       "val_n": 109765361,
-      "val_n_1": null,
+      "val_n_1": 110310367,
       "page_n": 4,
-      "page_n_1": null,
+      "page_n_1": 25,
       "snippet_n": "PRNV11 Primes émises et acceptées 109 765 361",
-      "snippet_n_1": null,
-      "pct_change": null
+      "snippet_n_1": "Primes émises et acceptés nettes d'annulations et ristournes 110 310 367",
+      "pct_change": -0.49
     },
     "primes_cedees": {
       "val_n": -24320983,
-      "val_n_1": null,
+      "val_n_1": -33211378,
       "page_n": 4,
-      "page_n_1": null,
-      "snippet_n": "PRNV11 Primes émises et acceptées 109 765 361 -24 320 983",
-      "snippet_n_1": null,
-      "pct_change": null
+      "page_n_1": 25,
+      "snippet_n": "Cessions et rétrocession 31/12/2025 -24 320 983",
+      "snippet_n_1": "Primes cédées -33 211 378",
+      "pct_change": -26.77
     },
     "primes_acquises": {
       "val_n": 83991300,
       "val_n_1": 76082512,
       "page_n": 4,
       "page_n_1": 4,
-      "snippet_n": "108 889 672 -24 898 372 83 991 300 76 082 512",
-      "snippet_n_1": "108 889 672 -24 898 372 83 991 300 76 082 512",
+      "snippet_n": "Opérations Nettes 31/12/2025 83 991 300",
+      "snippet_n_1": "Opérations Nettes 31/12/2024 76 082 512",
       "pct_change": 10.4
     },
     "charges_sinistres": {
@@ -33,8 +33,8 @@
       "val_n_1": -54390233,
       "page_n": 4,
       "page_n_1": 4,
-      "snippet_n": "-77 513 503 17 103 223 -60 410 280 -54 390 233",
-      "snippet_n_1": "-77 513 503 17 103 223 -60 410 280 -54 390 233",
+      "snippet_n": "Opérations Nettes 31/12/2025 -60 410 280",
+      "snippet_n_1": "Opérations Nettes 31/12/2024 -54 390 233",
       "pct_change": 11.07
     },
     "part_reassureurs_sinistres": {
@@ -42,7 +42,7 @@
       "val_n_1": null,
       "page_n": 4,
       "page_n_1": null,
-      "snippet_n": "CHNV1 Charges de sinistres ... 17 103 223",
+      "snippet_n": "CHNV1 Charges de sinistres 17 103 223",
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -50,18 +50,18 @@
       "val_n": -20707842,
       "val_n_1": -19635890,
       "page_n": 4,
-      "page_n_1": 4,
-      "snippet_n": "CHNV41 Frais d'acquisition -20 707 842 -20 707 842 -19 635 890",
-      "snippet_n_1": "CHNV41 Frais d'acquisition -20 707 842 -20 707 842 -19 635 890",
+      "page_n_1": 26,
+      "snippet_n": "CHNV41 Frais d'acquisition -20 707 842",
+      "snippet_n_1": "Frais d'acquisition... 19 635 890",
       "pct_change": 5.46
     },
     "frais_d_administration": {
       "val_n": -10345156,
       "val_n_1": -11377199,
       "page_n": 4,
-      "page_n_1": 4,
-      "snippet_n": "CHNV43 Frais d'administration -10 345 156 -10 345 156 -11 377 199",
-      "snippet_n_1": "CHNV43 Frais d'administration -10 345 156 -10 345 156 -11 377 199",
+      "page_n_1": 26,
+      "snippet_n": "CHNV43 Frais d'administration -10 345 156",
+      "snippet_n_1": "Frais d'administration... 11 377 199",
       "pct_change": -9.07
     },
     "charges_exploitation": {
@@ -76,19 +76,19 @@
     "provisions_primes_non_acquises": {
       "val_n": 35573936,
       "val_n_1": 34698248,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "PA310 Provision pour primes non acquises 3 5 573 936 3 4 698 248",
-      "snippet_n_1": "PA310 Provision pour primes non acquises 3 5 573 936 3 4 698 248",
+      "page_n": 42,
+      "page_n_1": 42,
+      "snippet_n": "Provisions pour primes non acquises clôture 35 573 936",
+      "snippet_n_1": "Provisions pour primes non acquises ouverture 34 698 248",
       "pct_change": 2.52
     },
     "provisions_sinistres_a_payer": {
-      "val_n": 100004135,
-      "val_n_1": 91186390,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "PA331 Provision pour sinistres (non vie) 1 00 004 135 91 186 390",
-      "snippet_n_1": "PA331 Provision pour sinistres (non vie) 1 00 004 135 91 186 390",
+      "val_n": -100004135.0,
+      "val_n_1": -91186390.0,
+      "page_n": 42,
+      "page_n_1": 42,
+      "snippet_n": "Provisions pour sinistres à payer à la clôture 100 004 135",
+      "snippet_n_1": "Provisions pour sinistres à payer à l'ouverture 91 186 390",
       "pct_change": 9.67
     },
     "provisions_techniques": {
@@ -105,8 +105,8 @@
       "val_n_1": 6314230,
       "page_n": 4,
       "page_n_1": 4,
-      "snippet_n": "RTNV6 Résultat technique de l’assurance et/ou de la réassurance non vie 9 612 937",
-      "snippet_n_1": "RTNV6 Résultat technique de l’assurance et/ou de la réassurance non vie 6 314 230",
+      "snippet_n": "RTNV6 9 612 937",
+      "snippet_n_1": "RTNV6 6 314 230",
       "pct_change": 52.24
     },
     "resultat_net": {
@@ -131,19 +131,19 @@
   "vie": {
     "primes_emises": {
       "val_n": 208416161,
-      "val_n_1": null,
+      "val_n_1": 168801932,
       "page_n": 5,
-      "page_n_1": null,
+      "page_n_1": 24,
       "snippet_n": "PRV11 Primes émises et acceptées 208 416 161",
-      "snippet_n_1": null,
-      "pct_change": null
+      "snippet_n_1": "Primes émises et acceptés nettes d'annulations et ristournes 168 801 932",
+      "pct_change": 23.47
     },
     "primes_cedees": {
-      "val_n": -3807409,
+      "val_n": null,
       "val_n_1": null,
-      "page_n": 5,
+      "page_n": null,
       "page_n_1": null,
-      "snippet_n": "PRV11 Primes émises et acceptées ... -3 807 409",
+      "snippet_n": null,
       "snippet_n_1": null,
       "pct_change": null
     },
@@ -152,38 +152,206 @@
       "val_n_1": 165286914,
       "page_n": 5,
       "page_n_1": 5,
-      "snippet_n": "PRV1 Primes acquises ... 204 608 752 165 286 914",
-      "snippet_n_1": "PRV1 Primes acquises ... 204 608 752 165 286 914",
+      "snippet_n": "Opérations Nettes 31/12/2025 204 608 752",
+      "snippet_n_1": "Opérations Nettes 31/12/2024 165 286 914",
       "pct_change": 23.79
     },
     "charges_sinistres": {
-      "val_n": -64922861,
-      "val_n_1": -44514041,
-      "page_n": 5,
-      "page_n_1": 5,
-      "snippet_n": "sous total 3 -65 483 029 560 169 -64 922 861 -44 514 041",
-      "snippet_n_1": "sous total 3 -65 483 029 560 169 -64 922 861 -44 514 041",
-      "pct_change": 45.85
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
     },
     "provisions_mathématiques": {
-      "val_n": 780799717,
-      "val_n_1": 620664290,
-      "page_n": 3,
-      "page_n_1": 3,
-      "snippet_n": "PA320 Provision pour assurance vie 7 80 799 717 6 20 664 290",
-      "snippet_n_1": "PA320 Provision pour assurance vie 7 80 799 717 6 20 664 290",
-      "pct_change": 25.8
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
     },
     "resultat_technique": {
       "val_n": 29606804,
       "val_n_1": 24927289,
       "page_n": 5,
       "page_n_1": 5,
-      "snippet_n": "RTV Résultat technique de l’assurance et/ou de la réassurance vie ... 29 606 804 24 927 289",
-      "snippet_n_1": "RTV Résultat technique de l’assurance et/ou de la réassurance vie ... 29 606 804 24 927 289",
+      "snippet_n": "RTV Résultat technique... 29 606 804",
+      "snippet_n_1": "RTV Résultat technique... 24 927 289",
       "pct_change": 18.77
     },
     "resultat_net": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "automobile": {
+    "primes_emises": {
+      "val_n": 41945610.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": -29268132.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": 4224975.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "pna": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "psp": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "sante": {
+    "primes_emises": {
+      "val_n": 31794454.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": -26111378.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": -602831.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "pna": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "psp": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    }
+  },
+  "risques_divers": {
+    "primes_emises": {
+      "val_n": 24610881.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "primes_acquises": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_sinistres": {
+      "val_n": -18772336.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "resultat_technique": {
+      "val_n": 3249091.0,
+      "val_n_1": null,
+      "page_n": 38,
+      "page_n_1": null,
+      "snippet_n": "📸 Valeur extraite par IA Multimodale (Lecture visuelle de la Page 38)",
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "pna": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "psp": {
       "val_n": null,
       "val_n_1": null,
       "page_n": null,
@@ -205,12 +373,12 @@
     },
     "total_bilan": {
       "val_n": 1164952822,
-      "val_n_1": 1135688143,
+      "val_n_1": 932111990,
       "page_n": 2,
-      "page_n_1": 2,
+      "page_n_1": 3,
       "snippet_n": "TOTAL ACTIFS 1 164 952 822",
-      "snippet_n_1": "TOTAL ACTIFS 1 135 688 143",
-      "pct_change": 2.58
+      "snippet_n_1": "TOTAL CAPITAUX PROPRES ET PASSIFS 932 111 990",
+      "pct_change": 24.98
     },
     "produits_financiers": {
       "val_n": null,
@@ -222,13 +390,31 @@
       "pct_change": null
     },
     "impot_sur_les_benefices": {
-      "val_n": -15836109,
-      "val_n_1": -14524074,
-      "page_n": 6,
-      "page_n_1": 6,
-      "snippet_n": "CHNT41 Impôt sur les Sociétés -15 836 109 -14 524 074",
-      "snippet_n_1": "CHNT41 Impôt sur les Sociétés -15 836 109 -14 524 074",
-      "pct_change": 9.03
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "charges_personnel": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
+    },
+    "effectif": {
+      "val_n": null,
+      "val_n_1": null,
+      "page_n": null,
+      "page_n_1": null,
+      "snippet_n": null,
+      "snippet_n_1": null,
+      "pct_change": null
     }
   }
 }
