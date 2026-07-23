@@ -105,38 +105,39 @@ export function ChatInterface() {
         </CardTitle>
       </CardHeader>
 
-      {/* 🛠️ FIX FIXATION : Ajout de min-h-0 et overflow-hidden pour forcer flex-1 à respecter la hauteur */}
-      <CardContent className="flex flex-1 flex-col overflow-hidden p-0 min-h-0">
+      <CardContent className="flex flex-1 flex-col overflow-hidden p-0 min-h-0 relative">
         
-        {/* Zone des messages qui défile indépendamment */}
-        <ScrollArea className="flex-1 w-full px-6 py-4">
-          <div className="space-y-4 pb-4">
-            {messages.map((msg) => (
-              <MessageBubble
-                key={msg.id}
-                role={msg.role}
-                content={msg.content}
-                sql={msg.sql}
-                explanation={msg.explanation}
-              />
-            ))}
-            {loading && (
-              <p className="text-sm text-muted-foreground animate-pulse">
-                Copilot est en train de croiser les indicateurs...
-              </p>
-            )}
-          </div>
-        </ScrollArea>
+        {/* 🛠️ SCROLL FIXED CONTAINER: Replaced flex-1 with a max-height bounded box + full width calculation */}
+        <div className="absolute top-0 bottom-0 left-0 right-0 h-[calc(100%-11rem)] w-full overflow-hidden">
+          <ScrollArea className="h-full w-full px-6 py-4">
+            <div className="space-y-4 pb-4">
+              {messages.map((msg) => (
+                <MessageBubble
+                  key={msg.id}
+                  role={msg.role}
+                  content={msg.content}
+                  sql={msg.sql}
+                  explanation={msg.explanation}
+                />
+              ))}
+              {loading && (
+                <p className="text-sm text-muted-foreground animate-pulse pl-4 border-l-2 border-primary/40 py-1">
+                  Copilot est en train de croiser les indicateurs...
+                </p>
+              )}
+            </div>
+          </ScrollArea>
+        </div>
 
-        {/* 🛠️ FIX BLOCAGE BAS : Ajout de shrink-0 pour figer la boîte à suggestions et le formulaire en bas de carte */}
-        <div className="space-y-3 border-t border-border px-6 py-4 bg-card shrink-0 z-10">
-          <div className="flex flex-wrap gap-2">
+        {/* 🛠️ PERSISTENT FOOTER MATRIX BAR: Locks at the structural base of the viewport window */}
+        <div className="absolute bottom-0 left-0 right-0 border-t border-border px-6 py-4 bg-card shrink-0 z-20 h-44 flex flex-col justify-between">
+          <div className="flex flex-wrap gap-2 overflow-y-auto max-h-16 pr-1">
             {SUGGESTIONS.map((s) => (
               <Button
                 key={s}
                 variant="outline"
                 size="sm"
-                className="h-auto whitespace-normal text-left text-xs"
+                className="h-auto whitespace-normal text-left text-xs bg-muted/20 hover:bg-muted/60 transition-colors"
                 onClick={() => handleSubmit(s)}
                 disabled={loading}
               >
@@ -146,7 +147,7 @@ export function ChatInterface() {
           </div>
 
           <form
-            className="flex gap-2"
+            className="flex gap-2 mt-2 shrink-0"
             onSubmit={(e) => {
               e.preventDefault();
               handleSubmit(input);
@@ -157,7 +158,7 @@ export function ChatInterface() {
               onChange={(e) => setInput(e.target.value)}
               placeholder="Posez une question sur le pourquoi de ces résultats..."
               disabled={loading}
-              className="flex-1"
+              className="flex-1 shadow-none focus-visible:ring-1"
             />
             <Button type="submit" disabled={loading || !input.trim()}>
               <Send className="h-4 w-4" />

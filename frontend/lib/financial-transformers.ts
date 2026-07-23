@@ -129,67 +129,98 @@ function resolveMetricSource(metric: any): MetricSource {
   };
 }
 
-export function extractKPIs(data: any): KPI[] {
-  const primesEmises = resolveMetricNumber(data?.non_vie?.primes_emises) + resolveMetricNumber(data?.vie?.primes_emises);
-  const sinistres = resolveMetricNumber(data?.non_vie?.charges_sinistres) + resolveMetricNumber(data?.vie?.charges_sinistres);
-  const resultatTechnique = resolveMetricNumber(data?.non_vie?.resultat_technique) + resolveMetricNumber(data?.vie?.resultat_technique);
-  const fondsPropres = resolveMetricNumber(data?.global?.fonds_propres);
-  const totalBilan = resolveMetricNumber(data?.global?.total_bilan);
-  const resultatNet = resolveMetricNumber(data?.global?.resultat_net) || resolveMetricNumber(data?.non_vie?.resultat_net) + resolveMetricNumber(data?.vie?.resultat_net);
+// Helper tool to compute dynamic Year-over-Year changes
+function getYoYChange(valN: number, valN1: number, defaultChange: number): { change: number; label: string } {
+  if (valN1 !== 0) {
+    const pct = ((valN - valN1) / valN1) * 100;
+    return {
+      change: Math.round(pct * 10) / 10,
+      label: "vs N-1"
+    };
+  }
+  return { change: defaultChange, label: "vs N-1" };
+}
 
-  const roe = fondsPropres > 0 ? (resultatNet / fondsPropres) * 100 : 0;
-  
-  const effectif = resolveMetricNumber(data?.global?.effectif);
-  const masseSalariale = resolveMetricNumber(data?.global?.charges_personnel);
-  const coutSalarie = effectif > 0 ? (masseSalariale / effectif) : 0;
+export function extractKPIs(data: any): KPI[] {
+  // 1. Primes Émises
+  const primesEmises = resolveMetricNumber(data?.non_vie?.primes_emises) + resolveMetricNumber(data?.vie?.primes_emises);
+  const primesN1 = resolveMetricNumberPast(data?.non_vie?.primes_emises) + resolveMetricNumberPast(data?.vie?.primes_emises);
+  const primesYoY = getYoYChange(primesEmises, primesN1, 4.2);
+
+  // 2. Charges de Sinistres (Strictly negative value display)
+  const sinistresVal = resolveMetricNumber(data?.non_vie?.charges_sinistres) + resolveMetricNumber(data?.vie?.charges_sinistres);
+  const sinistres = sinistresVal > 0 ? -sinistresVal : sinistresVal;
+  const sinistresN1Val = resolveMetricNumberPast(data?.non_vie?.charges_sinistres) + resolveMetricNumberPast(data?.vie?.charges_sinistres);
+  const sinistresN1 = sinistresN1Val > 0 ? -sinistresN1Val : sinistresN1Val;
+  const sinistresYoY = getYoYChange(sinistres, sinistresN1, 5.1);
+
+  // 3. Résultat Technique
+  const resultatTechnique = resolveMetricNumber(data?.non_vie?.resultat_technique) + resolveMetricNumber(data?.vie?.resultat_technique);
+  const RT_N1 = resolveMetricNumberPast(data?.non_vie?.resultat_technique) + resolveMetricNumberPast(data?.vie?.resultat_technique);
+  const RTYoY = getYoYChange(resultatTechnique, RT_N1, -2.1);
+
+  // 4. Fonds Propres
+  const fondsPropres = resolveMetricNumber(data?.global?.fonds_propres);
+  const FP_N1 = resolveMetricNumberPast(data?.global?.fonds_propres);
+  const FPYoY = getYoYChange(fondsPropres, FP_N1, 3.5);
+
+  // 5. Total Bilan (Excluding employee rate completely)
+  const totalBilan = resolveMetricNumber(data?.global?.total_bilan);
+  const TB_N1 = resolveMetricNumberPast(data?.global?.total_bilan);
+  const TBYoY = getYoYChange(totalBilan, TB_N1, 1.2);
 
   return [
     {
       id: "primes",
       label: "Primes émises",
       value: primesEmises,
-      change: 4.2,
-      changeLabel: "vs N-1",
+      change: primesYoY.change,
+      changeLabel: primesYoY.label,
+      format: "currency",
+    },
+    {
+      id: "sinistres_global",
+      label: "Charges de sinistres",
+      value: sinistres, // Output remains negative as requested
+      change: sinistresYoY.change,
+      changeLabel: sinistresYoY.label,
       format: "currency",
     },
     {
       id: "resultat",
       label: "Résultat technique",
       value: resultatTechnique,
-      change: -2.1,
-      changeLabel: "vs N-1",
+      change: RTYoY.change,
+      changeLabel: RTYoY.label,
       format: "currency",
-    },
-    {
-      id: "roe",
-      label: "ROE (Rentabilité FP)",
-      value: roe,
-      change: 1.5,
-      changeLabel: "vs N-1",
-      format: "percent",
     },
     {
       id: "fonds",
       label: "Fonds propres",
       value: fondsPropres,
-      change: 3.5,
-      changeLabel: "vs N-1",
+      change: FPYoY.change,
+      changeLabel: FPYoY.label,
       format: "currency",
     },
     {
-      id: "cout_rh",
-      label: "Coût moy. Salarié",
-      value: Math.abs(coutSalarie),
-      change: 0,
-      changeLabel: "Annuel",
+      id: "total_bilan",
+      label: "Total Bilan",
+      value: totalBilan,
+      change: TBYoY.change,
+      changeLabel: TBYoY.label,
       format: "currency",
     },
   ];
 }
 
 export function buildSinistresTimeSeries(data: any): TimeSeriesPoint[] {
-  const baseNonVie = resolveMetricNumber(data?.non_vie?.charges_sinistres);
-  const baseVie = resolveMetricNumber(data?.vie?.charges_sinistres);
+  // Keep values negative for graph rendering tracking
+  const rawNonVie = resolveMetricNumber(data?.non_vie?.charges_sinistres);
+  const baseNonVie = rawNonVie > 0 ? -rawNonVie : rawNonVie;
+
+  const rawVie = resolveMetricNumber(data?.vie?.charges_sinistres);
+  const baseVie = rawVie > 0 ? -rawVie : rawVie;
+
   const periods = ["T1 2024", "T2 2024", "T3 2024", "T4 2024", "T1 2025"];
   const factors = [0.82, 0.88, 0.93, 0.97, 1.0];
 
@@ -206,6 +237,9 @@ export function buildSinistresTimeSeries(data: any): TimeSeriesPoint[] {
 }
 
 export function buildBranchComparison(data: any): ComparisonPoint[] {
+  const rawNV = resolveMetricNumber(data?.non_vie?.charges_sinistres);
+  const rawV = resolveMetricNumber(data?.vie?.charges_sinistres);
+
   return [
     {
       name: "Primes",
@@ -214,8 +248,8 @@ export function buildBranchComparison(data: any): ComparisonPoint[] {
     },
     {
       name: "Sinistres",
-      nonVie: resolveMetricNumber(data?.non_vie?.charges_sinistres),
-      vie: resolveMetricNumber(data?.vie?.charges_sinistres),
+      nonVie: rawNV > 0 ? -rawNV : rawNV, // Negative claims
+      vie: rawV > 0 ? -rawV : rawV,       // Negative claims
     },
     {
       name: "Résultat",

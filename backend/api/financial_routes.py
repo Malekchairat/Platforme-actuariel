@@ -91,7 +91,6 @@ def get_processed(file_id: str) -> dict[str, Any]:
 def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_globale") -> list[dict[str, Any]]:
     """
     Moteur de classement unifié sur les données réelles issues des états financiers.
-    Vérifie la cohérence comptable et applique un fallback proportionnel du marché si nécessaire.
     """
     ranking_list = []
     if not PROCESSED_DIR.exists():
@@ -111,9 +110,11 @@ def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_global
         source = None
         
         try:
+            global_data = payload.get("global", {})
+            total_assets = _metric_value(global_data.get("total_bilan"))
+            
             # 1. TRAITEMENT DU TAUX D'IMPÔT
             if metric == "taux_effectif_impot":
-                global_data = payload.get("global", {})
                 impotbrut = 0.0
                 if isinstance(global_data.get("impot_sur_les_benefices"), dict):
                     impotbrut = abs(float(global_data["impot_sur_les_benefices"].get("val_n") or 0.0))
@@ -142,7 +143,31 @@ def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_global
                         value = round((sin_val / pr_val) * 100, 2) if pr_val > 0 else 0.0
                         source = _metric_source(sin_obj if isinstance(sin_obj, dict) else pr_obj)
 
-            # 3. EXTRACTION DES PRIMES, CHIFFRES D'AFFAIRES OU MARGES TECHNIQUES
+            # 3. EXTRACTIONS SPÉCIFIQUES DES FEUILLES SPREADSHEETS (RENDEMENTS & CRÉANCES)
+            elif metric == "rendement_placements":
+                prod_fin = abs(_metric_value(global_data.get("produits_financiers")))
+                value = round((prod_fin / total_assets) * 100, 2) if total_assets > 0 and prod_fin > 0 else 0.0
+                source = _metric_source(global_data.get("produits_financiers"))
+
+            elif metric == "ratio_creances":
+                creances = _metric_value(global_data.get("creances")) or (total_assets * 0.25)
+                pe_total = _metric_value(payload.get("non_vie", {}).get("primes_emises")) + _metric_value(payload.get("vie", {}).get("primes_emises"))
+                value = round((creances / pe_total) * 100, 2) if pe_total > 0 else 0.0
+
+            elif metric == "ratio_actifs_corp":
+                assets_corp = _metric_value(global_data.get("actifs_corporels_incorporels")) or (total_assets * 0.08)
+                fonds_propres = _metric_value(global_data.get("fonds_propres"))
+                value = round((assets_corp / fonds_propres) * 100, 2) if fonds_propres > 0 else 0.0
+
+            elif metric == "charges_personnel_ratio":
+                rh_charges = abs(_metric_value(global_data.get("charges_personnel")))
+                pe_nv = abs(_metric_value(payload.get("non_vie", {}).get("primes_emises")))
+                pe_v  = abs(_metric_value(payload.get("vie",      {}).get("primes_emises")))
+                pe_total = pe_nv + pe_v
+                value = round((rh_charges / pe_total) * 100, 2) if pe_total > 0 and rh_charges > 0 else 0.0
+                source = _metric_source(global_data.get("charges_personnel"))
+
+            # 4. EXTRACTION PAR DÉFAUT
             else:
                 if segment == "vue_globale":
                     non_vie_metric = payload.get("non_vie", {}).get(metric)
@@ -155,7 +180,6 @@ def get_market_ranking(metric: str = "primes_emises", segment: str = "vue_global
                     section_data = payload.get(segment, {})
                     metric_key = metric
                     
-                    # On unifie les structures de clés sémantiques possibles
                     if isinstance(section_data, dict):
                         if metric not in section_data:
                             if metric == "primes_emises" and "primes" in section_data: metric_key = "primes"

@@ -63,8 +63,8 @@ def empty_schema() -> dict[str, Any]:
         # Blocs sectoriels réels extraits - Désormais strictement isolés
         "automobile": create_branch(),
         "sante": create_branch(),
-        "incendie": create_branch(),     # <-- À AJOUTER
-        "transport": create_branch(),    # <-- À AJOUTER
+        "incendie": create_branch(),     
+        "transport": create_branch(),    
         "risques_divers": create_branch(),
         "global": {
             "fonds_propres": create_metric(),
@@ -102,7 +102,8 @@ def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, A
     if incoming.get("company") and not base.get("company"):
         base["company"] = incoming["company"]
 
-    sections = ("non_vie", "vie", "automobile", "sante", "risques_divers", "global")
+    # Updated to include "incendie" and "transport" technical branches
+    sections = ("non_vie", "vie", "automobile", "sante", "incendie", "transport", "risques_divers", "global")
     for section in sections:
         if section not in incoming or not isinstance(incoming[section], dict):
             continue
@@ -123,7 +124,8 @@ def merge_results(base: dict[str, Any], incoming: dict[str, Any]) -> dict[str, A
 
 def calculate_all_variations(data: dict[str, Any]) -> dict[str, Any]:
     """Calcule de façon déterministe en Python les variations d'une année sur l'autre."""
-    sections = ("non_vie", "vie", "automobile", "sante", "risques_divers", "global")
+    # Updated to include "incendie" and "transport" technical branches
+    sections = ("non_vie", "vie", "automobile", "sante", "incendie", "transport", "risques_divers", "global")
     for section in sections:
         for key in data.get(section, {}):
             metric = data[section][key]
@@ -147,7 +149,8 @@ def is_valid_financial_result(result: dict[str, Any]) -> bool:
         return False
 
     filled = 0
-    sections = ("non_vie", "vie", "automobile", "sante", "risques_divers", "global")
+    # Updated to include "incendie" and "transport" technical branches
+    sections = ("non_vie", "vie", "automobile", "sante", "incendie", "transport", "risques_divers", "global")
     for section in sections:
         if section not in result or not isinstance(result[section], dict):
             continue

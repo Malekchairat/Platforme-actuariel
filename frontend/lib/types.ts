@@ -108,3 +108,9 @@ export interface TableRow {
   value: number;
   section: string;
 }
+
+export interface AnalysisResponse {
+  answer: string;
+  sql?: string;
+  explanation?: string;
+}
